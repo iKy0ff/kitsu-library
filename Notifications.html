@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>通知 · Notices · Kitsu Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=JetBrains+Mono:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('kitsuTheme')||'kraft');}catch(e){document.documentElement.setAttribute('data-theme','kraft');}</script>
+<!-- Notifications feed (written by scripts/notify.mjs). Empty until first sync. -->
+<script src="notifications.js"></script>
+<script>try{window.notificationsData=(typeof notificationsData!=='undefined')?notificationsData:(window.notificationsData||[]);}catch(e){window.notificationsData=window.notificationsData||[];}</script>
+<style>
+  :root, html[data-theme="kraft"]{ --paper:#e8e1cf; --paper-deep:#dcd3bb; --ink:#17140f; --ink-soft:#56503f; --ink-faint:#8a8270; --red:#ac3327; --red-deep:#7e2118; --gold:#a1791f; --good:#3f5f3a; --good-deep:#2a4327; --dot:rgba(23,20,15,0.09); }
+  html[data-theme="mono"]{ --paper:#f4f2ec; --paper-deep:#e6e2d6; --ink:#0a0a0a; --ink-soft:#333333; --ink-faint:#767267; --red:#c22323; --red-deep:#8c1414; --gold:#8a6d1a; --good:#2c6b28; --good-deep:#1c4419; --dot:rgba(10,10,10,0.08); }
+  html[data-theme="dark"]{ --paper:#1e1a16; --paper-deep:#29241f; --ink:#b8ab8f; --ink-soft:#8f8369; --ink-faint:#5f5646; --red:#d85f45; --red-deep:#f0805f; --gold:#c99a3e; --good:#7ec178; --good-deep:#98d890; --dot:rgba(184,171,143,0.12); }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: radial-gradient(circle at 1px 1px, var(--dot) 1px, transparent 0) 0 0/14px 14px, var(--paper); color: var(--ink); font-family: 'Zen Kaku Gothic New', sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: var(--red); text-decoration: none; }
+  ::selection { background: var(--red); color: var(--paper); }
+  ::-webkit-scrollbar { width: 12px; height: 12px; }
+  ::-webkit-scrollbar-thumb { background: var(--ink); border: 3px solid var(--paper); }
+  .btn { font-family:'JetBrains Mono',monospace; font-weight:700; font-size:12px; text-transform:uppercase; letter-spacing:.05em; color:var(--ink); background:transparent; border:2px solid var(--ink); padding:9px 14px; cursor:pointer; text-decoration:none; }
+  .btn:hover { background:var(--ink); color:var(--paper); }
+  .tab { font-family:'JetBrains Mono',monospace; font-weight:700; font-size:12px; text-transform:uppercase; letter-spacing:.05em; padding:9px 15px; cursor:pointer; border:2px solid var(--ink); margin-left:-2px; background:transparent; color:var(--ink-soft); }
+  .tab.active { background:var(--ink); color:var(--paper); }
+</style>
+</head>
+<body>
+<div style="max-width:900px;margin:0 auto;padding:44px 40px 90px;">
+
+  <header style="display:flex;justify-content:space-between;align-items:center;border-bottom:5px solid var(--ink);padding-bottom:18px;margin-bottom:26px;gap:20px;flex-wrap:wrap;">
+    <div style="display:flex;align-items:center;gap:16px;">
+      <a href="Library.html" class="btn" style="padding:9px 13px;">&larr; Library</a>
+      <h1 style="font-family:'Anton',sans-serif;font-weight:400;font-size:34px;letter-spacing:.01em;margin:0;line-height:.9;text-transform:uppercase;">Noti<span style="color:var(--red);">ces</span></h1>
+    </div>
+    <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-faint);letter-spacing:.06em;">通知 · <span id="unreadCount">0</span> UNREAD</span>
+  </header>
+
+  <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:26px;padding-bottom:20px;border-bottom:3px dashed var(--ink-faint);">
+    <div id="tabs" style="display:flex;gap:0;"></div>
+    <button id="markAll" class="btn" style="margin-left:auto;">&#10003; Mark all read</button>
+  </div>
+
+  <div id="list" style="display:flex;flex-direction:column;gap:14px;"></div>
+
+  <div style="margin-top:30px;background:var(--paper-deep);border:2px dashed var(--ink-faint);padding:16px 20px;font-family:'JetBrains Mono',monospace;font-size:11.5px;color:var(--ink-soft);line-height:1.6;">
+    &#9873; Status alerts (hiatus / cancelled / resumed / completed) are detected by diffing each series' <strong>mangabaka</strong> status between syncs. Chapter alerts come from your tracked sources. This feed populates after the sync workflow has run.
+  </div>
+</div>
+
+<script>
+"use strict";
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var DATA = Array.isArray(window.notificationsData) ? window.notificationsData : [];
+
+  var KINDS = {
+    hiatus:    { tag: 'Hiatus',       icon: '\u23F8', color: 'var(--gold)', group: 'status' },
+    cancelled: { tag: 'Cancelled',    icon: '\u2715', color: 'var(--red)',  group: 'status' },
+    resumed:   { tag: 'Resumed',      icon: '\u25B6', color: 'var(--good)', group: 'status' },
+    completed: { tag: 'Completed',    icon: '\u2713', color: 'var(--good)', group: 'status' },
+    chapters:  { tag: 'New chapters', icon: '\uFF0B', color: 'var(--ink)',  group: 'release' },
+    news:      { tag: 'News',         icon: '\u25C8', color: 'var(--gold)', group: 'release' },
+    status:    { tag: 'Status',       icon: '\u25C9', color: 'var(--ink-soft)', group: 'status' }
+  };
+
+  var readMap = {};
+  try { readMap = JSON.parse(localStorage.getItem('kitsuNotifRead') || '{}') || {}; } catch (e) { readMap = {}; }
+  var filter = 'all';
+
+  function persistRead() { try { localStorage.setItem('kitsuNotifRead', JSON.stringify(readMap)); } catch (e) {} }
+  function isRead(n) { return readMap[n.id] ? true : !n.unread; }
+
+  function renderTabs() {
+    var wrap = $('tabs'); wrap.innerHTML = '';
+    [['all', 'All'], ['status', 'Status'], ['release', 'Releases']].forEach(function (p) {
+      var b = document.createElement('button');
+      b.className = 'tab' + (filter === p[0] ? ' active' : '');
+      b.textContent = p[1];
+      b.onclick = function () { filter = p[0]; render(); };
+      wrap.appendChild(b);
+    });
+  }
+
+  function render() {
+    renderTabs();
+    var unread = DATA.filter(function (n) { return !isRead(n); }).length;
+    $('unreadCount').textContent = unread;
+
+    var items = DATA.filter(function (n) {
+      var k = KINDS[n.kind]; if (!k) return false;
+      return filter === 'all' || k.group === filter;
+    });
+
+    var list = $('list'); list.innerHTML = '';
+    if (!items.length) {
+      var empty = document.createElement('div');
+      empty.style.cssText = "font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--ink-faint);padding:40px 0;text-align:center;letter-spacing:.04em;";
+      empty.textContent = DATA.length ? "Nothing here — you're all caught up." : "No notices yet — they'll appear after the sync workflow runs.";
+      list.appendChild(empty);
+      return;
+    }
+
+    items.forEach(function (n) {
+      var k = KINDS[n.kind];
+      var un = !isRead(n);
+      var card = document.createElement('div');
+      card.style.cssText = 'display:flex;gap:16px;align-items:flex-start;padding:18px 20px;background:' + (un ? 'var(--paper-deep)' : 'var(--paper)') + ';border:2px solid var(--ink);box-shadow:' + (un ? '5px 5px 0 var(--ink)' : 'none') + ';cursor:pointer;';
+      card.onclick = function () { readMap[n.id] = true; persistRead(); render(); };
+
+      var icon = document.createElement('div');
+      icon.style.cssText = "width:42px;height:42px;flex-shrink:0;background:" + k.color + ";color:var(--paper);display:flex;align-items:center;justify-content:center;font-family:'JetBrains Mono',monospace;font-size:18px;font-weight:700;border:2px solid var(--ink);";
+      icon.textContent = k.icon;
+
+      var mid = document.createElement('div');
+      mid.style.cssText = 'flex:1;min-width:0;';
+      var head = document.createElement('div');
+      head.style.cssText = 'display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:4px;';
+      var tag = document.createElement('span');
+      tag.style.cssText = "font-family:'JetBrains Mono',monospace;font-size:9px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:3px 7px;color:" + k.color + ";border:1.5px solid " + k.color + ";";
+      tag.textContent = k.tag;
+      var title = document.createElement('span');
+      title.style.cssText = "font-family:'Zen Kaku Gothic New',sans-serif;font-weight:700;font-size:15px;";
+      title.textContent = n.title;
+      head.appendChild(tag); head.appendChild(title);
+      var text = document.createElement('div');
+      text.style.cssText = "font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--ink-soft);line-height:1.5;";
+      text.textContent = n.text;
+      mid.appendChild(head); mid.appendChild(text);
+
+      var right = document.createElement('div');
+      right.style.cssText = 'display:flex;flex-direction:column;align-items:flex-end;gap:8px;flex-shrink:0;';
+      var time = document.createElement('span');
+      time.style.cssText = "font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-faint);white-space:nowrap;";
+      time.textContent = n.time || '';
+      var dot = document.createElement('span');
+      dot.style.cssText = 'width:10px;height:10px;border-radius:50%;background:' + (un ? 'var(--red)' : 'transparent') + ';border:' + (un ? 'none' : '1.5px solid var(--ink-faint)') + ';';
+      right.appendChild(time); right.appendChild(dot);
+
+      card.appendChild(icon); card.appendChild(mid); card.appendChild(right);
+      list.appendChild(card);
+    });
+  }
+
+  $('markAll').onclick = function () { DATA.forEach(function (n) { readMap[n.id] = true; }); persistRead(); render(); };
+
+  render();
+})();
+</script>
+</body>
+</html>

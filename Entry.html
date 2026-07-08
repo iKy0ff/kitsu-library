@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Entry · Kitsu Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=JetBrains+Mono:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('kitsuTheme')||'kraft');}catch(e){document.documentElement.setAttribute('data-theme','kraft');}</script>
+<script src="library.js"></script>
+<script>try{window.libraryData=(typeof libraryData!=='undefined')?libraryData:(window.libraryData||[]);}catch(e){window.libraryData=window.libraryData||[];}</script>
+<style>
+  :root, html[data-theme="kraft"]{ --paper:#e8e1cf; --paper-deep:#dcd3bb; --ink:#17140f; --ink-soft:#56503f; --ink-faint:#8a8270; --red:#ac3327; --red-deep:#7e2118; --gold:#a1791f; --good:#3f5f3a; --good-deep:#2a4327; --dot:rgba(23,20,15,0.09); }
+  html[data-theme="mono"]{ --paper:#f4f2ec; --paper-deep:#e6e2d6; --ink:#0a0a0a; --ink-soft:#333333; --ink-faint:#767267; --red:#c22323; --red-deep:#8c1414; --gold:#8a6d1a; --good:#2c6b28; --good-deep:#1c4419; --dot:rgba(10,10,10,0.08); }
+  html[data-theme="dark"]{ --paper:#1e1a16; --paper-deep:#29241f; --ink:#b8ab8f; --ink-soft:#8f8369; --ink-faint:#5f5646; --red:#d85f45; --red-deep:#f0805f; --gold:#c99a3e; --good:#7ec178; --good-deep:#98d890; --dot:rgba(184,171,143,0.12); }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: radial-gradient(circle at 1px 1px, var(--dot) 1px, transparent 0) 0 0/14px 14px, var(--paper); color: var(--ink); font-family: 'Zen Kaku Gothic New', sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: var(--red); text-decoration: none; }
+  ::selection { background: var(--red); color: var(--paper); }
+  ::-webkit-scrollbar { width: 12px; height: 12px; }
+  ::-webkit-scrollbar-thumb { background: var(--ink); border: 3px solid var(--paper); }
+  .btn { font-family:'JetBrains Mono',monospace; font-weight:700; font-size:12px; text-transform:uppercase; letter-spacing:.05em; color:var(--ink); background:transparent; border:2px solid var(--ink); padding:9px 13px; cursor:pointer; text-decoration:none; }
+  .btn:hover { background:var(--ink); color:var(--paper); }
+  .card { background:var(--paper-deep); border:3px solid var(--ink); box-shadow:7px 7px 0 var(--ink); padding:24px; margin-bottom:22px; }
+  .eyebrow { font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:14px; display:flex; align-items:center; gap:8px; }
+  .eyebrow::before { content:""; width:8px; height:8px; background:var(--red); display:inline-block; }
+  .pending { font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--ink-faint); line-height:1.6; }
+  .cover-img { width:100%; height:100%; object-fit:cover; display:block; }
+</style>
+</head>
+<body>
+<div style="max-width:1000px;margin:0 auto;padding:44px 40px 90px;">
+
+  <header style="display:flex;justify-content:space-between;align-items:center;border-bottom:5px solid var(--ink);padding-bottom:18px;margin-bottom:30px;gap:20px;flex-wrap:wrap;">
+    <div style="display:flex;align-items:center;gap:16px;">
+      <a href="Library.html" class="btn">&larr; Library</a>
+      <h1 style="font-family:'Anton',sans-serif;font-weight:400;font-size:34px;letter-spacing:.01em;margin:0;line-height:.9;text-transform:uppercase;">En<span style="color:var(--red);">try</span></h1>
+    </div>
+    <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-faint);letter-spacing:.06em;">作品 · DETAIL</span>
+  </header>
+
+  <div id="root"></div>
+</div>
+
+<script>
+"use strict";
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var esc = function (s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); };
+  var params = new URLSearchParams(location.search);
+  var wantId = params.get("id") || "";
+  var LIB = Array.isArray(window.libraryData) ? window.libraryData : [];
+  var idOf = function (m) { return String(m.kitsuId || m.slug || m.title || ""); };
+  var entry = LIB.find(function (m) { return idOf(m) === wantId; });
+  var statusColor = { "Reading": "var(--red)", "Completed": "var(--good)", "On Hold": "var(--gold)", "Plan to Read": "var(--ink-faint)", "Dropped": "#6f6656" };
+
+  if (!entry) {
+    $("root").innerHTML = '<div class="card"><div class="eyebrow">Not found</div><div class="pending">No entry matches this link. It may not have synced yet — head back to the <a href="Library.html">Library</a>.</div></div>';
+    return;
+  }
+
+  var read = Number(entry.read) || 0, total = Number(entry.total) || 0;
+  var pct = total ? Math.round((read / total) * 100) : 0;
+  var sc = statusColor[entry.status] || "var(--ink-faint)";
+  var cover = entry.cover
+    ? '<img class="cover-img" src="' + esc(entry.cover) + '" alt="">'
+    : '<div style="position:absolute;inset:0;background:oklch(0.5 0.07 ' + (entry.hue || 30) + ');display:flex;align-items:center;justify-content:center;font-family:\'Anton\',sans-serif;font-size:40px;color:rgba(232,225,207,.9);">' + esc((entry.title || "?").slice(0, 2).toUpperCase()) + '</div>';
+
+  // header block (cover + meta) — no Follow button
+  var head =
+    '<div style="display:flex;gap:26px;flex-wrap:wrap;align-items:flex-start;margin-bottom:26px;">' +
+      '<div style="width:190px;flex-shrink:0;">' +
+        '<div style="position:relative;aspect-ratio:2/3;border:3px solid var(--ink);box-shadow:6px 6px 0 var(--ink);overflow:hidden;">' + cover + '</div>' +
+      '</div>' +
+      '<div style="flex:1;min-width:240px;">' +
+        '<h2 style="font-family:\'Anton\',sans-serif;font-weight:400;font-size:30px;margin:0 0 8px;line-height:1.05;">' + esc(entry.title) + '</h2>' +
+        '<div id="metaLine" style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:var(--ink-faint);margin-bottom:16px;">' + esc(entry.author || "author pending") + ' &middot; ' + esc(entry.year || "—") + (entry.subtype ? ' &middot; ' + esc(entry.subtype) : '') + '</div>' +
+        '<div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:18px;">' +
+          '<span style="font-family:\'JetBrains Mono\',monospace;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:5px 10px;color:' + sc + ';background:var(--paper);border:1.5px solid ' + sc + ';">' + esc(entry.status || "—") + '</span>' +
+          (entry.mangabakaStatus ? '<span style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:var(--ink-soft);">pub: <strong>' + esc(entry.mangabakaStatus) + '</strong></span>' : '') +
+          (entry.score != null ? '<span style="font-family:\'JetBrains Mono\',monospace;font-size:13px;color:var(--gold);font-weight:700;">\u2605 ' + esc(entry.score) + '</span>' : '') +
+          (entry.url ? '<a href="' + esc(entry.url) + '" target="_blank" style="font-family:\'JetBrains Mono\',monospace;font-size:11px;">Kitsu \u2197</a>' : '') +
+        '</div>' +
+        '<div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:var(--ink-soft);margin-bottom:6px;">Progress &nbsp; <strong>' + read + ' / ' + (total || "?") + '</strong> chapters &nbsp;·&nbsp; ' + pct + '%</div>' +
+        '<div style="height:14px;background:var(--paper);border:2px solid var(--ink);overflow:hidden;max-width:340px;"><div style="width:' + pct + '%;height:100%;background:repeating-linear-gradient(115deg,' + sc + ' 0 7px,var(--red-deep) 7px 14px);"></div></div>' +
+      '</div>' +
+    '</div>';
+
+  $("root").innerHTML = head +
+    section('synopsis', 'Synopsis', pending('Loading…')) +
+    section('tags', 'Genres &amp; tags', pending('Loading…')) +
+    section('chapters', 'Chapters', pending('Loading…')) +
+    section('news', 'News', pending('Loading…'));
+
+  function section(id, title, body) { return '<div class="card"><div class="eyebrow">' + title + '</div><div id="sec-' + id + '">' + body + '</div></div>'; }
+  function pending(t) { return '<div class="pending">\u29BF ' + t + '</div>'; }
+  function setSec(id, html) { var el = $("sec-" + id); if (el) el.innerHTML = html; }
+
+  // weight -> chip styling (core = bold/solid ... incidental = small/faint)
+  function tagChip(t) {
+    var w = String(t.weight || 'unweighted').toLowerCase();
+    var base = 'display:inline-block;font-family:\'JetBrains Mono\',monospace;border:2px solid var(--ink);margin:0 6px 6px 0;';
+    if (w === 'core') base += 'background:var(--ink);color:var(--paper);font-weight:700;font-size:12px;padding:6px 11px;';
+    else if (w === 'defining') base += 'background:var(--paper);color:var(--ink);font-weight:700;font-size:11.5px;padding:5px 10px;';
+    else if (w === 'recurrent') base += 'background:transparent;color:var(--ink-soft);font-size:11px;padding:4px 9px;';
+    else base += 'background:transparent;color:var(--ink-faint);border-color:var(--ink-faint);font-size:10px;padding:3px 8px;';
+    return '<span style="' + base + '" title="' + esc(w) + '">' + esc(t.name) + '</span>';
+  }
+
+  function renderEnrichment(d) {
+    // Synopsis
+    setSec('synopsis', d.synopsis ? '<div style="font-size:14px;line-height:1.7;color:var(--ink);">' + esc(d.synopsis) + '</div>'
+      : pending('No description from mangabaka for this title.'));
+
+    // Genres + weighted/grouped tags
+    var html = '';
+    if (d.genres && d.genres.length) {
+      html += '<div style="margin-bottom:16px;"><div style="font-family:\'JetBrains Mono\',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:8px;">Genres</div>' +
+        d.genres.map(function (g) { return tagChip({ name: g, weight: 'defining' }); }).join('') + '</div>';
+    }
+    if (d.tags && d.tags.length) {
+      var groups = {};
+      d.tags.forEach(function (t) { (groups[t.group] = groups[t.group] || []).push(t); });
+      var order = ['Genre', 'Themes', 'Setting', 'Settings', 'Format', 'Content Warning', 'Demographic', 'Audience Demographics', 'Tag'];
+      var keys = Object.keys(groups).sort(function (a, b) { var ia = order.indexOf(a), ib = order.indexOf(b); return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib); });
+      keys.forEach(function (g) {
+        // weight order within a group
+        var wr = { core: 0, defining: 1, recurrent: 2, incidental: 3, unweighted: 4 };
+        groups[g].sort(function (a, b) { return (wr[String(a.weight).toLowerCase()] ?? 5) - (wr[String(b.weight).toLowerCase()] ?? 5); });
+        html += '<div style="margin-bottom:14px;"><div style="font-family:\'JetBrains Mono\',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:8px;">' + esc(g) + '</div>' +
+          groups[g].map(tagChip).join('') + '</div>';
+      });
+      html += '<div class="pending" style="margin-top:6px;">Chip size/weight reflects mangabaka tag weight: core &rsaquo; defining &rsaquo; recurrent &rsaquo; incidental.</div>';
+    }
+    setSec('tags', html || pending('No genres/tags from mangabaka for this title.'));
+
+    // Chapters
+    if (d.chapters && d.chapters.length) {
+      var rows = d.chapters.slice(0, 400).map(function (c) {
+        var dt = c.date ? new Date(c.date) : null;
+        var ds = dt && !isNaN(dt) ? dt.toLocaleDateString('en-GB') : '';
+        return '<div style="display:flex;justify-content:space-between;gap:12px;padding:8px 10px;border-top:1px solid #c7bb9f;font-family:\'JetBrains Mono\',monospace;font-size:12px;">' +
+          '<span><strong>Ch. ' + esc(c.num) + '</strong>' + (c.title ? ' <span style="color:var(--ink-soft);">' + esc(c.title) + '</span>' : '') + '</span>' +
+          '<span style="color:var(--ink-faint);white-space:nowrap;">' + esc(ds) + '</span></div>';
+      }).join('');
+      setSec('chapters', '<div style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:var(--ink-faint);margin-bottom:6px;">' + d.chapters.length + ' English chapters (comick)</div>' +
+        '<div style="max-height:420px;overflow:auto;border:2px solid var(--ink);">' + rows + '</div>');
+    } else {
+      setSec('chapters', pending('No comick chapter list matched for this title.'));
+    }
+
+    // News
+    if (d.news && d.news.length) {
+      var items = d.news.slice(0, 15).map(function (n) {
+        var dt = n.date ? new Date(n.date) : null;
+        var ds = dt && !isNaN(dt) ? dt.toLocaleDateString('en-GB') : '';
+        var t = esc(n.title || 'Untitled');
+        return '<div style="padding:9px 0;border-top:1px solid #c7bb9f;font-family:\'JetBrains Mono\',monospace;font-size:12px;">' +
+          (n.url ? '<a href="' + esc(n.url) + '" target="_blank">' + t + '</a>' : t) +
+          (ds ? ' <span style="color:var(--ink-faint);">· ' + esc(ds) + '</span>' : '') + '</div>';
+      }).join('');
+      setSec('news', items);
+    } else {
+      setSec('news', pending('No mangabaka news for this title.'));
+    }
+  }
+
+  // Fetch per-title enrichment (same-origin, written by scripts/enrich.mjs)
+  fetch('entries/' + encodeURIComponent(idOf(entry)) + '.json', { cache: 'no-store' })
+    .then(function (r) { if (!r.ok) throw new Error('not yet enriched'); return r.json(); })
+    .then(renderEnrichment)
+    .catch(function () {
+      var msg = pending('This title hasn\u2019t been enriched yet. The enrichment sync fills in synopsis, genres/tags, chapters, and news over its next runs.');
+      setSec('synopsis', msg); setSec('tags', msg); setSec('chapters', msg); setSec('news', msg);
+    });
+})();
+</script>
+</body>
+</html>
