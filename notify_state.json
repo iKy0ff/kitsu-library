@@ -1,0 +1,1910 @@
+{
+  "titles": {
+    "38": {
+      "title": "One Piece",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "9964": {
+      "title": "Oyasumi Punpun",
+      "status": "Plan to Read",
+      "newsCount": 0
+    },
+    "21620": {
+      "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "22352": {
+      "title": "Horimiya",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "24147": {
+      "title": "One Punch-Man",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "25426": {
+      "title": "Re:Monster",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "25436": {
+      "title": "Tower of God",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "25931": {
+      "title": "Shoujo Shuumatsu Ryokou",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "26193": {
+      "title": "The Gamer",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "26906": {
+      "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "26970": {
+      "title": "The New Gate",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "35880": {
+      "title": "The God of High School",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "37173": {
+      "title": "Kumo desu ga, Nani ka?",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "37180": {
+      "title": "Peach Boy Riverside",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "37583": {
+      "title": "Koushaku Reijou no Tashinami",
+      "status": "Plan to Read",
+      "newsCount": 0
+    },
+    "38021": {
+      "title": "Maoujou de Oyasumi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "38359": {
+      "title": "unOrdinary",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "38865": {
+      "title": "Tongari Boushi no Atelier",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "39044": {
+      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "39104": {
+      "title": "Tondemo Skill de Isekai Hourou Meshi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "39113": {
+      "title": "Tensei shitara Ken deshita",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "39114": {
+      "title": "Kenja no Mago",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "39537": {
+      "title": "I Love Yoo",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "39695": {
+      "title": "Kenja no Deshi wo Nanoru Kenja The Comic",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "39879": {
+      "title": "Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40179": {
+      "title": "Winter Moon",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40268": {
+      "title": "Isekai Nonbiri Nouka",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40394": {
+      "title": "Nozomanu Fushi no Boukensha",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40521": {
+      "title": "Kuro no Shoukanshi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40794": {
+      "title": "Potion-danomi de Ikinobimasu!",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "40806": {
+      "title": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40815": {
+      "title": "Jujutsu Kaisen",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40840": {
+      "title": "Kuma Kuma Kuma Bear",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40881": {
+      "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "40912": {
+      "title": "LUMINE",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "41291": {
+      "title": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "53937": {
+      "title": "Yuusha Goikkou no Kaerimichi",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "54040": {
+      "title": "Nihonkoku Shoukan",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54060": {
+      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54062": {
+      "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54063": {
+      "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54085": {
+      "title": "Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "54114": {
+      "title": "Solo Leveling",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "54167": {
+      "title": "Tono no Kanri o Shite Miyou",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54238": {
+      "title": "Kage no Jitsuryokusha ni Naritakute",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54334": {
+      "title": "The Ghostly Doctor",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54353": {
+      "title": "Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54469": {
+      "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54543": {
+      "title": "Jitsu wa Ore, Saikyou deshita?",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54562": {
+      "title": "Chronicles of Heavenly Demon",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54567": {
+      "title": "Sekai Saikyou no Assassin, Isekai Kizoku ni Tensei suru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54597": {
+      "title": "The Beginning After the End",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54688": {
+      "title": "Eleceed",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54690": {
+      "title": "Ranker Who Lives A Second Time",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54758": {
+      "title": "This Witch of Mine",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54844": {
+      "title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "54984": {
+      "title": "Samayoeru Tensei-sha-tachi no Revival Game",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "55033": {
+      "title": "29-sai Dokushin wa Isekai de Jiyuu ni Ikita……katta",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "55047": {
+      "title": "Isekai Kaeri no Yuusha ga Gendai Saikyou! Inou Battle-kei Bishoujo o Bishibashi Choukyou Suru Koto ni!?",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "55057": {
+      "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "55099": {
+      "title": "Yofukashi no Uta",
+      "status": "Plan to Read",
+      "newsCount": 0
+    },
+    "55259": {
+      "title": "The Boy of Death",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "55550": {
+      "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "55900": {
+      "title": "Mo Huang Da Guanjia",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56036": {
+      "title": "The Demon King Who Lost His Job",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56077": {
+      "title": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56108": {
+      "title": "Auto Hunting",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "56186": {
+      "title": "Akuyaku Reijou Level 99 ~Watashi wa UraBoss desuga Maou dewa Arimasen~",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56199": {
+      "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56244": {
+      "title": "God Of Blackfield",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56270": {
+      "title": "The Great Mage Returns After 4000 Years",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56313": {
+      "title": "Eiyuu no Musume toshite Umarekawatta Eiyuu wa Futatabi Eiyuu wo Mezasu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56355": {
+      "title": "Sousou no Frieren",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56385": {
+      "title": "Rekishi ni Nokoru Akujo ni naru zo: Akuyaku Reijou ni naru hodo Ouji no Dekiai wa Kasoku suru you desu!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56448": {
+      "title": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56452": {
+      "title": "Omniscient Reader's Point of View",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56500": {
+      "title": "Tutorial Tabui Goinmul",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56632": {
+      "title": "The Legend of the Northern Blade",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56704": {
+      "title": "Player",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "56757": {
+      "title": "The Horizon",
+      "status": "Plan to Read",
+      "newsCount": 0
+    },
+    "57203": {
+      "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57228": {
+      "title": "Viral Hit",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57257": {
+      "title": "Negai wo Kanaete Moraou to Akuma wo Shoukan Shita Kedo, Kawaikatta Node Kekkon Shimashita: Akuma no Niizuma",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57307": {
+      "title": "1 Second",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57391": {
+      "title": "Watashi no Oshi wa Akuyaku Reijou.",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57395": {
+      "title": "Mofumofu to Isekai Slow Life wo Mezashimasu!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57441": {
+      "title": "Quanzhi Gaoshou",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57618": {
+      "title": "Nano Mashin",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57676": {
+      "title": "The Young Lady Is a Royal Chef",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57703": {
+      "title": "Craft Game no Nouryoku de Isekai Kouryaku!!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57806": {
+      "title": "Reardale no Daichi nite",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "57901": {
+      "title": "Manleb Yeong-ungnim Kkeseo Gwihwan Hasinda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58010": {
+      "title": "Iphagyongbyeong",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58053": {
+      "title": "Isekai Ten'ishita Node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58185": {
+      "title": "Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58187": {
+      "title": "Limit Breaker",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58485": {
+      "title": "SSS-Class Revival Hunter",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58530": {
+      "title": "It Starts With a Kingpin Account",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58543": {
+      "title": "Kajiya de Hajimeru Isekai Slow Life",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58825": {
+      "title": "Neko no Inai Isekai ni Neko ga Tensei Shichatta Ohanashi",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "58886": {
+      "title": "The Player That Can't Level Up",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "58920": {
+      "title": "Master Villainess the Invincible!",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "58967": {
+      "title": "Dungeons & Artifacts",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59169": {
+      "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59179": {
+      "title": "Doctor's Rebirth",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59180": {
+      "title": "The Lady Wants to Rest",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59220": {
+      "title": "Jungle Juice",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59292": {
+      "title": "The Grand Mudang Saga",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59357": {
+      "title": "Villain to Kill",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59370": {
+      "title": "Jian Ge Xiaohua Zuo Laopo",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59455": {
+      "title": "Hwasangwihwan",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59586": {
+      "title": "Tanaka-ke, Tensei suru.",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59750": {
+      "title": "Reformation of the Deadbeat Noble",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59773": {
+      "title": "The Warrior Returns",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59821": {
+      "title": "Seoul Station Druid",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "59858": {
+      "title": "Itsudemo Jitaku ni Kaerareru Ore wa, Isekai de Gyoushounin wo Hajimemashita",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60003": {
+      "title": "Shinjiteita Nakamatachi ni Dungeon Ouchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60153": {
+      "title": "Hero Killer",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60196": {
+      "title": "Tusinjeonsaenggi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60262": {
+      "title": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60513": {
+      "title": "The Dark Magician Transmigrates After 66666 Years",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60556": {
+      "title": "Wo Neng Fu Zhi Tian Fu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60579": {
+      "title": "Bildeueop",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60628": {
+      "title": "Solo Max-Level Newbie",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60679": {
+      "title": "Neta Character Tensei toka Anmari da! The Comic",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60747": {
+      "title": "Samadhi",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "60839": {
+      "title": "Namjuui Ibyangttari Doeeotseumnida",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "60854": {
+      "title": "The Greatest Estate Developer",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "60873": {
+      "title": "Return of the Mad Demon",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61302": {
+      "title": "Wo Zhen Bushi Xie Shen Zougou",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61322": {
+      "title": "Pathfinder",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61348": {
+      "title": "Sierra",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61403": {
+      "title": "Tensei Shite High Elf ni Narimashita ga, Slow Life wa 120-nen de Akimashita",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61495": {
+      "title": "Mezase Gouka Kyakusen!!: Fune Shoukan Skill de Isekai Rich Life wo Te ni Ireru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61562": {
+      "title": "Reality Quest",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61657": {
+      "title": "Nae Ga Kiun S Geub Deul",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61782": {
+      "title": "Choinui Sidae",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61826": {
+      "title": "Akdangi Saraganeun Beop",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "61885": {
+      "title": "Choegangbukae",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61963": {
+      "title": "Wo! Tian Mìng Da Fanpai",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "61981": {
+      "title": "Jaeanggeum Yeongungnimi Gwihwanhasyeotda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62052": {
+      "title": "Gwiryeongwang",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62168": {
+      "title": "Michin Hujageul Gildeurigo Maratda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62185": {
+      "title": "All Rounder",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62310": {
+      "title": "Iltagangsa Baeksabu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62467": {
+      "title": "Dark Moon: The Blood Altar",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62522": {
+      "title": "Myeolmang Ihuui Segye",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62523": {
+      "title": "Quest Jisangjuui",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62525": {
+      "title": "100",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "62690": {
+      "title": "The Final Raid Boss",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62745": {
+      "title": "Ruri Dragon",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "62805": {
+      "title": "Hujakgaui Yeokdaegeup Mangnaeadeul",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62861": {
+      "title": "Jamman Jado Ranker",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "62872": {
+      "title": "Usuzumi no Hate",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63010": {
+      "title": "Binguijareul Wihan Teukye",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63153": {
+      "title": "Kaoru Hana wa Rin to Saku",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63232": {
+      "title": "Kininatteru Hito ga Otoko ja Nakatta",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63346": {
+      "title": "Savage Fang Ojou-sama Shijou Saikyou no Youhei wa Shijou Saikyou no Bougyaku Reijou to Natte Nidome no Sekai wo Musou Suru",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "63410": {
+      "title": "Kill The Dragon",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63447": {
+      "title": "Neoui Aiga Aniya",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63482": {
+      "title": "Eternal Force",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63600": {
+      "title": "99ganghwanamumongdungi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63638": {
+      "title": "Ruri Dragon",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63665": {
+      "title": "X Ash",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63668": {
+      "title": "Musingwihwallok",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63689": {
+      "title": "Phone Addict",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63709": {
+      "title": "Arafo Otoko no Isekai Tsuuhan Seikatsu",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "63710": {
+      "title": "Bireomeogeul Hwansaeng",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63730": {
+      "title": "Sinhwageup Gwisok Item-eul Sone Neoeotda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63747": {
+      "title": "Wo Jia Laopo Lai Zi Yiqian Nian Qian",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "63842": {
+      "title": "Kare Chwihan Bameul Geotda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63925": {
+      "title": "Jeoldaegeomgam",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63976": {
+      "title": "Igyejinip Reloaded",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "63977": {
+      "title": "Man Nyeon Mane Gwihwanhan Player",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64051": {
+      "title": "Sasinpyowol",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64076": {
+      "title": "Hwangjegung Yeop Maronie Nongjang",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64093": {
+      "title": "Myoryeongui Hwangja",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64282": {
+      "title": "Tensei Babaa wa Misugosenai!: Moto Akutoku Jotei no Nishuume Life",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64308": {
+      "title": "Pyegeubin Cheokaetdeon Hakgyosaenghwal",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64319": {
+      "title": "Hwansaengui Jeongseok",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64457": {
+      "title": "Helmut (Kim Nan Sae)",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64555": {
+      "title": "Iljindamdangiljin",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64680": {
+      "title": "Destiny Unchain Online: Kyuuketsuki Shoujo to Natte, Yagate \"Aka no Maou\" to Yobareru You ni Narimashita",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64755": {
+      "title": "Dungeon Odyssey",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64851": {
+      "title": "Sunjeong Villain",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "64878": {
+      "title": "Majutsushi Kunon wa Miete Iru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "64980": {
+      "title": "Hoegwihan Cheonjae Hunter-ui Seulgiroun Cheongsosaenghwal",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65005": {
+      "title": "Dingji Qiyun, Qiaoqiao Xiulian Qian Nian",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65022": {
+      "title": "Hoegwiro Chowolhaneun Daemadosa",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65027": {
+      "title": "Mabeobmyeongga Maknaeadeul",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65029": {
+      "title": "Bunsineuro Jadongsanyang",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65165": {
+      "title": "Gucheongugeom",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "65424": {
+      "title": "Tsue to Tsurugi no Wistoria",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65459": {
+      "title": "Yongsagogyo Deonjeongongryakgwa",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65541": {
+      "title": "Jeo Geureon Injae Animnida",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65573": {
+      "title": "Akdang Gongjakgaui Silse Mangnaettarimnida",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65635": {
+      "title": "Boundless Necromancer",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65717": {
+      "title": "Muhanui Mabeopsa",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65728": {
+      "title": "Pick Me Up!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65740": {
+      "title": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65753": {
+      "title": "Hikikomari Kyuuketsuki no Monmon",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "65812": {
+      "title": "Sigrid",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66132": {
+      "title": "Serial Killer Isekai ni Oritatsu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66267": {
+      "title": "Wo Mei Zhou Suiji Yi Ge Xin Zhiye",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66343": {
+      "title": "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66445": {
+      "title": "Eiyuu to Kenja no Tenseikon: Katsute no Koutekishu to Konyaku shite Saikyou Fuufu ni Narimashita",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66505": {
+      "title": "Chao Shen Chong Shou Dian",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66535": {
+      "title": "Gao Wu: Denglu Weilai Yi Wan Nian",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66635": {
+      "title": "The Constellations Are My Disciples",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66779": {
+      "title": "Madojeonsaenggi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "66874": {
+      "title": "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67023": {
+      "title": "Jiang Si Xiansheng",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67024": {
+      "title": "Cong Da Shu Kaishi De Jinhua",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67028": {
+      "title": "Maryoku 9999 Man - Zen Zokusei Tsukai no Dai Kenja",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67038": {
+      "title": "Wo Bei Kun Zai Tong Yi Tian Yi Qian Nian",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67137": {
+      "title": "Sihanbu Cheonjae Amheukgisa",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67385": {
+      "title": "I'm Being Raised by Villains",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67611": {
+      "title": "Player-ga Gwageoreul Sumgim",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67764": {
+      "title": "Cleric of Decay",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67850": {
+      "title": "Kami Chi no Kyuuseishu: 0.00000001% wo Hikiate Saikyou e",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67869": {
+      "title": "Tensei Shitara SSS-Kyuu Goblin ni Narimashita",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "67911": {
+      "title": "Wu Nao Monü",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "68108": {
+      "title": "Skill-ppallo Level Up",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "68285": {
+      "title": "Wo, Jinhua, Emo",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "68296": {
+      "title": "2 Level Hoegwihan Musin",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "68435": {
+      "title": "Ryū o kurau majutsu-shi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "68568": {
+      "title": "Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "68677": {
+      "title": "Yuusha to Yobareta Ato ni: Soshite Musou Otoko wa Kazoku wo Tsukuru",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "68690": {
+      "title": "Buchikire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "68710": {
+      "title": "Siling Fashi! Wo Ji Shi Tianzai",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "68921": {
+      "title": "The Terminally Ill Young Master of the Baek Clan",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "68985": {
+      "title": "Hwansaenghan Amsaljaneun Geomsul Cheonjae",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "69298": {
+      "title": "Insanely Talented Player",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "69512": {
+      "title": "I Became an Evolving Space Monster",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "69516": {
+      "title": "Star-Embracing Swordmaster",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "69555": {
+      "title": "Isekai Samurai",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "69729": {
+      "title": "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "70082": {
+      "title": "Yongzhe X Nümowang",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "70244": {
+      "title": "Wangui Himeuro Hoegwihanda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "70245": {
+      "title": "Delivery Man From Murim",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "70433": {
+      "title": "Quan Qiu Bing Feng: Wo Dazaole Mori Anquan Wu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "70480": {
+      "title": "I Killed an Academy Player",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "70557": {
+      "title": "Saikyou Ansatsusha, Class Ten'i de Isekai e",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "70560": {
+      "title": "Necromancer Hakgyoui Sohwancheonjae",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "70681": {
+      "title": "The Extra's Academy Survival Guide",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "70696": {
+      "title": "Boss Mopdapge Haengdonghaseyo, Swallow Ssi!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71117": {
+      "title": "Wo You Jiuqianwan-yi Tian Gou Jin",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "71170": {
+      "title": "the golden experience point",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71210": {
+      "title": "SSS Ji Chaoyue Changli De Sheng Qishi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71313": {
+      "title": "Eoneu Mabeopsaui Sikdang",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71365": {
+      "title": "Henkyou no Kusushi, Miyako de S Rank Boukensha to Naru: Eiyuu-mura no Shounen ga Cheat Yaku de Mujikaku Musou",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71388": {
+      "title": "Fortune-Telling Lady",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71406": {
+      "title": "S-geup Hunter-neun Agyeok Gongnyeoga Doegi Silseumnida",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71426": {
+      "title": "Goeryeok Nansin",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71457": {
+      "title": "Nampyeonui Maldaero Jeongbureul Deullyeotda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71505": {
+      "title": "The Indomitable Martial King",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71544": {
+      "title": "Hunter Academy's Strongest Battle God",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71659": {
+      "title": "Reincarnation of the Hero Party Archmage",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71712": {
+      "title": "Myeolmanghan Gamunui Hoegwija",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71725": {
+      "title": "Chong Zu Zhuzai, Wo Wan de Jiushi Tianzai",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71733": {
+      "title": "I Got The Weakest Class, Dragon Tamer!?",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71743": {
+      "title": "Potion-danomi de Ikinobimasu! Zoku",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71781": {
+      "title": "How to Survive as a Time-Limited Dragon",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71873": {
+      "title": "Return of the Genius Player",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "71943": {
+      "title": "A Guide to the Right Life for Rankers",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72021": {
+      "title": "Mo Ri Hen Ren: Kaiju Tunji Wan Yi Wuzi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72097": {
+      "title": "Nengan no Akuyaku Reijou (Last Boss) no Karada wo Te ni Ireta zo!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72112": {
+      "title": "Myeolmanghan Segyeui Chwisabyeong",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72116": {
+      "title": "Wo Kao Jian Lese Shang Wangzhe",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72166": {
+      "title": "Quick Teleporting Genius from Magic School",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72413": {
+      "title": "The Hero Became the Duke's Eldest Son",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "72463": {
+      "title": "Sonyeonbeopchik",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72464": {
+      "title": "I Became the Level 999 Demon King",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "72544": {
+      "title": "Na Honjaman Level Up: Ragnarok",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72603": {
+      "title": "Jeoldae Hoegwi",
+      "status": "Plan to Read",
+      "newsCount": 0
+    },
+    "72724": {
+      "title": "Solo Resurrection",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72726": {
+      "title": "Cheonhajeirinui Sokkupchingu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72733": {
+      "title": "Nekomimi Shoujo wa Mori de Slow Life wo Okuritai: Mofumofu wa Shomou Shimashita ga, Seijo to ka Ouji-sama to ka wa Chuumongai desu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72864": {
+      "title": "Chewing the Academy With a Single Piece of Sashimi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "72926": {
+      "title": "Madan no Ichi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73011": {
+      "title": "Saikyou de Saisoku no Mugen Level Up: Skill [Keikenchi 1000-bai] to [Level Free] de Level Jougen no Kase ga Hazureta Ore wa Musou suru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73020": {
+      "title": "The Academy's Genius Tamer",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73021": {
+      "title": "Hiding a Logistics Center in the Apocalypse",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73088": {
+      "title": "Hoegwihan Yongbyeongeun Da Gyehoegi Itda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73157": {
+      "title": "Sihanbu Cheonjaega Saranamneun Beop",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73176": {
+      "title": "Myeongga-ui Yeokdaegeup Jaeneung Cheonjae-ro Hwansaenghaetda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73207": {
+      "title": "Lord Of Destiny Wheel",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73212": {
+      "title": "Regressing as the Reincarnated Bastard of the Sword Clan",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73213": {
+      "title": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73230": {
+      "title": "Nae Bunsini Geomuri Doeeoganda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73231": {
+      "title": "Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73327": {
+      "title": "Watashi no Kokoro wa Ojisan de Aru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73329": {
+      "title": "Meccha Shoukan Sareta Ken (Tsugutoku)",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73351": {
+      "title": "Wo Qiyue Le Wo Ziji",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73353": {
+      "title": "A Barbarian Was Admitted to the Academy",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "73456": {
+      "title": "The Reincarnation of the Great Mage in Myth",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73458": {
+      "title": "Taida na Akujoku Kizoku ni Tensei Shita Ore, Scenario wo Bukkowa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73481": {
+      "title": "Return of the Sword God-Rank Civil Servant",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73485": {
+      "title": "Entomologist in Sichuan Tang Clan",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73521": {
+      "title": "Do You Need Salvation?",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73626": {
+      "title": "Dao of the Bizarre Immortal",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73671": {
+      "title": "Isekai de Mizu no Dai Seirei Yattemasu.",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73760": {
+      "title": "Chronicles of the Reincarnated Demon God",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73800": {
+      "title": "A Dragonslayer's Peerless Regression",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73836": {
+      "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Kareinaru Musouroku",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "73931": {
+      "title": "Jeonseolgeup Yeongungeun Academy Udeungsaeng",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74066": {
+      "title": "I'm Going to Wipe Out This Country",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74108": {
+      "title": "Senki Survival Saga: Isekai no Unmei wo Kaketa Mujintou Fujun Isei Kouyuu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74113": {
+      "title": "The Genius Magician who Sees the Rainbow",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74154": {
+      "title": "Gongmuwon Hunter S-geup Toesailji",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74281": {
+      "title": "I Died 999,999 Times: Unlimited Level-Up with My Immortality Skill",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "74339": {
+      "title": "Man Ji Chuanyue De Wo Weisheme Shi Mushi Xiaojie A",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74410": {
+      "title": "The Overpowered Veteran Healer",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74483": {
+      "title": "My Bias Gets on the Last Train",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74506": {
+      "title": "Cong Goblin Dao Goblin Shen",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74537": {
+      "title": "Iranai Skill wo Kaitorimasu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74725": {
+      "title": "Makai Youjo ni Tensei Shita Oji-san wa Heiwa no Tame ni Maou ni Naritai",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "74781": {
+      "title": "Magye Academy-ui Silnun Agyeok",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74858": {
+      "title": "Norigam",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74930": {
+      "title": "Amheukmyeongga Cheonjae Mangnaniga Doeeossda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "74942": {
+      "title": "Yuusha desu ga, Heroine-tachi ni Inochi wo Nerawareteimasu",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "75023": {
+      "title": "Wanbyeokhan Silnun Agyeogeul Yeongihada",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "75044": {
+      "title": "Akdangege Sarangbanneun Unmyeongimnida",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "75054": {
+      "title": "Matabui Munjeadeul",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "75082": {
+      "title": "Moduga Geunyeoreul Saranghae",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "75131": {
+      "title": "Choegang Dungeon-eul Wihayeo",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "75140": {
+      "title": "Hoegwihan C-geup Tanker-ga Jukji Anha!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "75565": {
+      "title": "Wangyou: Shen Ji Cike, Wo Ji Shi Anying",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "75635": {
+      "title": "Counter Stop Mura no Goinkyo Demon-san",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "75705": {
+      "title": "myeolmanghan segyeeseo on geomsin",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "75772": {
+      "title": "Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru: Kabe wo Surinuketara Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "75904": {
+      "title": "Geu Appae Geu Ttal",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "75955": {
+      "title": "Myeolmanggeup Death Knight-ga Hoegwiham",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76103": {
+      "title": "BJ Agyeogyeongae",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76239": {
+      "title": "Apocalypse Descends, I Reincarnated as a Tyrant",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76293": {
+      "title": "Breakers",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76430": {
+      "title": "Mia Has Returned",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76436": {
+      "title": "The Skeleton Messenger's Story",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76485": {
+      "title": "Unrivaled Spear Ghost",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76818": {
+      "title": "Santa Industry",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76826": {
+      "title": "Akdangdeurui Huwonjaga Doeeotda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76834": {
+      "title": "Munpa System-eul Sijakamnida",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76870": {
+      "title": "Daegongnimui Sinbuneun Jiogui Jeonsa",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76890": {
+      "title": "Cheonui Eolgul",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76907": {
+      "title": "WITCHRIV",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "76925": {
+      "title": "Haimiya Senpai wa Kowakute Kawaii",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77119": {
+      "title": "Level 999 Goblin",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77134": {
+      "title": "The Demon King Has Too Many Heroes",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77166": {
+      "title": "Elf Tsuma to Hajimeru Yuukyuu no Tabi: Densetsu no Yuusha, Aisuru Elf to Tomoni 100-nen Mae ni Sukutta Sekai wo Tabisuru",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "77174": {
+      "title": "Yotaka Futatabi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77217": {
+      "title": "Gongjakgaui Yeokdaegeup Sindong",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77448": {
+      "title": "Agiyongi Gongjakgareul Sallim",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77458": {
+      "title": "Agui Ssiaseul Kiwo Beoryeotda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77467": {
+      "title": "The Monster Dame Requests Maternity Leave",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77490": {
+      "title": "Lv. 99 Princess of Black Flame",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77552": {
+      "title": "Geomsul Myeonggaui Daemabeopsa Mangnaettal",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77616": {
+      "title": "Imouto no Haishin ni Hairikondara VTuber Atsukai Sareta Ken",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77799": {
+      "title": "Yuusha Party wo Kubi ni Natta node Kokyou ni Kaettara, Member Zenin ga Tsuite Kitan da ga",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77840": {
+      "title": "Yangchigi Mabeopsa",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77905": {
+      "title": "Isekai Kaeri no Saikyou Tamer, Tsukaima wa Osananajimi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77956": {
+      "title": "Densetsu no Ansatsusha, Tensei Shitara Ouke no Aisare Suemusume ni Natte Shimaimashite",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "77984": {
+      "title": "Tensei Shitara Seikaiju Datta Ken",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "77991": {
+      "title": "Bullobulsaro Sandaneun Geoseun",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78001": {
+      "title": "Game Sekai de Mamono ni Tensei shiteshimatta Ore, Zense de Oshi datta Heroine wo Hirotteshimau",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78137": {
+      "title": "Bad Business",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78146": {
+      "title": "Ranker-neun Oneuldo Euntoereul Kkumkkunda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78154": {
+      "title": "Nova, Little Girl in the Monster Forest",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78161": {
+      "title": "Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu ni Ai ni Gendai ni Iku",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78312": {
+      "title": "Get Married So I Can Curse Your Firstborn and Finally Be Free!",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78313": {
+      "title": "Koujo Tensei: Densetsu no Daimadoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan wo Tsukuri Musou suru",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78314": {
+      "title": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78325": {
+      "title": "Sihanbu Hwangjeui Juchiuiimnida",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78326": {
+      "title": "Jiazu Yingzi De Beipan",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78327": {
+      "title": "Dang Dalao Cong Hua Qian Kai Shi",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78544": {
+      "title": "Asayake no Iro",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "78545": {
+      "title": "PUPPET 2026",
+      "status": "Completed",
+      "newsCount": 0
+    },
+    "78548": {
+      "title": "Moreuneun Manhwae Binguihaetda",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78549": {
+      "title": "Dominant",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78550": {
+      "title": "Konyakusha ni Kirawareteiru You na node Hanaretemitara, Nazeka Kougi Saremashita",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78551": {
+      "title": "Lilim Holic",
+      "status": "Reading",
+      "newsCount": 0
+    },
+    "78552": {
+      "title": "Sanagi no Heart",
+      "status": "Reading",
+      "newsCount": 0
+    }
+  },
+  "updatedAt": "2026-07-08T23:49:53.716Z"
+}
