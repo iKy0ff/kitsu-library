@@ -1,0 +1,234 @@
+{
+  "kitsuId": "70480",
+  "title": "I Killed an Academy Player",
+  "updatedAt": "2026-07-09T22:44:19.354Z",
+  "matchVersion": 2,
+  "mangabakaId": 3676,
+  "mangabakaUrl": "https://mangabaka.org/3676",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2YvZS80LzEvMC9mLzEvZDYzYi80ODBlL2JlOTQvMmU0OTBiNjJlMmU2",
+  "author": "Green Kyrin, Saramsallyeo.",
+  "synopsis": "Being a character of your favorite game is great! Sure, he’s just a minor NPC, but Corin knows this game like the back of his hand. With his knowledge and the main player Sihu’s abilities, everything’s going smoothly - until Corin discovers Sihu’s been murdering innocent NPCs and stealing their items. Horrified but powerless to stop him, Corin awaits the end of the game - only for Sihu to mysteriously fail at the last mission. Instantly, Corin travels three years back in time. Now, he’s determined to kill Sihu and take on his role - defeat the final boss and save the world.\n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 131,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "drama",
+    "harem",
+    "romance",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere Female Lead",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Vampire Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Magic School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to a Game World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "173020",
+    "anime_planet": "i-killed-the-main-player",
+    "kitsu": "70480",
+    "manga_updates": "jbia152",
+    "my_anime_list": "165028",
+    "shikimori": "165028"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=818434",
+    "https://series.naver.com/comic/detail.series?productNo=10378077",
+    "https://www.dongmanmanhua.cn/BOY/woshalexueyuanwanjia/list?title_no=2816",
+    "https://www.webtoons.com/en/fantasy/i-killed-the-main-player/list?title_no=6856",
+    "https://www.webtoons.com/fr/action/i-killed-the-academy-player/list?title_no=9103",
+    "https://www.webtoons.com/th/fantasy/i-killed-the-academy-player/list?title_no=6687",
+    "https://namu.wiki/w/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC%20%EC%A3%BD%EC%98%80%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/3676"
+  ]
+}

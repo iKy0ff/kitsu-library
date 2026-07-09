@@ -1,0 +1,435 @@
+{
+  "kitsuId": "54690",
+  "title": "Ranker Who Lives A Second Time",
+  "updatedAt": "2026-07-09T22:34:57.547Z",
+  "matchVersion": 2,
+  "mangabakaId": 1378,
+  "mangabakaUrl": "https://mangabaka.org/1378",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzIvMC9hL2EvZi84L2EvNTVhMS80NzEyL2JjYWMvY2ExYzQ3ZWYxN2Ew",
+  "author": "Do-Yeon Sa",
+  "synopsis": "Yeonwoo’s brother disappeared years ago, and he’s devastated to learn of his death. As he copes with his loss, he’s given a pocket watch and learns there’s more to his brother’s death: he was betrayed while competing in the Tower of the Sun God. Now it’s Yeonwoo’s turn to use the knowledge his brother left behind. Can Yeonwoo (call sign: Cain) navigate that world and gain enough power and experience to reach the top of the tower, defeating his brother’s enemies and all those who stand in his way? \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 227,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "drama",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Masked Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Loner Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Calm Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cold Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cool Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cunning Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Famous Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Pragmatic Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Scheming Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Sex Slave",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Death of Loved One",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Subtle Romance",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Blacksmiths",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Twins",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "God-Human Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Uncle-Niece Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Alternate Universe",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Mythology",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Chinese Mythology",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Greek Mythology",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Norse Mythology",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goddess",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mythical Beast",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goblin",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Human Experiment",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Godly Powers",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "109957",
+    "anime_planet": "second-life-ranker",
+    "kitsu": "54690",
+    "manga_updates": "fsgta4n",
+    "my_anime_list": "147324",
+    "shikimori": "147324"
+  },
+  "links": [
+    "https://page.kakao.com/content/52697368",
+    "https://piccoma.com/web/product/30298",
+    "https://tapas.io/series/second-life-ranker/info",
+    "https://namu.wiki/w/%EB%91%90%20%EB%B2%88%20%EC%82%AC%EB%8A%94%20%EB%9E%AD%EC%BB%A4(%EC%9B%B9%ED%88%B0)",
+    "https://page.kakao.com/home/52697368",
+    "https://mangabaka.org/1378"
+  ]
+}

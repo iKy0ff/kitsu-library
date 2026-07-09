@@ -1,0 +1,202 @@
+{
+  "kitsuId": "68108",
+  "title": "Skill-ppallo Level Up",
+  "updatedAt": "2026-07-09T22:44:59.441Z",
+  "matchVersion": 2,
+  "mangabakaId": 1470,
+  "mangabakaUrl": "https://mangabaka.org/1470",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jL2QvMC8yLzAvZC80L2IvNjFmOC80MDk3L2E1ODcvMWI2ZDY5NWM5YzU3",
+  "author": "Bidansaljjwi, Paranyeong",
+  "synopsis": "In a world teetering on destruction, humanity's only hope is becoming stronger in a mysterious tower offering four modes: easy, normal, hard, and the brutal \"alone mode.\" Kang Taesan, despite choosing the easy route, becomes the most skilled player upon conquering the tower. But as doomsday nears, he realizes that he isn't strong enough to save Earth and turns back time, embracing \"alone mode\" to level up even more. With a second chance, can he amass enough power to prevent the end of the world? \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 158,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Determined Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Determined Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "165689",
+    "anime_planet": "skill-master-levels-up",
+    "kitsu": "68108",
+    "manga_updates": "sk3jlmc",
+    "my_anime_list": "159834",
+    "shikimori": "159834"
+  },
+  "links": [
+    "https://page.kakao.com/content/61725025",
+    "https://tapas.io/series/skill-master-levels-up/info",
+    "https://namu.wiki/w/%EC%8A%A4%ED%82%AC%EB%B9%A8%EB%A1%9C%20%EB%A0%88%EB%B2%A8%EC%97%85#s-7.1",
+    "https://mangabaka.org/1470"
+  ]
+}

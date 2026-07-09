@@ -1,0 +1,234 @@
+{
+  "kitsuId": "64076",
+  "title": "Hwangjegung Yeop Maronie Nongjang",
+  "updatedAt": "2026-07-09T22:43:51.456Z",
+  "matchVersion": 2,
+  "mangabakaId": 53507,
+  "mangabakaUrl": "https://mangabaka.org/53507",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzkvZC9iLzcvMy81L2YvNmFlNC80NTY0L2E1ZTgvYmUxMGM1ZjFjMmI5",
+  "author": "Jeong-Yeon, Ollcha",
+  "synopsis": "When Hazel Mayfield is sent to live with the Martins as a child, she falls in love with rural life and vows to have a farm of her own one day. Eleven years later, she receives an unexpected windfall as her grandfather hands her the deed to a plot of land in the middle of the capital. Ecstatic, Hazel sets out to realize her longtime dream of becoming a farmer. There’s only one problem: Her new farm is right next to the imperial palace! And it seems the emperor himself has his eye on her land… \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 136,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "shoujo",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Agriculture",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Green-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Red-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blonde-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Garden",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Foreign",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Emperors",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Guards",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Knight",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Neighbors",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Food and Beverage",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Inheritance",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "150106",
+    "anime_planet": "my-farm-by-the-palace",
+    "kitsu": "64076",
+    "manga_updates": "9rv59on",
+    "my_anime_list": "151188",
+    "shikimori": "151188"
+  },
+  "links": [
+    "https://page.kakao.com/content/59250857",
+    "https://piccoma.com/web/product/108482",
+    "https://tapas.io/series/my-farm-by-the-palace",
+    "https://namu.wiki/w/%ED%99%A9%EC%A0%9C%EA%B6%81%20%EC%98%86%20%EB%A7%88%EB%A1%9C%EB%8B%88%EC%97%90%20%EB%86%8D%EC%9E%A5#s-5.1",
+    "https://page.kakao.com/home?seriesId=59250857",
+    "https://mangabaka.org/53507"
+  ]
+}

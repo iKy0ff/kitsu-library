@@ -1,0 +1,152 @@
+{
+  "kitsuId": "75565",
+  "title": "Wangyou: Shen Ji Cike, Wo Ji Shi Anying",
+  "updatedAt": "2026-07-09T22:29:01.145Z",
+  "matchVersion": 2,
+  "mangabakaId": 558,
+  "mangabakaUrl": "https://mangabaka.org/558",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4OTY0Ny1zckJiWGhaTWhaOGIuanBn",
+  "author": "San Yuan Yi Zhi, YMY",
+  "synopsis": "In a world where people sleep and enter a realm abandoned by God, Qin Feng, who sacrificed everything for his sister, faces betrayal from her. However, fate offers him a second chance, sending him back nine years before the abandoned world emerges. This time, Qin Feng decides to abandon his sister and concentrate on becoming the strongest. \n\n(Source: Kuaikan, translated)",
+  "status": "Releasing",
+  "total": 122,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "drama",
+    "fantasy",
+    "adventure",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Regressed Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dreams",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "189647",
+    "anime_planet": "god-level-assassin-im-the-shadow",
+    "kitsu": "75565",
+    "manga_updates": "ojm6lln"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/183523",
+    "https://page.kakao.com/content/69350557",
+    "https://webtoon.kakao.com/content/히든-직업-암살자로-회귀했습니다/4890",
+    "https://www.kuaikanmanhua.com/web/topic/24719/?cps=undefined",
+    "https://mangabaka.org/558"
+  ]
+}

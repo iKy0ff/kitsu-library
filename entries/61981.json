@@ -1,0 +1,271 @@
+{
+  "kitsuId": "61981",
+  "title": "Jaeanggeum Yeongungnimi Gwihwanhasyeotda",
+  "updatedAt": "2026-07-09T22:46:23.763Z",
+  "matchVersion": 2,
+  "mangabakaId": 1432,
+  "mangabakaUrl": "https://mangabaka.org/1432",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2EvMi8zLzEvZS9jL2UvNTdjYS80YWUyL2EyM2YvYjcwYTg0NzdkZDZj",
+  "author": "HEATS, Sanjijiksong",
+  "synopsis": "Humans call them “calamities”—the unknown, destructive creatures that suddenly appeared on earth. To challenge these calamities, the zodiac gods awakened 12 humans known as saints. But there was one more that awoke—unchosen but the greatest hero of all: Geon Lee. His allies betrayed him and left him for dead, but now, 20 years later, he’s more powerful than ever and ready to teach his fellow “saints” a lesson they’ll never forget. \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 181,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "comedy",
+    "drama",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Battles",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Badass Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Emotionally Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Famous Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Meta",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Blacksmiths",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Best Friends",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Chinese Mythology",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Greek Mythology",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Norse Mythology",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Astronomy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Godly Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "incidental"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "143056",
+    "anime_planet": "the-return-of-the-disaster-class-hero",
+    "kitsu": "61981",
+    "manga_updates": "jv1z73a",
+    "my_anime_list": "149013",
+    "shikimori": "149013"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=58474045",
+    "https://piccoma.com/web/product/82188",
+    "https://tapas.io/series/the-return-of-the-disaster-class-hero/info",
+    "https://webtoon.kakao.com/content/재앙급-영웅님이-귀환하셨다/2701",
+    "https://www.kuaikanmanhua.com/web/topic/10189/",
+    "https://www.tappytoon.com/en/book/the-return-of-the-disaster-class-hero",
+    "https://www.webtoons.com/en/action/the-return-of-the-disaster-class-hero/list?title_no=9013",
+    "https://www.webtoons.com/fr/action/the-return-of-the-disaster-class-hero/list?title_no=10519",
+    "https://namu.wiki/w/%EC%9E%AC%EC%95%99%EA%B8%89%20%EC%98%81%EC%9B%85%EB%8B%98%EC%9D%B4%20%EA%B7%80%ED%99%98%ED%95%98%EC%85%A8%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/1432"
+  ]
+}

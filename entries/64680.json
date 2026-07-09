@@ -1,0 +1,200 @@
+{
+  "kitsuId": "64680",
+  "title": "Destiny Unchain Online: Kyuuketsuki Shoujo to Natte, Yagate \"Aka no Maou\" to Yobareru You ni Narimashita",
+  "updatedAt": "2026-07-09T22:30:09.708Z",
+  "matchVersion": 2,
+  "mangabakaId": 521,
+  "mangabakaUrl": "https://mangabaka.org/521",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzIvZi9kLzQvNy9iLzcvYWQ5Yy80MTU5Lzk2YWIvODE4OGE4MWEzYTMw",
+  "author": "resn, Yachimoto",
+  "synopsis": "Kou Mitsuki is a gamer with god-tier skills, known online as Crim the Headhunter. Right when he starts testing his father’s latest game, Destiny Unchain Online, and the new device developed for it, the bug-ridden system transforms him in into a vampire girl! Everything changes for Kou as he meets new friends and they take on the game… The ultimate gamer adventure awaits!\n\n*Source: K Manga*",
+  "status": "Releasing",
+  "total": 106,
+  "type": "manga",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "gender_bender",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Animal Characteristics",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic Items",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Childhood Friends",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Virtual Reality",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Vampires",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "MMORPG",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "VRMMORPG",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "K Manga Adds Destiny Unchain Online, Ura-Tokyo Manga",
+      "date": "2026-03-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-18/k-manga-adds-destiny-unchain-online-ura-tokyo-manga/.235426"
+    }
+  ],
+  "sources": {
+    "anilist": "153825",
+    "anime_planet": "destiny-unchain-online-kyuuketsuki-shoujo-to-natte-yagate-aka-no-maou-to-yobareru-you-ni-narimashita",
+    "anime_news_network": "29390",
+    "kitsu": "64680",
+    "manga_updates": "90fdtn0",
+    "my_anime_list": "149567",
+    "shikimori": "149567"
+  },
+  "links": [
+    "https://comic-days.com/episode/3270375685457672725",
+    "https://kmanga.kodansha.com/title/10696/episode/363663",
+    "https://pocket.shonenmagazine.com/episode/3270375685346798268",
+    "https://mangabaka.org/521"
+  ]
+}

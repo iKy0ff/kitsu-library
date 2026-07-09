@@ -1,0 +1,359 @@
+{
+  "kitsuId": "56186",
+  "title": "Akuyaku Reijou Level 99 ~Watashi wa UraBoss desuga Maou dewa Arimasen~",
+  "updatedAt": "2026-07-09T22:36:10.093Z",
+  "matchVersion": 2,
+  "mangabakaId": 5574,
+  "mangabakaUrl": "https://mangabaka.org/5574",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzEvZi82L2IvMy83L2MvYTg5Yy80ZGU4LzhjYjQvY2JjOGExNzY0ZDRm",
+  "author": "Nokomi, Satori Tanabata",
+  "synopsis": "A college student finds herself resurrected as Eumiella, an evil daughter of the nobility in the world of an Otome RPG that she played in her previous life. In the RPG, Eumiella isn’t worth thinking about at first, but in the endgame content she returns as a hidden boss, complete with ridiculous stats that put her on par with even the game’s heroes. \n\nAfter being essentially abandoned by her parents at their family domain, the flames of Eumiella’s former gamer soul are ignited, and she takes to leveling, and leveling, and leveling, until...at the time of enrolling in the Royal Academy, she discovers that she is level 99. Though she’d originally planned to live a peaceful and discreet life, the game’s heroine and her love interests suspect that Eumiella is in fact the infamous Demon Lord. \n\nThese ridiculous powers invite all manner of trials and tribulations. \n\nSo begins the fantasy tale of a most powerful, evil hidden boss (who wishes she could just live a life of peace and quiet). \n\n(Source: One Peace Books)",
+  "status": "Releasing",
+  "total": 25,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "fantasy",
+    "romance",
+    "action",
+    "school_life",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Kuudere",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Ojou-sama",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Black-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dense Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Eccentric Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Emotionally Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Expressionless Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Independent Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Misunderstood Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Noble Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Straightforward Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Audio Drama",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Drama CD",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kingdom",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Boarding School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic School",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Class Struggle",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Otome Game",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    },
+    {
+      "name": "Black/Dark Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, February 16-22",
+      "date": "2025-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-21/north-american-anime-manga-releases-february-16-22/.221368"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 14-20",
+      "date": "2024-01-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-18/north-american-anime-manga-releases-january-14-20/.206584"
+    },
+    {
+      "title": "Villainess Level 99 GN 1",
+      "date": "2023-08-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/villainess-level-99/gn-1/.200564"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 13-19",
+      "date": "2023-08-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-08-15/north-american-anime-manga-releases-august-13-19/.201291"
+    }
+  ],
+  "sources": {
+    "anilist": "118519",
+    "anime_planet": "villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord",
+    "anime_news_network": "27246",
+    "kitsu": "56186",
+    "manga_updates": "ku6gyxp",
+    "my_anime_list": "124305",
+    "shikimori": "124305"
+  },
+  "links": [
+    "https://comic.pixiv.net/works/6418",
+    "https://comic-walker.com/contents/detail/KDCW_EB03201445010000_68/",
+    "https://seiga.nicovideo.jp/comic/46067",
+    "https://www.onepeacebooks.com/jt/Akurei.html",
+    "https://bslogcomic.com/series/akuyakureijo_level99/",
+    "https://en.wikipedia.org/wiki/Villainess_Level_99",
+    "https://mangabaka.org/5574"
+  ]
+}

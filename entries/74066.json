@@ -1,0 +1,244 @@
+{
+  "kitsuId": "74066",
+  "title": "I'm Going to Wipe Out This Country",
+  "updatedAt": "2026-07-09T22:43:03.143Z",
+  "matchVersion": 2,
+  "mangabakaId": 1421,
+  "mangabakaUrl": "https://mangabaka.org/1421",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzkvZS83L2MvNi85L2UvMTRjMi80NWM4L2JlMmIvODUyYTBiNWQ1MGVj",
+  "author": "Sanjijiksong, Syaimel",
+  "synopsis": "Kim Isaac, once the all-powerful Skeleton King, is now a baby in a onesie. Tricked by the gods and sealed away, he’s reincarnated into a family of saints at the heart of the Holy Empire. He can’t walk or talk, but he can plot. And with his loyal demon followers working from the shadows and a grudge deeper than the underworld itself, this baby isn’t here to be cute—he’s here for payback. The Holy Empire has no idea what's coming… and the gods are about to regret ever crossing the Skeleton King.\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 83,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "comedy",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Young Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Red-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Red-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blonde-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blonde-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Crazy Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Funny Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnated Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Saint/Saintess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Complicated Family",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goddess",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Boys",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "187601",
+    "anime_planet": "holy-hellas-ultimate-end",
+    "kitsu": "74066",
+    "manga_updates": "rnp892s",
+    "my_anime_list": "178457",
+    "shikimori": "178457"
+  },
+  "links": [
+    "https://page.kakao.com/content/65947762",
+    "https://tapas.io/series/holy-hellas-ultimate-end/info",
+    "https://webtoon.kakao.com/content/이-나라를-없앨-예정인데요/4388?tab=episode",
+    "https://namu.wiki/w/%EC%9D%B4%20%EB%82%98%EB%9D%BC%EB%A5%BC%20%EC%97%86%EC%95%A8%20%EC%98%88%EC%A0%95%EC%9D%B8%EB%8D%B0%EC%9A%94/%EC%9B%B9%ED%88%B0",
+    "https://mangabaka.org/1421"
+  ]
+}

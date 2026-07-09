@@ -1,0 +1,274 @@
+{
+  "kitsuId": "62861",
+  "title": "Jamman Jado Ranker",
+  "updatedAt": "2026-07-09T22:42:06.765Z",
+  "matchVersion": 2,
+  "mangabakaId": 8529,
+  "mangabakaUrl": "https://mangabaka.org/8529",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hL2QvMC9mLzEvYi9iL2IvYTZlOC80ZTg0L2FkNjkvMWI3ZWQ2ODA3MGQx",
+  "author": "Jin-Hui Cheon, Warlock",
+  "synopsis": "After sleeping a total of 10,000 hours inside Idea, the hottest online game around, Lee Hyunsung becomes one overpowered player! He's given an exclusive hidden class with an array of unique skills, and one of which allows him to fight in his sleep! He's slowly making his way up to the top, and everyone from the developers to other players are starting to take notice of this odd rookie. Will Hyunsung eventually become the top ranker in Idea? Or is this all just a dream that's too good to be true? \n\n(Source: Tapas)",
+  "status": "Completed",
+  "total": 154,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "drama",
+    "martial_arts",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Dungeon Exploring",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dedicated Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Split Personality",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Dissociative Identities",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Family",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Brother and Sister",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Virtual Reality",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Disability",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Rehabilitation",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Godly Powers",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "VRMMORPG",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "recurrent"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "146715",
+    "anime_planet": "the-slumbering-ranker",
+    "kitsu": "62861",
+    "manga_updates": "l8xxmhl",
+    "my_anime_list": "150546",
+    "shikimori": "150546"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=58909608",
+    "https://tapas.io/series/the-slumbering-ranker",
+    "https://webtoon.kakao.com/content/잠만-자도-랭커/2858",
+    "https://mangabaka.org/8529"
+  ]
+}

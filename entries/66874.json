@@ -1,0 +1,461 @@
+{
+  "kitsuId": "66874",
+  "title": "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
+  "updatedAt": "2026-07-09T22:29:49.654Z",
+  "matchVersion": 2,
+  "mangabakaId": 808,
+  "mangabakaUrl": "https://mangabaka.org/808",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mL2EvOS9hLzcvNS9iL2EvYTA0Ny80OGE1LzhhOGMvYWRjYTBiNjZlZTAy",
+  "author": "Lego Balbasseo, San-Chaek Lee",
+  "synopsis": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he’s ready to bite the hand that feeds.\n\n*Source: Tapas*\n\n----\n\nThe children of the Baskerville family are trained as loyal hounds from a young age, knowing nothing apart from a life of death and deception. After faithfully serving his family for forty years, Vikir Von Baskerville was rewarded with betrayal and execution by the hands of the man he called his father. But when he’s given a second chance at life by being reborn with his memories of his past life intact, Vikir swears to have his revenge against the family he once served. Once again, he must survive the brutal life that awaits all the hounds of Baskerville, but this time he vows to bite the hand that feeds him.\n\n*Source: Yen Press, Vol. 1*",
+  "status": "Releasing",
+  "total": 170,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "drama",
+    "harem",
+    "romance",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Cannibalism",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Crossdressing",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Young Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Red-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dominant Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Talented Female lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Blood-Thirsty Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cool Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cunning Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Plain-Looking Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Regressed Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Sadistic Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Scary Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Rapist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sex Slave",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hidden Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Plot Twist",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Siblings",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Half-Siblings",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Dark Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dark Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Child Abuse",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem Subtext",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Torture",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "163824",
+    "anime_planet": "revenge-of-the-baskerville-bloodhound",
+    "kitsu": "66874",
+    "manga_updates": "5v7h9gf",
+    "my_anime_list": "157888",
+    "shikimori": "157888"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/144755",
+    "https://manga.bilibili.com/detail/mc33600",
+    "https://page.kakao.com/content/61614855",
+    "https://tapas.io/series/revenge-of-the-baskerville-bloodhound/info",
+    "https://webtoon.kakao.com/content/철혈검가-사냥개의-회귀/3455",
+    "https://www.delitoon.de/detail/dad_2000401",
+    "https://yenpress.com/series/revenge-of-the-baskerville-bloodhound",
+    "https://namu.wiki/w/%EC%B2%A0%ED%98%88%EA%B2%80%EA%B0%80%20%EC%82%AC%EB%83%A5%EA%B0%9C%EC%9D%98%20%ED%9A%8C%EA%B7%80#s-7.1",
+    "https://mangabaka.org/808"
+  ]
+}

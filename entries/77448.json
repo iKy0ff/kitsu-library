@@ -1,0 +1,152 @@
+{
+  "kitsuId": "77448",
+  "title": "Agiyongi Gongjakgareul Sallim",
+  "updatedAt": "2026-07-09T22:44:43.257Z",
+  "matchVersion": 2,
+  "mangabakaId": 357172,
+  "mangabakaUrl": "https://mangabaka.org/357172",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xLzgvYi81L2IvNy81LzEvZmJhNi80YjA1Lzk3YzMvZGM3NjhlMjJlMDNk",
+  "author": "I-Rin Seol, Pu-Rik, Yumin",
+  "synopsis": "After the loss of its divine beast, House Moonreppe is on the verge of collapse. Desperate to save his household, the young Duke Edenver Moonreppe decides to summon a legendary beast to become their new divine beast. He’s prepared to take on whatever monster that is summoned, only to meet baby dragon Acille. Edenver is not sure such a small creature could be their new divine beast… until he discovers that this baby dragon packs quite the punch in terms of both power and loveability. Will Acille change Edenver’s life for the better in more ways than one?\n\n(Source: Tappytoon)",
+  "status": "Releasing",
+  "total": 44,
+  "type": "manhwa",
+  "genres": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "romance",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Pink-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Pink-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blonde-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragon Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "199675",
+    "anime_planet": "baby-dragon-to-the-dukes-rescue",
+    "manga_updates": "o07jfp5",
+    "my_anime_list": "187547",
+    "shikimori": "187547"
+  },
+  "links": [
+    "https://page.kakao.com/content/67702866",
+    "https://webtoon.kakao.com/content/아기용이-공작가를-살림/4636",
+    "https://www.tappytoon.com/en/book/baby-dragon-to-the-dukes-rescue",
+    "https://mangabaka.org/357172"
+  ]
+}

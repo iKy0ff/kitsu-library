@@ -1,0 +1,245 @@
+{
+  "kitsuId": "65740",
+  "title": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou",
+  "updatedAt": "2026-07-09T22:31:18.268Z",
+  "matchVersion": 2,
+  "mangabakaId": 2894,
+  "mangabakaUrl": "https://mangabaka.org/2894",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzAvNC8xLzgvNS82LzkvOWRkZS80YTY3Lzg2MDAvNmZlNDBjMjYxNmJi",
+  "author": "Takumi Hinoura, Tsukasa Jinmori",
+  "synopsis": "A mysterious god-like entity has given Ed a crazy ordeal in which he must be expelled from a party of 100 heroes in 100 different worlds in order to return to his original world, but he finally achieves the condition and is able to return to his original world. However, as a final additional condition, he is given the chance to \"see what happens to the worlds he has been banished from.\"... This is where he learns a shocking fact. \n\n\"All right, I'll do it! I'll go there again and be banished for good all over again!\" \n\nOnly this time he is accompanied to these 100 worlds by a former companion... \n\n\"Fufu~, don't worry! I'll be with you this time!\" \n\n\"Yeah, I'm more worried...\" \n\n(Source: Shousetsuka ni Narou, translated)",
+  "status": "Releasing",
+  "total": 29,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "romance",
+    "sci-fi",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Fights",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Magical Battles",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Unattractive Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Hidden Powers",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fighters",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Alternate Universe",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigrated into Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "core"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "159212",
+    "anime_planet": "tsuihousareru-tabi-ni-skill-wo-te-ni-ireta-ore-ga-100-no-isekai-de-2-shuume-musou",
+    "anime_news_network": "27668",
+    "kitsu": "65740",
+    "manga_updates": "sf7ng07",
+    "my_anime_list": "156681",
+    "shikimori": "156681"
+  },
+  "links": [
+    "https://seiga.nicovideo.jp/comic/59984",
+    "https://youngchampion.jp/series/61cda1dd15752",
+    "https://mangabaka.org/2894"
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "kitsuId": "54597",
+  "title": "The Beginning After the End",
+  "updatedAt": "2026-07-09T22:48:23.828Z",
+  "matchVersion": 2,
+  "mangabakaId": 1238,
+  "mangabakaUrl": "https://mangabaka.org/1238",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2UvZi8zLzgvMi9lLzIvZjFkOC80OTc1L2EzM2UvZTZiZDA4ZDlmNTQ4",
+  "author": "TurtleMe",
+  "synopsis": "King Grey is a remarkable ruler with a prosperous reign, and yet…opulence and success cannot bury emptiness and solitude. His time as king, however, comes to an abrupt end, and he reincarnates as Arthur Leywin—a baby born in a world of magic and monsters. Equipped with memories of his previous life and the desire to protect the newfound warmth surrounding him, Art begins his journey of becoming a strong warrior once again. Sword training, mana coreformation, magic studies—Art does it all in order to be as powerful as can be! But will it be enough to repel the dangerous forces that threaten his second chance at life…?\n\n*Source: Yen Press, Vol. 1*",
+  "status": "Releasing",
+  "total": 248,
+  "type": "oel",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "romance",
+    "school_life",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Armed Combat",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon Exploring",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Hard-Working Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Princess Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Genius",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Hard-Working Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Confident Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Easygoing Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Emotionally Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Friendly Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hard-Working Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Immature Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Younger Sister",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kingdom",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Advanced Knowledge Meets Archaic World",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Kings",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Princess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Age Gap",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "OEL",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anime_planet": "the-beginning-after-the-end",
+    "kitsu": "54597",
+    "manga_updates": "rwg23en"
+  },
+  "links": [
+    "https://mangabaka.org/1238"
+  ]
+}

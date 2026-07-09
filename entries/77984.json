@@ -1,0 +1,106 @@
+{
+  "kitsuId": "77984",
+  "title": "Tensei Shitara Seikaiju Datta Ken",
+  "updatedAt": "2026-07-09T22:52:41.047Z",
+  "matchVersion": 2,
+  "mangabakaId": 82575,
+  "mangabakaUrl": "https://mangabaka.org/82575",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 102
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4OTIxMy1SUk9oQkR2SDNoczEuanBn",
+  "author": "Shin Yogi, Tsukino Mint",
+  "synopsis": "I was just a NEET, but one day I went to a convenience store and got killed by a robber. After that, a goddess suddenly appeared, took a liking to me, and I was successfully reincarnated in another world—but I came back as a \"plant\" of all things...! What's more, for some reason, every monster and human I meet is calling me \"Lord World Tree\"!? (Source: kuragebunch, translated)\n\n*Note: Three extra chapters are included*.",
+  "status": "Completed",
+  "total": 14,
+  "type": "manga",
+  "genres": [
+    "fantasy",
+    "harem",
+    "seinen",
+    "slice_of_life",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Dark/Tan Skin",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "189213",
+    "anime_planet": "tenseishitara-sekaiju-datta-ken",
+    "anime_news_network": "33951",
+    "manga_updates": "r6j1j84",
+    "my_anime_list": "184114",
+    "shikimori": "184114"
+  },
+  "links": [
+    "https://kuragebunch.com/episode/2550912965036119859",
+    "https://mangabaka.org/82575"
+  ]
+}

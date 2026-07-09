@@ -1,0 +1,70 @@
+{
+  "kitsuId": "39537",
+  "title": "I Love Yoo",
+  "updatedAt": "2026-07-09T22:37:02.195Z",
+  "matchVersion": 2,
+  "mangabakaId": 25721,
+  "mangabakaUrl": "https://mangabaka.org/25721",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jL2UvMS84LzkvNy9lL2EvMWE2Yy80M2YwLzg5YjQvNTU2ZDZhZmJkNDNk",
+  "author": "",
+  "synopsis": "Dogged by pain and misfortune from the very beginning, Shin-Ae decides she wants nothing to do with people nor anything to do with romance. Although content with her unsocial, boring, loveless existence, her lifestyle is challenged after she ruins an unsuspecting strangers' clothes.\n\n(Source: webtoons.com)",
+  "status": "Releasing",
+  "total": 288,
+  "type": "oel",
+  "genres": [],
+  "tags": [
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Social Gap",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "OEL",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anime_planet": "i-love-yoo",
+    "kitsu": "39537"
+  },
+  "links": [
+    "https://mangabaka.org/25721"
+  ]
+}

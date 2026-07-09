@@ -1,0 +1,160 @@
+{
+  "kitsuId": "60679",
+  "title": "Neta Character Tensei toka Anmari da! The Comic",
+  "updatedAt": "2026-07-09T22:32:18.890Z",
+  "matchVersion": 2,
+  "mangabakaId": 885,
+  "mangabakaUrl": "https://mangabaka.org/885",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2MvOC8yLzMvMC81LzMvZWViYi80MDhmL2E1MGMvN2FhZjY3NzZkMWFi",
+  "author": "Kamuragi Amano, Kanade Otonashi",
+  "synopsis": "Toru Aikawa is a university student who spends his days going through the motions of attending school and working at a local convenience store. The only time he really feels alive is when he’s playing the massive multiplayer VR game Real World Online.\n\nOne day, he has a stroke of luck: he’s hit by a runaway bus and reincarnated as his game character. But something’s gone wrong… Instead of the invincible warrior he mains, he’s in the body of Nacht Schatten, the alluring dragon princess he made as a joke! Nacht’s build is anything but optimized—she would never survive in the cutthroat world of an isekai story! And more to the point, she’s a girl! But perhaps things aren’t as bad as they seem. Perhaps Nacht Schatten is more capable than she appears.\n\n*Source: J-Novel Club, Vol. 1*",
+  "status": "Releasing",
+  "total": 30,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "fantasy",
+    "action",
+    "adventure",
+    "gender_bender",
+    "shoujo_ai",
+    "supernatural",
+    "girls_love"
+  ],
+  "tags": [
+    {
+      "name": "Chuunibyou",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Girls Love",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shoujo Ai",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Yuri",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "127445",
+    "anime_planet": "did-i-seriously-just-get-reincarnated-as-my-gag-character",
+    "kitsu": "60679",
+    "manga_updates": "tvhb68c",
+    "my_anime_list": "131883",
+    "shikimori": "131883"
+  },
+  "links": [
+    "https://bookwalker.jp/series/266743",
+    "https://comic.pixiv.net/store/products/853035",
+    "https://j-novel.club/series/did-i-seriously-just-get-reincarnated-as-my-gag-character-manga",
+    "https://magcomi.com/episode/13933686331623324202",
+    "https://manga.nicovideo.jp/comic/48585",
+    "https://seiga.nicovideo.jp/comic/48585",
+    "https://www.amazon.co.jp/dp/B0F1K7GRVF",
+    "https://mangabaka.org/885"
+  ]
+}

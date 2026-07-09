@@ -1,0 +1,205 @@
+{
+  "kitsuId": "61885",
+  "title": "Choegangbukae",
+  "updatedAt": "2026-07-09T22:37:30.415Z",
+  "matchVersion": 2,
+  "mangabakaId": 48550,
+  "mangabakaUrl": "https://mangabaka.org/48550",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yL2IvMS9jL2IvMy8xLzEvMTVkMi80OGJmL2ExNDcvM2QzZGM4ZDNhYjdi",
+  "author": "JIXKSEE",
+  "synopsis": "In Ergosphere Online, a VR MMORPG craze, O-Reum Lee is harshly mocked by his party members for being a mediocre healer. Not only that, his teammates in the game bully him in real life at school. O-Reum's saving grace is his alternate character, a powerful Avenger class character that he plays with extraordinary skill. One day when O-Reum logs out of the game, a glitch in the system imbues him with his alternate character’s abilities and forces him to fight against evil monsters from the in-game realm. Will O-Reum survive the game world and his school life at the same time? \n\n(Source: WEBTOON edited)",
+  "status": "Completed",
+  "total": 121,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "supernatural",
+    "adventure",
+    "fantasy",
+    "sci-fi",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullied Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Bully",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Death Game",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Virtual Reality",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "VRMMORPG",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "141955",
+    "anime_planet": "ultra-alternate-character",
+    "kitsu": "61885",
+    "manga_updates": "3u9odsh",
+    "my_anime_list": "148713",
+    "shikimori": "148713"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=778580",
+    "https://series.naver.com/comic/detail.series?productNo=6573794",
+    "https://www.webtoons.com/en/action/ultra-alternate-character/list?title_no=3581",
+    "https://namu.wiki/w/%EC%B5%9C%EA%B0%95%EB%B6%80%EC%BA%90",
+    "https://mangabaka.org/48550"
+  ]
+}

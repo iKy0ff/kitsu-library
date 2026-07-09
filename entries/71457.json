@@ -1,0 +1,197 @@
+{
+  "kitsuId": "71457",
+  "title": "Nampyeonui Maldaero Jeongbureul Deullyeotda",
+  "updatedAt": "2026-07-09T22:42:22.723Z",
+  "matchVersion": 2,
+  "mangabakaId": 74756,
+  "mangabakaUrl": "https://mangabaka.org/74756",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wL2EvNS9hLzUvMy9mL2YvNjVkMC80OTJiL2JlNWQvMTkyOTk3ZWVmZGYy",
+  "author": "Hae-Na Yu, Hyo-Jeong Heo",
+  "synopsis": "Louise wants nothing more than to live a happy life with her husband, Reyard. She loves her husband so much even though he has never been faithful to her. She had to watch him bring home mistresses and pretend like she wasn’t bothered by it. After all, Reyard was never deceitful about his wishes. He told her that if she were to object to his lovers then their marriage would be over. Louise feels lower than low, so when Reyard insists that she take on a lover of her own… she does just that.\n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 83,
+  "type": "manhwa",
+  "genres": [
+    "drama",
+    "fantasy",
+    "romance",
+    "josei"
+  ],
+  "tags": [
+    {
+      "name": "Acting",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Kind female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Duke Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Love Polygon",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Infidelity",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Medieval European Ambience",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "176017",
+    "anime_planet": "i-listened-to-my-husband-and-brought-in-a-lover",
+    "kitsu": "71457",
+    "manga_updates": "ysjkcpw",
+    "my_anime_list": "168099",
+    "shikimori": "168099"
+  },
+  "links": [
+    "https://page.kakao.com/content/62863106",
+    "https://tapas.io/series/i-listened-to-my-husband-and-brought-in-a-lover/info",
+    "https://webtoon.kakao.com/content/남편의-말대로-정부를-들였다/3816?tab=episode",
+    "https://mangabaka.org/74756"
+  ]
+}

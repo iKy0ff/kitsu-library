@@ -1,0 +1,81 @@
+{
+  "kitsuId": "76818",
+  "title": "Santa Industry",
+  "updatedAt": "2026-07-09T22:48:31.782Z",
+  "matchVersion": 2,
+  "mangabakaId": 69565,
+  "mangabakaUrl": "https://mangabaka.org/69565",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 104
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzAvYy9mL2YvYy84L2MvNjZkOS80MTJmL2FhMjQvOWNkMTI5MmExNWMx",
+  "author": "Ppuek-i",
+  "synopsis": "The city-state of Greenpod is a divided society run by the brutal International Police. Here, money and power are king, but social status is precarious. When Mel, an undocumented slum-dweller with super strength and an invincible body, becomes set on revenge against Greenpod, she is saved by… Santa Industry package delivery service?! But these couriers are more than they seem—they’re the underground resistance. Can their motley crew convince Mel to join them in their efforts to change society?\n\n(Source: Tapas)",
+  "status": "Completed",
+  "total": 61,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "fantasy",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "170277",
+    "anime_planet": "santa-industries",
+    "manga_updates": "g2jc1pt",
+    "my_anime_list": "172484",
+    "shikimori": "172484"
+  },
+  "links": [
+    "https://page.kakao.com/content/62371262",
+    "https://tapas.io/series/santa-industry/info",
+    "https://namu.wiki/w/%EC%82%B0%ED%83%80%20%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC",
+    "https://mangabaka.org/69565"
+  ]
+}

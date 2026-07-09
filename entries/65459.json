@@ -1,0 +1,126 @@
+{
+  "kitsuId": "65459",
+  "title": "Yongsagogyo Deonjeongongryakgwa",
+  "updatedAt": "2026-07-09T22:37:38.391Z",
+  "matchVersion": 2,
+  "mangabakaId": 56404,
+  "mangabakaUrl": "https://mangabaka.org/56404",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzAvMC84LzAvZS8xLzkvYTY0OS80ODI5LzhjNmQvMWQ0YWEwZTdiYzc3",
+  "author": "Mun-Sik",
+  "synopsis": "A cosmic anomaly has opened interdimensional breaches on Earth, creating exotic hybrid environments called “dungeons” inhabited by deadly otherworldly creatures. Yoo Jaryong, left to fend for himself as his father’s health deteriorates, secretly cultivates the superhuman potential arising from the anomaly and becomes a dungeon smuggler to pay his bills. When elite dungeon raiders discover his skills, he is given the chance to train at the alma mater of the world’s heroes: Yongsa High School. \n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 45,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "fantasy",
+    "adventure",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "155967",
+    "anime_planet": "yongsa-high-dungeon-raiders",
+    "kitsu": "65459",
+    "manga_updates": "x0yjpbp",
+    "my_anime_list": "152825",
+    "shikimori": "152825"
+  },
+  "links": [
+    "https://page.kakao.com/content/60355768",
+    "https://tapas.io/series/yongsa-high-dungeon-raiders",
+    "https://webtoon.kakao.com/content/용사고교-던전공략과/3355",
+    "https://www.webtoons.com/fr/action/lycee-des-guerriers/list?title_no=5189",
+    "https://namu.wiki/w/%EC%9A%A9%EC%82%AC%EA%B3%A0%EA%B5%90%20%EB%8D%98%EC%A0%84%EA%B3%B5%EB%9E%B5%EA%B3%BC",
+    "https://mangabaka.org/56404"
+  ]
+}

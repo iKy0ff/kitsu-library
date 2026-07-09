@@ -1,0 +1,180 @@
+{
+  "kitsuId": "55259",
+  "title": "The Boy of Death",
+  "updatedAt": "2026-07-09T22:39:39.347Z",
+  "matchVersion": 2,
+  "mangabakaId": 1216,
+  "mangabakaUrl": "https://mangabaka.org/1216",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xLzAvMC8xLzkvNi80L2YvOTAzMy80NTYyL2I1Y2YvM2VlMjcyN2M0Yjc1",
+  "author": "Ryu",
+  "synopsis": "Lee Kyung-Ho’s mind was engulfed with ending his life due to bullying and the loss of his mother. His determination to commit suicide entices Sierra, a grim reaper who later offers him a contract. This contract blesses him with the ability to borrow the powers of the dead in exchange for sacrificing years from his lifespan. In order to get what he wants, he ends up accepting it...\n\n(Source: Naver, translated)",
+  "status": "Releasing",
+  "total": 329,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "supernatural",
+    "psychological",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Hidden Powers",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Bodyguard",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Contracts",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Death",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Attempted Suicide",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "118769",
+    "anime_planet": "the-boy-of-death",
+    "kitsu": "55259",
+    "manga_updates": "sdxx4cl",
+    "my_anime_list": "146891",
+    "shikimori": "146891"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list.nhn?titleId=730656&amp;weekday=tue&page=1",
+    "https://www.webtoons.com/fr/action/heroticket/list?title_no=2178",
+    "https://comic.naver.com/webtoon/list?titleId=730656",
+    "https://namu.wiki/w/%EC%82%AC%EC%8B%A0%EC%86%8C%EB%85%84",
+    "https://mangabaka.org/1216"
+  ]
+}

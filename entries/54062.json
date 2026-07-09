@@ -1,0 +1,314 @@
+{
+  "kitsuId": "54062",
+  "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+  "updatedAt": "2026-07-09T22:33:11.129Z",
+  "matchVersion": 2,
+  "mangabakaId": 29748,
+  "mangabakaUrl": "https://mangabaka.org/29748",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzYvMS9mLzEvMy81L2YvMTE0Ni80YzhjLzg0YWEvM2ZlZGZmMGY5MDVm",
+  "author": "Hiroyuki Aigamo, Matsuri Akai",
+  "synopsis": "When Akira’s class is magically summoned to another world, he and his classmates are awarded fantastical powers–but while one of them is lucky enough to become a true Hero, Akira becomes a mere Assassin. However, against all odds, the Assassin just might be the most powerful role of all! Harboring doubts about the intentions of the king, Akira uses his newfound strength as a master of the shadows to uncover the secrets and conspiracies of the crown. \n\n(Source: Seven Seas Entertainment)",
+  "status": "Releasing",
+  "total": 37,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "drama",
+    "romance",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Capable Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Princess",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Twins",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dark Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Summoned Into Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Conspiracy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "Matsuri Akai's My Status as an Assassin Obviously Exceeds the Hero's Light Novels Get TV Anime in October",
+      "date": "2025-02-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-17/matsuri-akai-my-status-as-an-assassin-obviously-exceeds-the-hero-light-novels-get-tv-anime-in-/.221311"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 5-11",
+      "date": "2024-05-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-05-08/north-american-anime-manga-releases-may-5-11/.210550"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 23-29",
+      "date": "2023-04-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-04-25/north-american-anime-manga-releases-april-23-29/.197477"
+    },
+    {
+      "title": "My Status as an Assassin Obviously Exceeds the Hero's Manga Resumes Following Creator's Recovery from Cancer",
+      "date": "2022-07-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-08/my-status-as-an-assassin-obviously-exceeds-the-hero-manga-resumes-following-creator-recovery-from-/.187510"
+    },
+    {
+      "title": "My Status as an Assassin Obviously Exceeds the Hero's Manga Artist Updates Outlook After Cancer Diagnosis",
+      "date": "2021-07-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-28/my-status-as-an-assassin-obviously-exceeds-the-hero-manga-artist-updates-outlook-after-cancer-/.175564"
+    },
+    {
+      "title": "Seven Seas Licenses Reborn as a Space Mercenary Manga",
+      "date": "2021-02-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-08/seven-seas-licenses-reborn-as-a-space-mercenary-manga/.169297"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 20-26",
+      "date": "2020-12-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-22/north-american-anime-manga-releases-december-20-26/.167748"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 19-25",
+      "date": "2020-07-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-07-23/north-american-anime-manga-releases-july-19-25/.162122"
+    },
+    {
+      "title": "My Status as an Assassin Obviously Exceeds the Hero's GN 1",
+      "date": "2020-03-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/my-status-as-an-assassin-obviously-exceeds-the-hero/gn-1/.157941"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 8-14",
+      "date": "2020-03-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-03-10/north-american-anime-manga-releases-march-8-14/.157320"
+    },
+    {
+      "title": "Seven Seas Licenses Bloom Into You Novels, Primitive Boyfriend Manga, More",
+      "date": "2019-07-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-07-05/seven-seas-licenses-bloom-into-you-novels-primitive-boyfriend-manga-more/.148551"
+    }
+  ],
+  "sources": {
+    "anilist": "103655",
+    "anime_planet": "my-status-as-an-assassin-obviously-exceeds-the-heros",
+    "anime_news_network": "22291",
+    "kitsu": "54062",
+    "manga_updates": "7zf6sx3",
+    "my_anime_list": "115067",
+    "shikimori": "115067"
+  },
+  "links": [
+    "https://comic-gardo.com/episode/10834108156661710102",
+    "https://comic.pixiv.net/works/6836",
+    "https://seiga.nicovideo.jp/comic/38660",
+    "https://piccoma.com/web/product/5366?etype=episode",
+    "https://sevenseasentertainment.com/series/my-status-as-an-assassin-obviously-exceeds-the-heros-manga/",
+    "https://over-lap.co.jp/Form/Product/ProductDetail.aspx?pid=ZG0022",
+    "https://mangabaka.org/29748"
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "kitsuId": "58185",
+  "title": "Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu",
+  "updatedAt": "2026-07-09T22:31:10.234Z",
+  "matchVersion": 2,
+  "mangabakaId": 911,
+  "mangabakaUrl": "https://mangabaka.org/911",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyMjY2My00U2EzSVRiWGRBZXMuanBn",
+  "author": "Ayano, Youichi Nishio",
+  "synopsis": "The story centers on Hokage Shinomiya, a high schooler who dreams of living on a desert island. He and some other classmates are inexplicably transported to a mysterious island in another world. Without electricity, gas, or water systems, it is Hokage's survival skills that put him in a leadership position. \n\n(Source: Anime News Network)",
+  "status": "Releasing",
+  "total": 52,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "ecchi",
+    "fantasy",
+    "romance",
+    "adult",
+    "harem",
+    "shounen",
+    "erotica"
+  ],
+  "tags": [
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Outdoor Activities",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Gyaru",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong-Willed Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullied Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Island",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Undergarment",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Erotica",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Seduction",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Handjob",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Kissing",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Masturbation",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Oral Intercourse",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Harassment",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fishing",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Suicide",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "recurrent"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trinity Seven Spinoff's Yōichi Nishio Launches Isekai Yurutto Survival Seikatsu Manga",
+      "date": "2020-08-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-08-07/trinity-seven-spinoff-yoichi-nishio-launches-isekai-yurutto-survival-seikatsu-manga/.162668"
+    }
+  ],
+  "sources": {
+    "anilist": "122663",
+    "anime_planet": "isekai-yurutto-survival-seikatsu",
+    "anime_news_network": "35031",
+    "kitsu": "58185",
+    "manga_updates": "bklnarg",
+    "my_anime_list": "130707",
+    "shikimori": "130707"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_FS01201900010000_68/",
+    "https://mangabaka.org/911"
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "kitsuId": "63447",
+  "title": "Neoui Aiga Aniya",
+  "updatedAt": "2026-07-09T22:44:15.390Z",
+  "matchVersion": 2,
+  "mangabakaId": 53844,
+  "mangabakaUrl": "https://mangabaka.org/53844",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84L2UvZS9jL2IvMy80L2UvNzgwNS80Zjk3LzlmMjQvNTVlMmQxM2MxMzk4",
+  "author": "Arongdri, Team Twinkle",
+  "synopsis": "Callia Taxicate was a mere commoner until she saved the life of Simon Tereloane, the son of a duke. In return, the duke helps make her commander of the emperor's knights and she becomes a war hero. Though she only sees Simon as a friend, the two unexpectedly spend the night together and she ends up pregnant! Terrified that he and his noble family won't accept a child out of wedlock, Callia runs away to raise the baby on her own. But how long can she hide this secret, especially from the father?! \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 133,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "josei"
+  ],
+  "tags": [
+    {
+      "name": "Trips",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Golden/Yellow-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Green-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blonde-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blonde-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "White/Silver-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Teasing Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Foreign",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dukes",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Knight",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dubious Consent",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Drunken Intercourse",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "One-Night Stand",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Fairy",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Pregnancy",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "150104",
+    "anime_planet": "its-not-your-baby",
+    "kitsu": "63447",
+    "manga_updates": "3irzxms",
+    "my_anime_list": "148708",
+    "shikimori": "148708"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=59253279",
+    "https://tapas.io/series/its-not-your-baby/info",
+    "https://webtoon.kakao.com/content/너의-아이가-아니야/3062",
+    "https://mangabaka.org/53844"
+  ]
+}

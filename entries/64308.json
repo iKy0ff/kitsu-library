@@ -1,0 +1,231 @@
+{
+  "kitsuId": "64308",
+  "title": "Pyegeubin Cheokaetdeon Hakgyosaenghwal",
+  "updatedAt": "2026-07-09T22:43:19.356Z",
+  "matchVersion": 2,
+  "mangabakaId": 55529,
+  "mangabakaUrl": "https://mangabaka.org/55529",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2IvOC81LzMvNy81L2MvZWFlNy80MTc3LzliZWUvYmZhYmQ0OGJlOWRm",
+  "author": "Ppirippara, Sand Fairy",
+  "synopsis": "The world discovered the essence of the human soul, Ideia, and found a way to materialize it. The stronger one's Ideia, the more power one has. In a society where hierarchy is determined by this power, F-rank Park Jinsung has always been his school's punching bag. In reality, though, he is an S-rank with extreme bloodlust, which he has been hiding to keep others safe. With only two years left of high school, will Jinsung be able to hide his killer side and prove rank isn't everything? \n\n(Source: Tapas)",
+  "status": "Completed",
+  "total": 153,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "drama",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Glasses-Wearing Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead with Trauma",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Knife",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fighters",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Contemporary Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Competitions",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Torture",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Traumatic Past",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "153994",
+    "anime_planet": "my-f-rank-high-school-life",
+    "kitsu": "64308",
+    "manga_updates": "tezjnvt",
+    "my_anime_list": "151111",
+    "shikimori": "151111"
+  },
+  "links": [
+    "https://page.kakao.com/content/59989217",
+    "https://tapas.io/series/my-f-rank-high-school-life",
+    "https://webtoon.kakao.com/content/폐급인-척했던-학교생활/3029",
+    "https://www.webtoons.com/fr/action/my-f-rank-high-school-life/list?title_no=9788",
+    "https://namu.wiki/w/%ED%8F%90%EA%B8%89%EC%9D%B8%20%EC%B2%99%ED%96%88%EB%8D%98%20%ED%95%99%EA%B5%90%EC%83%9D%ED%99%9C(%EC%9B%B9%ED%88%B0)",
+    "https://page.kakao.com/home?seriesId=59989217",
+    "https://mangabaka.org/55529"
+  ]
+}

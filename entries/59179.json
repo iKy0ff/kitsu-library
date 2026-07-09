@@ -1,0 +1,282 @@
+{
+  "kitsuId": "59179",
+  "title": "Doctor's Rebirth",
+  "updatedAt": "2026-07-09T22:36:22.145Z",
+  "matchVersion": 2,
+  "mangabakaId": 843,
+  "mangabakaUrl": "https://mangabaka.org/843",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzMvNi84LzEvZC81LzYvN2E2Zi80Zjg1L2FkMzkvNTNlODVhZDFlNDky",
+  "author": "Tae-Seon",
+  "synopsis": "A medical mission turns fatal as Dr. Jin’s life slips away. Miraculously, he wakes on a battlefield. Instinct takes over. He tends to patients before realizing that this is the martial arts world of The Reigning Heavenly Demon! He’s reincarnated as a child with mastery of modern medicine and soon his skills draw notice. From the renowned White-scaled Doctor to the infamous Gongson Family, everyone sees his potential. But how much is Dr. Jin willing to sacrifice before risking death again? \n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 237,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "drama",
+    "martial_arts",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Androgynous Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Androgynous Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Androgynous Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Long-Haired Male Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Bishounen",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Primarily Child Cast",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Deceptive Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hospital",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Doctors",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Surgeons",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Bromance",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Master-Disciple Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekaied Into a Novel",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnated in a Book World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Boys Love Subtext",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Illness",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Medical",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Female Author",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "129579",
+    "anime_planet": "doctor-live-again",
+    "kitsu": "59179",
+    "manga_updates": "pl7e38f",
+    "my_anime_list": "151060",
+    "shikimori": "151060"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=55989064&page=1",
+    "https://piccoma.com/web/product/66743",
+    "https://tapas.io/series/doctor-live-again/info",
+    "https://webtoon.kakao.com/content/의원-다시-살다/2440?tab=episode",
+    "https://www.webtoons.com/zh-hant/martial-arts/doctor-live-again/list?title_no=8534",
+    "https://namu.wiki/w/%EC%9D%98%EC%9B%90%2C%20%EB%8B%A4%EC%8B%9C%20%EC%82%B4%EB%8B%A4#s-5.1",
+    "https://page.kakao.com/home?seriesId=55989064",
+    "https://mangabaka.org/843"
+  ]
+}

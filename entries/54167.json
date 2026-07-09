@@ -1,0 +1,351 @@
+{
+  "kitsuId": "54167",
+  "title": "Tono no Kanri o Shite Miyou",
+  "updatedAt": "2026-07-09T22:32:22.860Z",
+  "matchVersion": 2,
+  "mangabakaId": 562,
+  "mangabakaUrl": "https://mangabaka.org/562",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzcvMi8yL2QvNy80LzUvMTY5Yi80YzlhL2FmNTAvZDgyZDg4Y2NiMmM3",
+  "author": "Guyo, Rune, Sousyu",
+  "synopsis": "Kosuke is killed by a truck, his soul is lost in a garden with two beautiful girls. The owner of the place will let him choose whether he will be reborn or summoned to another world, and he maintains the summons. In this new world, the main two girls who were created by the owner of the garden to help him find the mystery behind the world - a Dungeon tower. Will he be able to become the owner of this tower and manage it?",
+  "status": "Releasing",
+  "total": 98,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "ecchi",
+    "fantasy",
+    "romance",
+    "comedy",
+    "harem",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Fox Girls",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Small Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Kingdom Management",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Love Polygon",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic Items",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon Master",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Managers",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Servant",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "God-Human Relationship",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Summoned Into Another World",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Borderline H",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Sexual Acts",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Boobjob",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Cunnilingus",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Paizuri",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Threesome",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Virginity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Foxes",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goddess",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Fairy",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Vampires",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Succubus",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Spirits",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Godly Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "103736",
+    "anime_planet": "tou-no-kanri-wo-shitemiyou",
+    "anime_news_network": "36255",
+    "kitsu": "54167",
+    "manga_updates": "fp7kg2r",
+    "my_anime_list": "115369",
+    "shikimori": "115369"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_MF00000064010000_68/",
+    "https://seiga.nicovideo.jp/comic/33143",
+    "https://mangabaka.org/562"
+  ]
+}

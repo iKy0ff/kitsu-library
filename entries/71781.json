@@ -1,0 +1,187 @@
+{
+  "kitsuId": "71781",
+  "title": "How to Survive as a Time-Limited Dragon",
+  "updatedAt": "2026-07-09T22:41:17.104Z",
+  "matchVersion": 2,
+  "mangabakaId": 76986,
+  "mangabakaUrl": "https://mangabaka.org/76986",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzAvMC8yL2YvZi8wL2IvYTZkZS80ZGJhLzg2NTIvODQ0NGQ3MTc2ZWRm",
+  "author": "Hun-Il Jeong, Red Leaf",
+  "synopsis": "After suffering from an illness that cut his life short, Royce wakes up to find himself as a character from the story he read until his last moments. As a dragon hatchling, he believes his long life is just beginning. That is, until Royce realizes he's the son of the dragon who goes berserk due to his untimely death! Now, Royce is looking to race against the clock, even if his every move leads to a near-death experience. Will he be able to change his fate, or will he get stopped in his tracks? \n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 50,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "comedy",
+    "drama",
+    "fantasy",
+    "slice_of_life",
+    "adventure",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Purple/Violet-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Purple/Violet-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Black-Haired Character",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dragon Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Nonhuman Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fairy",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "181994",
+    "anime_planet": "the-dragons-guide-to-defying-death",
+    "kitsu": "71781",
+    "manga_updates": "5kkrgj8",
+    "my_anime_list": "169517",
+    "shikimori": "169517"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/167931",
+    "https://page.kakao.com/content/62074243",
+    "https://tapas.io/series/the-dragons-guide-to-defying-death/info",
+    "https://webtoon.kakao.com/content/시한부-드래곤의-생존법/3962?tab=episode",
+    "https://namu.wiki/w/%EC%8B%9C%ED%95%9C%EB%B6%80%20%EB%93%9C%EB%9E%98%EA%B3%A4%EC%9D%98%20%EC%83%9D%EC%A1%B4%EB%B2%95#s-5.1",
+    "https://mangabaka.org/76986"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "kitsuId": "78551",
+  "title": "Lilim Holic",
+  "updatedAt": "2026-07-09T22:32:30.947Z",
+  "matchVersion": 2,
+  "mangabakaId": 586626,
+  "mangabakaUrl": "https://mangabaka.org/586626",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMTU1MS1sTVVqekNQRWUxSmwuanBn",
+  "author": "Musawo",
+  "synopsis": "A society where humans and succubi coexist. The protagonist, Hayato Yui—an otaku—finds himself drawn to Emu Kato: a fellow classmate, a succubus, and a member of their class's highest social caste. \"It isn't lust; I've fallen for her as a person,\" the outwardly reserved Hayato tells himself. Meanwhile, the equally reserved Emu secretly harbors feelings for Hayato and is eager to bridge the distance between them. Their desires intertwine in this \"misguided romantic comedy\"! \n\n(Source: Magazine Pocket, translated)",
+  "status": "Releasing",
+  "total": 8,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "ecchi",
+    "romance",
+    "supernatural",
+    "school_life",
+    "shounen",
+    "fantasy"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Otaku",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Black-Haired Character",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Red-Haired Character",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Red-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "High School Student Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "High School Student Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Interspecies Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Student-Student Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Succubus",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "211551",
+    "anime_planet": "lilim-holic",
+    "manga_updates": "d9ekllw",
+    "my_anime_list": "193320"
+  },
+  "links": [
+    "https://pocket.shonenmagazine.com/title/03242/episode/438161",
+    "https://x.com/koiuso_official",
+    "https://twitter.com/koiuso_official",
+    "https://mangabaka.org/586626"
+  ]
+}

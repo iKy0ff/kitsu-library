@@ -1,0 +1,331 @@
+{
+  "kitsuId": "57676",
+  "title": "The Young Lady Is a Royal Chef",
+  "updatedAt": "2026-07-09T22:48:07.886Z",
+  "matchVersion": 2,
+  "mangabakaId": 2622,
+  "mangabakaUrl": "https://mangabaka.org/2622",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85LzMvMi82LzEvMC8wLzkvODcxNi80Y2ZjLzk2Y2EvYmJjYTYxYTBlMTg4",
+  "author": "Risha",
+  "synopsis": "Sena’s been tossed into another world, as the despised daughter of a noble family. Her little restaurant was her refuge in her last life, so she’s got some tricks up her sleeve—cooking skills! As Senianna, she’ll put her brains and fine-tuned taste buds (Korean fried chicken, anyone?) to the test so she can take back the kitchen and gain this society’s esteemed title of Chef Royale. Will her cuisine reign supreme over the empire and bring her the sweet and salty balance of power and affection? \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 225,
+  "type": "manhwa",
+  "genres": [
+    "drama",
+    "fantasy",
+    "romance",
+    "historical",
+    "shoujo",
+    "gourmet"
+  ],
+  "tags": [
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blue-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Green-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Abused Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Saint Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Princely Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Prince Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Memories of Past Life",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Chef",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Dukes",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Priestess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Saint/Saintess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Brothers",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sibling Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Stepbrother-Stepsister Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Stepmother-Stepdaughter Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in a Book World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Abuse",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Conspiracy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Food and Beverage",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Suicide",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Art Style Change",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "124966",
+    "anime_planet": "lady-chef-royale",
+    "kitsu": "57676",
+    "manga_updates": "dchcc35",
+    "my_anime_list": "148033",
+    "shikimori": "148033"
+  },
+  "links": [
+    "https://page.kakao.com/home/%EB%A1%9C%EC%97%B4-%EC%85%B0%ED%94%84-%EC%98%81%EC%95%A0%EB%8B%98/55268483",
+    "https://piccoma.com/web/product/46395",
+    "https://tapas.io/series/lady-chef-royale/info",
+    "https://namu.wiki/w/%EB%A1%9C%EC%97%B4%20%EC%85%B0%ED%94%84%20%EC%98%81%EC%95%A0%EB%8B%98(%EC%9B%B9%ED%88%B0)",
+    "https://page.kakao.com/content/55268483",
+    "https://mangabaka.org/2622"
+  ]
+}

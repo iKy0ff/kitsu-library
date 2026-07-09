@@ -1,0 +1,124 @@
+{
+  "kitsuId": "76239",
+  "title": "Apocalypse Descends, I Reincarnated as a Tyrant",
+  "updatedAt": "2026-07-09T22:42:26.703Z",
+  "matchVersion": 2,
+  "mangabakaId": 189926,
+  "mangabakaUrl": "https://mangabaka.org/189926",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5NTUwOS1kQ3NhV1k1RGRrb1gucG5n",
+  "author": "Ye Kong",
+  "synopsis": "Luo Hao was betrayed by superpowered beings during the chaos of the monster-infested apocalypse. As he lay dying, filled with regret, he miraculously awoke—back to the day before the end of the world began. This time, however, he has a weapon: a limitless Evolution System capable of making him stronger without end. Armed with foresight and ruthless resolve, Luo Hao swears he will take revenge on those who wronged him, and build an unbreakable fortress amid the ashes of civilization. \n\nBut the world isn’t the same as before—superpowered beings awaken earlier than expected. A shadowy force lurks behind the apocalypse. The Evolution System itself seems to be pushing Luo Hao into something darker… and irreversible. As power twists his mind and fate spirals out of control, can Luo Hao truly build his empire in the ruins, or will he become the very monster he once feared? \n\n(Source: Tencent, translated)",
+  "status": "Releasing",
+  "total": 26,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "ecchi",
+    "fantasy"
+  ],
+  "tags": [
+    {
+      "name": "Regressed Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Apocalypse",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "195509",
+    "anime_planet": "apocalypse-descends-i-reincarnated-as-a-tyrant",
+    "kitsu": "76239",
+    "manga_updates": "gg8d5gk"
+  },
+  "links": [
+    "https://ac.qq.com/Comic/comicInfo/id/655485",
+    "https://mangabaka.org/189926"
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "kitsuId": "60153",
+  "title": "Hero Killer",
+  "updatedAt": "2026-07-09T22:36:26.097Z",
+  "matchVersion": 2,
+  "mangabakaId": 1663,
+  "mangabakaUrl": "https://mangabaka.org/1663",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzkvMi83LzYvYS9iL2EvMjk2ZC80MTM1L2E4ZTcvOGU1ZDE5MWRkNTA1",
+  "author": "Kkulbeol",
+  "synopsis": "The world is in constant turmoil, with constant wars breaking out between Heroes and Villains. Gifted with supernatural abilities, one lone girl sets out on a bloody path for revenge against the injustices of the world she lives in. With the constant clashes between titans, no one is safe. If no one is willing to protect the innocent, who are the real heroes, and who are the real villains? What truly separates one from the other?\n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 279,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "supernatural",
+    "adventure",
+    "comedy",
+    "sci-fi",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Armed Combat",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Strategic Battles",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unarmed Combat",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Superheroes",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Chibi",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Villains",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Villain",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Villain Protagonist",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Red-Eyed Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Red-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Red-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Long-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ruthless Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Muscles",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Scars",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Masked Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong-Willed Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong-Willed Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Evil Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Aggressive Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ambitious Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Arrogant Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Assertive Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Badass Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blood-Thirsty Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Confident Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Cunning Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Easygoing Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Fearless Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Greedy Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Mean Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Muscular Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Observant Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Pragmatic Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rude Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shameless Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Stoic Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Straightforward Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strategic Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong-Willed Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Stubborn Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Violent Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ambitious Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Blunt Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Observant Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Scarred Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong-Willed Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unaging Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Quirky Character",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rival",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Kingdom",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Shapeshifting",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Age Transformation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hidden past",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Past Encounter",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Memory Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mind control",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Suits",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Knight",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Servant",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Soldier",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Spy",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Half-Siblings",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Older Sister",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Twins",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Love-Hate Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dark Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dystopian",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Vampires",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Abandonment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Conspiracy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Amputee",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Inheritance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Organized Crime",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gangs",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rescue",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reunion",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Secret Organizations",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Traumatic Past",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "132093",
+    "anime_planet": "hero-killer-kkulbeol",
+    "kitsu": "60153",
+    "manga_updates": "z98hnn5",
+    "my_anime_list": "147290",
+    "shikimori": "147290"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list.nhn?titleId=766563",
+    "https://series.naver.com/comic/detail.nhn?productNo=5947808",
+    "https://www.dongmanmanhua.cn/BOY/herokiller/list?title_no=1618",
+    "https://www.webtoons.com/de/action/hero-killer/list?title_no=3403",
+    "https://www.webtoons.com/en/action/hero-killer/list?title_no=2745",
+    "https://www.webtoons.com/es/action/hero-killer/list?title_no=3422",
+    "https://www.webtoons.com/fr/action/hero-killer/list?title_no=3151",
+    "https://www.webtoons.com/th/action/hero-killer/list?title_no=2840",
+    "https://comic.naver.com/webtoon/list?titleId=766563",
+    "https://namu.wiki/w/%ED%9E%88%EC%96%B4%EB%A1%9C%20%ED%82%AC%EB%9F%AC(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/1663"
+  ]
+}

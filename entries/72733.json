@@ -1,0 +1,81 @@
+{
+  "kitsuId": "72733",
+  "title": "Nekomimi Shoujo wa Mori de Slow Life wo Okuritai: Mofumofu wa Shomou Shimashita ga, Seijo to ka Ouji-sama to ka wa Chuumongai desu",
+  "updatedAt": "2026-07-09T22:35:45.960Z",
+  "matchVersion": 2,
+  "mangabakaId": 7313,
+  "mangabakaUrl": "https://mangabaka.org/7313",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3ODE3OC1pYUwybVhkSEZzZzYuanBn",
+  "author": "Higashi 385, yocco",
+  "synopsis": "Let’s strive for a soothing and fluffy life at the forest atelier! ♪\n\nChise was an office worker who could not touch the animals she loves because of allergies. One day, she died while protecting a cat, but God saw her good deed and reincarnated her in another world! Reincarnated as a cat-eared girl, Chise has the skills to tame and summon spirits, as well as the knowledge to make potions, and is surrounded by the fluffies of her dreams...?",
+  "status": "Completed",
+  "total": 21,
+  "type": "manga",
+  "genres": [
+    "fantasy",
+    "slice_of_life",
+    "comedy",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Nekomimi",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "178178",
+    "anime_planet": "nekomimi-shoujo-wa-mori-de-slow-life-wo-okuritai-mofumofu-wa-shomoushimashita-ga-seijo-toka-ouji-sama-toka-wa-chuumongai-desu",
+    "kitsu": "72733",
+    "manga_updates": "cbgrqtj",
+    "my_anime_list": "175593",
+    "shikimori": "175593"
+  },
+  "links": [
+    "https://takecomic.jp/series/5c52e6a9b5d8a",
+    "https://gammaplus.takeshobo.co.jp/manga/nekomimi/",
+    "https://mangabaka.org/7313"
+  ]
+}

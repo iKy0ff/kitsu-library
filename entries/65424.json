@@ -1,0 +1,407 @@
+{
+  "kitsuId": "65424",
+  "title": "Tsue to Tsurugi no Wistoria",
+  "updatedAt": "2026-07-09T22:34:41.563Z",
+  "matchVersion": 2,
+  "mangabakaId": 1737,
+  "mangabakaUrl": "https://mangabaka.org/1737",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzYvYi85L2YvZi9iLzUvNjJkMi80ZDNhLzlhYmIvYTVkZmQyMTE2MmMw",
+  "author": "Fujino Oomori",
+  "synopsis": "RISE OF THE NO-TALENT\n\nWill Serfort dreams of keeping his promise to a childhood friend by becoming a Magia Vander, one of the mighty magicians who sit atop the Wizard’s Tower. However, he is unable to cast even the simplest of spells, leaving him to fight dungeon monsters to earn credits at Regarden Magical Academy. As if that weren’t enough, he finds himself putting his sword skills to the test against a bullying professor!\n\n*Source: KODANSHA USA, Vol. 1*",
+  "status": "Releasing",
+  "total": 65,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "romance",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullied Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Male Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Famous Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Stalkerish Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Gay Character",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Underestimated Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Friend",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Childhood Promise",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Teachers",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Childhood Friends",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Classmates",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Boys Love",
+      "group": "Genre",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Jealousy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, March 29-April 4",
+      "date": "2026-04-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-03/north-american-anime-manga-releases-march-29-april-4/.235978"
+    },
+    {
+      "title": "Read it First: Manga, Light Novel Sources for Spring 2026 Anime",
+      "date": "2026-03-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2026-03-18/read-it-first-manga-light-novel-sources-for-spring-2026-anime/.234350"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 8-14",
+      "date": "2026-02-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-02-13/north-american-anime-manga-releases-february-8-14/.233978"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 25-31",
+      "date": "2026-01-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-30/north-american-anime-manga-releases-january-25-31/.233494"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 11-17",
+      "date": "2024-08-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-15/north-american-anime-manga-releases-august-11-17/.214283"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 10-16",
+      "date": "2024-03-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-03-13/north-american-anime-manga-releases-march-10-16/.208671"
+    },
+    {
+      "title": "Wistoria: Wand and Sword Manga Gets TV Anime in July",
+      "date": "2024-02-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-02-07/wistoria-wand-and-sword-manga-gets-tv-anime-in-july/.207333"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 1-7",
+      "date": "2023-10-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-10-03/north-american-anime-manga-releases-october-1-7/.203097"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 10-16",
+      "date": "2023-09-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-15/north-american-anime-manga-releases-september-10-16/.202285"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 16-22",
+      "date": "2023-07-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-07-18/north-american-anime-manga-releases-july-16-22/.200429"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 21-27",
+      "date": "2023-05-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-25/north-american-anime-manga-releases-may-21-27/.198359"
+    },
+    {
+      "title": "Wistoria: Wand & Sword Manga Ends 1st Part, Gets Epilogue",
+      "date": "2023-05-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-08/wistoria-wand-and-sword-manga-ends-1st-part-gets-epilogue/.197873"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 26-April 1",
+      "date": "2023-03-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-03-28/north-american-anime-manga-releases-march-26-april-1/.196536"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 5-11",
+      "date": "2023-02-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-02-07/north-american-anime-manga-releases-february-5-11/.194626"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 29-February 4",
+      "date": "2023-01-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-01-31/north-american-anime-manga-releases-january-29-february-4/.194388"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 27-December 3",
+      "date": "2022-11-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-30/north-american-anime-manga-releases-november-27-december-3/.192388"
+    },
+    {
+      "title": "The Fall 2022 Manga Guide - Wistoria: Wand and Sword",
+      "date": "2022-09-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2022-09-27/the-fall-2022-manga-guide/wistoria-wand-and-sword/.189787"
+    },
+    {
+      "title": "Kodansha Comics Announces 14 Manga Titles for Next Fall",
+      "date": "2021-11-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-21/kodansha-comics-announces-14-manga-titles-for-next-fall/.179796"
+    },
+    {
+      "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon's Fujino Ōmori Writes Story for New Manga",
+      "date": "2020-11-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-08/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-fujino-omori-writes-story-for-new-manga/.166086"
+    },
+    {
+      "title": "DanMachi's Fujino Ōmori Launches New Dungeon Fantasy Manga on December 9",
+      "date": "2020-10-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-14/danmachi-fujino-omori-launches-new-dungeon-fantasy-manga-on-december-9/.165228"
+    }
+  ],
+  "sources": {
+    "anilist": "125116",
+    "anime_planet": "wistoria-wand-and-sword",
+    "anime_news_network": "24984",
+    "kitsu": "65424",
+    "manga_updates": "eu3pzlw",
+    "my_anime_list": "131924",
+    "shikimori": "131924"
+  },
+  "links": [
+    "https://comic-days.com/episode/14079602755492034820",
+    "https://comic.pixiv.net/works/7084",
+    "https://comics.inkr.com/title/3642-wistoria-wand-and-sword",
+    "https://kmanga.kodansha.com/title/10016/episode/322320",
+    "https://kodansha.us/series/wistoria-wand-and-sword/",
+    "https://pocket.shonenmagazine.com/episode/13933686331760224326",
+    "https://shonenmagazine.com/special_page/wistoria/",
+    "https://www.omoi.com/series/wistoria-wand-and-sword",
+    "https://x.com/tsuetotsurugi",
+    "https://en.wikipedia.org/wiki/Wistoria:_Wand_and_Sword",
+    "https://ja.wikipedia.org/wiki/杖と剣のウィストリア",
+    "https://twitter.com/tsuetotsurugi",
+    "https://mangabaka.org/1737"
+  ]
+}

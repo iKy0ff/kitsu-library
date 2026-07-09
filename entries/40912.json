@@ -1,0 +1,144 @@
+{
+  "kitsuId": "40912",
+  "title": "LUMINE",
+  "updatedAt": "2026-07-09T22:39:35.272Z",
+  "matchVersion": 2,
+  "mangabakaId": 30728,
+  "mangabakaUrl": "https://mangabaka.org/30728",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNDA5MTIvcG9zdGVyX2ltYWdlLzM3MTNhMzdlYzMzZTg1MGI4MzVhZDVhNzkwOWU3ZjlmLmpwZw",
+  "author": "Emma Krogell",
+  "synopsis": "A runaway werewolf, Lumine, meets a witch boy named Kody and is being hired to work as his bodyguard. Lumine, being determined to befriend Kody, tries everything to get Kody to trust him, while Kody tries to keep Lumine away from him. Their life gets even more complicated after an unfortunate event that leaves them to try to survive on their own.\n\n[Original English](https://www.webtoons.com/en/fantasy/lumine/list?title_no=1022)",
+  "status": "Completed",
+  "total": 177,
+  "type": "other",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "mystery",
+    "supernatural",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Animal Characteristics",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Animal Transformation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Bodyguard",
+      "group": "Occupations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Werewolves",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "OEL",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anime_planet": "lumine",
+    "kitsu": "40912",
+    "manga_updates": "lfmtuxy"
+  },
+  "links": [
+    "https://mangabaka.org/30728"
+  ]
+}

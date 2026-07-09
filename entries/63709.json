@@ -1,0 +1,330 @@
+{
+  "kitsuId": "63709",
+  "title": "Arafo Otoko no Isekai Tsuuhan Seikatsu",
+  "updatedAt": "2026-07-09T22:52:45.013Z",
+  "matchVersion": 2,
+  "mangabakaId": 4246,
+  "mangabakaUrl": "https://mangabaka.org/4246",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzYvYS84L2QvMi8zL2YvNjNjYy80YzBkLzgyNmUvMjE5NDcxNmNkOTMw",
+  "author": "Hifumi Asakura, Umiharu",
+  "synopsis": "Ken’ichi, a single man who’s almost 40, is suddenly transferred to another world. As he navigates his way through the dangerous forests of that world, he realizes that he can use a huge online shopping site. Ken’ichi aims to use his cheat ability to live a slow life in another world!\n\n*Source: Manga UP! Global*",
+  "status": "Completed",
+  "total": 61,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "ecchi",
+    "fantasy",
+    "romance",
+    "slice_of_life",
+    "harem",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Nekomimi",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Small Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Capable Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Popular Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Middle-Aged Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Sexually Active Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Company",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Chasing After Love Interest",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unrequited Love Becomes Requited",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Businessman/Businesswoman",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Merchants",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Older Male Younger Female",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Acts",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Virginity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cohabitation",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Economics",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "recurrent"
+    }
+  ],
+  "news": [
+    {
+      "title": "The Daily Life of a Middle-Aged Online Shopper in Another World Manga Gets TV Anime in 2025",
+      "date": "2024-08-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-16/the-daily-life-of-a-middle-aged-online-shopper-in-another-world-manga-gets-tv-anime-in-2025/.214371"
+    },
+    {
+      "title": "Umiharu's The Daily Life of a Middle-Aged Online Shopper in Another World Manga Ends on May 17 (Updated)",
+      "date": "2024-04-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-18/umiharu-the-daily-life-of-a-middle-aged-online-shopper-in-another-world-manga-ends-on-may-17/.209967"
+    },
+    {
+      "title": "Bookwalker Adds The Amazing Village Creator, The 6th Loop, 100+ More Titles From Square Enix",
+      "date": "2024-01-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-05/bookwalker-adds-the-amazing-village-creator-the-6th-loop-100-more-titles-from-square-enix/.205916"
+    },
+    {
+      "title": "Comikey Adds 10 Manga from Square Enix This Month",
+      "date": "2023-06-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-06-10/comikey-adds-10-manga-from-square-enix-this-month/.199001"
+    },
+    {
+      "title": "Comikey Media Inc. Announces 23 New Manga & Webtoon Titles for June 2023",
+      "date": "2023-06-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2023-06-10/comikey-media-inc-announces-23-new-manga-and-webtoon-titles-for-june-2023/.199007"
+    }
+  ],
+  "sources": {
+    "anilist": "126273",
+    "anime_planet": "the-daily-life-of-a-middle-aged-online-shopper-in-another-world",
+    "anime_news_network": "27488",
+    "kitsu": "63709",
+    "manga_updates": "v5vp4fa",
+    "my_anime_list": "147199",
+    "shikimori": "147199"
+  },
+  "links": [
+    "https://global.manga-up.com/manga/36",
+    "https://magazine.jp.square-enix.com/gfantasy/story/arafo_isekaitsuhan/",
+    "https://en.wikipedia.org/wiki/The_Daily_Life_of_a_Middle-Aged_Online_Shopper_in_Another_World",
+    "https://mangabaka.org/4246"
+  ]
+}

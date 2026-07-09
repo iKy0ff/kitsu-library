@@ -1,0 +1,191 @@
+{
+  "kitsuId": "76925",
+  "title": "Haimiya Senpai wa Kowakute Kawaii",
+  "updatedAt": "2026-07-09T22:31:46.802Z",
+  "matchVersion": 2,
+  "mangabakaId": 564580,
+  "mangabakaUrl": "https://mangabaka.org/564580",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 71
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzMvZS84LzEvMC84LzIvMTRiNS80OTJkL2FmZTcvYzY2MDg3MjU2NmRi",
+  "author": "Sumu Kamiyama",
+  "synopsis": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason…this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n\n*Source: Manga UP! Global*",
+  "status": "Releasing",
+  "total": 35,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "romance",
+    "slice_of_life",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Gyaru",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Delinquent Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "High School Student Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Scary Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "High School Student Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Pushover Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Piercings",
+      "group": "Objects",
+      "weight": "core"
+    },
+    {
+      "name": "Older Female Younger Male",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Senpai-Kouhai Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Student-Student Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "201773",
+    "anime_planet": "haimiya-senpai-wa-kowakute-kawaii",
+    "manga_updates": "i870muo",
+    "my_anime_list": "188409",
+    "shikimori": "188409"
+  },
+  "links": [
+    "https://animestore.docomo.ne.jp/animestore/book/content?titleid=BKT00648305",
+    "https://booklive.jp/product/index/title_id/20166770/vol_no/001",
+    "https://books.apple.com/jp/book/%E7%81%B0%E5%AE%AE%E5%85%88%E8%BC%A9%E3%81%AF%E6%80%96%E3%81%8F%E3%81%A6%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84-1%E5%B7%BB/id6756957985",
+    "https://books.rakuten.co.jp/search?g=001&seriesIds=BW002RHB40&s=2&l-id=item-c-series-book-01",
+    "https://bookwalker.jp/series/571573",
+    "https://comic.k-manga.jp/title/238152/pv",
+    "https://comic.pixiv.net/store/products/2128472",
+    "https://dokusho-ojikan.jp/series_list/series_id=930787",
+    "https://ebookjapan.yahoo.co.jp/books/956911",
+    "https://magazine.jp.square-enix.com/top/comics/detail/9784301003137",
+    "https://renta.papy.co.jp/renta/sc/frm/item/428500",
+    "https://www.amazon.co.jp/dp/B0GC5D9R8C",
+    "https://www.cmoa.jp/title/350168",
+    "https://www.comipo.app/product/BJ02386117",
+    "https://www.manga-up.com/titles/1626",
+    "https://www.mangazenkan.com/items/12657656/",
+    "https://x.com/haimiya_senpai",
+    "https://mangabaka.org/564580"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "kitsuId": "76890",
+  "title": "Cheonui Eolgul",
+  "updatedAt": "2026-07-09T22:49:23.648Z",
+  "matchVersion": 2,
+  "mangabakaId": 204542,
+  "mangabakaUrl": "https://mangabaka.org/204542",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 90
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzMvMi9hLzIvNS82LzQvODZiNy80ZTQyL2EyYjcvMDc4MWVkOTljNmYy",
+  "author": "Gamja Kim, Kaji, Sosan",
+  "synopsis": "*“What will people call him?”*\n\nSomeone asked. But no one could answer. A transcendent being appeared in the world. Creating a new history in the film industry.\n\n(Source: KakaoPage, translated)",
+  "status": "Hiatus",
+  "total": 68,
+  "type": "manhwa",
+  "genres": [
+    "drama",
+    "fantasy",
+    "shounen",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Acting",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Regressed Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Theater",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Actor",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Entertainment Industry",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Showbiz",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "193298",
+    "anime_planet": "a-thousand-faces",
+    "manga_updates": "i5gi4h8",
+    "my_anime_list": "182242",
+    "shikimori": "182242"
+  },
+  "links": [
+    "https://page.kakao.com/content/66730528",
+    "https://mangabaka.org/204542"
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "kitsuId": "59180",
+  "title": "The Lady Wants to Rest",
+  "updatedAt": "2026-07-09T22:48:43.764Z",
+  "matchVersion": 2,
+  "mangabakaId": 47999,
+  "mangabakaUrl": "https://mangabaka.org/47999",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzMvMC84L2UvZC82LzIvNWU3Yi80NjFiL2FjYjYvYWVmYzVmNWE4YmRl",
+  "author": "Somttam, Yu-In",
+  "synopsis": "It is my cursed destiny to be reborn endlessly. A king, an archmage, a slave, a saint, a witch... I’ve done it all in my thousand years of life, and frankly, I need a break! My goal now is simple: to live like an absolute sloth. Unfortunately, I am Rubia, the daughter of a grand duke with a demanding family and a fiancé to boot. To live my dream sloth life, I’m running away from it all... except no matter where I go, nobody will leave me be! I just want to nap, but being lazy is hard work! \n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 212,
+  "type": "manhwa",
+  "genres": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "romance",
+    "slice_of_life",
+    "drama",
+    "school_life",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Abused Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Blunt Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Carefree Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Eccentric Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Lazy Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Curses",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Friend",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Love At First Sight",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Memories of Past Life",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Prince",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Princess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Saint/Saintess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Harem",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Arranged Marriage",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "130897",
+    "anime_planet": "the-lady-needs-a-break",
+    "kitsu": "59180",
+    "manga_updates": "czp4zxn",
+    "my_anime_list": "147951",
+    "shikimori": "147951"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=56673674",
+    "https://piccoma.com/web/product/81982",
+    "https://tapas.io/series/the-lady-needs-a-break/info",
+    "https://th.kakaowebtoon.com/content/เลดี้คนนี้ขอพักบ้าง/216",
+    "https://webtoon.kakao.com/content/쉬고-싶은-레이디/2482",
+    "https://page.kakao.com/content/56673674",
+    "https://mangabaka.org/47999"
+  ]
+}

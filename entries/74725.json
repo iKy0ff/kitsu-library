@@ -1,0 +1,130 @@
+{
+  "kitsuId": "74725",
+  "title": "Makai Youjo ni Tensei Shita Oji-san wa Heiwa no Tame ni Maou ni Naritai",
+  "updatedAt": "2026-07-09T22:52:28.691Z",
+  "matchVersion": 2,
+  "mangabakaId": 65769,
+  "mangabakaUrl": "https://mangabaka.org/65769",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5Nzg3Ni1ZQjdVZ1F1VkRrR3oucG5n",
+  "author": "Kyo Kaisei",
+  "synopsis": "An old man was laid off from his job at a black company. While wallowing in the depths of his despair, he encounters a mysterious stone that sends him to another world filled with magic and alchemy. The man finds himself reincarnated as Hiyo — the youngest daughter of the demon lord. \n\nHiyo attempts to make a dazzling fresh start in life by utilizing both her newfound magical powers and prior tribulations as a salaryman, however, the demon world is in the midst of a battle for succession. In order to change herself, the ex-old man is determined to defy the demon lord and her siblings. And after meeting Ernest, a hero with his own circumstances, they work together to take over the throne of the demon lord — for both the sake of peace and to search for a place to belong. The two of them defy destiny, even if it means destroying the world to do so... \n\n(Source: Cmoa Comics, translated) \n\n*Note: Includes three extra chapters.*",
+  "status": "Completed",
+  "total": 16,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "gender_bender",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Cute Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Loli Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Vampires",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "197876",
+    "anime_planet": "makai-youjo-ni-tensei-shita-oji-san-wa-heiwa-no-tame-ni-naritai",
+    "anime_news_network": "30362",
+    "kitsu": "74725",
+    "manga_updates": "1gv8197"
+  },
+  "links": [
+    "https://mangabaka.org/65769"
+  ]
+}

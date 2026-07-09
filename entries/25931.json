@@ -1,0 +1,315 @@
+{
+  "kitsuId": "25931",
+  "title": "Shoujo Shuumatsu Ryokou",
+  "updatedAt": "2026-07-09T22:54:22.391Z",
+  "matchVersion": 2,
+  "mangabakaId": 6805,
+  "mangabakaUrl": "https://mangabaka.org/6805",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2YvOS85LzgvMC82LzgvNjA1ZC80MzJhL2FmNWQvOTkyY2ZkZTJlMWY3",
+  "author": "Tsukumizu",
+  "synopsis": "Civilization is dead, but not Chito and Yuuri. Time to hop aboard their beloved Kettenkrad motorbike and wander what’s left of the world! Sharing a can of soup or scouting for spare parts might not be the experience they were hoping for, but all in all, life isn’t too bad…\n\n*Source: Yen Press, Vol. 1*",
+  "status": "Completed",
+  "total": 47,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "sci-fi",
+    "slice_of_life",
+    "drama",
+    "psychological",
+    "seinen",
+    "tragedy",
+    "award_winning"
+  ],
+  "tags": [
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Chibi",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Girls Doing Cute Things",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-GL with Two Female Leads",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Snowscape",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Tanks",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Robots",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Girls Love Subtext",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cosmic Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Loneliness",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Philosophy",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Future",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Award Winning",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sketchy",
+      "group": "Work Info",
+      "weight": "defining"
+    },
+    {
+      "name": "Inconclusive Ending",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Episodic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Short Chapters",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "Girls' Last Tour Manga Gets Prologue Manga Series on June 26",
+      "date": "2026-06-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-13/girls-last-tour-manga-gets-prologue-manga-series-on-june-26/.238474"
+    },
+    {
+      "title": "Acquisitions Announcement: Yen Press Tops Off Summer List with Fourteen New Licenses",
+      "date": "2026-02-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2026-02-14/acquisitions-announcement-yen-press-tops-off-summer-list-with-fourteen-new-licenses/.234166"
+    },
+    {
+      "title": "Yen Press Licenses Scarlet, My Yandere Girlfriend Hiding in the Dungeon Kills Me Over and Over Again Novels, 11 Manga",
+      "date": "2026-02-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-02-13/yen-press-licenses-scarlet-my-yandere-girlfriend-hiding-in-the-dungeon-kills-me-over-and-over-again-/.234154"
+    },
+    {
+      "title": "SSSS.GRIDMAN, Girls' Last Tour Win at 50th Seiun Science-Fiction Awards",
+      "date": "2019-07-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-07-27/ssss.gridman-girls-last-tour-win-at-50th-seiun-science-fiction-awards/.149425"
+    },
+    {
+      "title": "SSSS.GRIDMAN, Cells at Work, Beatless, Hisone & Masotan, Planet With, Penguin Highway Nominated for Seiun Sci-Fi Awards",
+      "date": "2019-04-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-04-28/ssss.gridman-cells-at-work-beatless-hisone-and-masotan-planet-with-penguin-highway-nominated-for-/.146235"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 17-23",
+      "date": "2019-02-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-02-20/north-american-anime-manga-releases-february-17-23/.143639"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 9-15",
+      "date": "2018-12-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-12-11/north-american-anime-manga-releases-december-9-15/.140662"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 25-March 3",
+      "date": "2018-02-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-02-27/north-american-anime-manga-releases-february-25-march-3/.128341"
+    },
+    {
+      "title": "My Brother's Husband Ranks in YALSA's Top 10 Graphic Novels for Teens",
+      "date": "2018-02-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-02-16/my-brother-husband-ranks-in-yalsa-top-10-graphic-novels-for-teens/.127899"
+    },
+    {
+      "title": "Tsukumizu's Girls' Last Tour Manga Ends on Friday",
+      "date": "2018-01-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-01-06/tsukumizu-girls-last-tour-manga-ends-on-friday/.126125"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 12-18",
+      "date": "2017-11-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-11-14/north-american-anime-manga-releases-november-12-18/.124023"
+    },
+    {
+      "title": "Girls' Last Tour GN 2",
+      "date": "2017-10-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/girls-last-tour/gn-2/.121802"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 20-26",
+      "date": "2017-08-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-08-22/north-american-anime-manga-releases-august-20-26/.120435"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 21-27",
+      "date": "2017-05-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-05-23/north-american-anime-manga-releases-may-21-27/.116502"
+    },
+    {
+      "title": "Yen Press Licenses Tsukumizu's Shōjo Shūmatsu Ryokō Manga",
+      "date": "2016-09-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-09-25/yen-press-licenses-tsukumizu-shojo-shumatsu-ryoko-manga/.106860"
+    }
+  ],
+  "sources": {
+    "anilist": "85412",
+    "anime_planet": "girls-last-tour",
+    "anime_news_network": "18751",
+    "kitsu": "25931",
+    "manga_updates": "txtyi0t",
+    "my_anime_list": "72467",
+    "shikimori": "72467"
+  },
+  "links": [
+    "https://kuragebunch.com/episode/10834108156628843815",
+    "https://x.com/shojoshumatsu",
+    "https://yenpress.com/series/girls-last-tour",
+    "https://en.wikipedia.org/wiki/Girls%27_Last_Tour",
+    "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C",
+    "https://mangabaka.org/6805"
+  ]
+}

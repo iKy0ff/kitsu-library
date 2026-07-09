@@ -1,0 +1,174 @@
+{
+  "kitsuId": "73671",
+  "title": "Isekai de Mizu no Dai Seirei Yattemasu.",
+  "updatedAt": "2026-07-09T22:32:10.853Z",
+  "matchVersion": 2,
+  "mangabakaId": 4406,
+  "mangabakaUrl": "https://mangabaka.org/4406",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE2ODcyOC1UeE9DeFpSVk41NjYucG5n",
+  "author": "Chihiro Aoki, Inaho Hodaka",
+  "synopsis": "When Saejima Nagi, a carefree high school student, wakes up from a doze, he became a lake in a different world!? Nagi, who finds out that he is the \"Great Spirit of Water\" whose main body is the lake, heals those who suffer from injuries and diseases with the power that dwells in himself. \n\nOne day, Nagi is led by a voice calling for help and summoned by a boy. That encounter will greatly change the fate of Nagi.  \n\nAlphapolis's 2nd Next Generation Fantasy Cup \"Unique Character Award\" winner, long-awaited comicalize!! \n\n\"Since I was revered, I have to save it with the power of God's healing.\"",
+  "status": "Releasing",
+  "total": 28,
+  "type": "manga",
+  "genres": [
+    "fantasy",
+    "action",
+    "adventure"
+  ],
+  "tags": [
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Spirits",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "168728",
+    "anime_planet": "isekai-de-mizu-no-dai-seirei-yattemasu",
+    "kitsu": "73671",
+    "manga_updates": "ayljayt",
+    "my_anime_list": "175405",
+    "shikimori": "175405"
+  },
+  "links": [
+    "https://www.alphapolis.co.jp/manga/official/630000552",
+    "https://mangabaka.org/4406"
+  ]
+}

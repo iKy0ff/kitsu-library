@@ -1,0 +1,130 @@
+{
+  "kitsuId": "63976",
+  "title": "Igyejinip Reloaded",
+  "updatedAt": "2026-07-09T22:35:41.926Z",
+  "matchVersion": 2,
+  "mangabakaId": 53349,
+  "mangabakaUrl": "https://mangabaka.org/53349",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80L2QvZi82L2QvYi8zLzQvMGM2Ni80YTE0L2I1ZDIvMGM5YTdmZjdiMzVk",
+  "author": "Gyeong-Bae Im, U-Min Cha",
+  "synopsis": "When Emperor Rustanard of the Rusclan Empire summons the Otherworldly Savior from another world to fulfill a prophecy, he doesn’t expect to find 16-year-old Sihan Seong. The emperor casts him out, only to have Sihan return with a party of six warriors to defeat the so-called “Mad Emperor” and set the Rusclan people free. Just when victory is within Sihan’s grasp, he is betrayed by his teammates and sent back to his own world. 10 years later, Sihan returns to the Terranor Continent and finds an unlikely ally in Alita, the daughter of Rustanard… \n\n(Source: WEBTOON)",
+  "status": "Completed",
+  "total": 155,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "romance",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Summoned Into Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "148308",
+    "anime_planet": "reloaded-into-the-other-world",
+    "kitsu": "63976",
+    "manga_updates": "zlrg026",
+    "my_anime_list": "154093",
+    "shikimori": "154093"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=793553",
+    "https://series.naver.com/comic/detail.series?productNo=8368894",
+    "https://www.webtoons.com/en/fantasy/reloaded-into-the-other-world/list?title_no=5173",
+    "https://www.webtoons.com/fr/action/reloaded-into-the-other-world/list?title_no=4567",
+    "https://namu.wiki/w/%EC%9D%B4%EA%B3%84%EC%A7%84%EC%9E%85%20%EB%A6%AC%EB%A1%9C%EB%94%94%EB%93%9C(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/53349"
+  ]
+}

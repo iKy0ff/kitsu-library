@@ -1,0 +1,112 @@
+{
+  "kitsuId": "73931",
+  "title": "Jeonseolgeup Yeongungeun Academy Udeungsaeng",
+  "updatedAt": "2026-07-09T22:30:33.918Z",
+  "matchVersion": 2,
+  "mangabakaId": 1436,
+  "mangabakaUrl": "https://mangabaka.org/1436",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzIvMy8wL2MvMy9iL2UvYjc4OS80OGI5L2IxZDMvYTM3MGEzOWU3YjMy",
+  "author": "Manseongi, Yerona",
+  "synopsis": "In the Age of Catastrophe, five heroes saved the world from a primordial evil. One of the heroes, now reborn as Leo Plove, is excited to revisit his glorious past—only to find his name erased from history. Determined to uncover the truth, he joins Lumerne, a hero military academy, unaware he's about to discover dark secrets surrounding his reincarnation. Why are his past records hidden, and who wants to keep them that way? Will Leo be able to set things right and reclaim the credit he deserves?\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 92,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "185979",
+    "anime_planet": "legendary-hero-is-an-academy-honors-student",
+    "kitsu": "73931",
+    "manga_updates": "v2e55kb",
+    "my_anime_list": "177451",
+    "shikimori": "177451"
+  },
+  "links": [
+    "https://page.kakao.com/content/65703020",
+    "https://tapas.io/series/the-legendary-hero-is-an-academy-honors-student/info",
+    "https://webtoon.kakao.com/content/전설급-영웅은-아카데미-우등생/4354?tab=episode",
+    "https://namu.wiki/w/%EC%A0%84%EC%84%A4%EA%B8%89%20%EC%98%81%EC%9B%85%EC%9D%80%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EC%9A%B0%EB%93%B1%EC%83%9D#s-6.1",
+    "https://mangabaka.org/1436"
+  ]
+}

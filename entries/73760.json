@@ -1,0 +1,113 @@
+{
+  "kitsuId": "73760",
+  "title": "Chronicles of the Reincarnated Demon God",
+  "updatedAt": "2026-07-09T22:41:38.777Z",
+  "matchVersion": 2,
+  "mangabakaId": 1271,
+  "mangabakaUrl": "https://mangabaka.org/1271",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzcvNS83LzUvZC9jL2MvODliMC80YTY0L2I0ZmEvMTQ2YTRmYjA1YWJl",
+  "author": "Do-Yeon Sa, GONE",
+  "synopsis": "Anything and everything—Unhwi Yeon, heir apparent to the Heavenly Demonic Cult, owes his master at least that much. Unable to learn who is backing the cult members who betrayed them both, Unhwi is forced to flee into the body of Unhwi Dang with the help of forbidden magic. Isolated, alone, years into his future, moving from one assassination attempt to another—but capable of cultivating Naegong for the first time in his life. Anything necessary to protect his master is as good as done.\n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 58,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "drama",
+    "seinen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Chibi",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "185817",
+    "anime_planet": "chronicles-of-the-reincarnated-demon-god",
+    "kitsu": "73760",
+    "manga_updates": "dvpb8s3",
+    "my_anime_list": "177080",
+    "shikimori": "177080"
+  },
+  "links": [
+    "https://page.kakao.com/content/65640514",
+    "https://tapas.io/series/paragon-demon-revenant-saga/info",
+    "https://webtoon.kakao.com/content/환생마신전/4335?tab=episode",
+    "https://mangabaka.org/1271"
+  ]
+}

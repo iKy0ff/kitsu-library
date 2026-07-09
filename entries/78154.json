@@ -1,0 +1,115 @@
+{
+  "kitsuId": "78154",
+  "title": "Nova, Little Girl in the Monster Forest",
+  "updatedAt": "2026-07-09T22:45:27.739Z",
+  "matchVersion": 2,
+  "mangabakaId": 98169,
+  "mangabakaUrl": "https://mangabaka.org/98169",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzQvMi8wLzAvNi84LzQvYzM2Zi80YjI3L2I0NDgvNGI5ZDc2OWYwYjk5",
+  "author": "kamatama",
+  "synopsis": "Nova is a cheerful girl who lives in the forest alongside monsters, dreaming of receiving the Blessing of the Earth, known as 'Magia'. However, it seems she has a secret— one only the lord of the forest, Cerberus, knows... \n\nUnaware of this hidden truth, Nova spends her days innocently playing and enjoying life in the forest. Thus begins a wonderful story starring a little girl raised by monsters! \n\n(Source: Magcomi, translated)",
+  "status": "Releasing",
+  "total": 13,
+  "type": "manga",
+  "genres": [
+    "drama",
+    "fantasy",
+    "mystery",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Childcare",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Innocent Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Forest",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Guardians",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mysterious Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Parenthood",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "187400",
+    "anime_planet": "mamono-no-mori-no-shoujo-nova",
+    "manga_updates": "idnwxiw",
+    "my_anime_list": "179668",
+    "shikimori": "179668"
+  },
+  "links": [
+    "https://comic.pixiv.net/works/11503",
+    "https://magcomi.com/episode/2550912964888518822",
+    "https://mangabaka.org/98169"
+  ]
+}

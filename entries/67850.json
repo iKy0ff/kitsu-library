@@ -1,0 +1,154 @@
+{
+  "kitsuId": "67850",
+  "title": "Kami Chi no Kyuuseishu: 0.00000001% wo Hikiate Saikyou e",
+  "updatedAt": "2026-07-09T22:43:39.464Z",
+  "matchVersion": 2,
+  "mangabakaId": 3924,
+  "mangabakaUrl": "https://mangabaka.org/3924",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1NDkxNy1wbzFMNm1oZEliZDAuanBn",
+  "author": "Etou Shunji",
+  "synopsis": "Subaru is an average guy--a loser, in fact. Becoming a Player who enters mysterious gates and slays creatures to defend humanity is a far-fetched dream. But after several years of constant bullying and abuse, a Door of Trials appears before him, and he finally becomes a Player. But his brother is out to get him, and Subaru is completely outmatched. Furthermore, the Sky Clock is ticking down, which could mean the end of the world when it hits zero. Can Subaru overcome his brother and uncover the truth behind the gates that plague the world? \n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 201,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Memory Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Torture",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "recurrent"
+    }
+  ],
+  "news": [
+    {
+      "title": "26 Titles Nominated for World Webtoon Awards",
+      "date": "2025-09-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-09-06/26-titles-nominated-for-world-webtoon-awards/.228335"
+    },
+    {
+      "title": "Voting Opens for Next Manga Awards 2024",
+      "date": "2024-06-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2024-06-25/voting-opens-for-next-manga-awards-2024/.212369"
+    }
+  ],
+  "sources": {
+    "anilist": "154917",
+    "anime_planet": "savior-of-divine-blood",
+    "anime_news_network": "32967",
+    "kitsu": "67850",
+    "manga_updates": "4t2i2u7",
+    "my_anime_list": "170871",
+    "shikimori": "170871"
+  },
+  "links": [
+    "https://www.webtoons.com/en/action/savior-of-divine-blood/list?title_no=6409",
+    "https://www.webtoons.com/fr/action/savior-of-divine-blood/list?title_no=6824",
+    "https://www.webtoons.com/th/fantasy/savior-of-divine-blood/list?title_no=6759",
+    "https://www.youtube.com/@shinketsuofficial",
+    "https://x.com/Shinketsu_off",
+    "https://shinketsu.no9.co.jp/",
+    "https://twitter.com/Shinketsu_off",
+    "https://mangabaka.org/3924"
+  ]
+}

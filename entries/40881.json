@@ -1,0 +1,407 @@
+{
+  "kitsuId": "40881",
+  "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+  "updatedAt": "2026-07-09T22:31:22.314Z",
+  "matchVersion": 2,
+  "mangabakaId": 4207,
+  "mangabakaUrl": "https://mangabaka.org/4207",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzIvMS85L2YvMC9kLzQvNTc5Mi80YjRhLzk4OWMvZmEyOGJkM2Y4MjBj",
+  "author": "FUNA, Keisuke Motoe",
+  "synopsis": "After growing up an orphan, Mitsuha has a healthy respect for money and a desire to live well—at least, until she dies after being pushed off a cliff. Waking up in a strange fantasy world, Mitsuha narrowly survives an encounter with a pack of wolves, then realizes she has the power to move between this world and the real one. A lesser person might embark on heroic adventures—Mitsuha instead immediately recognizes the lucrative possibilities of her new situation, and heads out to buy an arsenal of modern weapons. Her goal: to acquire 80,000 gold, and the life of leisure she’s always dreamed of!\n\n*Source: Kodansha USA*",
+  "status": "Releasing",
+  "total": 109,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "slice_of_life",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Agriculture",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Short Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Foreign",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Advanced Knowledge Meets Archaic World",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Anachronism",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Merchants",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Princess",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Parallel World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Accidents",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Economics",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Medical",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, March 15-21",
+      "date": "2026-03-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-20/north-american-anime-manga-releases-march-15-21/.235374"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 15-21",
+      "date": "2025-06-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-20/north-american-anime-manga-releases-june-15-21/.225672"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 20-26",
+      "date": "2025-04-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-04-25/north-american-anime-manga-releases-april-20-26/.223805"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 16-22",
+      "date": "2025-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-21/north-american-anime-manga-releases-february-16-22/.221368"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 11-17",
+      "date": "2024-08-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-15/north-american-anime-manga-releases-august-11-17/.214283"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 23-29",
+      "date": "2024-06-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-28/north-american-anime-manga-releases-june-23-29/.212464"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 9-15",
+      "date": "2024-06-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-13/north-american-anime-manga-releases-june-9-15/.211812"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 14-20",
+      "date": "2024-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-17/north-american-anime-manga-releases-april-14-20/.209914"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 11-17",
+      "date": "2024-02-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-02-15/north-american-anime-manga-releases-february-11-17/.207548"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 10-16",
+      "date": "2023-12-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-13/north-american-anime-manga-releases-december-10-16/.205391"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 29-November 4",
+      "date": "2023-11-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-01/north-american-anime-manga-releases-october-29-november-4/.203993"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 27-September 2",
+      "date": "2023-08-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-08-29/north-american-anime-manga-releases-august-27-september-2/.201762"
+    },
+    {
+      "title": "Saving 80,000 Gold in Another World for My Retirement GN 1",
+      "date": "2023-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/saving-80000-gold-in-another-world-for-my-retirement/gn-1/.197829"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 11-17",
+      "date": "2023-06-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-06-13/north-american-anime-manga-releases-june-11-17/.199129"
+    },
+    {
+      "title": "K MANGA's Launch Lineup Includes 30+ Manga With English Debuts in U.S.",
+      "date": "2023-05-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-27/k-manga-launch-lineup-includes-30-manga-with-english-debuts-in-u.s/.198036"
+    },
+    {
+      "title": "Saving 80,000 Gold in Another World for my Retirement Novels Get TV Anime",
+      "date": "2022-07-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-25/saving-80000-gold-in-another-world-for-my-retirement-novels-get-tv-anime/.188003"
+    },
+    {
+      "title": "EXCLUSIVE: Kodansha USA Licenses Break of Dawn, More Manga",
+      "date": "2022-07-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-23/exclusive-kodansha-usa-licenses-break-of-dawn-more-manga/.187945"
+    },
+    {
+      "title": "Japanese Comic Ranking, January 7-13",
+      "date": "2019-01-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-01-16/japanese-comic-ranking-january-7-13/.142151"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 6-12",
+      "date": "2019-01-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-01-08/north-american-anime-manga-releases-january-6-12/.141781"
+    }
+  ],
+  "sources": {
+    "anilist": "101715",
+    "anime_planet": "saving-80000-gold-in-another-world-for-my-retirement",
+    "anime_news_network": "22280",
+    "kitsu": "40881",
+    "manga_updates": "7mul6q7",
+    "my_anime_list": "111466",
+    "shikimori": "111466"
+  },
+  "links": [
+    "https://kmanga.kodansha.com/title/10048/episode/314459",
+    "https://kodansha.us/series/saving-80000-gold-in-another-world-for-my-retirement-manga",
+    "https://pocket.shonenmagazine.com/episode/10834108156703419570",
+    "https://seiga.nicovideo.jp/comic/27620",
+    "https://shonen-sirius.com/series/w_sirius/roukin/",
+    "https://en.wikipedia.org/wiki/Saving_80,000_Gold_in_Another_World_for_My_Retirement",
+    "https://ja.wikipedia.org/wiki/%E8%80%81%E5%BE%8C%E3%81%AB%E5%82%99%E3%81%88%E3%81%A6%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%A78%E4%B8%87%E6%9E%9A%E3%81%AE%E9%87%91%E8%B2%A8%E3%82%92%E8%B2%AF%E3%82%81%E3%81%BE%E3%81%99",
+    "https://kodansha.us/series/saving-80000-gold-in-another-world-for-my-retirement-manga/",
+    "https://mangabaka.org/4207"
+  ]
+}

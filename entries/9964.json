@@ -1,0 +1,633 @@
+{
+  "kitsuId": "9964",
+  "title": "Oyasumi Punpun",
+  "updatedAt": "2026-07-09T22:52:20.664Z",
+  "matchVersion": 2,
+  "mangabakaId": 1357,
+  "mangabakaUrl": "https://mangabaka.org/1357",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzEvMy9jLzEvMi85LzUvYzQ1NS80ZDdmL2EzYTUvOWMwNzFlNzJmZGZi",
+  "author": "Inio Asano",
+  "synopsis": "This is Punpun’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. Punpun has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. He tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.\n\n*Source: VIZ Media*",
+  "status": "Completed",
+  "total": 147,
+  "type": "manga",
+  "genres": [
+    "drama",
+    "psychological",
+    "slice_of_life",
+    "comedy",
+    "mature",
+    "romance",
+    "school_life",
+    "seinen",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Working",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Runaways",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Death of Loved One",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Childhood Promise",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mangaka in a Manga",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Meta",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Artist",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Comic Artist",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "School Boy",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Older Female Younger Male",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Childhood Friends",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Family",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Infidelity",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Uncle-Nephew Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dark Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Exhibitionism",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Pubic Hair",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "First Kiss",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Outdoor Intercourse",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Abuse",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adultery",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Affairs",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Cohabitation",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Satire",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Surreal Comedy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dreams",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "First Love",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Body Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Inferiority Complex",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Loneliness",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Philosophy",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Religion",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Abuse",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Suicide",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Award-Nominated Work",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Atypical",
+      "group": "Work Info",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Realistic",
+      "group": "Work Info",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Classic Manga",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "This Week in Anime - Are Some Manga Truly \"Unadaptable\"?",
+      "date": "2024-05-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/this-week-in-anime/2024-05-28/.211226"
+    },
+    {
+      "title": "The Best Series Out Now on the Viz Manga App",
+      "date": "2023-05-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2023-05-19/the-best-series-out-now-on-the-viz-manga-app/.197937"
+    },
+    {
+      "title": "Viz Media Simultaneously Releases Shogakukan Manga Titles in New VIZ Manga App",
+      "date": "2023-05-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-09/viz-media-simultaneously-releases-shogakukan-manga-titles-in-new-viz-manga-app/.197912"
+    },
+    {
+      "title": "Inio Asano's A Girl on the Shore Manga Gets Live-Action Film",
+      "date": "2021-03-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-26/inio-asano-a-girl-on-the-shore-manga-gets-live-action-film/.171116"
+    },
+    {
+      "title": "Interview: Goodnight Punpun Creator Inio Asano",
+      "date": "2018-06-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interview/2018-06-20/goodnight-punpun-creator-inio-asano/.133138"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 17-23",
+      "date": "2017-09-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-09-19/north-american-anime-manga-releases-september-17-23/.121577"
+    },
+    {
+      "title": "Goodnight Punpun GN 7",
+      "date": "2017-08-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/goodnight-punpun/gn-7/.119710"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 18-24",
+      "date": "2017-06-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-06-20/north-american-anime-manga-releases-june-18-24/.117776"
+    },
+    {
+      "title": "Goodnight Punpun, Orange, The Osamu Tezuka Story, Princess Jellyfish, Wandering Island Nominated for Eisner Awards",
+      "date": "2017-05-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-05-02/goodnight-punpun-orange-the-osamu-tezuka-story-princess-jellyfish-wandering-island-nominated-for-/.115620"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 19-25",
+      "date": "2017-03-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-03-21/north-american-anime-manga-releases-march-19-25/.113720"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 18-24",
+      "date": "2016-12-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-12-20/north-american-anime-manga-releases-december-18-24/.110169"
+    },
+    {
+      "title": "New York Times Manga Best Seller List, September 18-24",
+      "date": "2016-09-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-09-30/new-york-times-manga-best-seller-list-september-18-24/.107109"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 18-24",
+      "date": "2016-09-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-09-20/north-american-anime-manga-releases-september-18-24/.106703"
+    },
+    {
+      "title": "Goodnight Punpun GN 3",
+      "date": "2016-09-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/goodnight-punpun/gn-3/.106588"
+    },
+    {
+      "title": "Best and Worst Manga of 2016 Results - Comic-Con International",
+      "date": "2016-07-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2016-07-25/best-and-worst-manga-of-2016-results-comic-con-international/.104673"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 19-25",
+      "date": "2016-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-06-21/north-american-anime-manga-releases-june-19-25/.103462"
+    },
+    {
+      "title": "New York Times Manga Best Seller List, March 20-26",
+      "date": "2016-04-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-04-01/new-york-times-manga-best-seller-list-march-20-26/.100566"
+    },
+    {
+      "title": "New York Times Manga Best Seller List, March 13-19",
+      "date": "2016-03-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-03-28/new-york-times-manga-best-seller-list-march-13-19/.100395"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 13-19",
+      "date": "2016-03-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-03-15/north-american-anime-manga-releases-march-13-19/.99829"
+    },
+    {
+      "title": "Goodnight Punpun Omnibus 1",
+      "date": "2016-03-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/goodnight-punpun/omnibus-1/.99297"
+    },
+    {
+      "title": "VIZ Media Announces the Launch of Inio Asano's Goodnight Punpun Manga Series",
+      "date": "2016-03-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2016-03-01/viz-media-announces-the-launch-of-inio-asano-goodnight-punpun-manga-series/.99259"
+    },
+    {
+      "title": "Viz Media Announces a Trio of Exciting New Manga and Art Book Acquisitions at Otakon",
+      "date": "2015-07-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2015-07-28/viz-media-announces-a-trio-of-exciting-new-manga-and-art-book-acquisitions-at-otakon/.91000"
+    },
+    {
+      "title": "Viz Media Licenses Inio Asano's Goodnight Pun Pun Manga",
+      "date": "2015-07-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2015-07-24/viz-media-licenses-inio-asano-goodnight-pun-pun-manga/.90859"
+    },
+    {
+      "title": "Inio Asano Puts Dead Dead Demon's Dededededestruction Manga on Hiatus",
+      "date": "2015-06-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2015-06-20/inio-asano-puts-dead-dead-demon-dededededestruction-manga-on-hiatus/.89522"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 30-January 5",
+      "date": "2014-01-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-01-09/japanese-comic-ranking-december-30-january-5"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 23-29",
+      "date": "2014-01-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-01-07/japanese-comic-ranking-december-23-29"
+    },
+    {
+      "title": "Inio Asano's Oyasumi Punpun Manga to End on November 2",
+      "date": "2013-10-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2013-10-26/inio-asano-oyasumi-punpun-manga-to-end-on-november-2"
+    },
+    {
+      "title": "Japanese Comic Ranking, June 24-30",
+      "date": "2013-07-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2013-07-03/japanese-comic-ranking-june-23-29"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 3-9",
+      "date": "2012-12-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-12-13/japanese-comic-ranking-december-3-9"
+    },
+    {
+      "title": "Japanese Comic Ranking, November 26-December 2",
+      "date": "2012-12-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-12-05/japanese-comic-ranking-november-26-december-2"
+    },
+    {
+      "title": "Japanese Comic Ranking, April 30-May 6",
+      "date": "2012-05-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-05-17/japanese-comic-ranking-april-30-may-6"
+    },
+    {
+      "title": "Japanese Comic Ranking, April 23-29",
+      "date": "2012-05-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-05-16/japanese-comic-ranking-april-23-29"
+    },
+    {
+      "title": "Japanese Comic Ranking, October 31-November 6",
+      "date": "2011-11-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-11-09/japanese-comic-ranking-october-31-november-6"
+    },
+    {
+      "title": "Japanese Comic Ranking, October 24-30",
+      "date": "2011-11-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-11-02/japanese-comic-ranking-october-24-30"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 28-March 6",
+      "date": "2011-03-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-03-14/japanese-comic-ranking-february-28-march-6"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 21-27",
+      "date": "2011-03-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-03-02/japanese-comic-ranking-february-21-27"
+    },
+    {
+      "title": "Japanese Comic Ranking, October 4-10",
+      "date": "2010-10-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2010-10-13/japanese-comic-ranking-october-4-10"
+    },
+    {
+      "title": "Japanese Comic Ranking, September 27-October 3",
+      "date": "2010-10-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2010-10-06/japanese-comic-ranking-september-27-october-3"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 28-January 10",
+      "date": "2010-01-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2010-01-13/japanese-comic-ranking-december-28-january-10"
+    },
+    {
+      "title": "Summer Wars, Vinland Saga Win Media Arts Awards (Update 3)",
+      "date": "2009-12-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2009-12-03/summer-wars-vinland-saga-win-media-arts-awards"
+    },
+    {
+      "title": "Japanese Comic Ranking, June 29-July 5",
+      "date": "2009-07-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2009-07-08/japanese-comic-ranking-june-29-july-5"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 3-9",
+      "date": "2009-02-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2009-02-13/japanese-comic-ranking-february-3-9"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 3-9",
+      "date": "2009-02-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2009-02-11/japanese-comic-ranking-february-3-9/2"
+    },
+    {
+      "title": "Japanese Comic Ranking, January 27-February 2",
+      "date": "2009-02-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2009-02-04/japanese-comic-ranking-january-27-february-2"
+    },
+    {
+      "title": "More Revealed on Aftermath of Young Sunday Mag's End",
+      "date": "2008-07-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2008-07-30/more-revealed-on-aftermath-of-young-sunday-mag-end"
+    }
+  ],
+  "sources": {
+    "anilist": "34632",
+    "anime_planet": "goodnight-punpun",
+    "anime_news_network": "9205",
+    "kitsu": "9964",
+    "manga_updates": "a2xc67o",
+    "my_anime_list": "4632",
+    "shikimori": "4632"
+  },
+  "links": [
+    "https://bigcomics.jp/series/ed6abb572575e",
+    "https://shogakukan-comic.jp/book?isbn=9784091512185",
+    "https://www.kana.fr/series/bonne-nuit-punpun/",
+    "https://www.viz.com/goodnight-punpun",
+    "https://www.viz.com/vizmanga/chapters/goodnight-punpun",
+    "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF%E3%83%97%E3%83%B3%E3%83%97%E3%83%B3",
+    "https://en.wikipedia.org/wiki/Goodnight_Punpun",
+    "https://mangabaka.org/1357"
+  ]
+}

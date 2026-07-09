@@ -1,0 +1,269 @@
+{
+  "kitsuId": "56036",
+  "title": "The Demon King Who Lost His Job",
+  "updatedAt": "2026-07-09T22:32:14.882Z",
+  "matchVersion": 2,
+  "mangabakaId": 905,
+  "mangabakaUrl": "https://mangabaka.org/905",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzMvZi84LzcvMS83LzIvODQ3Mi80MTY3Lzk2NTYvOTQ1NzBlMWE2OGNl",
+  "author": "Ye Wu",
+  "synopsis": "He is the king of the demon world who has become unemployed because of impeachment. She was the brave hero who was laid off because of the failure of the expedition. The bond of destiny binds the two together as they embark on an journey full of unknown adventures.",
+  "status": "Releasing",
+  "total": 462,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "comedy",
+    "fantasy",
+    "romance",
+    "adventure",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gambling",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Tsundere",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Immature Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Immature Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedic Violence",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Subtle Romance",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Love-Hate Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slow Romance",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Alchemy",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Zombies",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Illness",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Marriage",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "113485",
+    "anime_planet": "the-laid-off-demon-king",
+    "kitsu": "56036",
+    "manga_updates": "w5le4ea"
+  },
+  "links": [
+    "https://ac.qq.com/Comic/comicInfo/id/642370",
+    "https://m.series.naver.com/comic/detail.series?productNo=11259599",
+    "https://page.kakao.com/content/64373241?tab_type=overview",
+    "https://toptoon.com/comic/ep_list/devil_king_lost_job",
+    "https://www.webnovel.com/comic/the-laid-off-demon-king_18824474306330901",
+    "https://mangabaka.org/905"
+  ]
+}

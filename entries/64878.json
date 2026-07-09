@@ -1,0 +1,203 @@
+{
+  "kitsuId": "64878",
+  "title": "Majutsushi Kunon wa Miete Iru",
+  "updatedAt": "2026-07-09T22:47:55.936Z",
+  "matchVersion": 2,
+  "mangabakaId": 8545,
+  "mangabakaUrl": "https://mangabaka.org/8545",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzMvZS8wLzIvMC84L2IvN2YwNy80YmJmL2FmZGUvZDFiZTQ5YjBkOWQx",
+  "author": "La-na, Umikaze Minamino",
+  "synopsis": "Kunon Gurion, who was born blind, has one goal in life: finding a way to use his magic to see, something no one has ever done before. Luckily, Kunon's talent for magic leads him to quickly surpass his teacher. Before long, his name reaches even the royal palace, earning him the rare opportunity to study under a powerful mentor. \n\n(Source: Yen Press)",
+  "status": "Releasing",
+  "total": 43,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "slice_of_life",
+    "comedy",
+    "romance",
+    "school_life",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Eccentric Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Curses",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Tutor",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Alchemy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Disability",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, February 8-14",
+      "date": "2026-02-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-02-13/north-american-anime-manga-releases-february-8-14/.233978"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 13-19",
+      "date": "2025-07-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-17/north-american-anime-manga-releases-july-13-19/.226639"
+    },
+    {
+      "title": "Kunon the Sorcerer Can See Through Light Novels Get TV Anime",
+      "date": "2025-01-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-01-24/kunon-the-sorcerer-can-see-through-light-novels-get-tv-anime/.220425"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 16-22",
+      "date": "2024-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-21/north-american-anime-manga-releases-june-16-22/.212192"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 21-27",
+      "date": "2024-01-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-25/north-american-anime-manga-releases-january-21-27/.206798"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 20-26",
+      "date": "2023-08-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-08-25/north-american-anime-manga-releases-august-20-26/.201518"
+    },
+    {
+      "title": "Acquisitions Announcement—  Yen Press Releasing Sixteen New Titles August 2023",
+      "date": "2023-02-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2023-02-18/acquisitions-announcement-yen-press-releasing-sixteen-new-titles-august-2023/.195053"
+    },
+    {
+      "title": "Yen Press Adds 12 Manga, 3 Light Novels",
+      "date": "2023-02-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-02-17/yen-press-adds-12-manga-3-light-novels/.195034"
+    }
+  ],
+  "sources": {
+    "anilist": "149736",
+    "anime_planet": "kunon-the-sorcerer-can-see",
+    "anime_news_network": "27158",
+    "kitsu": "64878",
+    "manga_updates": "ujuslxg",
+    "my_anime_list": "148289",
+    "shikimori": "148289"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_MF02203041010000_68",
+    "https://seiga.nicovideo.jp/comic/58094",
+    "https://yenpress.com/series/kunon-the-sorcerer-can-see-manga",
+    "https://en.wikipedia.org/wiki/Kunon_the_Sorcerer_Can_See",
+    "https://mangabaka.org/8545"
+  ]
+}

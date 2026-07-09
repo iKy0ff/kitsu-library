@@ -1,0 +1,356 @@
+{
+  "kitsuId": "62168",
+  "title": "Michin Hujageul Gildeurigo Maratda",
+  "updatedAt": "2026-07-09T22:39:31.281Z",
+  "matchVersion": 2,
+  "mangabakaId": 48691,
+  "mangabakaUrl": "https://mangabaka.org/48691",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83L2UvNi8zLzEvYi8yLzgvZTFjYS80MDEzLzg0ZjkvMDVkZGJhNGI2M2Y0",
+  "author": "Gangajijoa, Golji, Ropanmatjip",
+  "synopsis": "Laranora Ador gets more than she bargained for when she rescues a young boy from being sold off in an infamous auction house. The boy is actually Eskal Van Dyck, the \"Crazy Marquess,\" in disguise! Unaware of his violent and heartless true nature, Laranora takes Eskal under her wing. Determined to raise him with utmost care and respect, Laranora grows deeply attached to Eskal… and in return, the true Eskal begins to fall in love with her. Unfortunately, Eskal is often targeted for his powerful magic and ruthless ways, which leads to a tragic event that separates the two. But Eskal is determined to find her again as his true self. Will Laranora be able to accept who he really is? And more importantly, what will happen when something fishy brewing in the Imperial Palace may involve them both? \n\n(Source: Tappytoon)",
+  "status": "Completed",
+  "total": 95,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "historical",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Blue-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Golden/Yellow-Eyed Character",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Golden/Yellow-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blonde-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Blonde-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Kind female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Noble Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Abused Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cold Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Mage Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Noble Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Shapeshifting",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Transformation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic Items",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Dukes",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Older Female Younger Male",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Brother-Sister Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Brothers",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Siblings",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Medieval European Ambience",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Child Abuse",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Contracts",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Rescue",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Godly Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Trauma",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Traumatic Past",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "139322",
+    "anime_planet": "taming-the-marquess",
+    "kitsu": "62168",
+    "manga_updates": "hq0ebmf",
+    "my_anime_list": "147930",
+    "shikimori": "147930"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=778325",
+    "https://series.naver.com/comic/detail.series?productNo=6510362",
+    "https://www.tappytoon.com/en/comics/taming-the-marquess",
+    "https://www.webtoons.com/en/romance/taming-the-marquess/list?title_no=4345",
+    "https://www.webtoons.com/th/romantic-fantasy/taming-the-marquess/list?title_no=3808",
+    "https://www.webtoons.com/zh-hant/western-palace/taming-the-marquess/list?title_no=4366",
+    "https://namu.wiki/w/%EB%AF%B8%EC%B9%9C%20%ED%9B%84%EC%9E%91%EC%9D%84%20%EA%B8%B8%EB%93%A4%EC%9D%B4%EA%B3%A0%20%EB%A7%90%EC%95%98%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/48691"
+  ]
+}

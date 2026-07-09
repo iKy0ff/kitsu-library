@@ -1,0 +1,217 @@
+{
+  "kitsuId": "63668",
+  "title": "Musingwihwallok",
+  "updatedAt": "2026-07-09T22:47:11.695Z",
+  "matchVersion": 2,
+  "mangabakaId": 6824,
+  "mangabakaUrl": "https://mangabaka.org/6824",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83L2IvOC85LzAvNS85LzcvYTBkNC80ZWVkLzgzZWUvMzczNmE5Njg5NGJl",
+  "author": "Myosu",
+  "synopsis": "After being sealed away for 1,000 years, the War God Duan Yuxian has come back to a world that has forgotten him and his malevolent past. As he wanders aimlessly through the central plains ruled by the martial world, he comes across a dying little girl named Xiaomei and revives her out of pity. Although they try to live in peace as a family, the factions of the martial world refuse to let them be. Now, Duan Yuxian has no other choice but to remind them that the War God has truly returned. \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 166,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "martial_arts",
+    "shounen",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Long-Haired Male Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Long-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Long-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Scars",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Age Gap",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Father and Daughter",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adopted Children",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Atypical",
+      "group": "Work Info",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "150319",
+    "anime_planet": "return-of-the-war-god",
+    "kitsu": "63668",
+    "manga_updates": "dmnckia",
+    "my_anime_list": "153399",
+    "shikimori": "153399"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=59492385",
+    "https://tapas.io/series/return-of-the-war-god",
+    "https://webtoon.kakao.com/content/무신귀환록/2891",
+    "https://namu.wiki/w/%EB%AC%B4%EC%8B%A0%EA%B7%80%ED%99%98%EB%A1%9D#s-6.1",
+    "https://page.kakao.com/content/59492385",
+    "https://mangabaka.org/6824"
+  ]
+}

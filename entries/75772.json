@@ -1,0 +1,200 @@
+{
+  "kitsuId": "75772",
+  "title": "Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru: Kabe wo Surinuketara Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!",
+  "updatedAt": "2026-07-09T22:50:11.750Z",
+  "matchVersion": 2,
+  "mangabakaId": 3579,
+  "mangabakaUrl": "https://mangabaka.org/3579",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5MjY5NC1XUmZ4NjZoa3h5OE4uanBn",
+  "author": "Nikita Kitakawa, Yui Hata",
+  "synopsis": "In order to earn enough money for his sister, Henry set out to become an adventurer. Unfortunately, because his Disengage skill was considered useless and his stats were too low, many adventurers berated him and considered him incompetent. Even when he finally managed to join a party, he was quickly dismissed.\n\nOut of desperation, Henry attempted a solo dive into a dungeon, and that was when he made a shocking discovery: Utilizing Disengage under specific circumstances would allow him to clip through walls. Once he clipped through the walls, he was able to bypass the dungeon boss monster and receive the clear reward. Not only that, he was able to collect the one-time clear reward an infinite number of times! By taking advantage of this loophole, Henry has the potential to grow at breakneck speeds!",
+  "status": "Releasing",
+  "total": 74,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "action",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Bully",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Determined Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Hard-Working Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Sisters",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "incidental"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "incidental"
+    }
+  ],
+  "news": [
+    {
+      "title": "Author Nikita Kitagawa Reveals TV Anime for Saijakuna Boku wa 'Kabenuke Bug' de Nariagaru Series",
+      "date": "2025-12-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-12-10/author-nikita-kitagawa-reveals-tv-anime-for-saijakuna-boku-wa-kabenuke-bug-de-nariagaru-series/.231934"
+    }
+  ],
+  "sources": {
+    "anilist": "192694",
+    "anime_planet": "saijaku-na-boku-wa-kabenuke-bugs-de-nariagaru-kabe-wo-surinuketara-shokai-clear-houshuu-wo-mugen-kaishuu-dekimashita",
+    "anime_news_network": "29735",
+    "kitsu": "75772",
+    "manga_updates": "bwz07mc",
+    "my_anime_list": "157686",
+    "shikimori": "157686"
+  },
+  "links": [
+    "https://gmaga.co/c/kabenukebug/",
+    "https://pocket.shonenmagazine.com/episode/3270296674414123182",
+    "https://en.wikipedia.org/wiki/Saijaku_na_Boku_wa_%22Kabenuke_Bug%22_de_Nariagaru",
+    "https://mangabaka.org/3579"
+  ]
+}

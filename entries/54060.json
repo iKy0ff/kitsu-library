@@ -1,0 +1,370 @@
+{
+  "kitsuId": "54060",
+  "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
+  "updatedAt": "2026-07-09T22:42:39.092Z",
+  "matchVersion": 2,
+  "mangabakaId": 30053,
+  "mangabakaUrl": "https://mangabaka.org/30053",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jLzgvNi9jLzQvNy84LzAvNmRiZi80NzMyLzg3YTYvMjI0Yzg5MjQyYWM3",
+  "author": "Jirou Oimoto, Yuumikan",
+  "synopsis": "Kaede Honjou has never been much of a gamer. So when her best friend, Risa, ropes her into trying out the hit new VRMMO NewWorld Online, her biggest concern is…whether it will hurt! Her solution? To dump all her stat points into defense! She may not have anything in the way of magic, agility, or strength, but her extreme build transforms her from a total noob into a nigh-invulnerable walking fortress the game’s admins never accounted for! \n\n(Source: Yen Press)",
+  "status": "Hiatus",
+  "total": 50,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "slice_of_life",
+    "sci-fi",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Girls Doing Cute Things",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Henshin",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Battle Royale",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Samurai",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Twins",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Feudal Japan",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Steampunk",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Virtual Reality",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Robots",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Parody",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fishing",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swimming",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "MMORPG",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "VRMMORPG",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, April 12-18",
+      "date": "2026-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-17/north-american-anime-manga-releases-april-12-18/.236358"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 10-16",
+      "date": "2025-08-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-14/north-american-anime-manga-releases-august-10-16/.227563"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 16-22",
+      "date": "2025-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-21/north-american-anime-manga-releases-february-16-22/.221368"
+    },
+    {
+      "title": "'Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense' Novelist Finishes Story",
+      "date": "2025-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-21/bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-novelist-finishes-story/.221486"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 13-19",
+      "date": "2024-10-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-16/north-american-anime-manga-releases-october-13-19/.216737"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 21-27",
+      "date": "2024-07-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-07-25/north-american-anime-manga-releases-july-21-27/.213514"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 14-20",
+      "date": "2024-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-17/north-american-anime-manga-releases-april-14-20/.209914"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 17-23",
+      "date": "2023-09-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-21/north-american-anime-manga-releases-september-17-23/.202532"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 19-25",
+      "date": "2023-02-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-02-23/north-american-anime-manga-releases-february-19-25/.195160"
+    },
+    {
+      "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2's 2nd Video Unveils January 11 Debut",
+      "date": "2022-12-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-17/bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-season-2-2nd-video-unveils-january-11-debut/.193069"
+    },
+    {
+      "title": "Crunchyroll to Stream Bofuri Season 2, Why Raeliana Ended Up at the Duke's Mansion, A Galaxy Next Door, The Fire Hunter, My Clueless First Friend, More Anime (Updated)",
+      "date": "2022-12-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-01/crunchyroll-to-stream-bofuri-season-2-why-raeliana-ended-up-at-the-duke-mansion-a-galaxy-next-door-/.192461"
+    },
+    {
+      "title": "BOFURI: I Don't Want to Get Hurt, So I'll Max Out My Defense Season 2 Reveals Theme Song Artists",
+      "date": "2022-11-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-10/bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-season-2-reveals-theme-song-artists/.191753"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 16-22",
+      "date": "2022-10-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-10-18/north-american-anime-manga-releases-october-16-22/.190963"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 14-20",
+      "date": "2022-08-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-08-16/north-american-anime-manga-releases-august-14-20/.188722"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 8-14",
+      "date": "2022-05-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-11/north-american-anime-manga-releases-may-8-14/.185537"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 3-9",
+      "date": "2021-10-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-10-05/north-american-anime-manga-releases-october-3-9/.178176"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 27-July 3",
+      "date": "2021-06-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-06-29/north-american-anime-manga-releases-june-27-july-3/.174585"
+    },
+    {
+      "title": "The Spring 2021 Light Novel Guide",
+      "date": "2021-06-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2021-06-11/the-spring-2021-light-novel-guide/.173802"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 4-10",
+      "date": "2021-04-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-04-06/north-american-anime-manga-releases-april-4-10/.171508"
+    },
+    {
+      "title": "BOFURI: I Don't Want to Get Hurt, So I'll Max Out My Defense. Anime Season 2 to Air in 2022",
+      "date": "2021-01-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-01-09/bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-anime-season-2-to-air-in-2022/.168243"
+    },
+    {
+      "title": "Yen Press Licenses Durarara!! SH Novels, Bofuri Novels & Manga, More",
+      "date": "2020-10-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-11/yen-press-licenses-durarara-sh-novels-bofuri-novels-and-manga-more/.165072"
+    },
+    {
+      "title": "Itai no wa Iya nano de Bōgyoryoku ni Kyokufuri Shitai to Omoimasu. Anime Casts Ruriko Noguchi",
+      "date": "2019-10-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-10-10/itai-no-wa-iya-nano-de-bogyoryoku-ni-kyokufuri-shitai-to-omoimasu-anime-casts-ruriko-noguchi/.152087"
+    },
+    {
+      "title": "Itai no wa Iya nano de Bōgyoryoku ni Kyokufuri Shitai to Omoimasu. Anime Reveals Video, Staff",
+      "date": "2019-08-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-08-06/itai-no-wa-iya-nano-de-bogyoryoku-ni-kyokufuri-shitai-to-omoimasu-anime-reveals-video-staff/.149761"
+    },
+    {
+      "title": "Itai no wa Iya nano de Bōgyoryoku ni Kyokufuri Shitai to Omoimasu. Novels Get Anime",
+      "date": "2018-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-12-06/itai-no-wa-iya-nano-de-bogyoryoku-ni-kyokufuri-shitai-to-omoimasu-novels-get-anime/.140443"
+    }
+  ],
+  "sources": {
+    "anilist": "103853",
+    "anime_planet": "bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense",
+    "anime_news_network": "21644",
+    "kitsu": "54060",
+    "manga_updates": "s0x9tv4",
+    "my_anime_list": "114794",
+    "shikimori": "114794"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_KS04200409010000_68/",
+    "https://mana-books.com/catalogues/bofuri/bofuri-je-suis-pas-venue-ici-pour-souffrir-alors-jai-tout-mis-en-defense/bofuri-je-suis-pas-venue-ici-pour-souffrir-alors-jai-tout-mis-en-defense-t01",
+    "https://www.tongli.com.tw/BooksDetail.aspx?Bd=GC0152001",
+    "https://yenpress.com/series/bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-manga",
+    "https://en.wikipedia.org/wiki/Bofuri",
+    "https://ja.wikipedia.org/wiki/%E7%97%9B%E3%81%84%E3%81%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E3%81%AE%E3%81%A7%E9%98%B2%E5%BE%A1%E5%8A%9B%E3%81%AB%E6%A5%B5%E6%8C%AF%E3%82%8A%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E6%80%9D%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+    "https://mangabaka.org/30053"
+  ]
+}

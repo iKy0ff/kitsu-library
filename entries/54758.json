@@ -1,0 +1,237 @@
+{
+  "kitsuId": "54758",
+  "title": "This Witch of Mine",
+  "updatedAt": "2026-07-09T22:38:06.607Z",
+  "matchVersion": 2,
+  "mangabakaId": 7410,
+  "mangabakaUrl": "https://mangabaka.org/7410",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jL2QvYy81LzQvZS85L2MvZDNjZi80MzA4L2I4ODAvZmIzYjRmYmZjODA4",
+  "author": "Hae-Yun",
+  "synopsis": "In these times, if you're too good or bad at something or simply too beautiful, you're called a witch. But there also exist magical beings called witches, who have the power to travel through both time and different dimensions, and sometimes do in the pursuit of love with human beings. \n\nUp against twists of fate and time, an outcast young boy and a mysterious witch, shunned because they're different from what's considered normal, one due to his imperfection and one due to her perfection, will need more than just magic spells and incantations...they'll need each other. \n\n(Source: ABLAZE) \n\n*Note: The chapter count includes a prologue, seven side story chapters, and four special chapters.*",
+  "status": "Completed",
+  "total": 63,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "mystery",
+    "romance",
+    "supernatural",
+    "drama",
+    "josei",
+    "psychological",
+    "slice_of_life",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Writing",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mass Murder",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Ensemble Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Love At First Sight",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fated Lovers",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Age Gap",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Older Female Younger Male",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Multiple Couples",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Harassment",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Disability",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "LGBTQ+",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Philosophy",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Open Ending",
+      "group": "Work Info",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "100470",
+    "anime_planet": "this-witch-of-mine",
+    "kitsu": "54758",
+    "manga_updates": "k97sldf",
+    "my_anime_list": "120318",
+    "shikimori": "120318"
+  },
+  "links": [
+    "https://series.naver.com/comic/detail.series?productNo=2221812",
+    "https://www.ablaze.net/products?c=78",
+    "https://www.tappytoon.com/series/thiswitch/1",
+    "https://www.webtoons.com/fr/fantasy/this-witch-of-mine/list?title_no=4244",
+    "https://www.webtoons.com/th/romantic-fantasy/this-witch-of-mine/list?title_no=4166",
+    "https://www.bomtoon.com/comic/ep_list/My_witch",
+    "https://namu.wiki/w/%EB%82%98%EC%9D%98%20%EB%A7%88%EB%85%80",
+    "https://www.bookcube.com/toon/detail.asp?webtoon_num=150087",
+    "https://mangabaka.org/7410"
+  ]
+}

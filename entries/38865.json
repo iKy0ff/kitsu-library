@@ -1,0 +1,1064 @@
+{
+  "kitsuId": "38865",
+  "title": "Tongari Boushi no Atelier",
+  "updatedAt": "2026-07-09T22:50:19.750Z",
+  "matchVersion": 2,
+  "mangabakaId": 2409,
+  "mangabakaUrl": "https://mangabaka.org/2409",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzIvNC9lLzkvZi81LzkvZWVjMC80ZjUzL2IzMmIvOWZiOGM1ZGRiNzU1",
+  "author": "Kamome Shirahama",
+  "synopsis": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... \n\n(Source: Kodansha USA) \n\n*Notes:\n\\- Nominated for the 11th Manga Taishou Award in 2018.\n\\- Won the Daruma d'Or at Japan Expo in 2019.\n\\- Won Best U.S. Edition of International Material - Asia at the Eisner Awards in 2020.\n\\- Won the Best Manga Award at the Harvey Awards in 2020.*",
+  "status": "Releasing",
+  "total": 97,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "drama",
+    "fantasy",
+    "comedy",
+    "school_life",
+    "seinen",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Drawing",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Demographic with Female Author",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult Female Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Adult Male Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Golden/Yellow-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Long-Haired Female Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Long-Haired Male Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Ruthless Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Scheming Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Glasses-Wearing Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Masked Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Black Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Dark/Tan Skin Female Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Strong-Willed Protagonist",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Primarily Child Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Determined Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ensemble Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Cheerful Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Child Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Creative Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Determined Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Hard-Working Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mage Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Observant Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Optimistic Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Strong-Willed Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Witch Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Young Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Hard-Working Protagonist",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "LGBTQ+ Characters",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Determined Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mage Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mentor",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Castle",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Foreign",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Library",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Magic School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Amnesia",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Curses",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Lifestyle Change",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Memory Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Plot Twist",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Books",
+      "group": "Objects",
+      "weight": "incidental"
+    },
+    {
+      "name": "Magic Books",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Disciple",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Sorcerers",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Teachers",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Twins",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Master-Disciple Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Pets",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mythical Beast",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Abusive Parents",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Accidents",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Child Abuse",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Conspiracy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Disability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dreams",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Yuri",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Body Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "LGBTQ+",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Philosophy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Rehabilitation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Secret Organizations",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Secrets",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Social Class Discrimination",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Trauma",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Traumatic Past",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Award-Nominated Work",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Award Winning",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "core"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    },
+    {
+      "name": "Black/Dark Magic",
+      "group": "World Building",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mahou Shoujo",
+      "group": "World Building",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Spells",
+      "group": "World Building",
+      "weight": "incidental"
+    },
+    {
+      "name": "Sorcery",
+      "group": "World Building",
+      "weight": "incidental"
+    }
+  ],
+  "news": [
+    {
+      "title": "Jujutsu Kaisen, Witch Hat Atelier, More Manga Rank on NYT June Bestseller List",
+      "date": "2026-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-06-21/jujutsu-kaisen-witch-hat-atelier-more-manga-rank-on-nyt-june-bestseller-list/.238753"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's May Adult Graphic Novel List in U.S.",
+      "date": "2026-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-21/jujutsu-kaisen-ranks-no.1-on-bookscan-may-adult-graphic-novel-list-in-u.s/.238731"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's April Adult Graphic Novel List in U.S.",
+      "date": "2026-05-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-25/jujutsu-kaisen-ranks-no.1-on-bookscan-april-adult-graphic-novel-list-in-u.s/.237761"
+    },
+    {
+      "title": "Witch Hat Atelier Anime Casts Knights Moralis",
+      "date": "2026-05-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/witch-hat-atelier-anime-casts-knights-moralis/.237261"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 3-9",
+      "date": "2026-05-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-07/north-american-anime-manga-releases-may-3-9/.237073"
+    },
+    {
+      "title": "Spring 2026 Manga Guide - Witch Hat Atelier: Grimoire Edition",
+      "date": "2026-05-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2026/spring/witch-hat-atelier-grimoire-edition/.235729"
+    },
+    {
+      "title": "The Spring 2026 Anime Preview Guide - The Classroom of a Black Cat and a Witch",
+      "date": "2026-04-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/preview-guide/2026/spring/the-classroom-of-a-black-cat-and-a-witch/.234735"
+    },
+    {
+      "title": "MyAnimeList Unveils 78 Fan-Selected Titles in 'You Should Read This Manga 2026'",
+      "date": "2026-03-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2026-03-31/myanimelist-unveils-78-fan-selected-titles-in-you-should-read-this-manga-2026/.235986"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 15-21",
+      "date": "2026-03-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-20/north-american-anime-manga-releases-march-15-21/.235374"
+    },
+    {
+      "title": "Read it First: Manga, Light Novel Sources for Spring 2026 Anime",
+      "date": "2026-03-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2026-03-18/read-it-first-manga-light-novel-sources-for-spring-2026-anime/.234350"
+    },
+    {
+      "title": "The Best New and Continuing Manga of 2025",
+      "date": "2025-12-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2025/the-best-anime-of/the-best-new-and-continuing-manga-of/.232031"
+    },
+    {
+      "title": "Witch Hat Atelier Manga Has 7 Million Copies in Circulation Worldwide",
+      "date": "2025-11-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-11-13/witch-hat-atelier-manga-has-7-million-copies-in-circulation-worldwide/.230961"
+    },
+    {
+      "title": "Witch Hat Atelier Manga Gets Novel on November 21",
+      "date": "2025-11-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-11-02/witch-hat-atelier-manga-gets-novel-on-november-21/.230563"
+    },
+    {
+      "title": "Witch Hat Atelier Wins Best Manga at Harvey Awards for 2nd Time",
+      "date": "2025-10-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-10-11/witch-hat-atelier-wins-best-manga-at-harvey-awards-for-2nd-time/.229866"
+    },
+    {
+      "title": "GlobalComix Platform Adds Kodansha Manga in English Including Special Issue of Young Magazine",
+      "date": "2025-08-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-21/globalcomix-platform-adds-kodansha-manga-in-english-including-special-issue-of-young-magazine/.227900"
+    },
+    {
+      "title": "Harvey Awards Nominate The Summer Hikaru Died, Wind Breaker, Tokyo These Days, More Manga",
+      "date": "2025-08-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-13/harvey-awards-nominate-the-summer-hikaru-died-wind-breaker-tokyo-these-days-more-manga/.227614"
+    },
+    {
+      "title": "Kodansha USA Licenses Stella Must Die, DRAGON CIRCUS, Magical Karina, More Manga for Spring 2026",
+      "date": "2025-07-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-24/kodansha-usa-licenses-stella-must-die-dragon-circus-magical-karina-more-manga-for-spring-2026/.226987"
+    },
+    {
+      "title": "Chainsaw Man Tops Bookscan's  January Adult Graphic Novel List  in U.S.",
+      "date": "2025-02-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-15/chainsaw-man-tops-bookscan-january-adult-graphic-novel-list-in-u.s/.221249"
+    },
+    {
+      "title": "Merry Christmas 2024 From Around the Anime World, Part XII",
+      "date": "2024-12-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2024-12-25/merry-christmas-2024-from-around-the-anime-world-part-xii/.219501"
+    },
+    {
+      "title": "How Witch Hat Atelier's Manga Creator Made Magic for Everyone",
+      "date": "2024-11-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interview/2024-11-06/how-witch-hat-atelier-manga-creator-made-magic-for-everyone/.217078"
+    },
+    {
+      "title": "Kodansha USA Licenses As the Gods Will, India Calling Me Now, Sheeta's Little Big World, 7 More Manga",
+      "date": "2024-10-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-20/kodansha-usa-licenses-as-the-gods-will-india-calling-me-now-sheeta-little-big-world-7-more-manga/.216929"
+    },
+    {
+      "title": "#DRCL midnight children, Delicious in Dungeon Win 1st American Manga Awards",
+      "date": "2024-08-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2024-08-22/drcl-midnight-children-delicious-in-dungeon-win-1st-american-manga-awards/.214647"
+    },
+    {
+      "title": "Harvey Awards Nominate Frieren, Delicious in Dungeon, The Summer Hikaru Died, More Manga",
+      "date": "2024-08-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-15/harvey-awards-nominate-frieren-delicious-in-dungeon-the-summer-hikaru-died-more-manga/.214321"
+    },
+    {
+      "title": "1st American Manga Awards Announces Nominees",
+      "date": "2024-07-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2024-07-17/1st-american-manga-awards-announces-nominees/.213301"
+    },
+    {
+      "title": "Witch Hat Atelier Anime Reveals Trailer, Main Staff, 2025 Premiere (Updated)",
+      "date": "2024-07-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-07-04/witch-hat-atelier-anime-reveals-trailer-main-staff-2025-premiere/.212269"
+    },
+    {
+      "title": "This Week in Anime - Are Some Manga Truly \"Unadaptable\"?",
+      "date": "2024-05-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/this-week-in-anime/2024-05-28/.211226"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 19-25",
+      "date": "2024-05-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-05-22/north-american-anime-manga-releases-may-19-25/.211011"
+    },
+    {
+      "title": "MyAnimeList Rolls Out List of Manga Recommendations for 2024",
+      "date": "2024-04-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2024-04-10/myanimelist-rolls-out-list-of-manga-recommendations-for-2024/.209704"
+    },
+    {
+      "title": "This Week in Anime - Why Do We Love Animated Food?",
+      "date": "2024-02-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/this-week-in-anime/2024-02-01/.207050"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 1-7",
+      "date": "2023-10-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-10-03/north-american-anime-manga-releases-october-1-7/.203097"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 10-16",
+      "date": "2023-09-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-15/north-american-anime-manga-releases-september-10-16/.202285"
+    },
+    {
+      "title": "Manga Planet to Add Blue Lock, Boys Run the Riot, Cardcaptor Sakura, More Kodansha Manga",
+      "date": "2023-08-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-08-06/manga-planet-to-add-blue-lock-boys-run-the-riot-cardcaptor-sakura-more-kodansha-manga/.201026"
+    },
+    {
+      "title": "Manga Planet Adds Over 500 Titles from Kodansha",
+      "date": "2023-08-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2023-08-04/manga-planet-adds-over-500-titles-from-kodansha/.200987"
+    },
+    {
+      "title": "MyAnimeList Releases Ultimate List of Manga Recommendations",
+      "date": "2023-03-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2023-03-31/myanimelist-releases-ultimate-list-of-manga-recommendations/.196585"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 13-19",
+      "date": "2022-11-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-15/north-american-anime-manga-releases-november-13-19/.191949"
+    },
+    {
+      "title": "Kamome Shirahama's Witch Hat Atelier Manga Exceeds 4.5 Million Copies in Circulation",
+      "date": "2022-10-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-10-04/kamome-shirahama-witch-hat-atelier-manga-exceeds-4.5-million-copies-in-circulation/.190453"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 19-25",
+      "date": "2022-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-21/north-american-anime-manga-releases-june-19-25/.186927"
+    },
+    {
+      "title": "Witch Hat Atelier Manga Gets Anime",
+      "date": "2022-04-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-04-05/witch-hat-atelier-manga-gets-anime/.184394"
+    },
+    {
+      "title": "Witch Hat Atelier GN 6-8",
+      "date": "2021-10-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/witch-hat-atelier/gn-6-8/.178612"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 26-October 2",
+      "date": "2021-09-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-09-28/north-american-anime-manga-releases-september-26-october-2/.177933"
+    },
+    {
+      "title": "Harvey Awards Nominate Chainsaw Man, Remina, 3 More Manga",
+      "date": "2021-07-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-18/harvey-awards-nominate-chainsaw-man-remina-3-more-manga/.175224"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 31-February 6",
+      "date": "2021-02-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-03/north-american-anime-manga-releases-january-31-february-6/.169069"
+    },
+    {
+      "title": "Blue Flag Manga Ranks in YALSA's Top 10 Graphic Novels for Teens",
+      "date": "2021-01-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-01-11/blue-flag-manga-ranks-in-yalsa-top-10-graphic-novels-for-teens/.168242"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 27-January 2",
+      "date": "2020-12-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-31/north-american-anime-manga-releases-december-27-january-2/.168039"
+    },
+    {
+      "title": "Witch Hat Atelier Wins Best Manga at Harvey Awards",
+      "date": "2020-10-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-05/witch-hat-atelier-wins-best-manga-at-harvey-awards/.164905"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 13-19",
+      "date": "2020-09-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-09-15/north-american-anime-manga-releases-september-13-19/.164064"
+    },
+    {
+      "title": "Harvey Awards Nominates The Poe Clan, The Way of the Househusband, Witch Hat Atelier for Best Manga",
+      "date": "2020-08-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-08-31/harvey-awards-nominates-the-poe-clan-the-way-of-the-househusband-witch-hat-atelier-for-best-manga/.163506"
+    },
+    {
+      "title": "Witch Hat Atelier Wins Prestigious Will Eisner Comic Industry Awards During Comic-Con International 2020",
+      "date": "2020-07-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2020-07-26/witch-hat-atelier-wins-prestigious-will-eisner-comic-industry-awards-during-comic-con-international-/.162227"
+    },
+    {
+      "title": "Cats of the Louvre, Witch Hat Atelier, Way of the Househusband Win Eisner Awards",
+      "date": "2020-07-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-07-24/cats-of-the-louvre-witch-hat-atelier-way-of-the-househusband-win-eisner-awards/.162200"
+    },
+    {
+      "title": "Witch Hat Atelier GN 3 - 5",
+      "date": "2020-07-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/witch-hat-atelier/gn-3/.161402"
+    },
+    {
+      "title": "Witch Hat Atelier GN 1 & 2",
+      "date": "2020-06-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/witch-hat-atelier/gn-1/.160787"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 14-20",
+      "date": "2020-06-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-06-16/north-american-anime-manga-releases-june-14-20/.160703"
+    },
+    {
+      "title": "Beastars, Cats of the Louvre, Magic Knight Rayearth, More Nominated for Eisner Awards",
+      "date": "2020-06-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-06-04/beastars-cats-of-the-louvre-magic-knight-rayearth-more-nominated-for-eisner-awards/.160275"
+    },
+    {
+      "title": "44th Annual Kodansha Manga Awards' Nominees Announced",
+      "date": "2020-04-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-04-02/44th-annual-kodansha-manga-awards-nominees-announced/.158217"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 15-21",
+      "date": "2020-03-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-03-17/north-american-anime-manga-releases-march-15-21/.157604"
+    },
+    {
+      "title": "Witch Hat Atelier Manga Ranks in YALSA's Top 10 Graphic Novels for Teens",
+      "date": "2020-01-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-01-04/witch-hat-atelier-manga-ranks-in-yalsa-top-10-graphic-novels-for-teens/.155035"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 10-16",
+      "date": "2019-11-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-11-12/north-american-anime-manga-releases-november-10-16/.153173"
+    },
+    {
+      "title": "Witch Hat Atelier Gets Gourmet Spinoff Manga",
+      "date": "2019-10-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-10-21/witch-hat-atelier-gets-gourmet-spinoff-manga/.152453"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 25-31",
+      "date": "2019-08-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-08-29/north-american-anime-manga-releases-august-25-31/.150461"
+    },
+    {
+      "title": "Best and Worst Manga of 2019 Results - Comic-Con International",
+      "date": "2019-07-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2019-07-22/best-and-worst-manga-of-2019-results-comic-con-international/.149230"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 23-29",
+      "date": "2019-06-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-06-26/north-american-anime-manga-releases-june-23-29/.148222"
+    },
+    {
+      "title": "The Spring 2019 Manga Guide - Witch Hat Atelier",
+      "date": "2019-05-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2019-05-29/the-spring-2019-manga-guide/witch-hat-atelier/.147248"
+    },
+    {
+      "title": "Witch Hat Atelier Manga's 5th Volume Bundles Original Card Game",
+      "date": "2019-05-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2019-05-24/witch-hat-atelier-manga-5th-volume-bundles-original-card-game/.147036"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 7-13",
+      "date": "2019-04-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-04-10/north-american-anime-manga-releases-april-7-13/.145535"
+    },
+    {
+      "title": "7 Manga Nominated for Angoulême's Top Prize",
+      "date": "2019-01-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-01-03/7-manga-nominated-for-angouleme-top-prize/.141592"
+    },
+    {
+      "title": "Japanese Comic Ranking, October 1-7",
+      "date": "2018-10-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-10-10/japanese-comic-ranking-october-1-7/.137976"
+    },
+    {
+      "title": "Japanese Comic Ranking, September 24-30",
+      "date": "2018-10-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-10-03/japanese-comic-ranking-september-24-30/.137655"
+    },
+    {
+      "title": "Roundup of Newly Revealed Print Counts for Manga, Light Novel Series (September) - Updated",
+      "date": "2018-09-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-09-29/roundup-of-newly-revealed-print-counts-for-manga-light-novel-series-updated/.136106"
+    },
+    {
+      "title": "Japanese Comic Ranking, September 17-23",
+      "date": "2018-09-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-09-26/japanese-comic-ranking-september-17-23/.137339"
+    },
+    {
+      "title": "Roundup of Newly Revealed Print Counts for Manga, Light Novel Series (July-August)",
+      "date": "2018-09-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-09-01/roundup-of-newly-revealed-print-counts-for-manga-light-novel-series/.134799"
+    },
+    {
+      "title": "Best and Worst Manga of 2018 Results - Comic-Con International",
+      "date": "2018-07-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2018-07-24/best-and-worst-manga-of-2018-results-comic-con-international/.134599"
+    },
+    {
+      "title": "Kodansha USA Adds The Seven Deadly Sins: Seven Days, Love in Focus, Witch Hat Atelier Manga",
+      "date": "2018-07-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-07-07/kodansha-usa-adds-the-seven-deadly-sins-seven-days-love-in-focus-witch-hat-atelier-manga/.133940"
+    },
+    {
+      "title": "42nd Annual Kodansha Manga Awards' Nominees Announced",
+      "date": "2018-04-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-04-05/42nd-annual-kodansha-manga-awards-nominees-announced/.129986"
+    },
+    {
+      "title": "Elex Media Licenses Sora wo Kakeru Yodaka, En En no Shōbōtai Manga",
+      "date": "2018-04-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-04-02/elex-media-licenses-sora-wo-kakeru-yodaka-en-en-no-shobotai-manga/.129835"
+    },
+    {
+      "title": "Paru Itagaki's BEASTARS Wins 11th Manga Taisho Awards",
+      "date": "2018-03-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-22/paru-itagaki-beastars-wins-11th-manga-taisho-awards/.129344"
+    },
+    {
+      "title": "Japanese Comic Ranking, March 5-11",
+      "date": "2018-03-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-14/japanese-comic-ranking-march-5-11/.128992"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 26-March 4",
+      "date": "2018-03-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-07/japanese-comic-ranking-february-26-march-4/.128676"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 19-25",
+      "date": "2018-02-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-02-28/japanese-comic-ranking-february-19-25/.128388"
+    },
+    {
+      "title": "11th Manga Taisho Awards Nominates 12 Titles",
+      "date": "2018-01-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-01-22/11th-manga-taisho-awards-nominates-12-titles/.126756"
+    },
+    {
+      "title": "Kono Manga ga Sugoi! Reveals 2018's Series Ranking for Male Readers",
+      "date": "2017-12-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-12-08/kono-manga-ga-sugoi-reveals-2018-series-ranking-for-male-readers/.125015"
+    },
+    {
+      "title": "Japanese Comic Ranking, August 28-September 3",
+      "date": "2017-09-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-09-06/japanese-comic-ranking-august-28-september-3/.121023"
+    },
+    {
+      "title": "Japanese Comic Ranking, August 21-27",
+      "date": "2017-08-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-08-30/japanese-comic-ranking-august-21-27/.120742"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 6-12",
+      "date": "2017-02-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-02-15/japanese-comic-ranking-february-6-12/.112282"
+    }
+  ],
+  "sources": {
+    "anilist": "98263",
+    "anime_planet": "witch-hat-atelier",
+    "anime_news_network": "21181",
+    "kitsu": "38865",
+    "manga_updates": "c8mp52y",
+    "my_anime_list": "100035",
+    "shikimori": "100035"
+  },
+  "links": [
+    "https://comic-days.com/episode/13932016480031217072",
+    "https://comic-days.com/episode/3270375685330852748",
+    "https://comics.inkr.com/title/2339-witch-hat-atelier",
+    "https://kmanga.kodansha.com/title/10065/episode/313463",
+    "https://kodansha.us/series/witch-hat-atelier/",
+    "https://manga.bilibili.com/detail/mc26727",
+    "https://mangaplaza.com/title/0303007358/",
+    "https://morning.kodansha.co.jp/c/tongariboushi/",
+    "https://piccoma.com/web/product/7921?etype=episode",
+    "https://pocket.shonenmagazine.com/title/01683/episode/343238",
+    "https://www.omoi.com/series/witch-hat-atelier",
+    "https://x.com/tongariofficial",
+    "https://morning.moae.jp/lineup/667",
+    "https://en.wikipedia.org/wiki/Witch_Hat_Atelier",
+    "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%93%E3%81%8C%E3%82%8A%E5%B8%BD%E5%AD%90%E3%81%AE%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8",
+    "https://mangabaka.org/2409"
+  ]
+}
