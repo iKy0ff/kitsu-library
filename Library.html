@@ -111,6 +111,9 @@
   var $ = function (id) { return document.getElementById(id); };
   var RAW = Array.isArray(window.libraryData) ? window.libraryData : [];
   function idOf(m) { return String(m.kitsuId || m.slug || m.title || ""); }
+  // Single definition — cards navigate to the in-app Entry page. (A second
+  // definition lower in this file once shadowed this one and sent clicks to
+  // the external Kitsu page; keep exactly one entryLink.)
   function entryLink(m) { return m.id ? ' onclick="location.href=\'Entry.html?id=' + encodeURIComponent(m.id) + '\'"' : ''; }
 
   var statusColor = { "Reading": "var(--red)", "Completed": "var(--good)", "On Hold": "var(--gold)", "Plan to Read": "var(--ink-faint)", "Dropped": "#6f6656" };
@@ -164,8 +167,6 @@
   function pctBar(m) {
     return '<div style="width:' + m.pct + '%;height:100%;background:repeating-linear-gradient(115deg, ' + m.sc + ' 0 7px, ' + m.scDeep + ' 7px 14px);"></div>';
   }
-  function entryLink(m) { return m.url ? ' onclick="window.open(\'' + esc(m.url) + '\',\'_blank\')"' : ''; }
-
   var STATUS_DEFS = [
     { key: "All", label: "All Titles", dot: "var(--ink-faint)" },
     { key: "Reading", label: "Reading Now", dot: "var(--red)" },

@@ -17,7 +17,7 @@ const SERVICES = [
     apiHeaders: { Accept: 'application/vnd.api+json' } },
   { mark: 'MB', name: 'mangabaka', role: 'Metadata — genres, tags, news',
     siteUrl: 'mangabaka.org',    site: 'https://mangabaka.org',
-    apiUrl: 'api.mangabaka.org/v2', api: 'https://api.mangabaka.org/v2/series/9745',
+    apiUrl: 'api.mangabaka.dev/v1', api: 'https://api.mangabaka.dev/v1/series/9745',
     apiHeaders: { Accept: 'application/json' } },
   { mark: 'CM', name: 'comick',    role: 'Chapter listings & release dates',
     siteUrl: 'comick.dev',       site: 'https://comick.dev',

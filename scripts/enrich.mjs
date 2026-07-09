@@ -12,41 +12,78 @@
 //   library.js               patched in place with the light fields the
 //                            Library grid + notify.mjs need (cover, author,
 //                            total, mangabakaStatus, genres, newsCount, ...)
+//   sync_errors.log          every failure, with URL + HTTP status
 //
-// Matching is reliable, not fuzzy: mangabaka results are matched on
-// source.kitsu.id and comick on links.kt (the Kitsu id), falling back to the
-// top search hit only if no id match is found.
+// ── API endpoints (VERIFIED, do not "upgrade" to /v2/) ─────────────────────
+// mangabaka's public API is version /v1/ — confirmed against the official
+// docs (api.mangabaka.dev cites `GET /v1/series/1`) and against the
+// comictagger "mangabaka_talker" plugin, which uses
+// `https://api.mangabaka.dev/v1/` + `series/search?q=&content_rating=...`.
+// A previous build used /v2/ and every call 404'd. Search response shape:
+// `{ data: [...], pagination: { page, limit, count, next } }`.
+//
+// ── Pacing & rate limits ────────────────────────────────────────────────────
+// mangabaka rate-limits per endpoint "kind"; CACHED responses don't count
+// (cf-cache-status: HIT). The reference client self-limits to 60 req/min.
+// We pace at PACE_MS between EVERY network call (default 1100 ms ≈ 55/min),
+// back off 20 s on any 429 (up to 3 tries), and never send cache-busting
+// params (they'd defeat the free cached tier). A full-library run
+// (~6 requests/title) takes roughly 6–7 s per title — ~40–45 min for ~380
+// titles. That's fine: slow and complete beats fast and banned.
+//
+// ── Per-run cap (MAX_PER_RUN) ───────────────────────────────────────────────
+// How many titles may be (re)enriched in one run. Change it two ways:
+//   * in code:   edit DEFAULT_MAX_PER_RUN below
+//   * per run:   MAX_PER_RUN=50 node scripts/enrich.mjs        (local)
+//                repo Variable MAX_PER_RUN (GitHub — wired in sync.yml)
+// Suggested values: 50–100 for the first test runs; 500 to let the whole
+// library fill in one run; 400–500 as a ceiling if the library grows to
+// 1k–2k entries so a single run stays under ~1 h.
 //
 // Cost control: each title is cached in its entries/ file and only refreshed
-// after REFRESH_DAYS; and at most MAX_PER_RUN titles are (re)enriched per run,
-// so a 4x/day cron fills the backlog over a couple of days, then just keeps
-// things fresh. Every network call is guarded — failures keep Kitsu values and
-// never abort the run.
-//
-// VERIFY-ON-FIRST-RUN: the two *search* paths below are the one thing I could
-// not hit from the build sandbox. If a search 404s, fix SEARCH_MB / SEARCH_CM;
-// the series/chapter/news paths are confirmed. Nothing else needs touching.
+// after REFRESH_DAYS, so after the initial fill each run only touches stale
+// titles. Every network call is guarded — failures keep Kitsu values and
+// never abort the whole run (only ABORT_AFTER_CONSECUTIVE_FAILS structural
+// failures in a row stop it early, with the reason in sync_errors.log).
 
 import fs from 'node:fs';
 import path from 'node:path';
 
 const KITSU_ID_FIELD = 'kitsuId';
 const REFRESH_DAYS = 7;
-const MAX_PER_RUN = 40;
-const PACE_MS = 150;
+const DEFAULT_MAX_PER_RUN = 500;                 // <-- edit me (or set MAX_PER_RUN env)
+const MAX_PER_RUN = Math.max(1, Number(process.env.MAX_PER_RUN) || DEFAULT_MAX_PER_RUN);
+const PACE_MS = 1100;                            // delay between EVERY network call
+const RETRY_429_DELAY_MS = 20000;                // wait after a 429 before retrying
+const MAX_TRIES = 3;                             // tries per request (429/5xx only)
+const ABORT_AFTER_CONSECUTIVE_FAILS = 6;
 
-const MB = 'https://api.mangabaka.org';
+// api.mangabaka.dev and api.mangabaka.org are interchangeable mirrors;
+// .dev is the one the official docs + reference client use.
+const MB = 'https://api.mangabaka.dev/v1';
 const CM = 'https://api.comick.dev';
-const SEARCH_MB = (q) => `${MB}/v2/series/search?q=${encodeURIComponent(q)}`;      // VERIFY
-const SERIES_MB = (id) => `${MB}/v2/series/${id}`;
-const NEWS_MB   = (id) => `${MB}/v2/series/${id}/news`;
-const SEARCH_CM = (q) => `${CM}/v1.0/search?type=comic&q=${encodeURIComponent(q)}`; // VERIFY
+
+// content_rating must be REPEATED (all four values) on both search APIs,
+// otherwise results are silently filtered to "safe" only.
+const RATINGS = ['safe', 'suggestive', 'erotica', 'pornographic']
+  .map((r) => 'content_rating=' + r).join('&');
+
+const SEARCH_MB = (q) => `${MB}/series/search?q=${encodeURIComponent(q)}&${RATINGS}&page=1&limit=50`;
+const SERIES_MB = (id) => `${MB}/series/${id}`;
+const NEWS_MB   = (id) => `${MB}/series/${id}/news`;
+const SEARCH_CM = (q) => `${CM}/v1.0/search?type=comic&q=${encodeURIComponent(q)}&limit=25&page=1&${RATINGS}`;
 const CHAPS_CM  = (hid, page) => `${CM}/v1.0/comic/${hid}/chapters?page=${page}&limit=100`;
 const CM_HEADERS = { Accept: 'application/json', Referer: 'https://comick.dev/', Origin: 'https://comick.dev' };
 
 const LIB_FILE = path.join(process.cwd(), 'library.js');
 const TAGS_FILE = path.join(process.cwd(), 'mangabaka_tags.json');
 const ENTRIES_DIR = path.join(process.cwd(), 'entries');
+const ERROR_LOG = path.join(process.cwd(), 'sync_errors.log');
+
+function logError(msg) {
+  fs.appendFileSync(ERROR_LOG, `[${new Date().toString()}] [enrich] ${msg}\n`);
+  console.error(msg);
+}
 
 // ---- tag dictionary: id -> { name, group, isGenre } -----------------------
 function loadTagDict() {
@@ -77,13 +114,39 @@ function writeLibrary(lib) {
   fs.writeFileSync(LIB_FILE, `${header}window.libraryData = ${JSON.stringify(lib, null, 2)};\n`);
 }
 
-async function getJson(url, headers) {
-  const res = await fetch(url + (url.includes('?') ? '&' : '?') + 'cb=' + Date.now(), { headers: headers || { Accept: 'application/json' } });
-  if (res.status === 429) throw new Error('429');
-  if (!res.ok) throw new Error('HTTP ' + res.status);
-  return res.json();
-}
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// Paced, retrying GET. No cache-busting params — mangabaka's cached
+// responses are free (don't count toward the rate limit), so we WANT hits.
+async function getJson(url, headers) {
+  let lastErr = 'unknown';
+  for (let attempt = 1; attempt <= MAX_TRIES; attempt++) {
+    await sleep(PACE_MS);
+    let res;
+    try {
+      res = await fetch(url, { headers: headers || { Accept: 'application/json' } });
+    } catch (e) {
+      lastErr = e.message;
+      logError(`network error (try ${attempt}/${MAX_TRIES}) ${url} — ${e.message}`);
+      continue;
+    }
+    if (res.ok) return res.json();
+    lastErr = 'HTTP ' + res.status;
+    if (res.status === 429) {
+      logError(`429 rate-limited (try ${attempt}/${MAX_TRIES}) ${url} — backing off ${RETRY_429_DELAY_MS / 1000}s`);
+      await sleep(RETRY_429_DELAY_MS);
+      continue;
+    }
+    if (res.status >= 500) {
+      logError(`HTTP ${res.status} (try ${attempt}/${MAX_TRIES}) ${url}`);
+      continue;
+    }
+    // 4xx other than 429: retrying won't help (404 = wrong path / no match)
+    throw new Error(`HTTP ${res.status} for ${url}`);
+  }
+  throw new Error(`${lastErr} for ${url} (after ${MAX_TRIES} tries)`);
+}
+
 const listOf = (j) => (j && (j.data || j.results)) || (Array.isArray(j) ? j : []);
 
 function coverUrl(cover) {
@@ -125,13 +188,12 @@ async function resolveMangabaka(item, dict) {
   let hit = results.find((r) => r && r.source && r.source.kitsu && String(r.source.kitsu.id) === kid) || results[0];
   const id = hit && hit.id;
   if (!id) return null;
-  await sleep(PACE_MS);
-  const d = (await getJson(SERIES_MB(id))).data || {};
+  const dj = await getJson(SERIES_MB(id));
+  const d = (dj && dj.data) || dj || {};
   let news = [];
   try {
-    await sleep(PACE_MS);
     news = listOf(await getJson(NEWS_MB(id))).map((n) => ({
-      title: n.title || n.headline || '', date: n.date || n.published || n.created_at || '', url: n.url || n.link || '',
+      title: n.title || n.headline || '', date: n.date || n.published || n.published_at || n.created_at || '', url: n.url || n.link || '',
     }));
   } catch { /* news optional */ }
   return {
@@ -150,7 +212,7 @@ async function resolveMangabaka(item, dict) {
 function dedupeChapters(chapters) {
   const byNum = new Map();
   for (const c of chapters) {
-    if ((c.lang || c.iso639_1) !== 'en') continue;
+    if ((c.lang || c.iso639_1) !== 'en') continue;   // lang param is ignored server-side — filter here
     const num = c.chap != null ? String(c.chap) : (c.chapter != null ? String(c.chapter) : null);
     if (num === null) continue;
     const up = Number(c.up_count) || 0;
@@ -171,7 +233,6 @@ async function resolveComick(item) {
   if (!hid) return null;
   let all = [], page = 1, guardTotal = Infinity;
   while (page <= 10) {                        // cap ~1000 chapters
-    await sleep(PACE_MS);
     const j = await getJson(CHAPS_CM(hid, page), CM_HEADERS);
     const chs = listOf(j);
     if (!chs.length) break;
@@ -195,32 +256,42 @@ async function main() {
   if (!fs.existsSync(ENTRIES_DIR)) fs.mkdirSync(ENTRIES_DIR, { recursive: true });
   const dict = loadTagDict();
   const lib = parseLibrary();
+  const startedAt = Date.now();
+  console.log(`enrich: ${lib.length} titles in library, cap ${MAX_PER_RUN}/run, pace ${PACE_MS}ms`);
 
-  let done = 0, fails = 0;
+  let done = 0, fails = 0, skipped = 0;
   for (const item of lib) {
     const kid = String(item[KITSU_ID_FIELD] || item.slug || item.title || '');
     if (!kid) continue;
-    if (isFresh(kid)) { patchFromEntry(item, kid); continue; }
+    if (isFresh(kid)) { patchFromEntry(item, kid); skipped++; continue; }
     if (done >= MAX_PER_RUN) break;
-    if (fails >= 6) { console.warn('too many failures — stopping this run, will resume next time'); break; }
+    if (fails >= ABORT_AFTER_CONSECUTIVE_FAILS) {
+      logError(`too many consecutive failures (${fails}) — stopping this run, will resume next time`);
+      break;
+    }
 
     const entry = { kitsuId: kid, title: item.title, updatedAt: new Date().toISOString() };
     let ok = false;
     try { const mb = await resolveMangabaka(item, dict); if (mb) { Object.assign(entry, mb); ok = true; } }
-    catch (e) { fails++; }
+    catch (e) { logError(`mangabaka failed for "${item.title}" — ${e.message}`); }
     try { const cm = await resolveComick(item); if (cm) { Object.assign(entry, cm); ok = true; } }
-    catch (e) { /* comick optional */ }
+    catch (e) { logError(`comick failed for "${item.title}" — ${e.message}`); }
 
     if (ok) {
       fs.writeFileSync(path.join(ENTRIES_DIR, kid + '.json'), JSON.stringify(entry, null, 2));
       applyToLibrary(item, entry);
       done++; fails = 0;
+      if (done % 10 === 0) {
+        writeLibrary(lib); // checkpoint so a mid-run crash keeps progress
+        console.log(`enrich: ${done}/${Math.min(MAX_PER_RUN, lib.length)} done (${Math.round((Date.now() - startedAt) / 60000)} min elapsed)`);
+      }
+    } else {
+      fails++;
     }
-    await sleep(PACE_MS);
   }
 
   writeLibrary(lib);
-  console.log(`enrich: ${done} title(s) enriched this run (cap ${MAX_PER_RUN}).`);
+  console.log(`enrich: ${done} enriched, ${skipped} fresh/skipped, finished in ${Math.round((Date.now() - startedAt) / 60000)} min (cap ${MAX_PER_RUN}).`);
 }
 
 // light fields onto the library row (grid + notifications need these)
