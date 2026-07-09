@@ -22,7 +22,9 @@ const SERVICES = [
   { mark: 'CM', name: 'comick',    role: 'Chapter listings & release dates',
     siteUrl: 'comick.dev',       site: 'https://comick.dev',
     apiUrl: 'api.comick.dev/v1.0', api: 'https://api.comick.dev/v1.0/search?q=test&limit=1',
-    apiHeaders: { Accept: 'application/json', Referer: 'https://comick.dev/' } },
+    apiHeaders: { Accept: 'application/json, text/plain, */*', Referer: 'https://comick.dev/', Origin: 'https://comick.dev',
+      'Accept-Language': 'en-US,en;q=0.9',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36' } },
 ];
 
 async function probe(url, headers) {

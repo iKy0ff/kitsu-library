@@ -169,6 +169,13 @@ globals precisely so `file://` viewing works without a local server.
 
 ### 8. Troubleshooting
 
+- **Every comick call fails with HTTP 403 in Actions (but works in your browser):**
+  Cloudflare is blocking GitHub's datacenter IPs, not your code. The script
+  sends browser-like headers as a countermeasure, and a circuit breaker
+  disables comick after 5 consecutive failures so the rest of the run
+  (mangabaka) continues at full speed. If the 403s persist, fill the chapter
+  data from your own connection — see **"If comick blocks GitHub's servers"**
+  below.
 - **Enrichment "didn't work" / cards have no covers:** open `sync_errors.log`
   in the repo root — every failed request is logged there with its URL and HTTP
   status (the workflow commits it). `HTTP 404` on a mangabaka URL means the API
@@ -179,6 +186,36 @@ globals precisely so `file://` viewing works without a local server.
   (Ctrl+F5) — the data `.js` files can be cached by the browser.
 - **Everything empty on first visit:** the data files ship seeded empty; run
   the workflow once (step 6).
+- **A run was canceled mid-enrich:** progress is safe — `library.js` is
+  checkpointed every 10 titles, each finished title's `entries/<id>.json` is
+  already on disk, and the commit step runs even on cancellation. The next run
+  resumes where it stopped.
+
+### If comick blocks GitHub's servers
+
+comick's API works from residential IPs but often 403s cloud/datacenter IPs.
+When that happens, the sync still completes everything mangabaka provides
+(covers, authors, synopsis, status, genres, tags, news, totals) — only the
+per-chapter release lists on the Entry page are missing. To fill those from
+your own machine:
+
+```bash
+git pull                       # get the latest enriched entries
+node scripts/enrich.mjs        # mangabaka entries are fresh -> only the
+                               # comick-fill pass runs, from YOUR IP
+git add entries/ library.js && git commit -m "fill comick chapters" && git push
+```
+
+The script detects fresh entries that are missing chapter lists and retries
+only the comick half for them (`comick-fill` in the log) — it won't re-hit
+mangabaka or wait out the 7-day refresh window. Matched comics are cached in
+each entry (`comickHid`/`comickSlug`), so future runs skip comick search
+entirely and go straight to the chapter list. Matching prefers the comick URL
+found in **mangabaka's own referrer links** (the row of source icons on its
+site — a verified cross-link that needs no search at all); otherwise it
+searches comick and confirms candidates against your Kitsu ID via comick's
+own cross-links (`comickVerified` in the entry tells you which method
+matched).
 
 ### 9. cron-job.org external trigger (optional, later)
 

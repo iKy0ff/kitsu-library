@@ -72,8 +72,37 @@ const SEARCH_MB = (q) => `${MB}/series/search?q=${encodeURIComponent(q)}&${RATIN
 const SERIES_MB = (id) => `${MB}/series/${id}`;
 const NEWS_MB   = (id) => `${MB}/series/${id}/news`;
 const SEARCH_CM = (q) => `${CM}/v1.0/search?type=comic&q=${encodeURIComponent(q)}&limit=25&page=1&${RATINGS}`;
+const DETAIL_CM = (slug) => `${CM}/v1.0/comic/${encodeURIComponent(slug)}`;
 const CHAPS_CM  = (hid, page) => `${CM}/v1.0/comic/${hid}/chapters?page=${page}&limit=100`;
-const CM_HEADERS = { Accept: 'application/json', Referer: 'https://comick.dev/', Origin: 'https://comick.dev' };
+
+// Comick sits behind aggressive Cloudflare bot rules. From GitHub runners a
+// bare Node fetch gets HTTP 403 on every endpoint (observed 2026-07-09) even
+// though the same URLs work from a residential browser. Sending a full
+// browser-like header set is the best available countermeasure; if Cloudflare
+// still blocks the runner's datacenter IP, the circuit breaker below stops
+// wasting the run and the comick data can be filled by running this script
+// locally (see README "If comick blocks GitHub's servers").
+const CM_HEADERS = {
+  Accept: 'application/json, text/plain, */*',
+  'Accept-Language': 'en-US,en;q=0.9',
+  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+  Referer: 'https://comick.dev/',
+  Origin: 'https://comick.dev',
+};
+
+// Circuit breaker: after this many consecutive blocked/failed comick calls,
+// stop trying comick for the remainder of the run (mangabaka continues).
+const CM_BREAKER_LIMIT = 5;
+let cmConsecutiveFails = 0;
+let cmDisabled = false;
+function comickBlocked(e) {
+  cmConsecutiveFails++;
+  if (!cmDisabled && cmConsecutiveFails >= CM_BREAKER_LIMIT) {
+    cmDisabled = true;
+    logError(`comick disabled for the rest of this run after ${cmConsecutiveFails} consecutive failures (last: ${e.message}). ` +
+      `If this is HTTP 403 on GitHub Actions, Cloudflare is blocking the runner — see README for the local-run workaround.`);
+  }
+}
 
 const LIB_FILE = path.join(process.cwd(), 'library.js');
 const TAGS_FILE = path.join(process.cwd(), 'mangabaka_tags.json');
@@ -206,6 +235,15 @@ async function resolveMangabaka(item, dict) {
     genres: Array.isArray(d.genres) ? d.genres.map((g) => (typeof g === 'string' ? g : g.name)).filter(Boolean) : [],
     tags: buildTags(d, dict),
     news,
+    // Cross-links: `source` is keyed by tracker (kitsu/anilist/myanimelist/
+    // mangaupdates/anime_planet/shikimori...), each { id, rating }. `links`
+    // is a flat list of raw URLs. Kept for the Entry page's source chips.
+    sources: d.source && typeof d.source === 'object'
+      ? Object.fromEntries(Object.entries(d.source)
+          .filter(([, v]) => v && v.id != null)
+          .map(([k, v]) => [k, String(v.id)]))
+      : {},
+    links: Array.isArray(d.links) ? d.links.filter((u) => typeof u === 'string') : [],
   };
 }
 
@@ -224,13 +262,36 @@ function dedupeChapters(chapters) {
     .sort((a, b) => parseFloat(b.num) - parseFloat(a.num));
 }
 
-async function resolveComick(item) {
-  const results = listOf(await getJson(SEARCH_CM(item.title), CM_HEADERS));
-  if (!results.length) return null;
-  const kid = String(item[KITSU_ID_FIELD] || '');
-  let hit = results.find((r) => r && r.links && String(r.links.kt) === kid) || results[0];
-  const hid = hit && hit.hid;
-  if (!hid) return null;
+// ── comick matching ─────────────────────────────────────────────────────────
+// Search results carry `hid`/`slug`/`title`/`md_titles` but NO cross-links;
+// the `links` object (kt = Kitsu id, al/mu/mal/ap) only exists on the DETAIL
+// endpoint. Strategy (per real captured responses):
+//   1. If a previous run cached comickHid/comickSlug in the entry, reuse it.
+//   2. Search, rank candidates by normalized title match (incl. md_titles).
+//   3. Fetch detail for the top candidates and verify links.kt === kitsuId.
+//   4. If no candidate verifies (or detail is unreachable), fall back to the
+//      best title match, flagged comickVerified: false.
+const norm = (s) => String(s || '').toLowerCase().normalize('NFKD').replace(/[^a-z0-9]+/g, '');
+
+function rankComickHits(results, wanted) {
+  const w = norm(wanted);
+  const scored = results.map((r) => {
+    const names = [r.title, r.slug, ...((r.md_titles || []).map((t) => t && t.title))].filter(Boolean);
+    let score = 0;
+    for (const n of names) {
+      const nn = norm(n);
+      if (!nn) continue;
+      if (nn === w) { score = Math.max(score, 3); }
+      else if (nn.startsWith(w) || w.startsWith(nn)) { score = Math.max(score, 2); }
+      else if (nn.includes(w) || w.includes(nn)) { score = Math.max(score, 1); }
+    }
+    return { r, score };
+  });
+  scored.sort((a, b) => b.score - a.score);
+  return scored.filter((s) => s.r && s.r.hid).map((s) => s.r);
+}
+
+async function comickChapters(hid) {
   let all = [], page = 1, guardTotal = Infinity;
   while (page <= 10) {                        // cap ~1000 chapters
     const j = await getJson(CHAPS_CM(hid, page), CM_HEADERS);
@@ -241,7 +302,68 @@ async function resolveComick(item) {
     if (all.length >= guardTotal) break;
     page++;
   }
-  return { comickHid: hid, chapters: dedupeChapters(all) };
+  return dedupeChapters(all);
+}
+
+// MangaBaka's `links` referrer URLs often include the comick page itself —
+// its own verified cross-link. Extract the slug from any comick.* URL.
+function comickSlugFromLinks(links) {
+  for (const u of (Array.isArray(links) ? links : [])) {
+    const m = /comick\.(?:dev|app|io|cc|fun)\/comic\/([^/?#]+)/i.exec(String(u));
+    if (m) return decodeURIComponent(m[1]);
+  }
+  return null;
+}
+
+async function resolveComick(item, known) {
+  if (cmDisabled) return null;
+  const kid = String(item[KITSU_ID_FIELD] || '');
+
+  // 1. Reuse a previously matched comic — no search needed.
+  if (known && known.comickHid) {
+    const chapters = await comickChapters(known.comickHid);
+    cmConsecutiveFails = 0;
+    return { comickHid: known.comickHid, comickSlug: known.comickSlug || '',
+             comickVerified: known.comickVerified !== false, chapters };
+  }
+
+  // 2. MangaBaka gave us the comick URL directly (its Referrers row) —
+  //    a verified match with zero searching. One detail call for the hid.
+  const mbSlug = comickSlugFromLinks(known && known.links);
+  if (mbSlug) {
+    try {
+      const dj = await getJson(DETAIL_CM(mbSlug), CM_HEADERS);
+      const comic = (dj && (dj.comic || dj.data)) || dj || {};
+      if (comic.hid) {
+        const chapters = await comickChapters(comic.hid);
+        cmConsecutiveFails = 0;
+        return { comickHid: comic.hid, comickSlug: mbSlug, comickVerified: true, chapters };
+      }
+    } catch { /* fall through to search */ }
+  }
+
+  // 3. Search and rank by title.
+  const results = listOf(await getJson(SEARCH_CM(item.title), CM_HEADERS));
+  const candidates = rankComickHits(results, item.title);
+  if (!candidates.length) { cmConsecutiveFails = 0; return null; }
+
+  // 4. Verify the top candidates against our Kitsu id via the detail
+  //    endpoint's links.kt (the reliable join). Detail failures are
+  //    non-fatal — search already gave us a usable hid.
+  let chosen = null, verified = false;
+  for (const cand of candidates.slice(0, 3)) {
+    try {
+      const dj = await getJson(DETAIL_CM(cand.slug || cand.hid), CM_HEADERS);
+      const comic = (dj && (dj.comic || dj.data)) || dj || {};
+      const links = comic.links || {};
+      if (kid && String(links.kt || '') === kid) { chosen = cand; verified = true; break; }
+    } catch { /* detail unreachable or shape unknown — keep going */ }
+  }
+  if (!chosen) chosen = candidates[0];        // best title match, unverified
+
+  const chapters = await comickChapters(chosen.hid);
+  cmConsecutiveFails = 0;
+  return { comickHid: chosen.hid, comickSlug: chosen.slug || '', comickVerified: verified, chapters };
 }
 
 function isFresh(kitsuId) {
@@ -259,23 +381,32 @@ async function main() {
   const startedAt = Date.now();
   console.log(`enrich: ${lib.length} titles in library, cap ${MAX_PER_RUN}/run, pace ${PACE_MS}ms`);
 
+  const needComickFill = [];                 // fresh entries whose chapters are missing
   let done = 0, fails = 0, skipped = 0;
   for (const item of lib) {
     const kid = String(item[KITSU_ID_FIELD] || item.slug || item.title || '');
     if (!kid) continue;
-    if (isFresh(kid)) { patchFromEntry(item, kid); skipped++; continue; }
+    if (isFresh(kid)) {
+      patchFromEntry(item, kid); skipped++;
+      const prev = readEntry(kid);
+      if (prev && !Array.isArray(prev.chapters)) needComickFill.push({ item, kid, prev });
+      continue;
+    }
     if (done >= MAX_PER_RUN) break;
     if (fails >= ABORT_AFTER_CONSECUTIVE_FAILS) {
       logError(`too many consecutive failures (${fails}) — stopping this run, will resume next time`);
       break;
     }
 
-    const entry = { kitsuId: kid, title: item.title, updatedAt: new Date().toISOString() };
+    const prev = readEntry(kid);
+    // Seed from the previous entry: if one source fails this run, we keep
+    // its stale-but-real data instead of losing those fields entirely.
+    const entry = { ...(prev || {}), kitsuId: kid, title: item.title, updatedAt: new Date().toISOString() };
     let ok = false;
     try { const mb = await resolveMangabaka(item, dict); if (mb) { Object.assign(entry, mb); ok = true; } }
     catch (e) { logError(`mangabaka failed for "${item.title}" — ${e.message}`); }
-    try { const cm = await resolveComick(item); if (cm) { Object.assign(entry, cm); ok = true; } }
-    catch (e) { logError(`comick failed for "${item.title}" — ${e.message}`); }
+    try { const cm = await resolveComick(item, entry); if (cm) { Object.assign(entry, cm); ok = true; } }
+    catch (e) { comickBlocked(e); logError(`comick failed for "${item.title}" — ${e.message}`); }
 
     if (ok) {
       fs.writeFileSync(path.join(ENTRIES_DIR, kid + '.json'), JSON.stringify(entry, null, 2));
@@ -290,8 +421,36 @@ async function main() {
     }
   }
 
+  // ── comick-fill pass ──────────────────────────────────────────────────────
+  // Entries that are otherwise fresh (mangabaka done) but never got a comick
+  // chapter list — typically because comick was blocking GitHub's runners.
+  // Retry ONLY the comick half for them, without touching mangabaka and
+  // without waiting out REFRESH_DAYS. Runs after the main pass, respects the
+  // same circuit breaker, and shares the MAX_PER_RUN budget.
+  let filled = 0;
+  if (!cmDisabled && needComickFill.length) {
+    console.log(`enrich: comick-fill — ${needComickFill.length} fresh entries missing chapters`);
+    for (const { item, kid, prev } of needComickFill) {
+      if (cmDisabled || done + filled >= MAX_PER_RUN) break;
+      try {
+        const cm = await resolveComick(item, prev);
+        if (cm && Array.isArray(cm.chapters)) {
+          Object.assign(prev, cm);
+          fs.writeFileSync(path.join(ENTRIES_DIR, kid + '.json'), JSON.stringify(prev, null, 2));
+          applyToLibrary(item, prev);
+          filled++;
+        }
+      } catch (e) { comickBlocked(e); logError(`comick-fill failed for "${item.title}" — ${e.message}`); }
+    }
+  }
+
   writeLibrary(lib);
-  console.log(`enrich: ${done} enriched, ${skipped} fresh/skipped, finished in ${Math.round((Date.now() - startedAt) / 60000)} min (cap ${MAX_PER_RUN}).`);
+  console.log(`enrich: ${done} enriched, ${filled} comick-filled, ${skipped} fresh/skipped, ` +
+    `finished in ${Math.round((Date.now() - startedAt) / 60000)} min (cap ${MAX_PER_RUN}${cmDisabled ? ', comick disabled mid-run' : ''}).`);
+}
+
+function readEntry(kid) {
+  try { return JSON.parse(fs.readFileSync(path.join(ENTRIES_DIR, kid + '.json'), 'utf8')); } catch { return null; }
 }
 
 // light fields onto the library row (grid + notifications need these)
