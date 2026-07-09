@@ -1,0 +1,86 @@
+{
+  "kitsuId": "73456",
+  "title": "The Reincarnation of the Great Mage in Myth",
+  "updatedAt": "2026-07-09T03:51:21.817Z",
+  "mangabakaId": 4404,
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80L2EvNy85L2MvZC81LzgvOWU5NC80ZTUwL2E3ZWIvYjlhZTk5MmFkMjdh",
+  "author": "Junsol, Sakura Yoshino, Tumin",
+  "synopsis": "Hayool was supposed to be a genius mage and the next head of his clan, but when he turns out to be incompatible with magical AI, his friends and family expect him to give up on his dreams. Too determined to abandon his ambitions, he discovers a book written by the founder of magic itself, and it teaches him to do magic without AI. Suddenly much more powerful than his classmates and school bullies, it seems he might have a bright future after all—if he can survive the secret plots against him.\n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 100,
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "comedy",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": []
+}

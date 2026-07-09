@@ -1,0 +1,151 @@
+{
+  "kitsuId": "76826",
+  "title": "Akdangdeurui Huwonjaga Doeeotda",
+  "updatedAt": "2026-07-09T03:51:02.213Z",
+  "mangabakaId": 547234,
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzAvOC9kL2QvZi81LzkvYWIzYS80NjU2Lzk2ODUvYTU5OWM0NDYyYWI4",
+  "author": "Bomhanbangul, LICO",
+  "synopsis": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!\n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 42,
+  "genres": [
+    "action",
+    "fantasy",
+    "comedy",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Misunderstood Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Stoic Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Appearance Different from Personality",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Secret Organizations",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": []
+}

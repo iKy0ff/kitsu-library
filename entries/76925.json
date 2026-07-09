@@ -1,0 +1,156 @@
+{
+  "kitsuId": "76925",
+  "title": "Haimiya Senpai wa Kowakute Kawaii",
+  "updatedAt": "2026-07-09T03:51:16.906Z",
+  "mangabakaId": 564580,
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzMvZS84LzEvMC84LzIvMTRiNS80OTJkL2FmZTcvYzY2MDg3MjU2NmRi",
+  "author": "Sumu Kamiyama",
+  "synopsis": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason…this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n\n*Source: Manga UP! Global*",
+  "status": "Releasing",
+  "total": 35,
+  "genres": [
+    "comedy",
+    "romance",
+    "slice_of_life",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Gyaru",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Delinquent Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "High School Student Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Scary Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "High School Student Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Pushover Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Piercings",
+      "group": "Objects",
+      "weight": "core"
+    },
+    {
+      "name": "Older Female Younger Male",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Senpai-Kouhai Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Student-Student Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "core"
+    }
+  ],
+  "news": []
+}

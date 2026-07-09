@@ -1,0 +1,77 @@
+{
+  "kitsuId": "77991",
+  "title": "Bullobulsaro Sandaneun Geoseun",
+  "updatedAt": "2026-07-09T03:50:57.332Z",
+  "mangabakaId": 583840,
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hL2EvOS8yLzYvNi9iLzIvYjZmOS80MmVkL2FiNzcvNmY3NjUyMjVlZjg1",
+  "author": "Chawon, Gyeoureeo",
+  "synopsis": "Roberta, a priestess of the church, is designated as the head priestess of a remote region in the northern edge—Dithmar. As the appointment came immediately after the disappearance of her predecessor, Roberta remained on guard and began to investigate Duke Ulrich of Dithmarschen. According to rumors, he has ruled over the region's lord for over 300 years, and even claimed to be an immortal... one who lives a life no human should be capable of possessing. Determined to uncover the truth, Roberta decides to trace his steps.\n\n(Source: Naver, translated)",
+  "status": "Releasing",
+  "total": 20,
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "mystery",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": []
+}

@@ -1,0 +1,290 @@
+{
+  "kitsuId": "64051",
+  "title": "Sasinpyowol",
+  "updatedAt": "2026-07-09T03:50:27.670Z",
+  "mangabakaId": 3172,
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kL2YvMy8wLzMvZS81L2UvMmM1MS80NTdiL2JiYWYvNWQzNmU2YWQ3Nzlh",
+  "author": "Mok-In, U-Gak",
+  "synopsis": "Pyo-Wol was an orphan who wandered around the continent until he bumped into a mysterious man and lost consciousness. When he wakes up, he finds himself in a dark, confined space with only one iron door for an exit. Wol survives the next several grueling months, trying to keep a cool head and stay in shape. When the iron door finally opens, he discovers he's not the only one in this miserable situation. A group of masked people has kidnapped 300 children to train them into human weapons. Wol must fight and kill the others, for only a handful of the strongest will be selected. Will Wol be able to become one of the chosen and find a way to free himself from his captors?\n\n(Source: Tappytoon, edited)",
+  "status": "Hiatus",
+  "total": 135,
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "martial_arts",
+    "mature",
+    "shounen",
+    "supernatural",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Fights",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Crossdressing",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Femboy",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Androgynous Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Red-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blue-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Hair Color Change",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Long-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kill or Be Killed Situation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Near-Death Experience",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": []
+}
