@@ -73,7 +73,7 @@
   <div id="checkedNote" style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-faint);margin-top:14px;"></div>
 
   <div style="margin-top:30px;background:var(--paper-deep);border:2px dashed var(--ink-faint);padding:16px 20px;font-family:'JetBrains Mono',monospace;font-size:11.5px;color:var(--ink-soft);line-height:1.6;">
-    &#9873; <strong>Kitsu</strong> drives your library &amp; chapter counts. <strong>mangabaka</strong> supplies metadata (genres, tags, news). <strong>comick</strong> supplies chapter listings &amp; release dates (tracker-only). Status is measured server-side by the sync job — browsers can't check these directly (CORS).
+    &#9873; <strong>Kitsu</strong> drives your library &amp; chapter counts. <strong>mangabaka</strong> supplies metadata (genres, tags, news). Status is measured server-side by the sync job — browsers can't check these directly (CORS).
   </div>
 </div>
 
@@ -106,9 +106,7 @@
   // Fallback definitions used until healthcheck.mjs has written sources_status.js
   var FALLBACK = [
     { mark: 'K',  name: 'Kitsu',     role: 'Library & reading counts',            site: 'unknown', api: 'unknown', latency: '—', note: 'awaiting first check', siteUrl: 'kitsu.app', apiUrl: 'kitsu.app/api/edge' },
-    { mark: 'MB', name: 'mangabaka', role: 'Metadata — genres, tags, news',       site: 'unknown', api: 'unknown', latency: '—', note: 'awaiting first check', siteUrl: 'mangabaka.org', apiUrl: 'api.mangabaka.org/v2' },
-    { mark: 'CM', name: 'comick',    role: 'Chapter listings & release dates',    site: 'unknown', api: 'unknown', latency: '—', note: 'awaiting first check', siteUrl: 'comick.dev', apiUrl: 'api.comick.dev/v1.0' }
-  ];
+    { mark: 'MB', name: 'mangabaka', role: 'Metadata — genres, tags, news',       site: 'unknown', api: 'unknown', latency: '—', note: 'awaiting first check', siteUrl: 'mangabaka.org', apiUrl: 'api.mangabaka.dev/v1' }];
 
   function getServices() {
     var s = window.sourcesStatus;

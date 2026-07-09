@@ -139,6 +139,17 @@
       var dot = document.createElement('span');
       dot.style.cssText = 'width:10px;height:10px;border-radius:50%;background:' + (un ? 'var(--red)' : 'transparent') + ';border:' + (un ? 'none' : '1.5px solid var(--ink-faint)') + ';';
       right.appendChild(time); right.appendChild(dot);
+      // arrow -> the entry this notice came from (older notices may predate
+      // kitsuId being stored; they just don't get an arrow)
+      if (n.kitsuId) {
+        var go = document.createElement('a');
+        go.href = 'Entry.html?id=' + encodeURIComponent(n.kitsuId);
+        go.title = 'Open entry';
+        go.style.cssText = "font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;color:var(--ink);text-decoration:none;border:1.5px solid var(--ink);padding:2px 8px;line-height:1.4;background:var(--paper);";
+        go.textContent = '\u2197';
+        go.onclick = function (e) { e.stopPropagation(); readMap[n.id] = true; persistRead(); };
+        right.appendChild(go);
+      }
 
       card.appendChild(icon); card.appendChild(mid); card.appendChild(right);
       list.appendChild(card);

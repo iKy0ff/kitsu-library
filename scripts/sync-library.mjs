@@ -40,6 +40,17 @@ const STATUS_LABEL = {
   dropped: 'Dropped',
 };
 
+// Kitsu MANGA publication status (attributes.status on the manga object,
+// distinct from the library-entry reading status above). Used by enrich.mjs
+// as a matching signal and kept on the row for display.
+const PUB_LABEL = {
+  current: 'Releasing',
+  finished: 'Completed',
+  tba: 'Upcoming',
+  unreleased: 'Upcoming',
+  upcoming: 'Upcoming',
+};
+
 function logError(msg) {
   fs.appendFileSync(ERROR_LOG, `[${new Date().toString()}] [library] ${msg}\n`);
   console.error(msg);
@@ -127,7 +138,7 @@ async function main() {
     const cover = poster.small || poster.medium || poster.original || poster.large || poster.tiny || '';
     const read = Number(a.progress) || 0;
     // NOTE: Kitsu chapterCount is frequently null; total then falls back to
-    // read count until enriched from mangabaka/comick (Entry-page phase).
+    // read count until enriched from mangabaka (Entry-page phase).
     const total = Number(m.chapterCount) || null;
     // averageRating is a 0-100 string; show as 0-10. Fallback to user rating.
     const avg = m.averageRating ? Math.round((parseFloat(m.averageRating) / 10) * 10) / 10 : null;
@@ -146,6 +157,10 @@ async function main() {
       score: avg != null ? avg : userScore,
       year,
       subtype: m.subtype || '',         // manga / manhwa / manhua / novel …
+      kitsuPubStatus: PUB_LABEL[m.status] || '',
+      // trimmed Kitsu description — enrich.mjs compares it against mangabaka
+      // candidates' descriptions as a matching signal
+      synopsis: String(m.description || '').replace(/\s+/g, ' ').trim().slice(0, 600),
       cover,
       hue: hueFromString(title),
       updated: relativeUpdated(a.progressedAt),

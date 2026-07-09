@@ -60,7 +60,7 @@ jobs:
       # (re)enriched per run. Unset -> the script's default (500 = whole
       # library in one go, ~45 min at ~1 req/s). Set it to 50-100 for the
       # first test runs, or 400-500 as a ceiling once the library is large.
-      - name: Enrich from mangabaka + comick
+      - name: Enrich from mangabaka
         run: node scripts/enrich.mjs
         env:
           MAX_PER_RUN: ${{ vars.MAX_PER_RUN }}

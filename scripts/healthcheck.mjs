@@ -1,7 +1,7 @@
 // healthcheck.mjs — pings each upstream service (website + API) from the
 // GitHub runner and writes sources_status.js, which the Sources page reads.
 // Runs server-side so it isn't blocked by the browser CORS rules that stop
-// the page from checking mangabaka/comick directly.
+// the page from checking mangabaka directly.
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -19,12 +19,6 @@ const SERVICES = [
     siteUrl: 'mangabaka.org',    site: 'https://mangabaka.org',
     apiUrl: 'api.mangabaka.dev/v1', api: 'https://api.mangabaka.dev/v1/series/9745',
     apiHeaders: { Accept: 'application/json' } },
-  { mark: 'CM', name: 'comick',    role: 'Chapter listings & release dates',
-    siteUrl: 'comick.dev',       site: 'https://comick.dev',
-    apiUrl: 'api.comick.dev/v1.0', api: 'https://api.comick.dev/v1.0/search?q=test&limit=1',
-    apiHeaders: { Accept: 'application/json, text/plain, */*', Referer: 'https://comick.dev/', Origin: 'https://comick.dev',
-      'Accept-Language': 'en-US,en;q=0.9',
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36' } },
 ];
 
 async function probe(url, headers) {
@@ -55,7 +49,6 @@ async function main() {
     // Report the slower of the two probes as the headline latency.
     const latency = Math.max(siteR.ms, apiR.ms) + ' ms';
     let note = apiR.note;
-    if (s.name === 'comick' && apiR.state === 'degraded') note = 'referer-gated · rate-limited';
     services.push({
       mark: s.mark, name: s.name, role: s.role,
       siteUrl: s.siteUrl, apiUrl: s.apiUrl,

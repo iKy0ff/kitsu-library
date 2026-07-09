@@ -1,6 +1,6 @@
 # Kitsu Library
 
-A self-hosted manga library, reading-stats dashboard, and update tracker built on your Kitsu account. A **static site on GitHub Pages** with a **GitHub Actions sync job** that pulls from Kitsu, mangabaka, and comick and commits plain `.js`/`.json` data files the pages read. No server, no database, no API keys.
+A self-hosted manga library, reading-stats dashboard, and update tracker built on your Kitsu account. A **static site on GitHub Pages** with a **GitHub Actions sync job** that pulls from Kitsu and mangabaka and commits plain `.js`/`.json` data files the pages read. No server, no database, no API keys.
 
 Live site (once Pages is enabled): `https://iky0ff.github.io/kitsu-library/`
 
@@ -8,12 +8,11 @@ Live site (once Pages is enabled): `https://iky0ff.github.io/kitsu-library/`
 
 ## How it works
 
-Browsers can't call Kitsu/mangabaka/comick directly (CORS, rate limits, referer gating), so a scheduled Actions job fetches and writes static data files; the pages read them. Every page is plain HTML/CSS/JS — no framework, no build step.
+Browsers can't call Kitsu/mangabaka directly (CORS, rate limits), so a scheduled Actions job fetches and writes static data files; the pages read them. Every page is plain HTML/CSS/JS — no framework, no build step.
 
 ```
 Kitsu     -> library entries + cumulative chapter totals -> Library grid + Stats
-mangabaka -> cover, author, synopsis, status, genres, weighted tags, news -> Entry + Filters + Notifications
-comick    -> chapter lists + release dates -> Entry
+mangabaka -> cover, author, synopsis, status, genres, weighted tags, news, cross-site links -> Entry + Filters + Notifications
 ```
 
 ## Pages
@@ -21,10 +20,10 @@ comick    -> chapter lists + release dates -> Entry
 | File | Page | Reads |
 |---|---|---|
 | `index.html` | Redirect to the Library | — |
-| `Library.html` | Home — cards / covers / list, status filter, **genre filter**, sort, search | `library.js`, `notifications.js` |
-| `Entry.html` | Per-title detail (synopsis, weighted+grouped tags, chapters, news) via `Entry.html?id=<kitsuId>` | `library.js`, `entries/<id>.json` |
+| `Library.html` | Home — cards / covers / list, status filter, **multi-select genre & tag filters** (AND semantics, tag search box), sort, search | `library.js`, `notifications.js` |
+| `Entry.html` | Per-title detail (synopsis, weighted+grouped tags, news, match-confidence badge, links out to MangaBaka / AniList / MAL / MangaUpdates / Anime-Planet / Shikimori + raw referrers) via `Entry.html?id=<kitsuId>` | `library.js`, `entries/<id>.json` |
 | `Stats.html` | Reading-stats dashboard — Dashboard / Goals / History / Preferences | `manga_history_data.js` (or Pace Ledger) |
-| `Sources.html` | Service health (Kitsu / mangabaka / comick) | `sources_status.js` |
+| `Sources.html` | Service health (Kitsu / mangabaka) | `sources_status.js` |
 | `Notifications.html` | Status & news notices | `notifications.js` |
 | `Settings.html` | Theme, chart defaults, stale threshold, config export/import | `localStorage` |
 
@@ -34,7 +33,7 @@ comick    -> chapter lists + release dates -> Entry
 |---|---|---|
 | `sync.mjs` | `manga_history_data.js` (+ backups) | Aggregate chapter-count ledger (drives Stats) |
 | `sync-library.mjs` | `library.js` | Per-title library from Kitsu (status, progress, score, cover fallback) |
-| `enrich.mjs` | `entries/<id>.json`, patches `library.js` | mangabaka (cover, author, synopsis, status, genres, weighted tags, news) + comick (chapters). Matches on `source.kitsu.id` / `links.kt`, batched + cached |
+| `enrich.mjs` | `entries/<id>.json`, patches `library.js` | mangabaka (cover, author, synopsis, status, genres, weighted tags, news, cross-site links). Verified/scored matching with a stored confidence level, batched + cached |
 | `notify.mjs` | `notifications/`, `notifications.js`, `notify_state.json` | Diffs each sync to emit **status + news** notices for every entry (chapters are not notified) |
 | `healthcheck.mjs` | `sources_status.js` | Pings each service server-side |
 
@@ -46,7 +45,7 @@ comick    -> chapter lists + release dates -> Entry
 
 `enrich.mjs` re-enriches at most `MAX_PER_RUN` titles per run (default **500** — the whole library in one go; override with the `MAX_PER_RUN` env var / repo variable) and caches each in `entries/<id>.json`, refreshing after `REFRESH_DAYS` (7). It paces itself at ~1 request/second (the rate the reference mangabaka client uses), backs off 20 s on any 429, and checkpoints `library.js` every 10 titles, so a full ~380-title fill takes ~45 minutes once and routine runs finish in seconds. Every failure is appended to `sync_errors.log` with the URL and HTTP status. Tag chips on the Entry page are sized by mangabaka weight (core › defining › recurrent › incidental).
 
-**API paths are verified:** mangabaka's public API is **`/v1/`** (`https://api.mangabaka.dev/v1/series/search`, `/v1/series/{id}`, `/v1/series/{id}/news`) — confirmed against the official docs and the comictagger `mangabaka_talker` client. Both search APIs need `content_rating` repeated four times or results are silently "safe"-only; comick additionally needs the `Referer: https://comick.dev/` header. All of this is encoded in `scripts/enrich.mjs`.
+**API paths are verified:** mangabaka's public API is **`/v1/`** (`https://api.mangabaka.dev/v1/series/search`, `/v1/series/{id}`, `/v1/series/{id}/news`) — confirmed against the official docs and the comictagger `mangabaka_talker` client. The search API needs `content_rating` repeated four times or results are silently "safe"-only. All of this is encoded in `scripts/enrich.mjs`.
 
 ## Notifications (persistent)
 
@@ -169,13 +168,6 @@ globals precisely so `file://` viewing works without a local server.
 
 ### 8. Troubleshooting
 
-- **Every comick call fails with HTTP 403 in Actions (but works in your browser):**
-  Cloudflare is blocking GitHub's datacenter IPs, not your code. The script
-  sends browser-like headers as a countermeasure, and a circuit breaker
-  disables comick after 5 consecutive failures so the rest of the run
-  (mangabaka) continues at full speed. If the 403s persist, fill the chapter
-  data from your own connection — see **"If comick blocks GitHub's servers"**
-  below.
 - **Enrichment "didn't work" / cards have no covers:** open `sync_errors.log`
   in the repo root — every failed request is logged there with its URL and HTTP
   status (the workflow commits it). `HTTP 404` on a mangabaka URL means the API
@@ -191,31 +183,37 @@ globals precisely so `file://` viewing works without a local server.
   already on disk, and the commit step runs even on cancellation. The next run
   resumes where it stopped.
 
-### If comick blocks GitHub's servers
+### How mangabaka matching works (and the confidence badge)
 
-comick's API works from residential IPs but often 403s cloud/datacenter IPs.
-When that happens, the sync still completes everything mangabaka provides
-(covers, authors, synopsis, status, genres, tags, news, totals) — only the
-per-chapter release lists on the Entry page are missing. To fill those from
-your own machine:
+The first search hit is often the wrong work — commonly the **novel** of a
+series instead of the manga/manhwa. Matching therefore goes:
 
-```bash
-git pull                       # get the latest enriched entries
-node scripts/enrich.mjs        # mangabaka entries are fresh -> only the
-                               # comick-fill pass runs, from YOUR IP
-git add entries/ library.js && git commit -m "fill comick chapters" && git push
-```
+1. **verified** — a result whose `source.kitsu.id` equals your Kitsu id wins
+   immediately (mangabaka's own cross-link).
+2. Results linked to a **different** Kitsu id are heavily penalized —
+   mangabaka itself says they belong to another entry (this resolves
+   split/remake cases like *Quanzhi Gaoshou*).
+3. **Novels are excluded outright** (your Kitsu library is manga-kind only).
+4. Remaining candidates are scored on title (incl. native/romanized/secondary
+   titles), format (kitsu `subtype` vs mangabaka `type`), year, publication
+   status, chapter-count proximity, and synopsis word overlap.
 
-The script detects fresh entries that are missing chapter lists and retries
-only the comick half for them (`comick-fill` in the log) — it won't re-hit
-mangabaka or wait out the 7-day refresh window. Matched comics are cached in
-each entry (`comickHid`/`comickSlug`), so future runs skip comick search
-entirely and go straight to the chapter list. Matching prefers the comick URL
-found in **mangabaka's own referrer links** (the row of source icons on its
-site — a verified cross-link that needs no search at all); otherwise it
-searches comick and confirms candidates against your Kitsu ID via comick's
-own cross-links (`comickVerified` in the entry tells you which method
-matched).
+The result is stored per entry as `match: { confidence, method, score }` —
+**verified / high / medium / low / none** — and shown as a dashed badge on the
+Entry page (hover it for the reasoning). `none` means nothing plausible was
+found and the entry keeps Kitsu data only. To force a global re-match after
+changing the matcher, bump `MATCH_VERSION` in `scripts/enrich.mjs`; the next
+run re-resolves every title (~25 min for ~380 titles) and re-matches are
+recorded silently (no bogus status-change notifications).
+
+### Why there's no comick (removed 2026-07)
+
+comick supplied only the per-chapter release list, and its API proved
+unusable in practice: the domain has hopped TLDs repeatedly, there are no
+docs, and Cloudflare 403s every request from datacenter IPs (GitHub runners),
+which made the data impossible to keep fresh. The project now runs on Kitsu +
+mangabaka only. Any comick page mangabaka knows about still appears as a
+plain outbound link in the Entry page's sources row.
 
 ### 9. cron-job.org external trigger (optional, later)
 

@@ -7,10 +7,12 @@
 // Files older than RETENTION_DAYS are auto-deleted (change it like the Kitsu ID).
 //
 // What gets a notice (for EVERY entry — no follow filtering):
-//   * status change   -> hiatus / cancelled / resumed / completed
-//   * new news         -> when a title's mangabaka news count rises
-// Chapters are intentionally NOT notified.
-// Status prefers mangabaka (`mangabakaStatus`), falling back to Kitsu status.
+//   * publication-status change -> hiatus / cancelled / resumed / completed
+//   * new news                  -> when a title's mangabaka news count rises
+// Publication status comes ONLY from mangabaka (`mangabakaStatus`); the
+// user's reading status (`status`) is never part of the diff. When a title's
+// matched mangabaka series changes (re-match), the transition is recorded
+// silently — comparing statuses across two different series is meaningless.
 // News uses `newsCount`, written by scripts/enrich.mjs.
 
 import fs from 'node:fs';
@@ -38,9 +40,10 @@ function loadState() {
 const keyOf = (m, i) => String(m.kitsuId || m.slug || m.title || i);
 const dstamp = (d) => String(d.getDate()).padStart(2, '0') + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + d.getFullYear();
 
-function mk(kind, title, text) {
+function mk(kind, m, text) {
   return { id: 'n' + Date.now().toString(36) + Math.random().toString(36).slice(2, 7),
-           kind, title, text, unread: true, at: new Date().toISOString() };
+           kind, title: m.title, kitsuId: m.kitsuId || null,
+           text, unread: true, at: new Date().toISOString() };
 }
 
 function main() {
@@ -51,24 +54,34 @@ function main() {
 
   lib.forEach((m, i) => {
     const k = keyOf(m, i);
-    const status = m.mangabakaStatus || m.status || '';
+    // PUBLICATION status only (mangabaka). Never mix in m.status — that's the
+    // user's READING status ('Reading', 'Plan to Read', ...) and mixing the
+    // two once produced a bogus "Reading → Releasing" notice for every title.
+    const pub = m.mangabakaStatus || '';
+    const mbId = m.mangabakaId || null;
     const newsCount = Number(m.newsCount) || 0;
-    curTitles[k] = { title: m.title, status, newsCount };
+    curTitles[k] = { title: m.title, pub, mbId, newsCount };
     const before = prev[k];
-    if (!before) return;                                  // first sighting — don't announce
+    if (!before) return;                                   // first sighting — don't announce
+    // Older state files stored a mixed `status` and no `pub`/`mbId` — treat
+    // that as a first sighting under the new schema (records, no announce).
+    if (before.pub === undefined) return;
+    // The matched mangabaka series changed (re-match, e.g. after a matcher
+    // fix) — a status "change" across two different series is meaningless.
+    if (before.mbId && mbId && before.mbId !== mbId) return;
 
-    // Status change — every entry
-    if (before.status !== status && status) {
-      if (status === 'Completed') fresh.push(mk('completed', m.title, `Marked Completed.`));
-      else if (/hiatus|on hold/i.test(status)) fresh.push(mk('hiatus', m.title, 'Status changed to ' + status + '.'));
-      else if (/cancel|dropped/i.test(status)) fresh.push(mk('cancelled', m.title, 'Status changed to ' + status + '.'));
-      else if (/releasing|reading/i.test(status) && /hiatus|on hold/i.test(before.status)) fresh.push(mk('resumed', m.title, 'Resumed — back to ' + status + '.'));
-      else fresh.push(mk('status', m.title, 'Status: ' + before.status + ' → ' + status + '.'));
+    // Publication status change — every entry
+    if (before.pub !== pub && pub) {
+      if (pub === 'Completed') fresh.push(mk('completed', m, `Marked Completed.`));
+      else if (/hiatus|on hold/i.test(pub)) fresh.push(mk('hiatus', m, 'Status changed to ' + pub + '.'));
+      else if (/cancel|dropped/i.test(pub)) fresh.push(mk('cancelled', m, 'Status changed to ' + pub + '.'));
+      else if (/releasing/i.test(pub) && /hiatus|on hold/i.test(before.pub)) fresh.push(mk('resumed', m, 'Resumed — back to ' + pub + '.'));
+      else if (before.pub) fresh.push(mk('status', m, 'Status: ' + before.pub + ' → ' + pub + '.'));
     }
     // New news — every entry
     if (newsCount > (before.newsCount || 0) && before.newsCount > 0) {
       const d = newsCount - before.newsCount;
-      fresh.push(mk('news', m.title, `${d} new news post${d === 1 ? '' : 's'}.`));
+      fresh.push(mk('news', m, `${d} new news post${d === 1 ? '' : 's'}.`));
     }
   });
 

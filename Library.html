@@ -58,9 +58,13 @@
 
     <div style="position:relative;">
       <button id="filtersBtn" class="u-hover" style="display:flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink);border:2px solid var(--ink);background:transparent;padding:10px 14px;cursor:pointer;height:42px;box-sizing:border-box;">&#9662; <span id="filtersBtnLabel">Filters</span></button>
-      <div id="filtersMenu" style="display:none;position:absolute;top:calc(100% + 6px);left:0;z-index:20;width:260px;max-height:360px;overflow:auto;background:var(--paper);border:2px solid var(--ink);box-shadow:5px 5px 0 var(--ink);">
-        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);padding:12px 14px 8px;">Filter by genre</div>
+      <div id="filtersMenu" style="display:none;position:absolute;top:calc(100% + 6px);left:0;z-index:20;width:300px;max-height:460px;overflow:auto;background:var(--paper);border:2px solid var(--ink);box-shadow:5px 5px 0 var(--ink);">
+        <div id="facetClear"></div>
+        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);padding:12px 14px 8px;">Genres <span style="opacity:.6;text-transform:none;letter-spacing:0;">· pick several</span></div>
         <div id="genreList"></div>
+        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);padding:14px 14px 8px;border-top:2px solid var(--ink);">Tags <span style="opacity:.6;text-transform:none;letter-spacing:0;">· pick several</span></div>
+        <div style="padding:0 14px 8px;"><input id="tagSearch" type="text" placeholder="filter tags…" style="width:100%;box-sizing:border-box;font-family:'JetBrains Mono',monospace;font-size:12px;padding:7px 9px;border:1.5px solid var(--ink-faint);background:var(--paper);color:var(--ink);outline:none;"></div>
+        <div id="tagList"></div>
       </div>
     </div>
 
@@ -119,7 +123,7 @@
   var statusColor = { "Reading": "var(--red)", "Completed": "var(--good)", "On Hold": "var(--gold)", "Plan to Read": "var(--ink-faint)", "Dropped": "#6f6656" };
   var statusDeep  = { "Reading": "var(--red-deep)", "Completed": "var(--good-deep)", "On Hold": "#7a5a14", "Plan to Read": "#6b6455", "Dropped": "#463f34" };
 
-  var state = { filter: "All", sort: "updated", view: "cards", search: "", genre: null,
+  var state = { filter: "All", sort: "updated", view: "cards", search: "", genres: [], tags: [], tagQuery: "",
                 drawer: false, sortOpen: false, filtersOpen: false };
 
   function minutesAgo(u) {
@@ -146,6 +150,7 @@
       title: m.title || "Untitled", author: m.author || "", year: m.year || "",
       status: status, score: (m.score != null ? m.score : "—"),
       id: idOf(m), genres: Array.isArray(m.genres) ? m.genres : [],
+      tags: Array.isArray(m.tags) ? m.tags : [],
       cover: m.cover || "", url: m.url || "", hue: (m.hue != null ? m.hue : 30),
       read: read, total: total, unread: unread, pct: pct,
       chLabel: read + "/" + (total || "?"),
@@ -194,7 +199,13 @@
 
   function getFiltered() {
     var list = state.filter === "All" ? MANGA.slice() : MANGA.filter(function (m) { return m.status === state.filter; });
-    if (state.genre) list = list.filter(function (m) { return m.genres.indexOf(state.genre) !== -1; });
+    // multi-select, AND semantics: the title must carry every selected genre/tag
+    if (state.genres.length) list = list.filter(function (m) {
+      return state.genres.every(function (g) { return m.genres.indexOf(g) !== -1; });
+    });
+    if (state.tags.length) list = list.filter(function (m) {
+      return state.tags.every(function (t) { return m.tags.indexOf(t) !== -1; });
+    });
     var q = state.search.trim().toLowerCase();
     if (q) list = list.filter(function (m) { return (m.title + " " + m.author).toLowerCase().indexOf(q) !== -1; });
     var sd = SORT_DEFS.find(function (s) { return s.key === state.sort; }) || SORT_DEFS[0];
@@ -207,22 +218,65 @@
     MANGA.forEach(function (m) { m.genres.forEach(function (g) { c[g] = (c[g] || 0) + 1; }); });
     return Object.keys(c).sort().map(function (g) { return { g: g, n: c[g] }; });
   }
-  function renderGenreFilter() {
-    var wrap = $("genreList"); if (!wrap) return; wrap.innerHTML = "";
+  function allTags() {
+    var c = {};
+    MANGA.forEach(function (m) { m.tags.forEach(function (t) { c[t] = (c[t] || 0) + 1; }); });
+    return Object.keys(c).sort(function (a, b) { return c[b] - c[a] || a.localeCompare(b); })
+      .map(function (t) { return { g: t, n: c[t] }; });
+  }
+  // one row in a facet list: click toggles selection, menu STAYS OPEN so
+  // several genres/tags can be picked in a row
+  function facetRow(wrap, label, n, active, onToggle) {
+    var b = document.createElement("button");
+    b.style.cssText = "display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;padding:9px 14px;border:none;border-top:1px dashed #c7bb9f;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:12px;background:" + (active ? "var(--ink)" : "transparent") + ";color:" + (active ? "var(--paper)" : "var(--ink-soft)") + ";";
+    b.innerHTML = "<span>" + (active ? "&#10003; " : "") + esc(label) + "</span>" + (n != null ? '<span style="opacity:.7;">' + n + "</span>" : "");
+    b.onclick = function (e) { e.stopPropagation(); onToggle(); renderFacetFilters(); render(); };
+    wrap.appendChild(b);
+  }
+  function toggleIn(arr, val) {
+    var i = arr.indexOf(val);
+    if (i === -1) arr.push(val); else arr.splice(i, 1);
+  }
+  function renderFacetFilters() {
+    var gw = $("genreList"), tw = $("tagList"), cw = $("facetClear");
+    if (!gw || !tw) return;
+    gw.innerHTML = ""; tw.innerHTML = ""; if (cw) cw.innerHTML = "";
+
+    var nActive = state.genres.length + state.tags.length;
+    if (cw && nActive) {
+      var cb = document.createElement("button");
+      cb.style.cssText = "display:block;width:100%;padding:10px 14px;border:none;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;background:var(--red);color:var(--paper);";
+      cb.textContent = "\u2715 Clear all filters (" + nActive + ")";
+      cb.onclick = function (e) { e.stopPropagation(); state.genres = []; state.tags = []; renderFacetFilters(); render(); };
+      cw.appendChild(cb);
+    }
+
     var genres = allGenres();
     if (!genres.length) {
-      wrap.innerHTML = '<div style="padding:11px 14px;border-top:1px dashed #c7bb9f;font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-faint);line-height:1.5;">\u2691 Genres appear once the enrichment sync has run.</div>';
-      return;
+      gw.innerHTML = '<div style="padding:11px 14px;border-top:1px dashed #c7bb9f;font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-faint);line-height:1.5;">\u2691 Genres appear once the enrichment sync has run.</div>';
+    } else {
+      genres.forEach(function (x) {
+        facetRow(gw, x.g, x.n, state.genres.indexOf(x.g) !== -1, function () { toggleIn(state.genres, x.g); });
+      });
     }
-    var mk = function (label, val, n, active) {
-      var b = document.createElement("button");
-      b.style.cssText = "display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;padding:9px 14px;border:none;border-top:1px dashed #c7bb9f;cursor:pointer;font-family:\'JetBrains Mono\',monospace;font-size:12px;background:" + (active ? "var(--ink)" : "transparent") + ";color:" + (active ? "var(--paper)" : "var(--ink-soft)") + ";";
-      b.innerHTML = "<span>" + label + "</span>" + (n != null ? '<span style="opacity:.7;">' + n + "</span>" : "");
-      b.onclick = function (e) { e.stopPropagation(); state.genre = val; state.filtersOpen = false; render(); };
-      wrap.appendChild(b);
-    };
-    mk("All genres", null, MANGA.length, !state.genre);
-    genres.forEach(function (x) { mk(x.g, x.g, x.n, state.genre === x.g); });
+
+    var tags = allTags();
+    if (!tags.length) {
+      tw.innerHTML = '<div style="padding:11px 14px;border-top:1px dashed #c7bb9f;font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-faint);line-height:1.5;">\u2691 Tags appear once the enrichment sync has run.</div>';
+    } else {
+      var q = state.tagQuery.trim().toLowerCase();
+      // selected tags always pinned on top, then matches of the search box
+      var sel = tags.filter(function (x) { return state.tags.indexOf(x.g) !== -1; });
+      var rest = tags.filter(function (x) { return state.tags.indexOf(x.g) === -1 && (!q || x.g.toLowerCase().indexOf(q) !== -1); });
+      sel.forEach(function (x) { facetRow(tw, x.g, x.n, true, function () { toggleIn(state.tags, x.g); }); });
+      rest.slice(0, 60).forEach(function (x) { facetRow(tw, x.g, x.n, false, function () { toggleIn(state.tags, x.g); }); });
+      if (rest.length > 60) {
+        var more = document.createElement("div");
+        more.style.cssText = "padding:9px 14px;border-top:1px dashed #c7bb9f;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--ink-faint);";
+        more.textContent = "+" + (rest.length - 60) + " more — type above to narrow";
+        tw.appendChild(more);
+      }
+    }
   }
   function renderMenus() {
     var c = counts();
@@ -321,12 +375,13 @@
     $("drawerUnread").textContent = MANGA.reduce(function (s, m) { return s + m.unread; }, 0) + " CH UNREAD";
     $("sortMenu").style.display = state.sortOpen ? "block" : "none";
     $("filtersMenu").style.display = state.filtersOpen ? "block" : "none";
-    var fbl = $("filtersBtnLabel"); if (fbl) fbl.textContent = state.genre ? state.genre : "Filters";
+    var nf = state.genres.length + state.tags.length;
+    var fbl = $("filtersBtnLabel"); if (fbl) fbl.textContent = nf ? "Filters (" + nf + ")" : "Filters";
     $("backdrop").style.opacity = state.drawer ? "1" : "0";
     $("backdrop").style.pointerEvents = state.drawer ? "auto" : "none";
     $("drawer").style.transform = state.drawer ? "translateX(0)" : "translateX(105%)";
     renderMenus();
-    renderGenreFilter();
+    renderFacetFilters();
     renderView(list);
   }
 
@@ -335,6 +390,10 @@
   $("viewBtn").onclick = function () { state.view = VIEWS[(VIEWS.indexOf(state.view) + 1) % VIEWS.length]; render(); };
   $("sortBtn").onclick = function (e) { e.stopPropagation(); state.sortOpen = !state.sortOpen; state.filtersOpen = false; render(); };
   $("filtersBtn").onclick = function (e) { e.stopPropagation(); state.filtersOpen = !state.filtersOpen; state.sortOpen = false; render(); };
+  // clicks inside the filters menu (incl. the tag search box) must not bubble
+  // to the document-level close handler — the menu stays open for multi-select
+  $("filtersMenu").onclick = function (e) { e.stopPropagation(); };
+  $("tagSearch").oninput = function (e) { state.tagQuery = e.target.value; renderFacetFilters(); };
   $("menuBtn").onclick = function () { state.drawer = true; render(); };
   $("drawerClose").onclick = function () { state.drawer = false; render(); };
   $("backdrop").onclick = function () { state.drawer = false; render(); };

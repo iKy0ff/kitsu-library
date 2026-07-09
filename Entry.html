@@ -81,7 +81,10 @@
           '<span style="font-family:\'JetBrains Mono\',monospace;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:5px 10px;color:' + sc + ';background:var(--paper);border:1.5px solid ' + sc + ';">' + esc(entry.status || "—") + '</span>' +
           (entry.mangabakaStatus ? '<span style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:var(--ink-soft);">pub: <strong>' + esc(entry.mangabakaStatus) + '</strong></span>' : '') +
           (entry.score != null ? '<span style="font-family:\'JetBrains Mono\',monospace;font-size:13px;color:var(--gold);font-weight:700;">\u2605 ' + esc(entry.score) + '</span>' : '') +
-          (entry.url ? '<a href="' + esc(entry.url) + '" target="_blank" style="font-family:\'JetBrains Mono\',monospace;font-size:11px;">Kitsu \u2197</a>' : '') +
+          '<span id="matchBadge"></span>' +
+        '</div>' +
+        '<div id="srcLinks" style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:18px;">' +
+          (entry.url ? srcChip(entry.url, 'Kitsu') : '') +
         '</div>' +
         '<div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:var(--ink-soft);margin-bottom:6px;">Progress &nbsp; <strong>' + read + ' / ' + (total || "?") + '</strong> chapters &nbsp;·&nbsp; ' + pct + '%</div>' +
         '<div style="height:14px;background:var(--paper);border:2px solid var(--ink);overflow:hidden;max-width:340px;"><div style="width:' + pct + '%;height:100%;background:repeating-linear-gradient(115deg,' + sc + ' 0 7px,var(--red-deep) 7px 14px);"></div></div>' +
@@ -91,12 +94,21 @@
   $("root").innerHTML = head +
     section('synopsis', 'Synopsis', pending('Loading…')) +
     section('tags', 'Genres &amp; tags', pending('Loading…')) +
-    section('chapters', 'Chapters', pending('Loading…')) +
     section('news', 'News', pending('Loading…'));
 
   function section(id, title, body) { return '<div class="card"><div class="eyebrow">' + title + '</div><div id="sec-' + id + '">' + body + '</div></div>'; }
   function pending(t) { return '<div class="pending">\u29BF ' + t + '</div>'; }
   function setSec(id, html) { var el = $("sec-" + id); if (el) el.innerHTML = html; }
+
+  // small external-site chip: favicon (via the site's own /favicon.ico) + name
+  function srcChip(url, label) {
+    var host = '';
+    try { host = new URL(url).hostname; } catch (e) { return ''; }
+    return '<a href="' + esc(url) + '" target="_blank" rel="noopener" ' +
+      'style="display:inline-flex;align-items:center;gap:6px;font-family:\'JetBrains Mono\',monospace;font-size:11px;color:var(--ink);text-decoration:none;border:1.5px solid var(--ink-faint);padding:4px 9px;background:var(--paper);">' +
+      '<img src="https://' + esc(host) + '/favicon.ico" alt="" width="14" height="14" style="display:block;" onerror="this.style.display=\'none\'">' +
+      esc(label) + ' \u2197</a>';
+  }
 
   // weight -> chip styling (core = bold/solid ... incidental = small/faint)
   function tagChip(t) {
@@ -136,19 +148,45 @@
     }
     setSec('tags', html || pending('No genres/tags from mangabaka for this title.'));
 
-    // Chapters
-    if (d.chapters && d.chapters.length) {
-      var rows = d.chapters.slice(0, 400).map(function (c) {
-        var dt = c.date ? new Date(c.date) : null;
-        var ds = dt && !isNaN(dt) ? dt.toLocaleDateString('en-GB') : '';
-        return '<div style="display:flex;justify-content:space-between;gap:12px;padding:8px 10px;border-top:1px solid #c7bb9f;font-family:\'JetBrains Mono\',monospace;font-size:12px;">' +
-          '<span><strong>Ch. ' + esc(c.num) + '</strong>' + (c.title ? ' <span style="color:var(--ink-soft);">' + esc(c.title) + '</span>' : '') + '</span>' +
-          '<span style="color:var(--ink-faint);white-space:nowrap;">' + esc(ds) + '</span></div>';
-      }).join('');
-      setSec('chapters', '<div style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:var(--ink-faint);margin-bottom:6px;">' + d.chapters.length + ' English chapters (comick)</div>' +
-        '<div style="max-height:420px;overflow:auto;border:2px solid var(--ink);">' + rows + '</div>');
-    } else {
-      setSec('chapters', pending('No comick chapter list matched for this title.'));
+    // Match confidence badge — how sure the sync is that this mangabaka
+    // series is the same work as the Kitsu entry.
+    var mb = $("matchBadge");
+    if (mb && d.match && d.match.confidence) {
+      var conf = String(d.match.confidence);
+      var cc = conf === 'verified' ? 'var(--ink)' : conf === 'high' ? 'var(--ink)' :
+               conf === 'medium' ? 'var(--gold)' : 'var(--red)';
+      var tip = conf === 'verified' ? 'mangabaka\u2019s own Kitsu link points at this exact entry'
+        : conf === 'none' ? 'no plausible mangabaka series found — metadata below may be missing'
+        : 'matched by ' + esc(d.match.method || 'scoring') + ' (score ' + esc(d.match.score) + ') on title, format, year, status, chapters and synopsis';
+      mb.innerHTML = '<span title="' + tip + '" style="font-family:\'JetBrains Mono\',monospace;font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:4px 8px;color:' + cc + ';border:1.5px dashed ' + cc + ';cursor:help;">match: ' + esc(conf) + '</span>';
+    }
+
+    // External sites — mangabaka self-link, tracker ids from `sources`, and
+    // any raw referrer URLs mangabaka lists (may include a comick page).
+    var sl = $("srcLinks");
+    if (sl) {
+      var seen = {};
+      try { if (entry.url) seen[new URL(entry.url).hostname] = true; } catch (e) {}
+      var chips = [];
+      function addChip(url, label) {
+        var host; try { host = new URL(url).hostname.replace(/^www\./, ''); } catch (e) { return; }
+        if (seen[host]) return; seen[host] = true;
+        chips.push(srcChip(url, label));
+      }
+      if (d.mangabakaUrl || d.mangabakaId) addChip(d.mangabakaUrl || ('https://mangabaka.org/' + d.mangabakaId), 'MangaBaka');
+      var S = d.sources || {};
+      if (S.anilist) addChip('https://anilist.co/manga/' + S.anilist, 'AniList');
+      if (S.myanimelist) addChip('https://myanimelist.net/manga/' + S.myanimelist, 'MAL');
+      if (S.mangaupdates) addChip('https://www.mangaupdates.com/series/' + S.mangaupdates, 'MangaUpdates');
+      if (S.anime_planet) addChip('https://www.anime-planet.com/manga/' + S.anime_planet, 'Anime-Planet');
+      if (S.animeplanet) addChip('https://www.anime-planet.com/manga/' + S.animeplanet, 'Anime-Planet');
+      if (S.shikimori) addChip('https://shikimori.one/mangas/' + S.shikimori, 'Shikimori');
+      if (S.mangadex) addChip('https://mangadex.org/title/' + S.mangadex, 'MangaDex');
+      (d.links || []).forEach(function (u) {
+        var host; try { host = new URL(u).hostname.replace(/^www\./, ''); } catch (e) { return; }
+        addChip(u, host.split('.').slice(0, -1).join('.') || host);
+      });
+      chips.forEach(function (c) { sl.insertAdjacentHTML('beforeend', c); });
     }
 
     // News
@@ -172,8 +210,8 @@
     .then(function (r) { if (!r.ok) throw new Error('not yet enriched'); return r.json(); })
     .then(renderEnrichment)
     .catch(function () {
-      var msg = pending('This title hasn\u2019t been enriched yet. The enrichment sync fills in synopsis, genres/tags, chapters, and news over its next runs.');
-      setSec('synopsis', msg); setSec('tags', msg); setSec('chapters', msg); setSec('news', msg);
+      var msg = pending('This title hasn\u2019t been enriched yet. The enrichment sync fills in synopsis, genres/tags, sources, and news over its next runs.');
+      setSec('synopsis', msg); setSec('tags', msg); setSec('news', msg);
     });
 })();
 </script>
