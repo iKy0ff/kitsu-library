@@ -1,0 +1,409 @@
+{
+  "kitsuId": "40268",
+  "title": "Isekai Nonbiri Nouka",
+  "updatedAt": "2026-07-09T03:49:23.423Z",
+  "mangabakaId": 320,
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wL2YvYi82LzAvOC9lLzQvMTNhNi80M2QzL2E0YTMvZDU0NWM1ZGMwMjlh",
+  "author": "Kinosuke Naitou, Yasayuki Tsurugi",
+  "synopsis": "After Hiraku dies of a serious illness, God brings him back to life, gives his health and youth back, and sends him to a fantasy world of his choice. In order to enjoy his second shot, God bestows upon him the almighty farming tool! Watch as Hiraku digs, chops, and plows in another world in this laidback farming fantasy!\n\n*Source: One Peace Books, Vol. 1*",
+  "status": "Releasing",
+  "total": 326,
+  "genres": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "slice_of_life",
+    "harem",
+    "romance",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Agriculture",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Virgin Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead with Sexual Experience",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sexually Active Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Forest",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Kingdom Management",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Love Polygon",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Multiple Sexual Partners",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Polyamory",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Polygamy",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Polygyny",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Sex Friends",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Symbiotic Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Angels",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Vampires",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Pregnancy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, June 21-27",
+      "date": "2026-06-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-26/north-american-anime-manga-releases-june-21-27/.238814"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 26-April 1",
+      "date": "2023-03-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-03-28/north-american-anime-manga-releases-march-26-april-1/.196536"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 6-12",
+      "date": "2022-11-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-08/north-american-anime-manga-releases-november-6-12/.191700"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 19-25",
+      "date": "2022-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-21/north-american-anime-manga-releases-june-19-25/.186927"
+    },
+    {
+      "title": "Farming Life in Another World Novels Get 4-Panel Comedy Spinoff Manga",
+      "date": "2022-06-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-10/farming-life-in-another-world-novels-get-4-panel-comedy-spinoff-manga/.186435"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 1-7",
+      "date": "2022-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-03/north-american-anime-manga-releases-may-1-7/.185294"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 9-15",
+      "date": "2022-01-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-01-11/north-american-anime-manga-releases-january-9-15/.181416"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 14-20",
+      "date": "2021-11-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-16/north-american-anime-manga-releases-november-14-20/.179634"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 9-15",
+      "date": "2021-05-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-05-11/north-american-anime-manga-releases-may-9-15/.172657"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 25-31",
+      "date": "2020-10-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-28/north-american-anime-manga-releases-october-25-31/.165654"
+    },
+    {
+      "title": "One Peace Books Licenses Farming Life in Another World Manga",
+      "date": "2020-09-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-09-28/one-peace-books-licenses-farming-life-in-another-world-manga/.164542"
+    },
+    {
+      "title": "One Peace Books Acquires License for Farming Life in Another World",
+      "date": "2020-09-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2020-09-27/one-peace-books-acquires-license-for-farming-life-in-another-world/.164535"
+    },
+    {
+      "title": "Japanese Comic Ranking, July 2-8",
+      "date": "2018-07-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-07-11/japanese-comic-ranking-july-2-8/.134139"
+    },
+    {
+      "title": "Japanese Comic Ranking, March 5-11",
+      "date": "2018-03-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-14/japanese-comic-ranking-march-5-11/.128992"
+    }
+  ]
+}
