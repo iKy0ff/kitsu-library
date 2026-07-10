@@ -1,0 +1,119 @@
+{
+  "kitsuId": "75023",
+  "title": "Wanbyeokhan Silnun Agyeogeul Yeongihada",
+  "updatedAt": "2026-07-10T13:16:05.067Z",
+  "matchVersion": 2,
+  "mangabakaId": 111302,
+  "mangabakaUrl": "https://mangabaka.org/111302",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81L2IvZC84LzEvOC8zL2IvM2Q3Yi80ODEwLzkzZDkvMDFjZDhiMmUyYTFi",
+  "author": "Bomgaeul, Geonsilcheongnyeon",
+  "synopsis": "Shi-Hu Lee has logged 20,000 hours playing Let's Kill the Demon Lord! for the past 5 years. But when the game takes a turn he doesn't like, Shi-Hu cancels his pre-order of the DLC in anger, only to find himself sucked into the game! Now in the body of Julian Kreipart Prason, the villain, he has to play the part perfectly to survive the many enemies around him while unable to use the moonlight blade, Julian's signature ability. Under the watchful eye of Eileen, the genius gold mage, and his family members who want him gone, can Julian make it?\n\n(Source: WEBTOON)",
+  "status": "Hiatus",
+  "total": 52,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "historical",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "188902",
+    "anime_planet": "playing-the-perfect-fox-eyed-villain",
+    "kitsu": "75023",
+    "manga_updates": "tidfy31",
+    "my_anime_list": "180394",
+    "shikimori": "180394"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=837632",
+    "https://series.naver.com/comic/detail.series?productNo=12375718",
+    "https://www.webtoons.com/en/action/playing-the-perfect-fox-eyed-villain/list?title_no=8375",
+    "https://mangabaka.org/111302"
+  ]
+}

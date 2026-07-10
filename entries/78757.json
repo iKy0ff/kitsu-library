@@ -1,0 +1,54 @@
+{
+  "kitsuId": "78757",
+  "title": "Hissatsu Reijou Liese: Tensei Shita Saikyou no Koroshiya wa, Yami o Matou Akuyaku Reijou to naru",
+  "updatedAt": "2026-07-10T12:55:00.861Z",
+  "matchVersion": 2,
+  "mangabakaId": 594826,
+  "mangabakaUrl": "https://mangabaka.org/594826",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzg5My1naGN1dzFiOTNva28uanBn",
+  "author": "Matsuki Ugatsu",
+  "synopsis": "The strongest assassin, known by the name \"Killer Bee,\" dies in a reckless quest for revenge after his little sister is murdered. But his soul does not disappear. Instead, he is reincarnated as Liese, the villainess of an otome game. To defy the cruel fate that demands Liese die in every single route, the strongest assassin takes up the blade once more in his second life. \n\n(Source: Overlap, translated)",
+  "status": "Releasing",
+  "total": null,
+  "type": "manga",
+  "genres": [
+    "action",
+    "fantasy"
+  ],
+  "tags": [
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "213893",
+    "my_anime_list": "194380"
+  },
+  "links": [
+    "https://comic-gardo.com/episode/12207421983861465187",
+    "https://mangabaka.org/594826"
+  ]
+}

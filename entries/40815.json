@@ -1,0 +1,1722 @@
+{
+  "kitsuId": "40815",
+  "title": "Jujutsu Kaisen",
+  "updatedAt": "2026-07-10T13:05:36.443Z",
+  "matchVersion": 2,
+  "mangabakaId": 6199,
+  "mangabakaUrl": "https://mangabaka.org/6199",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2QvZi9kLzkvNy9mL2EvM2UyZi80NTViLzhhMDgvZDhhMzllNDkxODQ0",
+  "author": "Gege Akutami",
+  "synopsis": "Although Yuji Itadori looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Research Club. One day, the club manages to get their hands on a sealed cursed object. Little do they know the terror they’ll unleash when they break the seal…\n\n*Source: VIZ Media, Vol. 1*",
+  "status": "Completed",
+  "total": 272,
+  "type": "manga",
+  "genres": [
+    "action",
+    "drama",
+    "supernatural",
+    "comedy",
+    "horror",
+    "mature",
+    "mystery",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mass Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Demographic with Female Author",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Femboy",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Young Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Beautiful Female Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Scars",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Masked Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychopaths",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Primarily Male Cast",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ensemble Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Straightforward Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Friendly Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Simple-Minded Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Straightforward Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong-Willed Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Mentor",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Quirky Character",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Audio Drama",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Drama CD",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Movie",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Amnesia",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Body Swapping",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Split Personality",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Curses",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Dead Family Member",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Death of Loved One",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Dissociative Identities",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Battle Royale",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Death Game",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Transfer Students",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Exorcists",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Sorcerers",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dark Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dark Fantasy",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sadism",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Boys",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Youkai",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slapstick",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Death",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Amputee",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Exorcism",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japanese Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Body Horror",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Cosmic Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "LGBTQ+",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Philosophy",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Torture",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Transgender",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Award-Nominated Work",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Award Winning",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Author",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Demographic with Female Artist",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    },
+    {
+      "name": "Sorcery",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "Jujutsu Kaisen, Witch Hat Atelier, More Manga Rank on NYT June Bestseller List",
+      "date": "2026-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-06-21/jujutsu-kaisen-witch-hat-atelier-more-manga-rank-on-nyt-june-bestseller-list/.238753"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's May Adult Graphic Novel List in U.S.",
+      "date": "2026-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-21/jujutsu-kaisen-ranks-no.1-on-bookscan-may-adult-graphic-novel-list-in-u.s/.238731"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's April Adult Graphic Novel List in U.S.",
+      "date": "2026-05-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-25/jujutsu-kaisen-ranks-no.1-on-bookscan-april-adult-graphic-novel-list-in-u.s/.237761"
+    },
+    {
+      "title": "Jujutsu Kaisen, Gachiakuta Manga Rank on NYT May Bestseller List",
+      "date": "2026-05-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-05-25/jujutsu-kaisen-gachiakuta-manga-rank-on-nyt-may-bestseller-list/.237760"
+    },
+    {
+      "title": "Chainsaw Man, Jujutsu Kaisen, More Manga Rank on NYT April Bestseller List",
+      "date": "2026-04-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-04-19/chainsaw-man-jujutsu-kaisen-more-manga-rank-on-nyt-april-bestseller-list/.236524"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on Bookscan's March Adult Graphic Novel List in U.S.",
+      "date": "2026-04-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-19/chainsaw-man-ranks-no.1-on-bookscan-march-adult-graphic-novel-list-in-u.s/.236557"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's February Adult Graphic Novel List in U.S.",
+      "date": "2026-04-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-19/jujutsu-kaisen-ranks-no.1-on-bookscan-february-adult-graphic-novel-list-in-u.s/.236528"
+    },
+    {
+      "title": "Gachiakuta Ranks #1 on Bookscan's January Adult Graphic Novel List in U.S.",
+      "date": "2026-03-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-16/gachiakuta-ranks-no.1-on-bookscan-january-adult-graphic-novel-list-in-u.s/.235360"
+    },
+    {
+      "title": "Jujutsu Kaisen, Gachiakuta, More Manga Rank on NYT Bestseller Lists in January-March",
+      "date": "2026-03-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-03-13/jujutsu-kaisen-gachiakuta-more-manga-rank-on-nyt-bestseller-lists-in-january-march/.235269"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's December Adult Graphic Novel List in U.S.",
+      "date": "2026-01-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-17/jujutsu-kaisen-ranks-no.1-on-bookscan-december-adult-graphic-novel-list-in-u.s/.233176"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Ranks at #6 on NYT December Bestseller List",
+      "date": "2026-01-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-01-05/jujutsu-kaisen-manga-ranks-at-no.6-on-nyt-december-bestseller-list/.232783"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's November Adult Graphic Novel List in U.S.",
+      "date": "2026-01-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-05/jujutsu-kaisen-ranks-no.1-on-bookscan-november-adult-graphic-novel-list-in-u.s/.232782"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Franchise Surpasses 150 Million Copies in Circulation Worldwide",
+      "date": "2026-01-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-03/jujutsu-kaisen-manga-franchise-surpasses-150-million-copies-in-circulation-worldwide/.232721"
+    },
+    {
+      "title": "Jujutsu Kaisen  Manga Series Review",
+      "date": "2025-12-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/jujutsu-kaisen/manga-series/.232103"
+    },
+    {
+      "title": "Read it First: Manga, Light Novel Sources for Winter 2026 Anime",
+      "date": "2025-12-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2025-12-13/read-it-first-manga-light-novel-sources-for-winter-2026-anime/.231777"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on Bookscan's October Adult Graphic Novel List in U.S.",
+      "date": "2025-11-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-11-17/chainsaw-man-ranks-no.1-on-bookscan-october-adult-graphic-novel-list-in-u.s/.231120"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's September Adult Graphic Novel List in U.S.",
+      "date": "2025-11-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-11-17/jujutsu-kaisen-ranks-no.1-on-bookscan-september-adult-graphic-novel-list-in-u.s/.231116"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 2-8",
+      "date": "2025-11-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-11-06/north-american-anime-manga-releases-november-2-8/.230655"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Ranks at #7 on NYT October Bestseller List",
+      "date": "2025-10-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-10-11/jujutsu-kaisen-manga-ranks-at-no.7-on-nyt-october-bestseller-list/.229852"
+    },
+    {
+      "title": "Solo Leveling Manhwa, Jujutsu Kaisen, More Manga NYT September Bestseller List",
+      "date": "2025-10-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-10-10/solo-leveling-manhwa-jujutsu-kaisen-more-manga-nyt-september-bestseller-list/.229830"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #2 on Bookscan's August Adult Graphic Novel List in U.S.",
+      "date": "2025-10-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-10-10/jujutsu-kaisen-ranks-no.2-on-bookscan-august-adult-graphic-novel-list-in-u.s/.229829"
+    },
+    {
+      "title": "The Library is Open; Crunchyroll Manga Launches October 9, Opening a New Chapter for Fans With Multiple Major Publishing Partners",
+      "date": "2025-09-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2025-09-25/the-library-is-open-crunchyroll-manga-launches-october-9-opening-a-new-chapter-for-fans-with-/.229263"
+    },
+    {
+      "title": "Gege Akutami, Yuji Iwasaki's New Short-Term Manga Revealed as Jujutsu Kaisen Spinoff",
+      "date": "2025-09-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-09-07/gege-akutami-yuji-iwasaki-new-short-term-manga-revealed-as-jujutsu-kaisen-spinoff/.228512"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 17-23",
+      "date": "2025-08-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-21/north-american-anime-manga-releases-august-17-23/.227781"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Ranks #4 on NYT August Bestseller List",
+      "date": "2025-08-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-08-17/jujutsu-kaisen-manga-ranks-no.4-on-nyt-august-bestseller-list/.227725"
+    },
+    {
+      "title": "Jujutsu Kaisen Tops Bookscan's July Adult Graphic Novel List in U.S.",
+      "date": "2025-08-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-16/jujutsu-kaisen-tops-bookscan-july-adult-graphic-novel-list-in-u.s/.227680"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Ranks #4 on NYT July Bestseller List",
+      "date": "2025-07-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-07-21/jujutsu-kaisen-manga-ranks-no.4-on-nyt-july-bestseller-list/.226855"
+    },
+    {
+      "title": "Jujutsu Kaisen Tops Bookscan's June Adult Graphic Novel List in U.S.",
+      "date": "2025-07-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-21/jujutsu-kaisen-tops-bookscan-june-adult-graphic-novel-list-in-u.s/.226854"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Ranks #2 on NYT June Bestseller List",
+      "date": "2025-06-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-06-16/jujutsu-kaisen-manga-ranks-no.2-on-nyt-june-bestseller-list/.225611"
+    },
+    {
+      "title": "Jujutsu Kaisen Tops Bookscan's May Adult Graphic Novel List in U.S.",
+      "date": "2025-06-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-15/jujutsu-kaisen-tops-bookscan-may-adult-graphic-novel-list-in-u.s/.225580"
+    },
+    {
+      "title": "Jujutsu Kaisen Tops Bookscan's April Adult Graphic Novel List in U.S.",
+      "date": "2025-06-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-03/jujutsu-kaisen-tops-bookscan-april-adult-graphic-novel-list-in-u.s/.225067"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 18-24",
+      "date": "2025-05-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-05-22/north-american-anime-manga-releases-may-18-24/.224588"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Ranks #4 on NYT April Bestseller List",
+      "date": "2025-04-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-04-21/jujutsu-kaisen-manga-ranks-no.4-on-nyt-april-bestseller-list/.223729"
+    },
+    {
+      "title": "Jujutsu Kaisen Tops Bookscan's March Adult Graphic Novel List in U.S.",
+      "date": "2025-04-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-04-20/jujutsu-kaisen-tops-bookscan-march-adult-graphic-novel-list-in-u.s/.223716"
+    },
+    {
+      "title": "Manga With Biggest 1st Printings from Kodansha, Shogakukan, Shueisha: 2024-2025",
+      "date": "2025-04-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-04-07/manga-with-biggest-1st-printings-from-kodansha-shogakukan-shueisha-2024-2025/.223292"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 9-15",
+      "date": "2025-03-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-03-12/north-american-anime-manga-releases-march-9-15/.222183"
+    },
+    {
+      "title": "My Hero Academia Tops Bookscan's February Adult Graphic Novel List in U.S.",
+      "date": "2025-03-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-03-11/my-hero-academia-tops-bookscan-february-adult-graphic-novel-list-in-u.s/.222201"
+    },
+    {
+      "title": "Chainsaw Man Tops Bookscan's  January Adult Graphic Novel List  in U.S.",
+      "date": "2025-02-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-15/chainsaw-man-tops-bookscan-january-adult-graphic-novel-list-in-u.s/.221249"
+    },
+    {
+      "title": "Chainsaw Man, Spy x Family, Jujutsu Kaisen Manga Rank on NYT February Bestseller List",
+      "date": "2025-02-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-02-09/chainsaw-man-spy-x-family-jujutsu-kaisen-manga-rank-on-nyt-february-bestseller-list/.221017"
+    },
+    {
+      "title": "Jujutsu Kaisen, Berserk Manga Rank on NYT January Bestseller List",
+      "date": "2025-01-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-01-18/jujutsu-kaisen-berserk-manga-rank-on-nyt-january-bestseller-list/.220195"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on U.S. Monthly Bookscan December List",
+      "date": "2025-01-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-01-17/jujutsu-kaisen-ranks-no.1-on-u.s-monthly-bookscan-december-list/.220154"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Gets 16 Pages of New Epilogues in Final 30th Volume",
+      "date": "2024-12-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-20/jujutsu-kaisen-manga-gets-16-pages-of-new-epilogues-in-final-30th-volume/.219361"
+    },
+    {
+      "title": "Kono Manga ga Sugoi! Editors Unveil Full List of Top 2025 Manga",
+      "date": "2024-12-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-12/kono-manga-ga-sugoi-editors-unveil-full-list-of-top-2025-manga/.218909"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 8-14",
+      "date": "2024-12-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-12/north-american-anime-manga-releases-december-8-14/.218853"
+    },
+    {
+      "title": "Kagurabachi Ranks #1 on U.S. Monthly Bookscan November List",
+      "date": "2024-12-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-10/kagurabachi-ranks-no.1-on-u.s-monthly-bookscan-november-list/.220094"
+    },
+    {
+      "title": "Gege Akutami's Jujutsu Kaisen Tops 2024 Da Vinci Manga Ranking",
+      "date": "2024-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-06/gege-akutami-jujutsu-kaisen-tops-2024-da-vinci-manga-ranking/.218711"
+    },
+    {
+      "title": "Tennessee School Districts Remove Multiple Manga Series from Libraries",
+      "date": "2024-11-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-11-27/tennessee-school-districts-remove-multiple-manga-series-from-libraries/.218301"
+    },
+    {
+      "title": "Book Walker Adds One Piece, Bleach, Dandadan, Ranma 1/2, More Viz Media Manga",
+      "date": "2024-11-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-11-26/book-walker-adds-one-piece-bleach-dandadan-ranma-1-2-more-viz-media-manga/.218273"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan October List",
+      "date": "2024-11-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-11-18/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-october-list/.220093"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan September List",
+      "date": "2024-10-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-12/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-september-list/.216661"
+    },
+    {
+      "title": "Chainsaw Man, Trigun, More Manga Rank on NYT October Bestseller List",
+      "date": "2024-10-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-10-12/chainsaw-man-trigun-more-manga-rank-on-nyt-october-bestseller-list/.216662"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Has 100 Million Copies in Circulation",
+      "date": "2024-09-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-09-29/jujutsu-kaisen-manga-has-100-million-copies-in-circulation/.216137"
+    },
+    {
+      "title": "Jujutsu Kaisen, Spy x Family, Berserk Manga Rank on NYT September Bestseller List",
+      "date": "2024-09-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-09-15/jujutsu-kaisen-spy-x-family-berserk-manga-rank-on-nyt-september-bestseller-list/.215524"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on U.S. Monthly Bookscan August List",
+      "date": "2024-09-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-09-15/jujutsu-kaisen-ranks-no.1-on-u.s-monthly-bookscan-august-list/.215519"
+    },
+    {
+      "title": "Berserk Deluxe Ranks #2 in U.S. Monthly Bookscan July List",
+      "date": "2024-08-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-25/berserk-deluxe-ranks-no.2-in-u.s-monthly-bookscan-july-list/.214668"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 18-24",
+      "date": "2024-08-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-22/north-american-anime-manga-releases-august-18-24/.214559"
+    },
+    {
+      "title": "One Piece, Berserk, Jujutsu Kaisen Manga Rank on NYT August Bestseller List",
+      "date": "2024-08-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-08-19/one-piece-berserk-jujutsu-kaisen-manga-rank-on-nyt-august-bestseller-list/.214470"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Ends in 5 Chapters on September 30",
+      "date": "2024-08-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-19/jujutsu-kaisen-manga-ends-in-5-chapters-on-september-30/.214472"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 in U.S. Monthly Bookscan June List",
+      "date": "2024-07-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-07-16/my-hero-academia-ranks-no.1-in-u.s-monthly-bookscan-june-list/.213238"
+    },
+    {
+      "title": "My Hero Academia, Kaiju No. 8, Berserk Manga Rank on NYT July Bestseller List",
+      "date": "2024-07-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-07-16/my-hero-academia-kaiju-no-8-berserk-manga-rank-on-nyt-july-bestseller-list/.213191"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Resumes Serialization 1 Week Later Than Planned",
+      "date": "2024-06-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-24/jujutsu-kaisen-manga-resumes-serialization-1-week-later-than-planned/.212329"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 in U.S. Monthly Bookscan May List",
+      "date": "2024-06-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-16/chainsaw-man-ranks-no.1-in-u.s-monthly-bookscan-may-list/.211977"
+    },
+    {
+      "title": "Chainsaw Man, Jujutsu Kaisen, Berserk Manga Rank on NYT June Bestseller List",
+      "date": "2024-06-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-06-16/chainsaw-man-jujutsu-kaisen-berserk-manga-rank-on-nyt-june-bestseller-list/.211981"
+    },
+    {
+      "title": "Jujutsu Kaisen, My Hero Academia Manga Both Take 2-Week Breaks",
+      "date": "2024-06-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-09/jujutsu-kaisen-my-hero-academia-manga-both-take-2-week-breaks/.211709"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 in U.S. Monthly Bookscan April List",
+      "date": "2024-05-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-05-26/jujutsu-kaisen-ranks-no.1-in-u.s-monthly-bookscan-april-list/.211029"
+    },
+    {
+      "title": "Jujutsu Kaisen, Berserk Deluxe, Spy x Family Manga Rank on NYT May Bestseller List",
+      "date": "2024-05-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-05-07/jujutsu-kaisen-berserk-deluxe-spy-x-family-manga-rank-on-nyt-may-bestseller-list/.210571"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan March List",
+      "date": "2024-04-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-23/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-march-list/.210126"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 14-20",
+      "date": "2024-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-17/north-american-anime-manga-releases-april-14-20/.209914"
+    },
+    {
+      "title": "Manga With Biggest 1st Printings from Kodansha, Shogakukan, Shueisha: 2023-2024",
+      "date": "2024-04-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-07/manga-with-biggest-1st-printings-from-kodansha-shogakukan-shueisha-2023-2024/.209605"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan February List",
+      "date": "2024-03-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-03-11/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-february-list/.208585"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan January List",
+      "date": "2024-02-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-02-19/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-january-list/.207723"
+    },
+    {
+      "title": "Chainsaw Man, Kaiju No. 8, More Manga Rank on NYT February Bestseller List",
+      "date": "2024-02-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-02-19/chainsaw-man-kaiju-no-8-more-manga-rank-on-nyt-february-bestseller-list/.207727"
+    },
+    {
+      "title": "ICv2 Lists Top-Selling Manga Volumes for 2023 According to Circana BookScan Sales Reports",
+      "date": "2024-02-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-02-03/icv2-lists-top-selling-manga-volumes-for-2023-according-to-circana-bookscan-sales-reports/.207146"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan December List",
+      "date": "2024-01-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-13/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-december-list/.206423"
+    },
+    {
+      "title": "Expand Your Domain with Jujutsu Kaisen Crocs",
+      "date": "2023-12-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2023-12-19/expand-your-domain-with-jujutsu-kaisen-crocs/.205354"
+    },
+    {
+      "title": "Jujutsu Kaisen's Gege Akutami: 'This Will Probably Definitely be the Last Jump Festa Where the Manga is Still Serializing'",
+      "date": "2023-12-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-15/jujutsu-kaisen-gege-akutami-this-will-probably-definitely-be-the-last-jump-festa-where-the-manga-is-/.205568"
+    },
+    {
+      "title": "Jujutsu Kaisen, Chainsaw Man, One Piece, Spy x Family Manga Rank on NYT December Bestseller List",
+      "date": "2023-12-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2023-12-10/jujutsu-kaisen-chainsaw-man-one-piece-spy-x-family-manga-rank-on-nyt-december-bestseller-list/.205312"
+    },
+    {
+      "title": "Jujutsu Kaisen Heads To JUMP FESTA '24 Super Stage RED",
+      "date": "2023-12-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2023-12-05/jujutsu-kaisen-heads-to-jump-festa-24-super-stage-red/.205141"
+    },
+    {
+      "title": "Tomoko Yamashita's Ikoku Nikki Tops Da Vinci Manga Ranking",
+      "date": "2023-12-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-05/tomoko-yamashita-ikoku-nikki-tops-da-vinci-manga-ranking/.205150"
+    },
+    {
+      "title": "One Piece Ranks #1 on U.S. Monthly Bookscan November List",
+      "date": "2023-12-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-03/one-piece-ranks-no.1-on-u.s-monthly-bookscan-november-list/.205031"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2023 — One Piece Tops Chart for 13th Time",
+      "date": "2023-11-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-30/top-selling-manga-in-japan-by-volume-2023-one-piece-tops-chart-for-13th-time/.204968"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan October List",
+      "date": "2023-11-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-07/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-october-list/.204198"
+    },
+    {
+      "title": "Chainsaw Man, Spy x Family, 2 More Manga Rank on NYT November Bestseller List",
+      "date": "2023-11-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2023-11-06/chainsaw-man-spy-x-family-2-more-manga-rank-on-nyt-november-bestseller-list/.204136"
+    },
+    {
+      "title": "Jujutsu Kaisen Cursed Clash Game's Character Trailer Reveals Aoi Todo, Hanami, Jogo",
+      "date": "2023-11-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-03/jujutsu-kaisen-cursed-clash-game-character-trailer-reveals-aoi-todo-hanami-jogo/.204097"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan September List",
+      "date": "2023-10-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-10-10/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-september-list/.203258"
+    },
+    {
+      "title": "My Hero Academia, Jujutsu Kaisen, Dragon Ball Super Rank on NYT October Bestseller List",
+      "date": "2023-10-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2023-10-09/my-hero-academia-jujutsu-kaisen-dragon-ball-super-rank-on-nyt-october-bestseller-list/.203257"
+    },
+    {
+      "title": "DeNa, Shueisha to Launch JUMP: Assemble Mobile Game in 2024",
+      "date": "2023-09-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-27/dena-shueisha-to-launch-jump-assemble-mobile-game-in-2024/.202872"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on U.S. Monthly Bookscan August List",
+      "date": "2023-09-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-14/jujutsu-kaisen-ranks-no.1-on-u.s-monthly-bookscan-august-list/.202274"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Ranks on NYT September Bestseller List",
+      "date": "2023-09-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2023-09-10/jujutsu-kaisen-manga-ranks-on-nyt-september-bestseller-list/.202151"
+    },
+    {
+      "title": "Jujutsu Kaisen Series Gets 2nd Stage Play in December",
+      "date": "2023-09-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-07/jujutsu-kaisen-series-gets-2nd-stage-play-in-december/.202089"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 13-19",
+      "date": "2023-08-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-08-15/north-american-anime-manga-releases-august-13-19/.201291"
+    },
+    {
+      "title": "One Piece Ranks #1 on U.S. Monthly Bookscan July List",
+      "date": "2023-08-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-08-07/one-piece-ranks-no.1-on-u.s-monthly-bookscan-july-list/.201065"
+    },
+    {
+      "title": "Demon Slayer Ranks #2 on U.S. Monthly Bookscan June List",
+      "date": "2023-07-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-07-17/demon-slayer-ranks-no.2-on-u.s-monthly-bookscan-june-list/.200338"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Gets Jujutsu Kaisen Cursed Clash 2v2 Fighting Game",
+      "date": "2023-07-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-07-01/jujutsu-kaisen-manga-gets-jujutsu-kaisen-cursed-clash-2v2-fighting-game/.199874"
+    },
+    {
+      "title": "Live-Action Jujutsu Kaisen Video Celebrates Manga's 80 Million Copies in Circulation",
+      "date": "2023-06-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-06-29/live-action-jujutsu-kaisen-video-celebrates-manga-80-million-copies-in-circulation/.199709"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan May List",
+      "date": "2023-06-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-06-16/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-may-list/.199307"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2023 (1st Half) — One Piece 105 Sells 1.76 Million",
+      "date": "2023-05-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-30/top-selling-manga-in-japan-by-volume-2023-one-piece-105-sells-1.76-million/.198623"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 2023 (1st Half) — Blue Lock Sells 8 Million After Anime",
+      "date": "2023-05-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-30/top-selling-manga-in-japan-by-series-2023-blue-lock-sells-8-million-after-anime/.198621"
+    },
+    {
+      "title": "One Piece Ranks #1 on U.S. Monthly Bookscan April List",
+      "date": "2023-05-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-12/one-piece-ranks-no.1-on-u.s-monthly-bookscan-april-list/.198026"
+    },
+    {
+      "title": "Spy x Family Ranks #1 on U.S. Monthly Bookscan March List",
+      "date": "2023-04-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-04-15/spy-x-family-ranks-no.1-on-u.s-monthly-bookscan-march-list/.197113"
+    },
+    {
+      "title": "Spy x Family, Jujutsu Kaisen, More Rank on NYT April Bestseller List",
+      "date": "2023-04-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2023-04-09/spy-x-family-jujutsu-kaisen-more-rank-on-nyt-april-bestseller-list/.196916"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 19-25",
+      "date": "2023-03-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-03-23/north-american-anime-manga-releases-march-19-25/.196223"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan February List",
+      "date": "2023-03-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-03-12/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-february-list/.195828"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on NPD Bookscan's Top-Selling Manga of 2022 List",
+      "date": "2023-03-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-03-05/chainsaw-man-ranks-no.1-on-npd-bookscan-top-selling-manga-of-2022-list/.195600"
+    },
+    {
+      "title": "Chainsaw Man Takes 11 Spots on U.S. Monthly Bookscan January List",
+      "date": "2023-02-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-02-05/chainsaw-man-takes-11-spots-on-u.s-monthly-bookscan-january-list/.194532"
+    },
+    {
+      "title": "Chainsaw Man, Kaiju No. 8, Jujutsu Kaisen Rank on NYT February Bestseller List",
+      "date": "2023-02-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2023-02-05/chainsaw-man-kaiju-no-8-jujutsu-kaisen-rank-on-nyt-february-bestseller-list/.194548"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan December List",
+      "date": "2023-01-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-01-10/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-december-list/.193668"
+    },
+    {
+      "title": "Chainsaw Man, Spy x Family, Jujutsu Kaisen Rank on NYT January Bestseller List",
+      "date": "2023-01-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2023-01-08/chainsaw-man-spy-x-family-jujutsu-kaisen-rank-on-nyt-january-bestseller-list/.193625"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 18-24",
+      "date": "2022-12-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-20/north-american-anime-manga-releases-december-18-24/.193179"
+    },
+    {
+      "title": "Gege Akutami Hints at Jujutsu Kaisen Manga Ending 'Probably' Within 1 Year",
+      "date": "2022-12-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-17/gege-akutami-hints-at-jujutsu-kaisen-manga-ending-probably-within-1-year/.193064"
+    },
+    {
+      "title": "Spy×Family Tops Da Vinci Manga Ranking",
+      "date": "2022-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-06/spy-family-tops-da-vinci-manga-ranking/.192624"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan November List",
+      "date": "2022-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-06/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-november-list/.192628"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2022 — Jujutsu Kaisen 18 Sells 2.11 Million",
+      "date": "2022-12-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-01/top-selling-manga-in-japan-by-volume-2022-jujutsu-kaisen-18-sells-2.11-million/.192471"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 2022 — Jujutsu Kaisen Edges Out Tokyo Revengers",
+      "date": "2022-12-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-01/top-selling-manga-in-japan-by-series-2022-jujutsu-kaisen-edges-out-tokyo-revengers/.192470"
+    },
+    {
+      "title": "Spy×Family Ranks #1 on U.S. Monthly Bookscan September List",
+      "date": "2022-10-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-10-11/spy-family-ranks-no.1-on-u.s-monthly-bookscan-september-list/.190717"
+    },
+    {
+      "title": "Jujutsu Kaisen, Spy×Family, More Rank on NYT September Bestseller List",
+      "date": "2022-09-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2022-09-11/jujutsu-kaisen-spy-family-more-rank-on-nyt-september-bestseller-list/.189516"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on U.S. Monthly Bookscan August List",
+      "date": "2022-09-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-09-10/jujutsu-kaisen-ranks-no.1-on-u.s-monthly-bookscan-august-list/.189515"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 14-20",
+      "date": "2022-08-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-08-16/north-american-anime-manga-releases-august-14-20/.188722"
+    },
+    {
+      "title": "My Hero Academia, Spy×Family, More Rank on NYT August Bestseller List",
+      "date": "2022-08-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2022-08-12/my-hero-academia-spy-family-more-rank-on-nyt-august-bestseller-list/.188613"
+    },
+    {
+      "title": "Chainsaw Man, Spy×Family, More Rank on NYT July Bestseller List",
+      "date": "2022-07-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2022-07-12/chainsaw-man-spy-family-more-rank-on-nyt-july-bestseller-list/.187610"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan June List",
+      "date": "2022-07-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-12/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-june-list/.187608"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 19-25",
+      "date": "2022-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-21/north-american-anime-manga-releases-june-19-25/.186927"
+    },
+    {
+      "title": "Spy×Family Ranks #1 on U.S. Monthly Bookscan May List",
+      "date": "2022-06-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-05/spy-family-ranks-no.1-on-u.s-monthly-bookscan-may-list/.186319"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan April List",
+      "date": "2022-05-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-12/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-april-list/.185600"
+    },
+    {
+      "title": "Chainsaw Man, Jujutsu Kaisen, Spy×Family Rank on NYT May Bestseller List",
+      "date": "2022-05-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2022-05-05/chainsaw-man-jujutsu-kaisen-spy-family-rank-on-nyt-may-bestseller-list/.185363"
+    },
+    {
+      "title": "Jujutsu Kaisen Stage Play's Video Introduces Cast in Costume",
+      "date": "2022-04-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-04-14/jujutsu-kaisen-stage-play-video-introduces-cast-in-costume/.184605"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan March List",
+      "date": "2022-04-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-04-10/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-march-list/.184491"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 3-9",
+      "date": "2022-04-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-04-06/north-american-anime-manga-releases-april-3-9/.184399"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga to Have 65 Million Copies in Circulation as of April 4",
+      "date": "2022-03-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-03-29/jujutsu-kaisen-manga-to-have-65-million-copies-in-circulation-as-of-april-4/.184149"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan February List",
+      "date": "2022-03-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-03-15/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-february-list/.183627"
+    },
+    {
+      "title": "Chainsaw Man, Jujutsu Kaisen, Demon Slayer Rank on NYT March Bestseller List",
+      "date": "2022-03-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2022-03-13/chainsaw-man-jujutsu-kaisen-demon-slayer-rank-on-nyt-march-bestseller-list/.183515"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Takes 1-Week Break Due to Author's Poor Health",
+      "date": "2022-03-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-03-10/jujutsu-kaisen-manga-takes-1-week-break-due-to-author-poor-health/.183425"
+    },
+    {
+      "title": "ICv2 Lists Top-Selling Manga Volumes for 2021 According to NPD Bookscan Sales Reports",
+      "date": "2022-03-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-03-04/icv2-lists-top-selling-manga-volumes-for-2021-according-to-npd-bookscan-sales-reports/.183258"
+    },
+    {
+      "title": "ICv2 Lists Top-Selling Manga Franchises for Fall 2021 According to NPD Bookscan Sales Reports",
+      "date": "2022-03-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-03-02/icv2-lists-top-selling-manga-franchises-for-fall-2021-according-to-npd-bookscan-sales-reports/.183180"
+    },
+    {
+      "title": "Manga Takes 10 of 15 Spots on NYT February Bestseller List for Graphic Novels, Manga",
+      "date": "2022-02-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2022-02-06/manga-takes-10-of-15-spots-on-nyt-february-bestseller-list-for-graphic-novels-manga/.182234"
+    },
+    {
+      "title": "Demon Slayer Ranks #1 on U.S. Monthly Bookscan January List",
+      "date": "2022-02-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-06/demon-slayer-ranks-no.1-on-u.s-monthly-bookscan-january-list/.182267"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 30-February 5",
+      "date": "2022-02-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-01/north-american-anime-manga-releases-january-30-february-5/.182129"
+    },
+    {
+      "title": "All Chapters of Series in English Are Now Available on the Manga Plus by Shueisha App",
+      "date": "2022-01-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2022-01-30/all-chapters-of-series-in-english-are-now-available-on-the-manga-plus-by-shueisha-app/.181984"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan December List",
+      "date": "2022-01-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-01-10/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-december-list/.181386"
+    },
+    {
+      "title": "Chainsaw Man, Jujutsu Kaisen, More Rank on NYT January Bestseller List",
+      "date": "2022-01-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2022-01-09/chainsaw-man-jujutsu-kaisen-more-rank-on-nyt-january-bestseller-list/.181342"
+    },
+    {
+      "title": "Jujutsu Kaisen Online Puzzle Game - Escape from the Cursed Spirit of the Abandoned School Gets English Release",
+      "date": "2021-12-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-29/jujutsu-kaisen-online-puzzle-game-escape-from-the-cursed-spirit-of-the-abandoned-school-gets-/.181077"
+    },
+    {
+      "title": "Jujutsu Kaisen Gets Stage Play in Tokyo and Osaka in July-August 2022",
+      "date": "2021-12-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-18/jujutsu-kaisen-gets-stage-play-in-tokyo-and-osaka-in-july-august-2022/.180762"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 5-11",
+      "date": "2021-12-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-07/north-american-anime-manga-releases-december-5-11/.180377"
+    },
+    {
+      "title": "Demon Slayer Tops Da Vinci Manga Ranking for 2nd Consecutive Year",
+      "date": "2021-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-06/demon-slayer-tops-da-vinci-manga-ranking-for-2nd-consecutive-year/.180340"
+    },
+    {
+      "title": "Demon Slayer Complete Box Set Ranks #3 on U.S. Monthly Bookscan November List",
+      "date": "2021-12-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-05/demon-slayer-complete-box-set-ranks-no.3-on-u.s-monthly-bookscan-november-list/.180273"
+    },
+    {
+      "title": "Top-Selling Light Novels in Japan by Volume: 2021",
+      "date": "2021-11-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-28/top-selling-light-novels-in-japan-by-volume-2021/.180073"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2021 — Demon Slayer Finale Sells Record 5.17 Million",
+      "date": "2021-11-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-28/top-selling-manga-in-japan-by-volume-2021-demon-slayer-finale-sells-record-5.17-million/.180076"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 2021 — Jujutsu Kaisen Edges Out Demon Slayer",
+      "date": "2021-11-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-28/top-selling-manga-in-japan-by-series-2021-jujutsu-kaisen-edges-out-demon-slayer/.180075"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga to Have 60 Million Copies in Circulation as of December 25",
+      "date": "2021-11-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-22/jujutsu-kaisen-manga-to-have-60-million-copies-in-circulation-as-of-december-25/.179850"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan October List",
+      "date": "2021-11-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-07/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-october-list/.179295"
+    },
+    {
+      "title": "Chainsaw Man, Attack on Titan, More Rank on NYT November Bestseller List",
+      "date": "2021-11-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2021-11-06/chainsaw-man-attack-on-titan-more-rank-on-nyt-november-bestseller-list/.179243"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan September List",
+      "date": "2021-10-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-10-14/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-september-list/.178452"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 3-9",
+      "date": "2021-10-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-10-05/north-american-anime-manga-releases-october-3-9/.178176"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga's Circulation Jumps 650% to 55 Million Copies Since Anime's Debut",
+      "date": "2021-09-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-09-27/jujutsu-kaisen-manga-circulation-jumps-650-percent-to-55-million-copies-since-anime-debut/.177865"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on U.S. Monthly Bookscan August List",
+      "date": "2021-09-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-09-05/jujutsu-kaisen-ranks-no.1-on-u.s-monthly-bookscan-august-list/.177005"
+    },
+    {
+      "title": "Jujutsu Kaisen, Demon Slayer, Chainsaw Man, More Rank on NYT September Bestseller List",
+      "date": "2021-09-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2021-09-05/jujutsu-kaisen-demon-slayer-chainsaw-man-more-rank-on-nyt-september-bestseller-list/.177008"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan July List",
+      "date": "2021-08-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-08-08/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-july-list/.176007"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 1-7",
+      "date": "2021-08-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-08-03/north-american-anime-manga-releases-august-1-7/.175862"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga to Resume on August 2 After Hiatus for Health Reasons",
+      "date": "2021-07-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-15/jujutsu-kaisen-manga-to-resume-on-august-2-after-hiatus-for-health-reasons/.175180"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan June List",
+      "date": "2021-07-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-11/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-june-list/.174995"
+    },
+    {
+      "title": "My Hero Academia, Chainsaw Man 3 More Manga Rank on NYT July Bestseller List",
+      "date": "2021-07-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2021-07-09/my-hero-academia-chainsaw-man-3-more-manga-rank-on-nyt-july-bestseller-list/.174970"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Goes on Hiatus Due to Author's Poor Health (Updated)",
+      "date": "2021-06-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-06-09/jujutsu-kaisen-manga-goes-on-hiatus-due-to-author-poor-health/.173776"
+    },
+    {
+      "title": "Attack on Titan Ranks #1 on U.S. Monthly Bookscan May List",
+      "date": "2021-06-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-06-06/attack-on-titan-ranks-no.1-on-u.s-monthly-bookscan-may-list/.173595"
+    },
+    {
+      "title": "Top-Selling Light Novels in Japan by Series: 2021 (First Half)",
+      "date": "2021-05-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-05-31/top-selling-light-novels-in-japan-by-series-2021/.173398"
+    },
+    {
+      "title": "Top-Selling Light Novels in Japan by Volume: 2021 (First Half)",
+      "date": "2021-05-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-05-31/top-selling-light-novels-in-japan-by-volume-2021/.173400"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2021 (First Half)",
+      "date": "2021-05-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-05-30/top-selling-manga-in-japan-by-volume-2021/.173396"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 2021 (First Half)",
+      "date": "2021-05-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-05-30/top-selling-manga-in-japan-by-series-2021/.173392"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga's Circulation Jumps 590% to 50 Million Copies Since Anime's Debut",
+      "date": "2021-05-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-05-30/jujutsu-kaisen-manga-circulation-jumps-590-percent-to-50-million-copies-since-anime-debut/.173399"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan April List",
+      "date": "2021-05-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-05-09/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-april-list/.172560"
+    },
+    {
+      "title": "My Hero Academia, Demon Slayer, 3 More Manga Rank on NYT May Bestseller List",
+      "date": "2021-05-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2021-05-09/my-hero-academia-demon-slayer-3-more-manga-rank-on-nyt-may-bestseller-list/.172561"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Tops 45 Million Copies in Circulation",
+      "date": "2021-04-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-04-21/jujutsu-kaisen-manga-tops-45-million-copies-in-circulation/.171972"
+    },
+    {
+      "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan March List",
+      "date": "2021-04-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-04-11/chainsaw-man-ranks-no.1-on-u.s-monthly-bookscan-march-list/.171613"
+    },
+    {
+      "title": "Manga With Biggest 1st Printings from Kodansha, Shogakukan, Shueisha: 2020-2021",
+      "date": "2021-04-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-04-08/manga-with-biggest-1st-printings-from-kodansha-shogakukan-shueisha-2020-2021/.171563"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 4-10",
+      "date": "2021-04-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-04-06/north-american-anime-manga-releases-april-4-10/.171508"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Tops 40 Million Copies in Circulation",
+      "date": "2021-03-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-30/jujutsu-kaisen-manga-tops-40-million-copies-in-circulation/.171313"
+    },
+    {
+      "title": "Gege Akutami 'Probably' Plans to End Jujutsu Kaisen Manga Within 2 Years",
+      "date": "2021-03-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-14/gege-akutami-probably-plans-to-end-jujutsu-kaisen-manga-within-2-years/.170594"
+    },
+    {
+      "title": "My Hero Academia Ranks #2 on U.S. Monthly Bookscan February List",
+      "date": "2021-03-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-11/my-hero-academia-ranks-no.2-on-u.s-monthly-bookscan-february-list/.170374"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Volume 15 Gets Initial Run of 1.5 Million",
+      "date": "2021-03-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-01/jujutsu-kaisen-manga-volume-15-gets-initial-run-of-1.5-million/.170137"
+    },
+    {
+      "title": "Demon Slayer, Jujutsu Kaisen, Promised Neverland Nominated for Tezuka Osamu Cultural Prize",
+      "date": "2021-02-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-25/demon-slayer-jujutsu-kaisen-promised-neverland-nominated-for-tezuka-osamu-cultural-prize/.169984"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga's Circulation Jumps by Another 5 Million in 2 Weeks",
+      "date": "2021-02-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-08/jujutsu-kaisen-manga-circulation-jumps-by-another-5-million-in-2-weeks/.169301"
+    },
+    {
+      "title": "My Hero Academia, Jujutsu Kaisen, Demon Slayer, Attack on Titan Rank on NYT Bestseller February List",
+      "date": "2021-02-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2021-02-07/my-hero-academia-jujutsu-kaisen-demon-slayer-attack-on-titan-rank-on-nyt-bestseller-february-list/.169248"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan January List",
+      "date": "2021-02-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-07/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-january-list/.169227"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Goes on 1-Week Hiatus Due to Creator's Sudden Illness",
+      "date": "2021-02-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-04/jujutsu-kaisen-manga-goes-on-1-week-hiatus-due-to-creator-sudden-illness/.169169"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 31-February 6",
+      "date": "2021-02-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-03/north-american-anime-manga-releases-january-31-february-6/.169069"
+    },
+    {
+      "title": "Gege Akutami To Cosplay As Mechamaru In First TV Appearance",
+      "date": "2021-01-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2021-01-27/gege-akutami-to-cosplay-as-mechamaru-in-first-tv-appearance/.168805"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga's Circulation Jumps by 5 Million More Copies in 13 Days",
+      "date": "2021-01-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-01-25/jujutsu-kaisen-manga-circulation-jumps-by-5-million-more-copies-in-13-days/.168807"
+    },
+    {
+      "title": "Jujutsu Kaisen Takes 15 of Top 16 Spots in Weekly Manga Sales Ranking",
+      "date": "2021-01-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-01-22/jujutsu-kaisen-takes-15-of-top-16-spots-in-weekly-manga-sales-ranking/.168682"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga's Circulation Jumped 235% After Anime's Premiere",
+      "date": "2021-01-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-01-12/jujutsu-kaisen-manga-circulation-jumped-235-percent-after-anime-premiere/.168321"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 3-9",
+      "date": "2021-01-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-01-08/north-american-anime-manga-releases-january-3-9/.168143"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Has 15 Million Copies in Circulation",
+      "date": "2020-12-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-15/jujutsu-kaisen-manga-has-15-million-copies-in-circulation/.167497"
+    },
+    {
+      "title": "Demon Slayer Tops Da Vinci Manga Ranking",
+      "date": "2020-12-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-05/demon-slayer-tops-da-vinci-manga-ranking/.167101"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 29-December 5",
+      "date": "2020-12-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-01/north-american-anime-manga-releases-november-29-december-5/.166910"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 2020",
+      "date": "2020-11-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-29/top-selling-manga-in-japan-by-series-2020/.166841"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 4-10",
+      "date": "2020-10-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-08/north-american-anime-manga-releases-october-4-10/.164935"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 2-15",
+      "date": "2020-08-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-08-13/north-american-anime-manga-releases-august-2-15/.162826"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 31-June 6",
+      "date": "2020-06-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-06-03/north-american-anime-manga-releases-may-31-june-6/.160199"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 5-11",
+      "date": "2020-04-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-04-07/north-american-anime-manga-releases-april-5-11/.158380"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 2-8",
+      "date": "2020-02-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-02-05/north-american-anime-manga-releases-february-2-8/.156113"
+    },
+    {
+      "title": "Jujutsu Kaisen GN 1",
+      "date": "2020-01-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/jujutsu-kaisen/gn-1/.154897"
+    },
+    {
+      "title": "Jujutsu Kaisen Anime Casts Yūichi Nakamura as Satoru Gojō",
+      "date": "2019-12-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-12-21/jujutsu-kaisen-anime-casts-yuichi-nakamura-as-satoru-gojo/.154648"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 1-7",
+      "date": "2019-12-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-12-04/north-american-anime-manga-releases-december-1-7/.153937"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Gets TV Anime",
+      "date": "2019-11-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-11-24/jujutsu-kaisen-manga-gets-tv-anime/.153511"
+    },
+    {
+      "title": "65th Shogakukan Manga Awards' Nominees Announced",
+      "date": "2019-11-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-11-22/65th-shogakukan-manga-awards-nominees-announced/.153558"
+    },
+    {
+      "title": "Jujutsu Kaisen Manga Gets 2nd Novel in January",
+      "date": "2019-11-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-11-17/jujutsu-kaisen-manga-gets-2nd-novel-in-january/.153337"
+    },
+    {
+      "title": "Japanese Comic Ranking, March 11-17",
+      "date": "2019-04-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-04-03/japanese-comic-ranking-march-11-17/.145355"
+    },
+    {
+      "title": "Japanese Comic Ranking, March 4-10",
+      "date": "2019-03-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-03-21/japanese-comic-ranking-march-4-10/.144510"
+    },
+    {
+      "title": "Viz Media Adds A Tropical Fish Yearns for Snow Manga, Announces Rerelease of Kazuo Umezu's The Drifting Classroom Manga",
+      "date": "2019-03-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-03-16/viz-media-adds-a-tropical-fish-yearns-for-snow-manga-announces-rerelease-of-kazuo-umezu-the-/.144644"
+    },
+    {
+      "title": "Roundup of Newly Revealed Print Counts for Manga, Light Novel Series - February 2019 (Updated)",
+      "date": "2019-03-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-03-03/roundup-of-newly-revealed-print-counts-for-manga-light-novel-series-february-2019/.143286"
+    },
+    {
+      "title": "Japan's Bookstore Employees Rank Top Manga of 2018",
+      "date": "2019-02-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-02-04/japan-bookstore-employees-rank-top-manga-of-2018/.142998"
+    },
+    {
+      "title": "Roundup of Newly Revealed Print Counts for Manga, Light Novel Series - January 2019",
+      "date": "2019-02-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-02-02/roundup-of-newly-revealed-print-counts-for-manga-light-novel-series-january-2019/.142007"
+    },
+    {
+      "title": "Roundup of Newly Revealed Print Counts for Manga, Light Novel Series - December 2018",
+      "date": "2019-01-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-01-01/roundup-of-newly-revealed-print-counts-for-manga-light-novel-series-december-2018/.141402"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 3-9",
+      "date": "2018-12-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-12-12/japanese-comic-ranking-december-3-9/.140714"
+    },
+    {
+      "title": "Viz's Shonen Jump Adds Haikyu!!, Demon Slayer, More to Simulpublishing Lineup",
+      "date": "2018-12-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-12-10/viz-shonen-jump-adds-haikyu-demon-slayer-more-to-simulpublishing-lineup/.140628"
+    },
+    {
+      "title": "Japanese Comic Ranking, September 10-16",
+      "date": "2018-09-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-09-19/japanese-comic-ranking-september-10-16/.137006"
+    },
+    {
+      "title": "Raise wa Tanin ga Ii, Senpai ga Uzai Kōhai no Hanashi Take Top Prizes at Tsugi ni Kuru Manga Awards",
+      "date": "2018-08-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2018-08-23/raise-wa-tanin-ga-ii-senpai-ga-uzai-kohai-no-hanashi-take-top-prizes-at-tsugi-ni-kuru-manga-awards/.135835"
+    },
+    {
+      "title": "Japanese Comic Ranking, July 2-8",
+      "date": "2018-07-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-07-11/japanese-comic-ranking-july-2-8/.134139"
+    },
+    {
+      "title": "Viz's Shonen Jump to Preview Noah's Notes, Ziga Manga",
+      "date": "2018-03-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-05/viz-shonen-jump-to-preview-noah-notes-ziga-manga/.128587"
+    },
+    {
+      "title": "Viz's Shonen Jump to Preview Jujutsu Kaisen Manga",
+      "date": "2018-02-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-02-26/viz-shonen-jump-to-preview-jujutsu-kaisen-manga/.128284"
+    },
+    {
+      "title": "3 New Manga Launch in Shonen Jump in March",
+      "date": "2018-02-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-02-25/3-new-manga-launch-in-shonen-jump-in-march/.128190"
+    }
+  ],
+  "sources": {
+    "anilist": "101517",
+    "anime_planet": "jujutsu-kaisen",
+    "anime_news_network": "21741",
+    "kitsu": "40815",
+    "manga_updates": "axmopy6",
+    "my_anime_list": "113138",
+    "shikimori": "113138"
+  },
+  "links": [
+    "https://en.wikipedia.org/wiki/Jujutsu_Kaisen",
+    "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6",
+    "https://manga.bilibili.com/detail/mc26505",
+    "https://mangaplus.shueisha.co.jp/titles/100034",
+    "https://mangaplus.shueisha.co.jp/titles/200018",
+    "https://mangaplus.shueisha.co.jp/titles/700004",
+    "https://page.kakao.com/content/53478091",
+    "https://series.naver.com/comic/detail.series?productNo=4358797",
+    "https://shonenjumpplus.com/episode/10834108156650001170",
+    "https://www.normaeditorial.com/catalogo/manga/serie/jujutsu-kaisen",
+    "https://www.shonenjump.com/j/rensai/jujutsu.html",
+    "https://www.shueisha.co.jp/books/search/search.html?seriesid=37298",
+    "https://www.tongli.com.tw/BooksList.aspx?Page=2&B=JC1116",
+    "https://www.viz.com/jujutsu-kaisen",
+    "https://www.viz.com/shonenjump/chapters/jujutsu-kaisen",
+    "https://x.com/jujutsu_PR",
+    "https://mangabaka.org/6199"
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "kitsuId": "39104",
+  "title": "Tondemo Skill de Isekai Hourou Meshi",
+  "updatedAt": "2026-07-10T12:56:47.758Z",
+  "matchVersion": 2,
+  "mangabakaId": 9255,
+  "mangabakaUrl": "https://mangabaka.org/9255",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzAvYi9lLzIvNS85L2EvMjllMy80NWNjL2E5ZDIvYzQ0NzRiMDg2ODI3",
+  "author": "Akagishi K, Ren Eguchi",
+  "synopsis": "Tsuyoshi Mukouda was nothing special in modern Japan, so when he was summoned to a world of swordplay and sorcery, he thought he was ready for the adventure of a lifetime. Too bad the kingdom that summoned him only got him by mistake! Not only was he not one of the three summoned heroes, but his stats were laughable compared to theirs. \n\nOn top of that, there's something really sketchy about this kingdom... \"Ah, these people are the kind to try and use the Hero,\" he realized, and immediately left to make his own way in this other world. The only thing Mukouda can rely on is his unique skill: the \"Online Supermarket,\" a skill that allows him to buy modern goods in a fantasy world. It's useless for combat, but if he plays his cards right, he could lead a comfortable life, maybe? At least, that's what Mukouda thinks, but it turns out modern food bought with this skill has some absurd effects! \n\nWhat happens when Mukouda introduces ridiculously tasty modern cooking to a fantasy world like this? He gets some ridiculous repeat customers begging for more...! \n\n(Source: J-Novel Club, edited)",
+  "status": "Releasing",
+  "total": 65,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "action",
+    "seinen",
+    "slice_of_life",
+    "gourmet"
+  ],
+  "tags": [
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Weak Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sex Slave",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Advanced Knowledge Meets Archaic World",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Merchants",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "God-Human Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Summoned Into Another World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Gang Rape",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goddess",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Mythical Beast",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Chimera",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Food and Beverage",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, April 12-18",
+      "date": "2026-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-17/north-american-anime-manga-releases-april-12-18/.236358"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 8-14",
+      "date": "2026-03-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-13/north-american-anime-manga-releases-march-8-14/.235103"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 11-17",
+      "date": "2026-01-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-15/north-american-anime-manga-releases-january-11-17/.232998"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 7-13",
+      "date": "2025-09-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-09-10/north-american-anime-manga-releases-september-7-13/.228570"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 12-18",
+      "date": "2025-01-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-01-15/north-american-anime-manga-releases-january-12-18/.220010"
+    },
+    {
+      "title": "Azuki Adds 13 More Manga from J-Novel Club to Subscription Library",
+      "date": "2024-12-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2024-12-19/azuki-adds-13-more-manga-from-j-novel-club-to-subscription-library/.219212"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 15-21",
+      "date": "2023-10-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-10-18/north-american-anime-manga-releases-october-15-21/.203536"
+    },
+    {
+      "title": "J-Novel Club Licenses Deathbound Duke's Daughter, Wild Times with a Fake Fake Princess Novels",
+      "date": "2020-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-04-17/j-novel-club-licenses-deathbound-duke-daughter-wild-times-with-a-fake-fake-princess-novels/.158705"
+    }
+  ],
+  "sources": {
+    "anilist": "98608",
+    "anime_planet": "campfire-cooking-in-another-world-with-my-absurd-skill",
+    "anime_news_network": "26517",
+    "kitsu": "39104",
+    "manga_updates": "3q39jfd",
+    "my_anime_list": "105747",
+    "shikimori": "105747"
+  },
+  "links": [
+    "https://bookwalker.jp/series/142109/",
+    "https://comic-gardo.com/episode/10834108156661710941",
+    "https://comic-gardo.com/episode/3269754496561209623",
+    "https://comic.pixiv.net/works/6831",
+    "https://en.wikipedia.org/wiki/Campfire_Cooking_in_Another_World_with_My_Absurd_Skill",
+    "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%93%E3%81%A7%E3%82%82%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%A7%E7%95%B0%E4%B8%96%E7%95%8C%E6%94%BE%E6%B5%AA%E3%83%A1%E3%82%B7",
+    "https://j-novel.club/s/campfire-cooking-in-another-world-with-my-absurd-skill-manga",
+    "https://manga.nicovideo.jp/comic/27457",
+    "https://over-lap.co.jp/cam/skill/",
+    "https://seiga.nicovideo.jp/comic/27457",
+    "https://www.amazon.co.jp/dp/B07D4G7MCV",
+    "https://yenpress.com/series/campfire-cooking-in-another-world-with-my-absurd-skill-manga",
+    "https://mangabaka.org/9255"
+  ]
+}

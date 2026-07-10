@@ -1,0 +1,299 @@
+{
+  "kitsuId": "63710",
+  "title": "Bireomeogeul Hwansaeng",
+  "updatedAt": "2026-07-10T13:06:10.981Z",
+  "matchVersion": 2,
+  "mangabakaId": 54519,
+  "mangabakaUrl": "https://mangabaka.org/54519",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jL2MvYy83LzEvMy80LzYvODYyYS80YjJkL2EyMDQvYWI4ODY3OWZlYTc2",
+  "author": "Kiki, Mokma",
+  "synopsis": "When the warrior Hamel sacrifices himself to protect his rival Bermut Lionhart, he makes Bermut vow to vanquish the last of the demon kings. Reincarnated with his memories 300 years later, he is shocked to find that not only are the demon kings still alive, but that he has been reborn as Eugene Lionhart, a member of his former rival’s bloodline! Now, as Eugene comes of age, he must train to prove himself as a Lionhart and eliminate the remaining demon kings once and for all. \n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 81,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "harem",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Fights",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscles",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Adopted Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hard-Working Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Hard-Working Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Cousins",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Succubus",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Incest Subtext",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hiatus",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "151512",
+    "anime_planet": "my-blasted-reincarnated-life",
+    "kitsu": "63710",
+    "manga_updates": "j7x0kkd",
+    "my_anime_list": "149438",
+    "shikimori": "149438"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=59617058",
+    "https://tapas.io/series/my-blasted-reincarnated-life",
+    "https://namu.wiki/w/%EB%B9%8C%EC%96%B4%EB%A8%B9%EC%9D%84%20%ED%99%98%EC%83%9D(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/54519"
+  ]
+}

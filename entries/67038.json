@@ -1,0 +1,178 @@
+{
+  "kitsuId": "67038",
+  "title": "Wo Bei Kun Zai Tong Yi Tian Yi Qian Nian",
+  "updatedAt": "2026-07-10T13:00:52.088Z",
+  "matchVersion": 2,
+  "mangabakaId": 5569,
+  "mangabakaUrl": "https://mangabaka.org/5569",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzEvYy81LzkvNC9mLzgvZmJiNS80ZDNiL2IxMGEvZjY3NmY3Nzk2M2I4",
+  "author": "Odakaki, Sang Ze",
+  "synopsis": "Wu Chen is stuck in an endless time loop, reliving the same day over and over again—July 7th, 2020. No matter what he does, the clock resets. Over a thousand years, he's mastered hundreds of languages and every instrument imaginable, and perfected skills in fighting, driving, shooting, cooking, dancing, acting...and more. But on this very day, something changes. July 8th, 2020 finally arrives...\n\n(Source: WebComics)",
+  "status": "Releasing",
+  "total": 261,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "ecchi",
+    "romance",
+    "comedy",
+    "drama",
+    "fantasy",
+    "harem",
+    "mature",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Fights",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Brown-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "MILF",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Loop",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "161520",
+    "anime_planet": "eternal-loop-a-thousand-year-grind",
+    "kitsu": "67038",
+    "manga_updates": "lyqadle"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/159332",
+    "https://page.kakao.com/content/66577813",
+    "https://series.naver.com/comic/detail.series?productNo=12481009",
+    "https://webcomicsapp.com/comic/Eternal-Loop-A-Thousand-Year-Grind/6746cb7262661d28776613d2",
+    "https://www.kuaikanmanhua.com/web/topic/16892/",
+    "https://www.tappytoon.com/en/book/eternal-loop-a-thousand-year-grind",
+    "https://mangabaka.org/5569"
+  ]
+}

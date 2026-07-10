@@ -1,0 +1,244 @@
+{
+  "kitsuId": "58530",
+  "title": "It Starts With a Kingpin Account",
+  "updatedAt": "2026-07-10T13:07:04.870Z",
+  "matchVersion": 2,
+  "mangabakaId": 3570,
+  "mangabakaUrl": "https://mangabaka.org/3570",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEzMjg3Ny1kNGxnbWVmR1pMdVQuanBn",
+  "author": "Ershuai",
+  "synopsis": "The sudden crisis brought the earth directly into the OL era, and all mankind was under the influence of mysterious forces. Everyone became a level-one newbie. In this cruel dog-eat-dog world, the high school student Ye Hao could only rise to level three. When he was about to die, he accidentally triggered the king's account upgrade system, can Ye Hao become the strongest king? \n\n(Source: AC.QQ, translated)",
+  "status": "Releasing",
+  "total": 562,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "fantasy",
+    "mystery",
+    "sci-fi"
+  ],
+  "tags": [
+    {
+      "name": "Attempted Extortion",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Attempted Murder",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Poor to Rich",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Amnesia",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Death Game",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Alternate Universe",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Attempted Rape",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Angels",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mermaid",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Robots",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "132877",
+    "anime_planet": "a-beginner-with-the-mightiest-account",
+    "kitsu": "58530",
+    "manga_updates": "4bvlrzx"
+  },
+  "links": [
+    "https://ac.qq.com/Comic/comicInfo/id/648862",
+    "https://www.webnovel.com/comic/a-beginner-with-the-mightiest-account_23930207106661301",
+    "https://mangabaka.org/3570"
+  ]
+}

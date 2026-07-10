@@ -1,0 +1,230 @@
+{
+  "kitsuId": "66132",
+  "title": "Serial Killer Isekai ni Oritatsu",
+  "updatedAt": "2026-07-10T13:06:30.508Z",
+  "matchVersion": 2,
+  "mangabakaId": 9080,
+  "mangabakaUrl": "https://mangabaka.org/9080",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1OTI5NS1nNnJZdHFSRzVZQW0uanBn",
+  "author": "Homura Kawamoto",
+  "synopsis": "A murderer who cannot stop the urge to kill people, even though he wants to stop, receives the death sentence he wants. His joy is short-lived, as he is reincarnated in another world. The mission entrusted to him by the goddess is to kill 12 reincarnated people using his murderous impulses. Not all reincarnated people are saints!",
+  "status": "Releasing",
+  "total": 28,
+  "type": "manga",
+  "genres": [
+    "action",
+    "fantasy",
+    "drama",
+    "gender_bender",
+    "mature",
+    "seinen",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Crimes",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Mass Murder",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Villain Protagonist",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Tall Female Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Personality Change",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Nun",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goddess",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Religion",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "Orange Inc.'s e-Bookstore Service emaqi Adds Isekai Executioner: The Serial Killer in Another World, Suzuki Sensei Manga",
+      "date": "2024-10-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-18/orange-inc.s-e-bookstore-service-emaqi-adds-isekai-executioner-the-serial-killer-in-another-world-/.216793"
+    },
+    {
+      "title": "Homura Kawamoto Launches Spinoff of Ichigo Hitotsubu, Hiro's Serial Killer: Isekai ni Oritatsu Manga",
+      "date": "2024-07-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-07-26/homura-kawamoto-launches-spinoff-of-ichigo-hitotsubu-hiro-serial-killer-isekai-ni-oritatsu-manga/.213519"
+    },
+    {
+      "title": "Berserk of Gluttony, Dungeon People, Oblivion Battery Manga Win 2nd Rakuten Kobo e-Book Awards 2024",
+      "date": "2024-06-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-03/berserk-of-gluttony-dungeon-people-oblivion-battery-manga-win-2nd-rakuten-kobo-e-book-awards-2024/.211464"
+    },
+    {
+      "title": "Gin to Kin Manga Author Fukumoto to Have Part in Live-Action Series Adaptation",
+      "date": "2017-01-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-01-07/gin-to-kin-manga-author-fukumoto-to-have-part-in-live-action-series-adaptation/.110691"
+    },
+    {
+      "title": "J-Novel Club Publisher Launches to Release Light Novels in English Digitally",
+      "date": "2016-10-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-10-15/j-novel-club-publisher-launches-to-release-light-novels-in-english-digitally/.107695"
+    }
+  ],
+  "sources": {
+    "anilist": "159295",
+    "anime_planet": "isekai-executioner-the-serial-killer-in-another-world",
+    "anime_news_network": "33001",
+    "kitsu": "66132",
+    "manga_updates": "zjch5fi",
+    "my_anime_list": "155654",
+    "shikimori": "155654"
+  },
+  "links": [
+    "https://bookwalker.jp/series/383944/",
+    "https://comic.pixiv.net/store/products/1244569",
+    "https://comic.pixiv.net/store/products/1275240",
+    "https://www.amazon.co.jp/dp/B0BPSCPPVV",
+    "https://www.mangas.io/lire/serial-killer-isekai",
+    "https://www.shonengahosha.co.jp/book_Info.php?id=9801",
+    "https://mangabaka.org/9080"
+  ]
+}

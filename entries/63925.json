@@ -1,0 +1,482 @@
+{
+  "kitsuId": "63925",
+  "title": "Jeoldaegeomgam",
+  "updatedAt": "2026-07-10T12:56:07.624Z",
+  "matchVersion": 2,
+  "mangabakaId": 7971,
+  "mangabakaUrl": "https://mangabaka.org/7971",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzMvOC9iLzIvYS8yL2EvY2ZjNi80ZWM0LzhmZWYvM2VmODU3ZjVmNWU4",
+  "author": "Gimdurumi, Hanjung Worya",
+  "synopsis": "For as long as he can remember, Woonhwi So has been the black sheep of his family and clan. Because his spirit core has been destroyed, he has no choice but to serve as a third-rate spy for the Blood Cult. One day, during his mission to find the legendary Blade Scroll, he is killed and sent 10 years into the past. When Woonhwi regains consciousness, he realizes that he has been sent back to the day he was kidnapped by the Blood Cult, and that he has gained a mysterious ability to hear the voice of a dagger. \n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 191,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "harem",
+    "historical",
+    "martial_arts",
+    "romance",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Acting",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Armed Combat",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Duels",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unarmed Combat",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hair Color Change",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Long-Haired Male Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Long-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Long-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Abused Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Badass Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cunning Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Deceptive Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Lying Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Pragmatic Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Pretending Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Regressed Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Underestimated Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unlucky Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "China",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kill or Be Killed Situation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Knife",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Loyal Servant",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Spy",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Half-Siblings",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Chinese Ambience",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dark Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Chinese Mythology",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Abandonment",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Abuse",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Alcohol",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Sects",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Secret Organizations",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Seeing Things Other Humans Can't",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Ancient China",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Traumatic Past",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Bad Art Style",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "151460",
+    "anime_planet": "absolute-sword-sense",
+    "kitsu": "63925",
+    "manga_updates": "6lafgnt",
+    "my_anime_list": "149880",
+    "shikimori": "149880"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=796075",
+    "https://series.naver.com/comic/detail.series?productNo=8555655",
+    "https://www.dongmanmanhua.cn/BOY/jueduijiangan/list?title_no=2242",
+    "https://www.webtoons.com/en/action/absolute-sword-sense/list?title_no=5100",
+    "https://www.webtoons.com/fr/action/absolute-sword-sense/list?title_no=5042",
+    "https://www.webtoons.com/th/action/absolute-sword-sense/list?title_no=5254&page=7",
+    "https://www.webtoons.com/zh-hant/martial-arts/absolute-sword-sense/list?title_no=4816",
+    "https://namu.wiki/w/%EC%A0%88%EB%8C%80%EA%B2%80%EA%B0%90",
+    "https://mangabaka.org/7971"
+  ]
+}

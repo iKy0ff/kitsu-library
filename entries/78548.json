@@ -1,0 +1,186 @@
+{
+  "kitsuId": "78548",
+  "title": "Moreuneun Manhwae Binguihaetda",
+  "updatedAt": "2026-07-10T12:59:35.690Z",
+  "matchVersion": 2,
+  "mangabakaId": 588435,
+  "mangabakaUrl": "https://mangabaka.org/588435",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzYvOC83LzkvMi9mLzEvMTFmMy80NmEzLzllOTEvYTUzMWRjNjQxNTA4",
+  "author": "INO, Teach",
+  "synopsis": "“Scramble Love,” a massive hit Japanese romance comedy manga that has sold over 10 million copies. I’ve channeled the spirit of Kim Yu-Seong, a minor extra in that manga I’ve never even read. But wait, turns out this guy is a hardcore otaku who even does cosplay, right? To live a comfortable life free from suspicion, I’ll play the part of an otaku extra and devour every romance comedy out there. But why do all the heroine clichés kick in whenever I’m with you? And not just one, but multiple? This is a real problem!\n\n(Source: KakaoPage, translated)",
+  "status": "Releasing",
+  "total": 30,
+  "type": "manhwa",
+  "genres": [
+    "comedy",
+    "fantasy",
+    "romance",
+    "action",
+    "harem",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Black-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dense Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "High School Student Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Stoic Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekaied Into a Novel",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "212423",
+    "anime_planet": "i-was-thrown-into-an-unknown-manga",
+    "manga_updates": "ulpv081"
+  },
+  "links": [
+    "https://page.kakao.com/content/69079268",
+    "https://webtoon.kakao.com/content/모르는-만화에-빙의했다/4857",
+    "https://mangabaka.org/588435"
+  ]
+}

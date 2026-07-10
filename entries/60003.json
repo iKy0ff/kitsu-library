@@ -1,0 +1,249 @@
+{
+  "kitsuId": "60003",
+  "title": "Shinjiteita Nakamatachi ni Dungeon Ouchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+  "updatedAt": "2026-07-10T12:58:37.848Z",
+  "matchVersion": 2,
+  "mangabakaId": 8670,
+  "mangabakaUrl": "https://mangabaka.org/8670",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzYvZS82L2IvOS9mLzYvOTExMy80YzNmLzkwOWUvMjVmYmRkZGMxMzk4",
+  "author": "Shisui Meikyou, Takafumi Oomae",
+  "synopsis": "**In this fantasy tale, a weak human adventurer is determined to turn the tables on his traitorous party members–with the help of a special skill and sexy new allies!**\n\nA kid named Light is the only human member of the adventuring party known as the Concord of the Tribes…but humans are by far the weakest of the races. When his comrades abandon him to the lowest levels of the dungeon, Light resorts to the gift of Infinite Gacha to create a harem of Lvl 9999 allies! With his new, and sexy, friends, Light can escape the dungeon, and more importantly, take revenge upon the Concord of the Tribes, and perhaps even break the entire world!\n\n*Source: Seven Seas Entertainment, Vol. 1*",
+  "status": "Releasing",
+  "total": 205,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "action",
+    "drama",
+    "harem",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Short Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Short Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Underestimated Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dark Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Attempted Rape",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Near-Death Experience",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Human Experiment",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Torture",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "137513",
+    "anime_planet": "backstabbed-in-a-backwater-dungeon-my-trusted-companions-tried-to-kill-me-but-thanks-to-the-gift-of-an-unlimited-gacha-i-got-lvl-9999-friends-and-am-out-for-revenge-on-my-former-party-members-and-the-world",
+    "kitsu": "60003",
+    "manga_updates": "iayvm3w",
+    "my_anime_list": "136930",
+    "shikimori": "136930"
+  },
+  "links": [
+    "https://pocket.shonenmagazine.com/episode/3269754496314951723",
+    "https://sevenseasentertainment.com/series/backstabbed-in-a-backwater-dungeon/",
+    "https://s.kmanga.kodansha.com/ldg?t=10040",
+    "https://mangabaka.org/8670"
+  ]
+}

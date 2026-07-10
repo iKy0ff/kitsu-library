@@ -1,0 +1,414 @@
+{
+  "kitsuId": "63232",
+  "title": "Kininatteru Hito ga Otoko ja Nakatta",
+  "updatedAt": "2026-07-10T12:57:55.417Z",
+  "matchVersion": 2,
+  "mangabakaId": 944,
+  "mangabakaUrl": "https://mangabaka.org/944",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzkvYy84LzMvNC82L2EvYmE5NC80ZTc3L2I5YzMvYmQyYTYxZGNhZjYz",
+  "author": "Sumiko Arai",
+  "synopsis": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...\n\n(Source: Yen Press)",
+  "status": "Releasing",
+  "total": 170,
+  "type": "manga",
+  "genres": [
+    "music",
+    "romance",
+    "comedy",
+    "school_life",
+    "shoujo_ai",
+    "girls_love"
+  ],
+  "tags": [
+    {
+      "name": "Working",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Gyaru",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Shiro Gyaru",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tomboys",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Beauty Mark",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Glasses-Wearing Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Glasses-Wearing Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Popular Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tomboyish Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dormitory",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "College",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Appearance Different from Personality",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Piercings",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Part-Time Job",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Awkward at Relationships",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Roommates",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fashion",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Girls Love",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shoujo Ai",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Yuri",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "LGBTQ+",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Music",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Rock Music",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Award Winning",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "4-Koma",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Doujinshi",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Partially Colored",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "Gachiakuta Ranks #1 on Bookscan's January Adult Graphic Novel List in U.S.",
+      "date": "2026-03-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-16/gachiakuta-ranks-no.1-on-bookscan-january-adult-graphic-novel-list-in-u.s/.235360"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's December Adult Graphic Novel List in U.S.",
+      "date": "2026-01-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-17/jujutsu-kaisen-ranks-no.1-on-bookscan-december-adult-graphic-novel-list-in-u.s/.233176"
+    },
+    {
+      "title": "The Best New and Continuing Manga of 2025",
+      "date": "2025-12-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2025/the-best-anime-of/the-best-new-and-continuing-manga-of/.232031"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 21-27",
+      "date": "2025-12-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-12-23/north-american-anime-manga-releases-december-21-27/.232404"
+    },
+    {
+      "title": "BookWalker Global Store Unveils 2025 Rankings",
+      "date": "2025-12-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-12-18/bookwalker-global-store-unveils-2025-rankings/.232203"
+    },
+    {
+      "title": "The Guy She Was Interested In Wasn't a Guy at All POP-UP to be Held Worldwide at Kinokuniya Bookstores in Japan, North America, Asia-Pacific Region",
+      "date": "2025-11-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2025-11-11/the-guy-she-was-interested-in-wasnt-a-guy-at-all-pop-up-to-be-held-worldwide-at-kinokuniya-/.230894"
+    },
+    {
+      "title": "The Guy She Was Interested In Wasn't a Guy At All, The Apothecary Diaries Win 2nd American Manga Awards",
+      "date": "2025-08-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2025-08-22/the-guy-she-was-interested-in-wasnt-a-guy-at-all-the-apothecary-diaries-win-2nd-american-manga-/.227927"
+    },
+    {
+      "title": "Harvey Awards Nominate The Summer Hikaru Died, Wind Breaker, Tokyo These Days, More Manga",
+      "date": "2025-08-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-13/harvey-awards-nominate-the-summer-hikaru-died-wind-breaker-tokyo-these-days-more-manga/.227614"
+    },
+    {
+      "title": "Jujutsu Kaisen Tops Bookscan's June Adult Graphic Novel List in U.S.",
+      "date": "2025-07-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-21/jujutsu-kaisen-tops-bookscan-june-adult-graphic-novel-list-in-u.s/.226854"
+    },
+    {
+      "title": "Yen Press Licenses Wonder Boy, Hinatsugimura, Out of the Cocoon, More Manga/Novels",
+      "date": "2025-07-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-03/yen-press-licenses-wonder-boy-hinatsugimura-out-of-the-cocoon-more-manga-novels/.226271"
+    },
+    {
+      "title": "2nd American Manga Awards Announces Nominees",
+      "date": "2025-06-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2025-06-16/2nd-american-manga-awards-announces-nominees/.225661"
+    },
+    {
+      "title": "Rockin' Out With Sumiko Arai, The Guy She Was Interested In Wasn't a Guy at All Manga Creator",
+      "date": "2025-06-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interview/2025-06-04/rockin-out-with-sumiko-arai-the-guy-she-was-interested-in-wasnt-a-guy-at-all-manga-creator/.223419"
+    },
+    {
+      "title": "My Hero Academia Tops Bookscan's February Adult Graphic Novel List in U.S.",
+      "date": "2025-03-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-03-11/my-hero-academia-tops-bookscan-february-adult-graphic-novel-list-in-u.s/.222201"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 16-22",
+      "date": "2025-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-21/north-american-anime-manga-releases-february-16-22/.221368"
+    },
+    {
+      "title": "The Guy She Was Interested In Wasn't a Guy at All Anime Confirmed",
+      "date": "2025-02-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2025-02-19/the-guy-she-was-interested-in-wasnt-a-guy-at-all-anime-confirmed/.221420"
+    },
+    {
+      "title": "The Guy She Was Interested In Wasn't a Guy at All Manga Listed With Anime",
+      "date": "2025-02-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-19/the-guy-she-was-interested-in-wasnt-a-guy-at-all-manga-listed-with-anime/.221382"
+    },
+    {
+      "title": "The Best Manga and Light Novels of 2024",
+      "date": "2024-12-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2024-12-30/the-best-manga-and-light-novels-of-2024/.219021"
+    },
+    {
+      "title": "My Hero Academia Ranks #1 on U.S. Monthly Bookscan October List",
+      "date": "2024-11-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-11-18/my-hero-academia-ranks-no.1-on-u.s-monthly-bookscan-october-list/.220093"
+    },
+    {
+      "title": "The Fall 2024 Manga Guide - The Guy She Was Interested In Wasn't a Guy at All",
+      "date": "2024-10-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2024/fall/the-guy-she-was-interested-in-wasnt-a-guy-at-all/.215886"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 20-26",
+      "date": "2024-10-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-24/north-american-anime-manga-releases-october-20-26/.217021"
+    },
+    {
+      "title": "Berserk of Gluttony, Dungeon People, Oblivion Battery Manga Win 2nd Rakuten Kobo e-Book Awards 2024",
+      "date": "2024-06-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-03/berserk-of-gluttony-dungeon-people-oblivion-battery-manga-win-2nd-rakuten-kobo-e-book-awards-2024/.211464"
+    },
+    {
+      "title": "Acquisitions Announcement – Yen Press Surprises Fans with Over a Dozen New Titles",
+      "date": "2024-04-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2024-04-27/acquisitions-announcement-yen-press-surprises-fans-with-over-a-dozen-new-titles/.210273"
+    },
+    {
+      "title": "Yen Press Licenses 9 Manga, 5 Light Novel Series for October 2024",
+      "date": "2024-04-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-26/yen-press-licenses-9-manga-5-light-novel-series-for-october-2024/.210259"
+    },
+    {
+      "title": "The Guy She Was Interested In Wasn't a Guy at All Manga Gets English Release",
+      "date": "2024-04-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-03/the-guy-she-was-interested-in-wasnt-a-guy-at-all-manga-gets-english-release/.209529"
+    },
+    {
+      "title": "Kono Manga ga Sugoi! Editors Unveil 2024 Rankings (Updated)",
+      "date": "2023-12-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-11/kono-manga-ga-sugoi-editors-unveil-2024-rankings/.205367"
+    },
+    {
+      "title": "Tomoko Yamashita's Ikoku Nikki Tops Da Vinci Manga Ranking",
+      "date": "2023-12-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-05/tomoko-yamashita-ikoku-nikki-tops-da-vinci-manga-ranking/.205150"
+    },
+    {
+      "title": "Seitokai ni mo Ana wa Aru!, Ki ni Natteru Hito ga Otoko Janakatta Win Next Manga Awards Print, Web Categories",
+      "date": "2023-08-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2023-08-31/seitokai-ni-mo-ana-wa-aru-ki-ni-natteru-hito-ga-otoko-janakatta-win-next-manga-awards-print-web-/.201635"
+    },
+    {
+      "title": "Voting Opens for Next Manga Awards 2023",
+      "date": "2023-06-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2023-06-25/voting-opens-for-next-manga-awards-2023/.199604"
+    }
+  ],
+  "sources": {
+    "anilist": "149544",
+    "anime_planet": "the-guy-she-was-interested-in-wasnt-a-guy-at-all",
+    "anime_news_network": "29070",
+    "kitsu": "63232",
+    "manga_updates": "d86l207",
+    "my_anime_list": "155861",
+    "shikimori": "155861"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_CK01204024010000_68/",
+    "https://en.wikipedia.org/wiki/The_Guy_She_Was_Interested_in_Wasn%27t_a_Guy_at_All",
+    "https://ja.wikipedia.org/wiki/%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E4%BA%BA%E3%81%8C%E7%94%B7%E3%81%98%E3%82%83%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F",
+    "https://kadobun.jp/special/arai-sumiko/kinioto/",
+    "https://mangetsu-manga.fr/catalogue/9782382817759-she-wasnt-a-guy-t01/",
+    "https://www.kadokawa.co.jp/product/322205000709/",
+    "https://www.kadokawa.com.tw/products/9786263784697",
+    "https://www.panini.es/shp_esp_es/comics/manga/el-chico-que-me-gusta-no-es-un-chico.html?srsltid=AfmBOoq3mwjgapAq2dahoHrSlrkI2XDBRLKDlyHhA4X6GnJTD-YttUpi",
+    "https://x.com/agu_knzm/status/1512998788025110532",
+    "https://x.com/kinioto_PR",
+    "https://yenpress.com/series/the-guy-she-was-interested-in-wasn-t-a-guy-at-all",
+    "https://mangabaka.org/944"
+  ]
+}

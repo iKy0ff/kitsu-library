@@ -1,0 +1,290 @@
+{
+  "kitsuId": "56448",
+  "title": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+  "updatedAt": "2026-07-10T12:55:40.215Z",
+  "matchVersion": 2,
+  "mangabakaId": 9745,
+  "mangabakaUrl": "https://mangabaka.org/9745",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzkvYi9kLzkvMS9mL2IvNDlhMC80NmZkL2EzZDEvZmFlYTYxNmQ3OWYx",
+  "author": "Moto Shigemura, Suzu Miyama",
+  "synopsis": "This fantasy story conveys the bond between a beast tamer and the strongest cat girl starting from their first meeting! Rein, a beast tamer who fights with the help of animals, has been a member of the hero's party for the longest time. However, unbeknownst to him, he was dragging down his teammates because he had no other abilities. \"You have no worth outside of taming animals. You're fired.\" With that, he was kicked out of the party. At that moment, Rein no longer wanted anything to do with saving the world and decided to live for himself. Once he set out to become an adventurer, he met a girl from the cat tribe, a tribe believed to be part of the superior race. Meanwhile, the hero's party was unaware they were only able to fight the Demon King's army all along because of Rein's power... This story is about how the oppressed beast tamer met his destined comrades and formed bonds with them all. \n\n(Source: Manga UP!)",
+  "status": "Releasing",
+  "total": 103,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "romance",
+    "slice_of_life",
+    "harem",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Fights",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Attempted Extortion",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Attempted Kidnapping",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Extortion",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Animal Characteristics",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Nekomimi",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fighters",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monster/Beast Tamer",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Birds",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dogs",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Foxes",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Short Chapters",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "Yūsha Party wo Tsuihou Sareta Beast Tamer, Saikyōshu no Nekomimi Shōjo to Deau Novels Get TV Anime",
+      "date": "2022-06-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-09/yusha-party-wo-tsuihou-sareta-beast-tamer-saikyoshu-no-nekomimi-shojo-to-deau-novels-get-tv-anime/.186422"
+    }
+  ],
+  "sources": {
+    "anilist": "108115",
+    "anime_planet": "beast-tamer",
+    "anime_news_network": "25784",
+    "kitsu": "56448",
+    "manga_updates": "lvohi9t",
+    "my_anime_list": "126103",
+    "shikimori": "126103"
+  },
+  "links": [
+    "https://comikey.com/comics/beast-tamer-manga/399/",
+    "https://global.manga-up.com/manga/172",
+    "https://magazine.jp.square-enix.com/mangaup/original/beasttamer/",
+    "https://twitter.com/beasttamer_off",
+    "https://ja.wikipedia.org/wiki/勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
+    "https://mangabaka.org/9745"
+  ]
+}

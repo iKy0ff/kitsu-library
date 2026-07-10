@@ -1,0 +1,120 @@
+{
+  "kitsuId": "64282",
+  "title": "Tensei Babaa wa Misugosenai!: Moto Akutoku Jotei no Nishuume Life",
+  "updatedAt": "2026-07-10T12:55:55.695Z",
+  "matchVersion": 2,
+  "mangabakaId": 49421,
+  "mangabakaUrl": "https://mangabaka.org/49421",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE0MDUwMy1VdWVwMGR5U2hWYkYucG5n",
+  "author": "Ayasuke Nakanomura, Roa Fuzuki",
+  "synopsis": "Lauris El Danus ruled the empire with a reign of terror, and her life ended as she lost to a hero. Or so she thought. Three hundred years later, she has resurrected looking like a girl, but an old hag-former empress at heart! It seems that God has given her a chance to start over her life to honor her sacrifice to bring the world peace. She hopes her second life could be peace and quiet. No matter what era you are in, bad people always exist. A refreshing fantasy of the fearsome girl that can't let bad things go! \n\n(Source: Alpha Manga)",
+  "status": "Releasing",
+  "total": 42,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "josei"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ojou-sama",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Appearance Different from Personality",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "140503",
+    "anime_planet": "reincarnated-old-hag-cant-leave-things-alone-second-life-of-a-former-unscrupulous-empress",
+    "kitsu": "64282",
+    "manga_updates": "jcvnxse",
+    "my_anime_list": "137660",
+    "shikimori": "137660"
+  },
+  "links": [
+    "https://www.alpha-manga.com/manga/748000411",
+    "https://www.alphapolis.co.jp/manga/official/748000411",
+    "https://mangabaka.org/49421"
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "kitsuId": "54567",
+  "title": "Sekai Saikyou no Assassin, Isekai Kizoku ni Tensei suru",
+  "updatedAt": "2026-07-10T13:05:52.394Z",
+  "matchVersion": 2,
+  "mangabakaId": 4802,
+  "mangabakaUrl": "https://mangabaka.org/4802",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2EvYy83L2QvZi84L2QvM2QzZS80ZDY4L2I2ZTIvYzJhNDg3Y2U3ZGMy",
+  "author": "Hamao Sumeragi, Rui Tsukiyo",
+  "synopsis": "When the most accomplished assassin on Earth meets his end just before retirement, he finds himself standing before a goddess. Her world is headed for disaster, and she has need of his particular set of skills. Armed with powerful new abilities and decades of deadly knowledge, he begins his second life as Lugh, young scion of the Tuatha Dé clan of assassins. His mission: to find and eliminate the strongest individual in this world-the hero! \n\n(Source: Yen Press)\n\n*Note: Includes the prologue.*",
+  "status": "Releasing",
+  "total": 52,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "drama",
+    "ecchi",
+    "harem",
+    "romance",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Prostitution",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dark Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sexual Innuendo",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Goddess",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Rich Family",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, February 8-14",
+      "date": "2026-02-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-02-13/north-american-anime-manga-releases-february-8-14/.233978"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 16-22",
+      "date": "2023-07-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-07-18/north-american-anime-manga-releases-july-16-22/.200429"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 20-26",
+      "date": "2022-11-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-23/north-american-anime-manga-releases-november-20-26/.192197"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 19-25",
+      "date": "2022-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-21/north-american-anime-manga-releases-june-19-25/.186927"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 20-26",
+      "date": "2022-02-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-22/north-american-anime-manga-releases-february-20-26/.182914"
+    },
+    {
+      "title": "Crunchyroll Announces Dubs, Casts for Platinum End, ODDTAXI, Don't Toy With Me, Miss Nagatoro, Sakugan, More Anime",
+      "date": "2021-10-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-10-28/crunchyroll-announces-dubs-casts-for-platinum-end-oddtaxi-dont-toy-with-me-miss-nagatoro-sakugan-/.178953"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 10-16",
+      "date": "2021-10-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-10-12/north-american-anime-manga-releases-october-10-16/.178387"
+    },
+    {
+      "title": "Crunchyroll to Stream takt op.Destiny, The Fruit of Evolution, The World's Finest Assassin Anime",
+      "date": "2021-09-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-09-21/crunchyroll-to-stream-takt-op.destiny-the-fruit-of-evolution-the-world-finest-assassin-anime/.177664"
+    },
+    {
+      "title": "Crunchyroll Expo Virtual Event Hosts Cast, Staff from Re:ZERO, Battle Game in 5 Seconds, In the Land of Leadale Anime",
+      "date": "2021-08-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-08-04/crunchyroll-expo-virtual-event-hosts-cast-staff-from-re-zero-battle-game-in-5-seconds-in-the-land-/.175890"
+    },
+    {
+      "title": "Crunchyroll Streams Battle Game in 5 Seconds, Seirei Gensouki - Spirit Chronicles Anime",
+      "date": "2021-07-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-03/crunchyroll-streams-battle-game-in-5-seconds-seirei-gensouki-spirit-chronicles-anime/.174647"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 25-May 1",
+      "date": "2021-04-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-04-27/north-american-anime-manga-releases-april-25-may-1/.172186"
+    },
+    {
+      "title": "The Fall 2020 Light Novel Guide",
+      "date": "2020-11-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2020-11-20/the-fall-2020-light-novel-guide/.166168"
+    },
+    {
+      "title": "BookWalker Announces Next Big Light Novels Poll Results For 2019",
+      "date": "2019-08-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2019-08-27/bookwalker-announces-next-big-light-novels-poll-results-for-2019/.150367"
+    }
+  ],
+  "sources": {
+    "anilist": "107603",
+    "anime_planet": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat",
+    "anime_news_network": "24045",
+    "kitsu": "54567",
+    "manga_updates": "2ijefpt",
+    "my_anime_list": "117886",
+    "shikimori": "117886"
+  },
+  "links": [
+    "https://comic-walker.com/detail/KC_000547_S/episodes/KC_0005470000100011_E?episodeType=first",
+    "https://yenpress.com/series/the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat-manga",
+    "https://en.wikipedia.org/wiki/The_World%27s_Finest_Assassin_Gets_Reincarnated_in_Another_World_as_an_Aristocrat",
+    "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E3%81%AE%E6%9A%97%E6%AE%BA%E8%80%85%E3%80%81%E7%95%B0%E4%B8%96%E7%95%8C%E8%B2%B4%E6%97%8F%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%99%E3%82%8B",
+    "https://web-ace.jp/youngaceup/contents/1000117/",
+    "https://mangabaka.org/4802"
+  ]
+}

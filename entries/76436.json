@@ -1,0 +1,141 @@
+{
+  "kitsuId": "76436",
+  "title": "The Skeleton Messenger's Story",
+  "updatedAt": "2026-07-10T13:15:11.919Z",
+  "matchVersion": 2,
+  "mangabakaId": 502337,
+  "mangabakaUrl": "https://mangabaka.org/502337",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yL2QvYS9hLzUvNi9kLzkvNmE2ZS80MjZhLzgzMTcvNzY4NTY0NzNiOTU5",
+  "author": "kain_y",
+  "synopsis": "120 years have passed since the First Emperor’s death. Venlyra, a powerful rogue and trusted herald of the Emperor, awakens from a long slumber to a crumbling empire that has strayed from the light. Once more, the Skeleton Messenger makes the rounds, bound for a decaying throne, and for the embers of a self long thought extinguished within. Hear ye, hear ye! Hark, and heed the Emperor’s words! The hour of reckoning is upon you!\n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 36,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "drama",
+    "horror",
+    "seinen",
+    "supernatural",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Purple/Violet-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Curses",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "198885",
+    "anime_planet": "the-skeleton-messengers-story",
+    "kitsu": "76436",
+    "manga_updates": "vb6nisc",
+    "my_anime_list": "187141"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=842620",
+    "https://series.naver.com/comic/detail.series?productNo=13095913",
+    "https://www.webtoons.com/en/action/the-tale-of-the-skeleton-messenger/list?title_no=9470",
+    "https://namu.wiki/w/%ED%95%B4%EA%B3%A8%EC%A0%84%EB%A0%B9%20%EC%9D%B4%EC%95%BC%EA%B8%B0",
+    "https://mangabaka.org/502337"
+  ]
+}

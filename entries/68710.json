@@ -1,0 +1,185 @@
+{
+  "kitsuId": "68710",
+  "title": "Siling Fashi! Wo Ji Shi Tianzai",
+  "updatedAt": "2026-07-10T12:59:43.050Z",
+  "matchVersion": 2,
+  "mangabakaId": 4828,
+  "mangabakaUrl": "https://mangabaka.org/4828",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2QvMC83LzgvZi8wLzMvYmU3Yy80MjlmLzlmY2YvM2E1NDk5MjdjNTIz",
+  "author": "Hetun Dusu, Man Tu De Zhu",
+  "synopsis": "In a world where magic and monsters exist, Lin Moyu has hit the age of acquiring his very own profession. While most would be lucky just to obtain a high-level combat class, Moyu becomes the ultrarare necromancer! Being the first and only one of his kind, he has no idea of the potential he possesses on his journey to level up and face great challenges. What new heights will Moyu achieve with his unique army of undead? \n\n(Source: Tappytoon)",
+  "status": "Releasing",
+  "total": 283,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "harem",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Attempted Murder",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reverse Isekai",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "167372",
+    "anime_planet": "necromancer-the-ultimate-scourge",
+    "kitsu": "68710",
+    "manga_updates": "ctgnszr"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/159311",
+    "https://page.kakao.com/content/67402595",
+    "https://webcomicsapp.com/comic/The-Necromancer-Scourge-Incarnate/67d2567f62661d2b396f4062",
+    "https://www.kuaikanmanhua.com/web/topic/18819/",
+    "https://www.lezhin.com/ko/comic/unique_necromancer",
+    "https://www.tappytoon.com/en/book/necromancer-the-ultimate-scourge",
+    "https://www.webnovel.com/comic/necromancer-the-ultimate-scourge!_32189339808001201",
+    "https://www.webtoons.com/en/action/necromancer-the-ultimate-scourge/list?title_no=9767",
+    "https://www.webtoons.com/es/fantasy/catastrophic-necromancer/list?title_no=8467",
+    "https://www.webtoons.com/fr/action/catastrophic-necromancer/list?title_no=6587",
+    "https://www.webtoons.com/th/fantasy/necromancer-the-ultimate-scourge/list?title_no=10322",
+    "https://mangabaka.org/4828"
+  ]
+}

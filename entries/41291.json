@@ -1,0 +1,355 @@
+{
+  "kitsuId": "41291",
+  "title": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+  "updatedAt": "2026-07-10T13:12:04.814Z",
+  "matchVersion": 2,
+  "mangabakaId": 4788,
+  "mangabakaUrl": "https://mangabaka.org/4788",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzAvYS9jLzYvYi8yL2UvZGFjNC80MDgxL2E5NTUvMmM5YmJhZDZmYmI0",
+  "author": "Hanamaru Nanto, Tsuyoshi Fujitaka",
+  "synopsis": "Awaking to absolute chaos and carnage while on a school trip, Yogiri Takatou discovers that everyone in his class has been transported to another world! He had somehow managed to sleep through the entire ordeal himself, missing out on the Gift—powers bestowed upon the others by a mysterious Sage who appeared to transport them. Even worse, he and another classmate were ruthlessly abandoned by their friends, left as bait to distract a nearby dragon. Although not terribly bothered by the thought of dying, he reluctantly decides to protect his lone companion. After all, a lowly Level 1000 monster doesn’t stand a chance against his secret power to invoke Instant Death with a single thought! If he can stay awake long enough to bother using it, that is…\n\n*Source: J-Novel Club, Vol. 1*",
+  "status": "Releasing",
+  "total": 63,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "romance",
+    "drama",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Nekomimi",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Psychopaths",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adopted Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Naive Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Popular Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Guardian Spirits",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cold Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Mysterious Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedic Violence",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Summoned Into Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mysterious Elements",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Parody",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Satire",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Death",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cosmic Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, April 26-May 2",
+      "date": "2026-05-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-01/north-american-anime-manga-releases-april-26-may-2/.236859"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 11-17",
+      "date": "2026-01-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-15/north-american-anime-manga-releases-january-11-17/.232998"
+    },
+    {
+      "title": "Crunchyroll Manga Adds 28 New Titles",
+      "date": "2026-01-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-14/crunchyroll-manga-adds-28-new-titles/.233034"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 22-28",
+      "date": "2025-06-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-27/north-american-anime-manga-releases-june-22-28/.225930"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 19-25",
+      "date": "2025-01-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-01-23/north-american-anime-manga-releases-january-19-25/.220262"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 13-19",
+      "date": "2024-10-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-16/north-american-anime-manga-releases-october-13-19/.216737"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 28-August 3",
+      "date": "2024-08-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-01/north-american-anime-manga-releases-july-28-august-3/.213758"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 24-30",
+      "date": "2023-12-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-27/north-american-anime-manga-releases-december-24-30/.205960"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 19-25",
+      "date": "2023-02-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-02-23/north-american-anime-manga-releases-february-19-25/.195160"
+    },
+    {
+      "title": "My Instant Death Ability is So Overpowered Light Novels Get TV Anime",
+      "date": "2022-12-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-01/my-instant-death-ability-is-so-overpowered-light-novels-get-tv-anime/.192452"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 27-December 3",
+      "date": "2022-11-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-30/north-american-anime-manga-releases-november-27-december-3/.192388"
+    },
+    {
+      "title": "J-Novel Club Announces Print Publishing Partnership with Yen Press",
+      "date": "2022-11-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-19/j-novel-club-announces-print-publishing-partnership-with-yen-press/.192066"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 6-12",
+      "date": "2022-02-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-08/north-american-anime-manga-releases-february-6-12/.182407"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 14-20",
+      "date": "2021-11-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-16/north-american-anime-manga-releases-november-14-20/.179634"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 26-October 2",
+      "date": "2021-09-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-09-28/north-american-anime-manga-releases-september-26-october-2/.177933"
+    },
+    {
+      "title": "J-Novel Club Adds 11 New Light Novels, Manga",
+      "date": "2021-07-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-03/j-novel-club-adds-11-new-light-novels-manga/.174753"
+    }
+  ],
+  "sources": {
+    "anilist": "101584",
+    "anime_planet": "my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-alpha-omega",
+    "anime_news_network": "24839",
+    "kitsu": "41291",
+    "manga_updates": "6t6ibvh",
+    "my_anime_list": "114925",
+    "shikimori": "114925"
+  },
+  "links": [
+    "https://j-novel.club/series/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-manga",
+    "https://www.comic-earthstar.jp/detail/sokushicheat/",
+    "https://yenpress.com/series/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-ao",
+    "https://comic-earthstar.jp/detail/sokushicheat/",
+    "https://en.wikipedia.org/wiki/My_Instant_Death_Ability_Is_So_Overpowered",
+    "https://ja.wikipedia.org/wiki/即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
+    "https://mangabaka.org/4788"
+  ]
+}

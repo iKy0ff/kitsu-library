@@ -1,0 +1,238 @@
+{
+  "kitsuId": "59220",
+  "title": "Jungle Juice",
+  "updatedAt": "2026-07-10T13:11:06.638Z",
+  "matchVersion": 2,
+  "mangabakaId": 795,
+  "mangabakaUrl": "https://mangabaka.org/795",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzkvYy9jL2UvOS9lL2YvNjUxMi80MDQ4LzhhMmMvOWU1Mzg1M2I3ZTY3",
+  "author": "Hyeong-Eun",
+  "synopsis": "Su-Chan Jang is an extraordinary college student at the top of the social food chain. But underneath the perfect facade, he hides a pair of insect wings that suddenly grew when he used a mysterious bug spray called \"Jungle Juice.” Su-Chan's life crumbles when he bares his wings to the world to save someone's life. When all hope seems lost, Su-Chan stumbles upon a hidden world of insect humans where everyone is accepted for what they are. But the law of the jungle governs this secret society and all must fend for themselves in order to survive. \n\n(Source: WEBTOON, edited)",
+  "status": "Releasing",
+  "total": 206,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "sci-fi",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Cannibalism",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Terrorism",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Animal Characteristics",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Glasses-Wearing Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Male Cast",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Mentor",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "College",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Contemporary Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Insects",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Monster Boys",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Body Horror",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Secrets",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Eye Powers",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Terrorism",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Thriller",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "128882",
+    "anime_planet": "jungle-juice",
+    "kitsu": "59220",
+    "manga_updates": "onkncum",
+    "my_anime_list": "147053",
+    "shikimori": "147053"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list.nhn?titleId=762279&no=&seq=",
+    "https://series.naver.com/comic/detail.series?productNo=5770955",
+    "https://www.dongmanmanhua.cn/BOY/conglinguozhi/list?title_no=1595",
+    "https://www.webtoons.com/de/action/jungle-juice/list?title_no=3259",
+    "https://www.webtoons.com/en/action/jungle-juice/list?title_no=2480",
+    "https://www.webtoons.com/es/action/jungle-juice/list?title_no=3048",
+    "https://www.webtoons.com/fr/action/jungle-juice/list?title_no=2614",
+    "https://www.webtoons.com/id/action/jungle-juice/list?title_no=2669",
+    "https://www.webtoons.com/th/fantasy/jungle-juice/list?title_no=2630",
+    "https://www.webtoons.com/zh-hant/fantasy/junglejuice/list?title_no=2455",
+    "https://yenpress.com/series/jungle-juice",
+    "https://comic.naver.com/webtoon/list?titleId=762279",
+    "https://namu.wiki/w/%EC%A0%95%EA%B8%80%EC%A5%AC%EC%8A%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/795"
+  ]
+}

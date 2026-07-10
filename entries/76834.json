@@ -1,0 +1,121 @@
+{
+  "kitsuId": "76834",
+  "title": "Munpa System-eul Sijakamnida",
+  "updatedAt": "2026-07-10T13:16:28.132Z",
+  "matchVersion": 2,
+  "mangabakaId": 563633,
+  "mangabakaUrl": "https://mangabaka.org/563633",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzQvYi9iLzQvMC9iLzQvYWYzMC80NTczLzhiOTQvNDEwOTIzMGRmYTJj",
+  "author": "Geomeunmeok, Yun-Jin Choi",
+  "synopsis": "The protagonist, who had worked himself to the bone at the Murim Alliance, finally retires and heads back to his hometown to fulfill his dream of becoming a sect leader. Due to his meager savings, he ends up purchasing a manor that was suspiciously cheap, and rumored to be haunted. But then, an unfamiliar system suddenly appears before him. Though startled at first, the protagonist soon begins to use the system to efficiently recruit disciples and manage the sect’s finances and resources. In time, with the help of the system, his sect grows rapidly, so much that it starts drawing the attention, wariness, and hostility of other Murim factions…\n\n(Source: Naver, translated)",
+  "status": "Releasing",
+  "total": 47,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "martial_arts",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Ancient Korea",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "201393",
+    "anime_planet": "initializing-the-sect-system",
+    "manga_updates": "11lj0s6",
+    "my_anime_list": "188298",
+    "shikimori": "188298"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=844101",
+    "https://series.naver.com/comic/detail.series?productNo=13092207",
+    "https://www.webtoons.com/zh-hant/martial-arts/the-clan-system-begins/list?title_no=9497",
+    "https://mangabaka.org/563633"
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "kitsuId": "57806",
+  "title": "Reardale no Daichi nite",
+  "updatedAt": "2026-07-10T13:15:30.726Z",
+  "matchVersion": 2,
+  "mangabakaId": 4652,
+  "mangabakaUrl": "https://mangabaka.org/4652",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2UvYy8yL2IvZS9hLzkvODM3OS80OWI5Lzg1NDMvMTkyMDRmZTk3MzIz",
+  "author": "Ceez, Dashio Tsukimi",
+  "synopsis": "When Keina Kagami’s life support accidentally gets cut off, she suddenly finds herself in the body of the high elf Cayna, her avatar in the VRMMORPG known as Leadale. But two hundred years seem to have passed from when she last logged in, and as she seizes this second chance at life in a world both familiar and strange, she’ll have to figure out for herself just how much has changed in all that time… \n\n(Source: Yen Press)",
+  "status": "Releasing",
+  "total": 39,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "comedy",
+    "drama",
+    "shounen",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, April 16-22",
+      "date": "2023-04-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-04-19/north-american-anime-manga-releases-april-16-22/.197226"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 11-17",
+      "date": "2022-12-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-15/north-american-anime-manga-releases-december-11-17/.192892"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 9-15",
+      "date": "2022-10-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-10-11/north-american-anime-manga-releases-october-9-15/.190721"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 24-30",
+      "date": "2022-04-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-04-27/north-american-anime-manga-releases-april-24-30/.185034"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 12-18",
+      "date": "2021-12-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-14/north-american-anime-manga-releases-december-12-18/.180618"
+    },
+    {
+      "title": "In the Land of Leadale TV Anime's 2nd Video Unveils More Cast & Staff, Songs, January 5 Debut",
+      "date": "2021-11-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-23/in-the-land-of-leadale-tv-anime-2nd-video-unveils-more-cast-and-staff-songs-january-5-debut/.179892"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 25-31",
+      "date": "2021-07-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-27/north-american-anime-manga-releases-july-25-31/.175601"
+    },
+    {
+      "title": "In the Land of Leadale TV Anime Unveils Staff",
+      "date": "2021-03-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-06/in-the-land-of-leadale-tv-anime-unveils-staff/.170313"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 21-27",
+      "date": "2021-02-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-23/north-american-anime-manga-releases-february-21-27/.169870"
+    },
+    {
+      "title": "In the Land of Leadale VR Isekai Story Gets Anime",
+      "date": "2021-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-21/in-the-land-of-leadale-vr-isekai-story-gets-anime/.169812"
+    },
+    {
+      "title": "The Fall 2020 Light Novel Guide",
+      "date": "2020-11-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2020-11-20/the-fall-2020-light-novel-guide/.166168"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 18-24",
+      "date": "2020-10-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-22/north-american-anime-manga-releases-october-18-24/.165408"
+    },
+    {
+      "title": "Yen Press Adds Bestia, Carole & Tuesday, 11 More Manga/Novels",
+      "date": "2019-11-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-11-16/yen-press-adds-bestia-carole-and-tuesday-11-more-manga-novels/.153352"
+    },
+    {
+      "title": "BookWalker Announces Next Big Light Novels Poll Results For 2019",
+      "date": "2019-08-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2019-08-27/bookwalker-announces-next-big-light-novels-poll-results-for-2019/.150367"
+    }
+  ],
+  "sources": {
+    "anilist": "119353",
+    "anime_planet": "in-the-land-of-leadale",
+    "anime_news_network": "22742",
+    "kitsu": "57806",
+    "manga_updates": "6sy3chs",
+    "my_anime_list": "130793",
+    "shikimori": "130793"
+  },
+  "links": [
+    "https://bookwalker.jp/series/241361",
+    "https://comic.pixiv.net/store/products/1052013",
+    "https://comic.pixiv.net/store/products/729196",
+    "https://comic.pixiv.net/works/6445",
+    "https://comic-walker.com/detail/KC_001782_S",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%83%87%E3%82%A4%E3%83%AB%E3%81%AE%E5%A4%A7%E5%9C%B0%E3%81%AB%E3%81%A6",
+    "https://manga.nicovideo.jp/comic/43024",
+    "https://seiga.nicovideo.jp/comic/43024",
+    "https://www.amazon.co.jp/dp/B08FV97MMD",
+    "https://yenpress.com/series/in-the-land-of-leadale-manga",
+    "https://mangabaka.org/4652"
+  ]
+}

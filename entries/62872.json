@@ -1,0 +1,222 @@
+{
+  "kitsuId": "62872",
+  "title": "Usuzumi no Hate",
+  "updatedAt": "2026-07-10T13:01:41.356Z",
+  "matchVersion": 2,
+  "mangabakaId": 670,
+  "mangabakaUrl": "https://mangabaka.org/670",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85LzcvMy85LzUvMS84L2YvZGNjNS80Yzg3LzkxM2UvNzc1ZWViZTFiZDI2",
+  "author": "Haruo Iwamune",
+  "synopsis": "A girl walks alone in a world without humans. Her mission—to search for survivors and cleanse the land. But is anyone still out there in the lonely, beautiful ruins, waiting to be found? \n\n(Source: Yen Press)",
+  "status": "Releasing",
+  "total": 43,
+  "type": "manga",
+  "genres": [
+    "mystery",
+    "sci-fi",
+    "adventure",
+    "drama",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Calm Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Aliens",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Urban",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Androids",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Robots",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Death",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Body Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Philosophy",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Suicide",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "recurrent"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, November 30-December 6",
+      "date": "2025-12-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-12-04/north-american-anime-manga-releases-november-30-december-6/.231584"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 22-28",
+      "date": "2025-06-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-27/north-american-anime-manga-releases-june-22-28/.225930"
+    },
+    {
+      "title": "The Color of the End: Mission in the Apocalypse Volume 1 Manga Review",
+      "date": "2025-05-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/the-color-of-the-end/mission-in-the-apocalypse/volume-1/.224216"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 26-February 1",
+      "date": "2025-01-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-01-29/north-american-anime-manga-releases-january-26-february-1/.220549"
+    },
+    {
+      "title": "Yen Press Licenses Lycoris Recoil: Ordinary Days Love Unseen Beneath the Clear Night Sky Novels, More Manga",
+      "date": "2024-08-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-09/yen-press-licenses-lycoris-recoil-ordinary-days-love-unseen-beneath-the-clear-night-sky-novels-more-/.214147"
+    },
+    {
+      "title": "MyAnimeList Rolls Out List of Manga Recommendations for 2024",
+      "date": "2024-04-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2024-04-10/myanimelist-rolls-out-list-of-manga-recommendations-for-2024/.209704"
+    },
+    {
+      "title": "Kono Manga ga Sugoi! Editors Unveil 2024 Rankings (Updated)",
+      "date": "2023-12-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-11/kono-manga-ga-sugoi-editors-unveil-2024-rankings/.205367"
+    }
+  ],
+  "sources": {
+    "anilist": "145531",
+    "anime_planet": "the-color-of-the-end-mission-in-the-apocalypse",
+    "anime_news_network": "31015",
+    "kitsu": "62872",
+    "manga_updates": "f7kdtwh",
+    "my_anime_list": "146207",
+    "shikimori": "146207"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_EB06204007010000_68/",
+    "https://seiga.nicovideo.jp/comic/63177",
+    "https://www.eccediciones.com/comic/los-confines-de-la-oscuridad-1",
+    "https://www.kadokawa.co.jp/product/322301000800/",
+    "https://yenpress.com/series/the-color-of-the-end-mission-in-the-apocalypse",
+    "https://mangabaka.org/670"
+  ]
+}

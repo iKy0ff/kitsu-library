@@ -1,0 +1,212 @@
+{
+  "kitsuId": "72413",
+  "title": "The Hero Became the Duke's Eldest Son",
+  "updatedAt": "2026-07-10T13:18:14.585Z",
+  "matchVersion": 2,
+  "mangabakaId": 3799,
+  "mangabakaUrl": "https://mangabaka.org/3799",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84L2IvYS85L2UvOS9mLzUvYjRjZi80MDhiL2I5YTkvZjg3NmI0MTU0MzY4",
+  "author": "Geurimjassi, Mukkun Na",
+  "synopsis": "No one understands why local lowlife Lord Aden Remes suddenly acts like the upright knight he was meant to be. The truth is, Aden's been possessed by Aden Albireo, the empire's hero who died after defeating the villainous Underlord and facing betrayal by his closest friends. Now, Aden's out to get revenge on those who killed him with the help of a few new allies and none other than the Underlord himself! Can Aden and his gang buckle down and power up? Or is the lord hero fated to fail once more?\n\n(Source: Tapas)",
+  "status": "Completed",
+  "total": 90,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Crimes",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Scheming Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Appearance Different from Personality",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "core"
+    },
+    {
+      "name": "Delinquents",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Thieves",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "incidental"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "179431",
+    "anime_planet": "lord-hero-of-house-remes",
+    "kitsu": "72413",
+    "manga_updates": "66518zu",
+    "my_anime_list": "173472",
+    "shikimori": "173472"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/171856",
+    "https://page.kakao.com/content/64385699",
+    "https://tapas.io/series/lord-hero-of-house-remes/info",
+    "https://webtoon.kakao.com/content/영웅-공작가-장남-되다/4144?tab=episode",
+    "https://www.kuaikanmanhua.com/web/topic/24272/",
+    "https://namu.wiki/w/%EC%98%81%EC%9B%85%2C%20%EA%B3%B5%EC%9E%91%EA%B0%80%20%EC%9E%A5%EB%82%A8%20%EB%90%98%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/3799"
+  ]
+}

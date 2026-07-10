@@ -1,0 +1,261 @@
+{
+  "kitsuId": "56270",
+  "title": "The Great Mage Returns After 4000 Years",
+  "updatedAt": "2026-07-10T13:14:49.005Z",
+  "matchVersion": 2,
+  "mangabakaId": 2336,
+  "mangabakaUrl": "https://mangabaka.org/2336",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80LzQvYi9jLzMvOS85LzkvMTUyZC80ZjAzLzkxMTMvZWY5MmE2N2Y0MjMw",
+  "author": "Barnicle, Nakhasan",
+  "synopsis": "Lucas Trowman was the greatest archmage in history until he was condemned by Demigod to spend eternity losing his mind. But 4,000 years later, he’s thrust back into this world, into the body of Frei Blake, the weakest, most un-talented student at the prestigious Westroad Academy for mages. After all this time, the world of magic has barely progressed. Could this be the work of Demigod? Determined to find out, Lucas seeks to reach the highest levels of power once again and get his revenge.\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 264,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Kuudere",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Annoying Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Talented Female lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dense Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Conspiracy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Suicide",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "incidental"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "118424",
+    "anime_planet": "the-archmage-returns-after-4000-years",
+    "kitsu": "56270",
+    "manga_updates": "7u8zgak",
+    "my_anime_list": "147693",
+    "shikimori": "147693"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=54884637",
+    "https://piccoma.com/web/product/37285",
+    "https://tapas.io/series/the-archmage-returns-after-4000-years/info",
+    "https://webtoon.kakao.com/content/4000년-만에-귀환한-대마도사/2385",
+    "https://www.delitoon.com/detail/daf_0000339",
+    "https://page.kakao.com/content/54884637",
+    "https://namu.wiki/w/4000%EB%85%84%20%EB%A7%8C%EC%97%90%20%EA%B7%80%ED%99%98%ED%95%9C%20%EB%8C%80%EB%A7%88%EB%8F%84%EC%82%AC(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/2336"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "kitsuId": "78552",
+  "title": "Sanagi no Heart",
+  "updatedAt": "2026-07-10T13:00:55.672Z",
+  "matchVersion": 2,
+  "mangabakaId": 585466,
+  "mangabakaUrl": "https://mangabaka.org/585466",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMTAxMS10aXNLTnNlYkM5TzcuanBn",
+  "author": "Akari Kajimoto",
+  "synopsis": "Welcome to the Demon World. Meitaro, the rightful heir to the Demon King, in an unexpected turn of events summons a little human girl to his world. Meitaro names her \"Bibi\" and begins to shower her with all kinds of charity, but... \n\n(Source: MANGA Plus)",
+  "status": "Releasing",
+  "total": 11,
+  "type": "manga",
+  "genres": [
+    "romance",
+    "supernatural",
+    "psychological",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere Female Lead",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Short Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Tall Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "University Student Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Older Male Younger Female",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Tall Female Short Male",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Interspecies Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Summoned Into Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Cohabitation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "One Shot",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "211011",
+    "anime_planet": "the-chrysalis-heart",
+    "manga_updates": "h14053d",
+    "my_anime_list": "192622"
+  },
+  "links": [
+    "https://mangaplus.shueisha.co.jp/titles/100738",
+    "https://shonenjumpplus.com/episode/17107419589372004107",
+    "https://mangabaka.org/585466"
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "kitsuId": "64755",
+  "title": "Dungeon Odyssey",
+  "updatedAt": "2026-07-10T13:16:39.391Z",
+  "matchVersion": 2,
+  "mangabakaId": 1276,
+  "mangabakaUrl": "https://mangabaka.org/1276",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzQvZC82LzAvYy8xLzMvOTg5ZC80Y2I5LzlkYWUvNTA0YTI4ODY1N2E5",
+  "author": "Glump, Min-U Son",
+  "synopsis": "When the war between the aboveground and underground ended, humanity was joined by so-called \"dungeon babies,\" those gifted with supernatural abilities and an obsession with the labyrinths below ground. Despite being a dungeon baby, Kim Jin-U suppressed his instincts, choosing to live an ordinary life as a guide and caring for his family. But when an expedition goes wrong and he somehow ends up becoming the new owner of a labyrinth, he discovers that he cannot ignore his instincts forever... \n\n(Source: Tapas, edited)",
+  "status": "Hiatus",
+  "total": 159,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "horror",
+    "psychological",
+    "sci-fi",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dungeon Exploring",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Villain Protagonist",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adopted Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Devoted Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Loyal Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Maid Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Observant Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Supportive Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adopted Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Evil Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Observant Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strategic Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Amnesia",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Kingdom Management",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "incidental"
+    },
+    {
+      "name": "Clown/Jester",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dungeon Master",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Kings",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Servant",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Loyal Servant",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Vampires",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dullahan",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Child Abuse",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Atypical",
+      "group": "Work Info",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "155485",
+    "anime_planet": "dungeon-odyssey",
+    "kitsu": "64755",
+    "manga_updates": "uxp6aar",
+    "my_anime_list": "152405",
+    "shikimori": "152405"
+  },
+  "links": [
+    "https://namu.wiki/w/%EB%8D%98%EC%A0%84%20%EA%B2%AC%EB%AC%B8%EB%A1%9D(%EC%9B%B9%ED%88%B0)",
+    "https://page.kakao.com/content/60241259",
+    "https://piccoma.com/web/product/124418",
+    "https://tapas.io/series/dungeon-odyssey/info",
+    "https://webtoon.kakao.com/content/%EB%8D%98%EC%A0%84-%EA%B2%AC%EB%AC%B8%EB%A1%9D/3190?tab=episode",
+    "https://www.webtoons.com/fr/action/dungeon-odyssey/list?title_no=8635",
+    "https://mangabaka.org/1276"
+  ]
+}

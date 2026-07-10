@@ -1,0 +1,462 @@
+{
+  "kitsuId": "26906",
+  "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+  "updatedAt": "2026-07-10T12:57:15.540Z",
+  "matchVersion": 2,
+  "mangabakaId": 3112,
+  "mangabakaUrl": "https://mangabaka.org/3112",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzQvOS9hLzIvMS9kLzIvYjY2Yy80N2UxL2I4OGIvZGNmZWI3NThhNzU1",
+  "author": "Hiro Ainana, Megumu Aya",
+  "synopsis": "Suzuki is a programmer in the midst of a death march-crunch time, when coders live on caffeine and pull twenty-hour days. He just needs a little nap...but then he has a dream. A dream where he's in another world, with RPG powers right out of his game. A dream where he calls down a great disaster. A dream that, suspiciously, just won't end...\n\n(Source: Yen Press)",
+  "status": "Releasing",
+  "total": 136,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "action",
+    "drama",
+    "ecchi",
+    "harem",
+    "shounen",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Prostitution",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Loli",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Animal Characteristics",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Nekomimi",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Short Female Lead",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Tall Female Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Tall Female Lead",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Genius",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Harem-Seeking Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Lying Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead with Sexual Experience",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Manipulative Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sexually Active Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Advanced Knowledge Meets Archaic World",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Age Gap",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Older Male Younger Female",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Godly Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, March 16-22",
+      "date": "2025-03-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-03-20/north-american-anime-manga-releases-march-16-22/.222536"
+    },
+    {
+      "title": "Kadokawa Lists Death March to the Parallel World Rhapsody TV Anime With Sequel",
+      "date": "2024-11-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-11-15/kadokawa-lists-death-march-to-the-parallel-world-rhapsody-tv-anime-with-sequel/.217929"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 13-19",
+      "date": "2024-10-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-16/north-american-anime-manga-releases-october-13-19/.216737"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 19-25",
+      "date": "2024-05-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-05-22/north-american-anime-manga-releases-may-19-25/.211011"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 10-16",
+      "date": "2023-12-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-13/north-american-anime-manga-releases-december-10-16/.205391"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 17-23",
+      "date": "2023-09-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-21/north-american-anime-manga-releases-september-17-23/.202532"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 24-30",
+      "date": "2022-07-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-26/north-american-anime-manga-releases-july-24-30/.188059"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 3-9",
+      "date": "2022-04-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-04-06/north-american-anime-manga-releases-april-3-9/.184399"
+    },
+    {
+      "title": "Death March to the Parallel World Rhapsody Novels Get Gourmet Manga Spinoff",
+      "date": "2021-12-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-11/death-march-to-the-parallel-world-rhapsody-novels-get-gourmet-manga-spinoff/.180432"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 14-20",
+      "date": "2021-11-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-16/north-american-anime-manga-releases-november-14-20/.179634"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 20-26",
+      "date": "2021-06-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-06-22/north-american-anime-manga-releases-june-20-26/.174310"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 28-March 6",
+      "date": "2021-03-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-02/north-american-anime-manga-releases-february-28-march-6/.170149"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 18-24",
+      "date": "2020-10-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-22/north-american-anime-manga-releases-october-18-24/.165408"
+    },
+    {
+      "title": "Death March to the Parallel World Rhapsody Print Novels to Have Different Ending",
+      "date": "2020-07-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-07-22/death-march-to-the-parallel-world-rhapsody-print-novels-to-have-different-ending/.162057"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 19-25",
+      "date": "2020-01-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-01-23/north-american-anime-manga-releases-january-19-25/.155623"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 22-October 5",
+      "date": "2019-10-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-10-02/north-american-anime-manga-releases-september-22-october-5/.151706"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 19-25",
+      "date": "2019-05-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-05-22/north-american-anime-manga-releases-may-19-25/.146923"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 16-22",
+      "date": "2018-09-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-09-18/north-american-anime-manga-releases-september-16-22/.136960"
+    },
+    {
+      "title": "Top-Selling Light Novels by Series in Japan: 2018 (First Half)",
+      "date": "2018-05-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-05-31/top-selling-light-novels-by-series-in-japan-2018/.132246"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 20-26",
+      "date": "2018-05-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-05-22/north-american-anime-manga-releases-may-20-26/.131875"
+    },
+    {
+      "title": "The Best (and worst) Isekai Light Novels",
+      "date": "2018-04-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2018-04-13/the-best-isekai-light-novels/.130186"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 28-February 3",
+      "date": "2018-01-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-01-30/north-american-anime-manga-releases-january-28-february-3/.127135"
+    },
+    {
+      "title": "Death March to The Parallel World Rhapsody Novels Get Spinoff Manga",
+      "date": "2018-01-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-01-13/death-march-to-the-parallel-world-rhapsody-novels-get-spinoff-manga/.126187"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 17-23",
+      "date": "2017-09-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-09-19/north-american-anime-manga-releases-september-17-23/.121577"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 21-27",
+      "date": "2017-05-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-05-23/north-american-anime-manga-releases-may-21-27/.116502"
+    },
+    {
+      "title": "Death March to the Parallel World Rhapsody Novel 1",
+      "date": "2017-04-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/death-march-to-the-parallel-world-rhapsody/novel-1/.111583"
+    },
+    {
+      "title": "Yen Press Licenses Konosuba, Death March to the Parallel World Rhapsody Manga, Light Novels",
+      "date": "2016-05-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-05-20/yen-press-licenses-konosuba-death-march-to-the-parallel-world-rhapsody-manga-light-novels/.102332"
+    }
+  ],
+  "sources": {
+    "anilist": "86511",
+    "anime_planet": "death-march-to-the-parallel-world-rhapsody",
+    "anime_news_network": "18553",
+    "kitsu": "26906",
+    "manga_updates": "0co4eak",
+    "my_anime_list": "83021",
+    "shikimori": "83021"
+  },
+  "links": [
+    "https://bookwalker.jp/series/42937/",
+    "https://comic-walker.com/detail/KC_002088_S",
+    "https://en.wikipedia.org/wiki/Death_March_to_the_Parallel_World_Rhapsody",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%81%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8B%E7%95%B0%E4%B8%96%E7%95%8C%E7%8B%82%E6%83%B3%E6%9B%B2",
+    "https://manga.nicovideo.jp/comic/19915",
+    "https://www.amazon.co.jp/dp/B07H9KZ9DL",
+    "https://yenpress.com/series/death-march-to-the-parallel-world-rhapsody-manga",
+    "https://mangabaka.org/3112"
+  ]
+}

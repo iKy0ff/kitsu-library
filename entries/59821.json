@@ -1,0 +1,218 @@
+{
+  "kitsuId": "59821",
+  "title": "Seoul Station Druid",
+  "updatedAt": "2026-07-10T13:04:09.374Z",
+  "matchVersion": 2,
+  "mangabakaId": 9691,
+  "mangabakaUrl": "https://mangabaka.org/9691",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzAvMy8xLzMvMy84LzgvZmUwNS80M2U4L2I1YzMvZjI5OGI2OTAyZWEw",
+  "author": "Seol-U Jin, Seong-Ho Moon",
+  "synopsis": "What started out as an ordinary day turned upside down when an unknown catastrophe struck Earth, transporting Suho Park to a different planet. He eventually learns how to adapt and fight for his survival in this foreign world, but one day, just as suddenly as he was sucked into this new planet, Suho is pulled back to Earth. He quickly learns that return to life as he remembers it is no longer possible, as Earth is in constant battle with monsters who’ve managed to infiltrate the planet. How will Suho fight against the monsters attacking Earth, and will he be able to survive this time with his current skills? \n\n(Source: WEBTOON)",
+  "status": "Completed",
+  "total": 207,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "martial_arts",
+    "sci-fi",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "System Administrator",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Zombies",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Godly Powers",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "135369",
+    "anime_planet": "the-druid-of-seoul-station",
+    "kitsu": "59821",
+    "manga_updates": "hnp97ml",
+    "my_anime_list": "147489",
+    "shikimori": "147489"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=773476",
+    "https://series.naver.com/comic/detail.nhn?productNo=6261200#",
+    "https://www.webtoons.com/en/action/the-druid-of-seoul-station/list?title_no=3453",
+    "https://www.webtoons.com/fr/fantasy/druid-seoul-station/list?title_no=3586",
+    "https://www.webtoons.com/th/fantasy/seoul-station-druid/list?title_no=3301",
+    "https://namu.wiki/w/%EC%84%9C%EC%9A%B8%EC%97%AD%20%EB%93%9C%EB%A3%A8%EC%9D%B4%EB%93%9C(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/9691"
+  ]
+}

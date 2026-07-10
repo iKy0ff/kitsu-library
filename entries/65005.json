@@ -1,0 +1,240 @@
+{
+  "kitsuId": "65005",
+  "title": "Dingji Qiyun, Qiaoqiao Xiulian Qian Nian",
+  "updatedAt": "2026-07-10T13:13:37.022Z",
+  "matchVersion": 2,
+  "mangabakaId": 4121,
+  "mangabakaUrl": "https://mangabaka.org/4121",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE1NDI1OC1VaXJsVVFxYU93VlIuanBn",
+  "author": "Ren Wo Xiao, Shui Bu Xing De Nengneng",
+  "synopsis": "Reborn into a world of immortal cultivation, Han Jue found himself blessed with the Gacha System, able to re-roll for stats in cultivation and luck. To stay out of trouble, Han Jue cultivated on his own, and kept quiet about his special abilities. But when his sect faced destruction, he stepped up to defend it. A thousand years later, after many generations of cultivation, the immortals were planning to cleanse the mortal realm, and Han Jue was finally forced to act. That was when he discovered that even gods and immortals were not as powerful as he had imagined… \n\n(Source: Tencent, translated)",
+  "status": "Releasing",
+  "total": 267,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "comedy",
+    "fantasy",
+    "adventure",
+    "drama",
+    "harem",
+    "martial_arts",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Chibi",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Careful Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Love Polygon",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Hidden Powers",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Disciple",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem Subtext",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Sects",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "154258",
+    "anime_planet": "lucky-me-i-secretly-cultivated-for-1000-years",
+    "kitsu": "65005",
+    "manga_updates": "5sdrng5"
+  },
+  "links": [
+    "https://ac.qq.com/Comic/comicInfo/id/652765",
+    "https://manga.bilibili.com/detail/mc32437",
+    "https://www.kuaikanmanhua.com/web/topic/16191/",
+    "https://www.webnovel.com/comic/lucky-me-i-secretly-cultivated-for-1-000-years_25054063005713801",
+    "https://mangabaka.org/4121"
+  ]
+}

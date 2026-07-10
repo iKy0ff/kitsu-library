@@ -1,0 +1,171 @@
+{
+  "kitsuId": "67911",
+  "title": "Wu Nao Monü",
+  "updatedAt": "2026-07-10T13:15:19.605Z",
+  "matchVersion": 2,
+  "mangabakaId": 47856,
+  "mangabakaUrl": "https://mangabaka.org/47856",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEzNjI3MS1DcmJjVk1wM1F3TVkuanBn",
+  "author": "Luo Hui Zhi Shu",
+  "synopsis": "Having lost something important, the immortal witch could not stop her tears, and accidentally provoked the Prince of Hell when she tried various ways to stop her own tears! Hence, a daily life of pandemonium ensues! \n\n(Source: Bilibili)",
+  "status": "Releasing",
+  "total": 130,
+  "type": "manhua",
+  "genres": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Cleaning",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Animal Characteristics",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Immortal Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shapeshifting",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Dead Friend",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Surreal Comedy",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Rehabilitation",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "136271",
+    "anime_planet": "brainless-witch",
+    "kitsu": "67911",
+    "manga_updates": "qcdokof",
+    "my_anime_list": "172128",
+    "shikimori": "172128"
+  },
+  "links": [
+    "https://manga.bilibili.com/detail/mc26665",
+    "https://baike.baidu.com/item/%E6%97%A0%E8%84%91%E9%AD%94%E5%A5%B3/23764727",
+    "https://mangabaka.org/47856"
+  ]
+}

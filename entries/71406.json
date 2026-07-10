@@ -1,0 +1,277 @@
+{
+  "kitsuId": "71406",
+  "title": "S-geup Hunter-neun Agyeok Gongnyeoga Doegi Silseumnida",
+  "updatedAt": "2026-07-10T13:06:53.268Z",
+  "matchVersion": 2,
+  "mangabakaId": 4533,
+  "mangabakaUrl": "https://mangabaka.org/4533",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jL2MvOS84LzIvMS9jL2YvNjJhOS80MzZjL2JkZDEvODY1NjEyNzc1Mjdh",
+  "author": "Haegang, Rongnae",
+  "synopsis": "S-class Hunter Kim Yiyoung can’t wait to leave the novel she woke up in. She gets the chance after defeating the story’s final boss, but instead of returning home, she’s sent into another novel! Yiyoung becomes Lady Renee Markious, a petty villainess who’s just been framed for murder. Fortunately, Yiyoung has a secret weapon nobody knows about… her skills from her past life! Can Yiyoung clear Renee’s name and find her way back to her own world? Or will she be trapped in this tale for good?\n\n*Source: Tapas*",
+  "status": "Hiatus",
+  "total": 80,
+  "type": "manhwa",
+  "genres": [
+    "drama",
+    "fantasy",
+    "romance",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Blue-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blue-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Green-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Capable Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Noble Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Commoner Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Creepy Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Loop",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Saint/Saintess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Harem",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Noble-Commoner Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekaied Into a Novel",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnated in a Book World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigrated into a Book World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "175776",
+    "anime_planet": "the-s-class-lady",
+    "kitsu": "71406",
+    "manga_updates": "7pvgyx3",
+    "my_anime_list": "167521",
+    "shikimori": "167521"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/160625",
+    "https://page.kakao.com/content/63555003?tab_type=overview",
+    "https://tapas.io/series/the-s-class-lady/info",
+    "https://th.kakaowebtoon.com/content/ฮันเตอร์ระดับ_S_ไม่อยากเป็นเลดี้ตัวร้าย/897",
+    "https://webtoon.kakao.com/content/S급-헌터는-악역-공녀가-되기-싫습니다/3944?tab=episode",
+    "https://www.delitoon.com/detail/daf_1000857",
+    "https://www.delitoon.de/detail/dad_2000403",
+    "https://page.kakao.com/content/63555003",
+    "https://mangabaka.org/4533"
+  ]
+}

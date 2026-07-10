@@ -1,0 +1,266 @@
+{
+  "kitsuId": "70082",
+  "title": "Yongzhe X Nümowang",
+  "updatedAt": "2026-07-10T13:18:33.050Z",
+  "matchVersion": 2,
+  "mangabakaId": 9420,
+  "mangabakaUrl": "https://mangabaka.org/9420",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE3MDA5My1PT3ZBNktUUW5seEYuanBn",
+  "author": "Zhihong Yao",
+  "synopsis": "I had yearned for the tranquility of the countryside, but destiny had other plans. Suddenly, I found myself transported to an entirely new world. Within Novice Village, I ascended to the status of a creation-level entity. And then, against all odds, I defeated the Demon Empress who ruled this realm—with only a dog I had raised by my side. From that pivotal moment, the defeated Demon Empress took up residence in my humble home, and my extraordinary adventure in this otherworldly domain began. \n\n(Source: Webnovel)",
+  "status": "Completed",
+  "total": 182,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "comedy",
+    "fantasy",
+    "drama",
+    "sci-fi",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Chibi",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Nekomimi",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dumb Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Pushover Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Amnesia",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Robot",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Centaur",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Robots",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cohabitation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Body Horror",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Human Experiment",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "170093",
+    "anime_planet": "hero-x-demon-queen",
+    "kitsu": "70082",
+    "manga_updates": "b0muy6x"
+  },
+  "links": [
+    "https://www.iqiyi.com/manhua/detail_pecyzxlp2t.html",
+    "https://www.webnovel.com/comic/hero-x-demon-empress_29373079608711401",
+    "https://mangabaka.org/9420"
+  ]
+}

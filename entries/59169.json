@@ -1,0 +1,507 @@
+{
+  "kitsuId": "59169",
+  "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+  "updatedAt": "2026-07-10T12:56:11.842Z",
+  "matchVersion": 2,
+  "mangabakaId": 139,
+  "mangabakaUrl": "https://mangabaka.org/139",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzYvYS8yL2QvMS9iLzUvYThjOS80NjA2Lzg4N2UvMDMwMDBiOTQ4N2Zh",
+  "author": "Katarina, Ryousuke Fuji",
+  "synopsis": "Second-year high school student Rakuro Hizutome loves nothing more than finding so-called “trash games” and beating the crap out of them. When he decides to change things up by playing a new, “god-tier” VR game known as Shangri-La Frontier (a.k.a. SLF), he does what he does best: min-maxes, skips the prologue, and jumps straight into action! Rakuro may be a seasoned gamer, but a meeting with an old rival will change the fate of every SLF player forever.\n\nClad in nothing but shorts and a bird mask, Rakuro (player name: Sunraku) launches into the world of SLF. Things are going well at first as he takes down a goblin, a bunny, and even a python. But then Sunraku comes up against a huge, hard-hitting wolf known as Lycagon the Nightslayer. Will Sunraku’s years of “trash game” experience be enough, or is he about to suffer a rude awakening just a few hours into his SLF adventure?\n\n*Source: Kodansha USA*",
+  "status": "Releasing",
+  "total": 272,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "sci-fi",
+    "drama",
+    "shounen",
+    "award_winning"
+  ],
+  "tags": [
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Masked Character",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Game",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Curses",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Pirates",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Virtual Reality",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "MMORPG",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "VRMMORPG",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Award-Nominated Work",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Award Winning",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, May 24-30",
+      "date": "2026-05-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-29/north-american-anime-manga-releases-may-24-30/.237843"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 29-April 4",
+      "date": "2026-04-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-03/north-american-anime-manga-releases-march-29-april-4/.235978"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 22-28",
+      "date": "2026-03-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-27/north-american-anime-manga-releases-march-22-28/.235655"
+    },
+    {
+      "title": "Shangri-La Frontier Manga Exceeds 16 Million Copies Worldwide",
+      "date": "2026-03-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-26/shangri-la-frontier-manga-exceeds-16-million-copies-worldwide/.235717"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 4-10",
+      "date": "2026-01-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-09/north-american-anime-manga-releases-january-4-10/.232792"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 19-25",
+      "date": "2025-10-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-10-24/north-american-anime-manga-releases-october-19-25/.230143"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 31-September 6",
+      "date": "2025-09-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-09-04/north-american-anime-manga-releases-august-31-september-6/.228364"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 17-23",
+      "date": "2025-08-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-21/north-american-anime-manga-releases-august-17-23/.227781"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 22-28",
+      "date": "2025-06-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-27/north-american-anime-manga-releases-june-22-28/.225930"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 1-7",
+      "date": "2025-06-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-06/north-american-anime-manga-releases-june-1-7/.225041"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 20-26",
+      "date": "2025-04-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-04-25/north-american-anime-manga-releases-april-20-26/.223805"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 30-April 5",
+      "date": "2025-04-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-04-04/north-american-anime-manga-releases-march-30-april-5/.223096"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 23-March 1",
+      "date": "2025-02-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-25/north-american-anime-manga-releases-february-23-march-1/.221592"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 2-8",
+      "date": "2025-02-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-05/north-american-anime-manga-releases-february-2-8/.220804"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 1-7",
+      "date": "2024-12-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-05/north-american-anime-manga-releases-december-1-7/.218571"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 27-November 2",
+      "date": "2024-10-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-30/north-american-anime-manga-releases-october-27-november-2/.217303"
+    },
+    {
+      "title": "Shangri-La Frontier Cheat Codes: How Its Creators Built Its Video Game World",
+      "date": "2024-09-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interview/2024-09-20/shangri-la-frontier-cheat-codes-how-its-creators-built-its-video-game-world/.215052"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 25-31",
+      "date": "2024-08-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-30/north-american-anime-manga-releases-august-25-31/.214789"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 23-29",
+      "date": "2024-06-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-28/north-american-anime-manga-releases-june-23-29/.212464"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 5-11",
+      "date": "2024-05-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-05-08/north-american-anime-manga-releases-may-5-11/.210550"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 28-May 4",
+      "date": "2024-05-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-05-01/north-american-anime-manga-releases-april-28-may-4/.210378"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 3-9",
+      "date": "2024-03-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-03-06/north-american-anime-manga-releases-march-3-9/.208310"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 25-March 2",
+      "date": "2024-02-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-02-29/north-american-anime-manga-releases-february-25-march-2/.208070"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 31-January 6",
+      "date": "2024-01-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-03/north-american-anime-manga-releases-december-31-january-6/.206120"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 24-30",
+      "date": "2023-12-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-27/north-american-anime-manga-releases-december-24-30/.205960"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 3-9",
+      "date": "2023-12-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-07/north-american-anime-manga-releases-december-3-9/.205142"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 5-11",
+      "date": "2023-11-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-08/north-american-anime-manga-releases-november-5-11/.204209"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 3-9",
+      "date": "2023-09-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-05/north-american-anime-manga-releases-september-3-9/.201996"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 27-September 2",
+      "date": "2023-08-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-08-29/north-american-anime-manga-releases-august-27-september-2/.201762"
+    },
+    {
+      "title": "47th Annual Kodansha Manga Awards' Winners Announced",
+      "date": "2023-05-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-10/47th-annual-kodansha-manga-awards-winners-announced/.197959"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 30-May 6",
+      "date": "2023-05-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-02/north-american-anime-manga-releases-april-30-may-6/.197729"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 23-29",
+      "date": "2023-04-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-04-25/north-american-anime-manga-releases-april-23-29/.197477"
+    },
+    {
+      "title": "47th Annual Kodansha Manga Awards' Nominees Announced",
+      "date": "2023-04-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-04-10/47th-annual-kodansha-manga-awards-nominees-announced/.196953"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 5-11",
+      "date": "2023-03-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-03-07/north-american-anime-manga-releases-march-5-11/.195689"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 19-25",
+      "date": "2023-02-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-02-23/north-american-anime-manga-releases-february-19-25/.195160"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 1-7",
+      "date": "2023-01-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-01-03/north-american-anime-manga-releases-january-1-7/.193541"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 30-November 5",
+      "date": "2022-11-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-01/north-american-anime-manga-releases-october-30-november-5/.191465"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 23-29",
+      "date": "2022-10-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-10-25/north-american-anime-manga-releases-october-23-29/.191210"
+    },
+    {
+      "title": "The Fall 2022 Manga Guide - Shangri-La Frontier",
+      "date": "2022-09-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2022-09-21/the-fall-2022-manga-guide/shangri-la-frontier/.189871"
+    },
+    {
+      "title": "INKR Releases Kodansha Simulpub Content",
+      "date": "2022-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2022-05-03/inkr-releases-kodansha-simulpub-content/.185287"
+    },
+    {
+      "title": "Exclusive: INKR Adds 14 Simulpub Manga from Kodansha USA",
+      "date": "2022-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-03/exclusive-inkr-adds-14-simulpub-manga-from-kodansha-usa/.185286"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 1-7",
+      "date": "2022-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-03/north-american-anime-manga-releases-may-1-7/.185294"
+    },
+    {
+      "title": "46th Annual Kodansha Manga Awards' Nominees Announced",
+      "date": "2022-04-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-04-07/46th-annual-kodansha-manga-awards-nominees-announced/.184436"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 9-15",
+      "date": "2022-01-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-01-11/north-american-anime-manga-releases-january-9-15/.181416"
+    },
+    {
+      "title": "Kodansha Comics Announces 14 Manga Titles for Next Fall",
+      "date": "2021-11-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-21/kodansha-comics-announces-14-manga-titles-for-next-fall/.179796"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 7-13",
+      "date": "2021-11-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-09/north-american-anime-manga-releases-november-7-13/.179402"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 1-7",
+      "date": "2021-08-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-08-03/north-american-anime-manga-releases-august-1-7/.175862"
+    },
+    {
+      "title": "Shangri-La Frontier Manga Streams Anime Promotional Video",
+      "date": "2021-07-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-07/shangri-la-frontier-manga-streams-anime-promotional-video/.174909"
+    },
+    {
+      "title": "Voting Opens for Next Manga Awards 2021",
+      "date": "2021-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2021-06-21/voting-opens-for-next-manga-awards-2021/.174159"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 21-27",
+      "date": "2021-02-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-23/north-american-anime-manga-releases-february-21-27/.169870"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 6-12",
+      "date": "2020-12-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-09/north-american-anime-manga-releases-december-6-12/.167210"
+    },
+    {
+      "title": "Kodansha Comics Licenses New Manga by Ema Toyama, Kaori Yuki, More",
+      "date": "2020-11-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-13/kodansha-comics-licenses-new-manga-by-ema-toyama-kaori-yuki-more/.166303"
+    },
+    {
+      "title": "Ryōsuke Fuji Launches Shangri-La Frontier Manga on July 15",
+      "date": "2020-07-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-07-08/ryosuke-fuji-launches-shangri-la-frontier-manga-on-july-15/.161563"
+    }
+  ],
+  "sources": {
+    "anilist": "122063",
+    "anime_planet": "shangri-la-frontier",
+    "anime_news_network": "23806",
+    "kitsu": "59169",
+    "manga_updates": "qpff7if",
+    "my_anime_list": "130331",
+    "shikimori": "130331"
+  },
+  "links": [
+    "https://comic-days.com/episode/14079602755421863453",
+    "https://comic.shangrilafrontier.com/",
+    "https://kmanga.kodansha.com/title/10011/episode/317222",
+    "https://kodansha.us/series/shangri-la-frontier/",
+    "https://manga.nicovideo.jp/comic/49738",
+    "https://page.kakao.com/content/58825341",
+    "https://piccoma.com/web/product/48402?etype=episode",
+    "https://pocket.shonenmagazine.com/episode/13933686331679163306",
+    "https://series.naver.com/comic/detail.series?productNo=8179060",
+    "https://shonenmagazine.com/special_page/shanfro/",
+    "https://twitter.com/ShanFro_Comic",
+    "https://www.glenat.com/manga/series/shangri-la-frontier",
+    "https://www.lezhin.com/ko/comic/shangrila_frontier",
+    "https://www.mangas.io/lire/shangri-la-frontier",
+    "https://en.wikipedia.org/wiki/Shangri-La_Frontier",
+    "https://ja.wikipedia.org/wiki/シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜",
+    "https://shonenmagazine.com/special_page/shanfro",
+    "https://mangabaka.org/139"
+  ]
+}

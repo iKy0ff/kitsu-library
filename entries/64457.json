@@ -1,0 +1,237 @@
+{
+  "kitsuId": "64457",
+  "title": "Helmut (Kim Nan Sae)",
+  "updatedAt": "2026-07-10T13:01:26.266Z",
+  "matchVersion": 2,
+  "mangabakaId": 5386,
+  "mangabakaUrl": "https://mangabaka.org/5386",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2UvMy8zL2EvMS8xL2IvMTkyYy80MzVmL2FhZTQvM2ViOWYzNzdhNjIx",
+  "author": "Hon-Yo, Nan-Sae Kim",
+  "synopsis": "Helmut was only a baby when he was left in the Forest of Pahe, an evil place full of beasts where sinners are banished for eternity. Luckily, one magical beast and an exiled swordsman take pity on him and raise him as their own. But with a dark seed growing inside him, Helmut decides to take up the sword to prevent the seed from turning him evil. As Helmut grows stronger, he seeks out the family that abandoned him, but will Helmut end up following his human heart or his beastly instincts?\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 141,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Crossdressing",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Purple/Violet-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Character",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "154782",
+    "anime_planet": "helmut",
+    "kitsu": "64457",
+    "manga_updates": "kjv5b8d",
+    "my_anime_list": "151242",
+    "shikimori": "151242"
+  },
+  "links": [
+    "https://page.kakao.com/content/60061481",
+    "https://piccoma.com/web/product/123188",
+    "https://tapas.io/series/helmut/info",
+    "https://webtoon.kakao.com/content/헬무트/3217?tab=episode",
+    "https://www.kuaikanmanhua.com/web/topic/16944/?cps=undefined",
+    "https://namu.wiki/w/%ED%97%AC%EB%AC%B4%ED%8A%B8(%EC%86%8C%EC%84%A4)#s-6.1",
+    "https://page.kakao.com/home?seriesId=60061481",
+    "https://mangabaka.org/5386"
+  ]
+}

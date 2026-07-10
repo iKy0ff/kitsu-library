@@ -1,0 +1,218 @@
+{
+  "kitsuId": "71313",
+  "title": "Eoneu Mabeopsaui Sikdang",
+  "updatedAt": "2026-07-10T13:14:03.434Z",
+  "matchVersion": 2,
+  "mangabakaId": 4807,
+  "mangabakaUrl": "https://mangabaka.org/4807",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kL2YvZi9iLzkvYS8zLzcvZjhhZC80ZDM2L2FhYjEvOTFkMjhlZmZhNTM3",
+  "author": "Bad Boys, Cha-ssi",
+  "synopsis": "A young aspiring chef suddenly finds himself in a world of war, dragons, and magic. These two worlds couldn’t be further apart... or could they? Who says you can’t open a restaurant in a fantasy realm? I mean, what could possibly go wrong? A perfect series for fantasy, magic, and food lovers.\n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 139,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "comedy",
+    "fantasy",
+    "slice_of_life",
+    "romance",
+    "shounen",
+    "gourmet"
+  ],
+  "tags": [
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Working",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Restaurant",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Food and Beverage",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "174104",
+    "anime_planet": "the-archmages-restaurant",
+    "kitsu": "71313",
+    "manga_updates": "31pnhwu",
+    "my_anime_list": "165757",
+    "shikimori": "165757"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=818888",
+    "https://series.naver.com/comic/detail.series?productNo=10440189",
+    "https://www.webtoons.com/en/fantasy/the-archmages-restaurant/list?title_no=7567",
+    "https://www.webtoons.com/th/fantasy/magicians-restaurant/list?title_no=6200",
+    "https://www.webtoons.com/zh-hant/fantasy/the-wizards-restaurant/list?title_no=6251",
+    "https://namu.wiki/w/%EC%96%B4%EB%8A%90%20%EB%A7%88%EB%B2%95%EC%82%AC%EC%9D%98%20%EC%8B%9D%EB%8B%B9(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/4807"
+  ]
+}

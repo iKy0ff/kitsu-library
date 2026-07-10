@@ -1,0 +1,220 @@
+{
+  "kitsuId": "65541",
+  "title": "Jeo Geureon Injae Animnida",
+  "updatedAt": "2026-07-10T13:04:43.408Z",
+  "matchVersion": 2,
+  "mangabakaId": 3070,
+  "mangabakaUrl": "https://mangabaka.org/3070",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzAvNy9hL2EvNS9jLzcvNzBjZi80OWE2L2FjMzcvN2VkZGZiOGRmM2Yx",
+  "author": "Denpi, Emong",
+  "synopsis": "A talented individual who is respected by many and welcomed anywhere? Not at all! A bloodthirsty battle fanatic who knows no defeat? Couldn’t be further from the truth! In reality, Deon Hardt is a sickly human who coughs up blood from receiving the tiniest bit of stress and gets sunburns from standing in the sun for ten minutes. But due to an unfortunate misunderstanding, he becomes “Demon Arut,” the notorious 0th corps commander of the demon army and the demon king’s joker. Caught in a war between humans and demonkind, Deon must find a way to survive! \n\n(Source: Tappytoon)",
+  "status": "Hiatus",
+  "total": 118,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "comedy",
+    "drama",
+    "mature",
+    "shounen",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Battles",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Red-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Split Personality",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Dissociative Identities",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "158448",
+    "anime_planet": "im-not-that-kind-of-talent",
+    "kitsu": "65541",
+    "manga_updates": "al35l5c",
+    "my_anime_list": "155726",
+    "shikimori": "155726"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=802840",
+    "https://series.naver.com/comic/detail.series?productNo=9099632",
+    "https://www.dongmanmanhua.cn/BOY/wobushinazhongrencai/list?title_no=2335",
+    "https://www.tappytoon.com/en/book/im-not-that-kind-of-talent",
+    "https://www.tappytoon.com/fr/book/im-not-that-kind-of-talent-fr",
+    "https://www.webtoons.com/fr/action/je-ne-suis-pas-celui-que-vous-croyez/list?title_no=5276",
+    "https://www.webtoons.com/zh-hant/fantasy/not-that-kind-of-talent/list?title_no=5145",
+    "https://namu.wiki/w/%EC%A0%80%20%EA%B7%B8%EB%9F%B0%20%EC%9D%B8%EC%9E%AC%20%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/3070"
+  ]
+}

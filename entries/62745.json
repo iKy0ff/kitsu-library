@@ -1,0 +1,128 @@
+{
+  "kitsuId": "62745",
+  "title": "Ruri Dragon",
+  "updatedAt": "2026-07-10T13:18:51.761Z",
+  "matchVersion": 2,
+  "mangabakaId": 47180,
+  "mangabakaUrl": "https://mangabaka.org/47180",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyNzc1MC1WbTY5SmNBMTVHODAucG5n",
+  "author": "Masaoki Shindou",
+  "synopsis": "Ruri Aoki is a perfectly ordinary high school girl—until one day, she grows horns overnight. Confused by the change, Ruri asks her mother about it, only to find out a shocking truth: Ruri is actually a half-dragon.\n\nThough worried, Ruri heads to school, hoping her new appearance does not catch the attention of those around her. Unfortunately, Ruri's classmates quickly notice and start to swarm her with questions. Additionally, this newfound revelation comes with a dangerous ability to spew balls of fire. In an effort to help Ruri contain her power, her mother takes her to the forest where Ruri's dragon father resides, hoping he might have the answer to curtailing the problem before it hurts anyone else.\n\n[Written by MAL Rewrite]",
+  "status": "Completed",
+  "total": 1,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "fantasy",
+    "slice_of_life",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Girls Doing Cute Things",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "One Shot",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Pilot Chapter",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "127750",
+    "anime_planet": "ruri-dragon-pilot",
+    "kitsu": "62745",
+    "my_anime_list": "138475",
+    "shikimori": "138475"
+  },
+  "links": [
+    "https://mangabaka.org/47180"
+  ]
+}

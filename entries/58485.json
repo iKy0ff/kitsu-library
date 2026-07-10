@@ -1,0 +1,447 @@
+{
+  "kitsuId": "58485",
+  "title": "SSS-Class Revival Hunter",
+  "updatedAt": "2026-07-10T13:07:08.447Z",
+  "matchVersion": 2,
+  "mangabakaId": 1451,
+  "mangabakaUrl": "https://mangabaka.org/1451",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzQvMS8yL2QvMi9jLzgvNGY2ZS80MWQ5L2E0ODIvYWI5YTIwYWZhYmM2",
+  "author": "Neida, No-A Sin",
+  "synopsis": "In the mysterious, RPG dungeon-like Tower, Confucius Kim lives a mundane existence, envying all the star hunters. One day, his wish for more is granted with a legendary skill to copy others’ abilities… at the cost of his life. Before he can make sense of it, he’s killed by the #1 hunter, the Flame Emperor! But this activates his skill and now he’s copied a new one, the ability to travel back in time upon death. How will Confucius use these skills to outplay the competition and rise to the top? \n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 151,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "supernatural",
+    "comedy",
+    "psychological",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Adult Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Scheming Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Emotionally Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Low Self-Esteem",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Plain-Looking Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Past Encounter",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Memory Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Loop",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coach",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Teachers",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Master-Disciple Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Contemporary Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dark Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Goblin",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Death",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Inferiority Complex",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Marriage",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Philosophy",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Suicide",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "128067",
+    "anime_planet": "sss-class-revival-hunter",
+    "kitsu": "58485",
+    "manga_updates": "7v63sfr",
+    "my_anime_list": "146909",
+    "shikimori": "146909"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=56243215",
+    "https://piccoma.com/web/product/65543",
+    "https://tapas.io/series/sss-class-revival-hunter/info",
+    "https://th.kakaowebtoon.com/content/นักล่าพลีชีพ_ระดับ_SSS/98",
+    "https://webtoon.kakao.com/content/SSS급-죽어야-사는-헌터/2454",
+    "https://www.delitoon.com/detail/daf_1000836",
+    "https://yenpress.com/series/sss-class-revival-hunter",
+    "https://namu.wiki/w/SSS%EA%B8%89%20%EC%A3%BD%EC%96%B4%EC%95%BC%20%EC%82%AC%EB%8A%94%20%ED%97%8C%ED%84%B0(%EC%9B%B9%ED%88%B0)",
+    "https://page.kakao.com/content/56243215",
+    "https://mangabaka.org/1451"
+  ]
+}

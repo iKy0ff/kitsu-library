@@ -1,0 +1,343 @@
+{
+  "kitsuId": "61963",
+  "title": "Wo! Tian Mìng Da Fanpai",
+  "updatedAt": "2026-07-10T13:11:49.221Z",
+  "matchVersion": 2,
+  "mangabakaId": 704,
+  "mangabakaUrl": "https://mangabaka.org/704",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzEvYy9iL2IvZC9jL2YvZjAzMC80MzIzLzhmZjcvMjM1OTU5ZDQ1YWMx",
+  "author": "Liu Mang, Tian Ming Fan Pai",
+  "synopsis": "A transmigrator awoke in the world of martial arts and became the villain named Gu Changge. His goal is to harvest the luck of those called \"the Son of Fate\" in order to become the strongest. With the Sons of Fate as his deranged enemies, he changes the destiny of being a villain.\n\n(Source: INKR)",
+  "status": "Releasing",
+  "total": 342,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "harem",
+    "martial_arts",
+    "psychological",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mass Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sexual Assault",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Villain Protagonist",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Beautiful Female Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Lead with Trauma",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Virgin Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cunning Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Evil Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Perverted Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Sexually Active Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Rapist Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Love Polygon",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Dubious Consent",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Netori",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Rape as a Start of Relationship",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Defloration",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Virginity",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sects",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "142287",
+    "anime_planet": "i-am-the-fated-villain",
+    "kitsu": "61963",
+    "manga_updates": "yjebcls"
+  },
+  "links": [
+    "https://comics.inkr.com/title/1382-i-am-the-fated-villain",
+    "https://mangatoon.mobi/en/i-am-the-fated-villain?content_id=3446131",
+    "https://page.kakao.com/content/61188260",
+    "https://piccoma.com/web/product/119582",
+    "https://www.kuaikanmanhua.com/web/topic/12602/",
+    "https://www.webcomicsapp.com/comic/I-am-the-Fated-Villain/63805b998c252b7c5e6b6b74",
+    "https://www.webnovel.com/comic/i-am-the-fated-villain_26434988606344401",
+    "https://mangabaka.org/704"
+  ]
+}

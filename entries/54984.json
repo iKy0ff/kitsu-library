@@ -1,0 +1,265 @@
+{
+  "kitsuId": "54984",
+  "title": "Samayoeru Tensei-sha-tachi no Revival Game",
+  "updatedAt": "2026-07-10T12:59:09.065Z",
+  "matchVersion": 2,
+  "mangabakaId": 33968,
+  "mangabakaUrl": "https://mangabaka.org/33968",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDExMDA0OC1yNURUZkNMQzhrNWcuanBn",
+  "author": "Kenji Saitou",
+  "synopsis": "When \"Nice Guy\" Asai Manatsu's marriage proposal gets rejected, he thinks his day can't get any worse, until a Knight in Skull helmet tries to kill him! He's saved by a beautiful, silver-haired swords-woman and told to flee, but his nice guy impulses are too strong and he saves her from an attack, getting himself killed in the process. As he dies he wishes to be reborn in a world where people won't judge him for taking care of others...",
+  "status": "Completed",
+  "total": 26,
+  "type": "manga",
+  "genres": [
+    "action",
+    "comedy",
+    "drama",
+    "ecchi",
+    "fantasy",
+    "romance",
+    "adventure",
+    "gender_bender",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Bath House",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Body Swapping",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "core"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Attempted Rape",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Tentacles",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Yuri",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Body Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trinity Seven's Kenji Saito Launches New Light Novel",
+      "date": "2023-01-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-01-27/trinity-seven-kenji-saito-launches-new-light-novel/.194226"
+    },
+    {
+      "title": "Kenji Saito, Haruto Hino's Samayoeru Tenseisha-tachi no Revival Game Manga Ends",
+      "date": "2021-07-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-12/kenji-saito-haruto-hino-samayoeru-tenseisha-tachi-no-revival-game-manga-ends/.175017"
+    },
+    {
+      "title": "Trinity Seven's Kenji Saito Launches New Manga Series on April 19",
+      "date": "2021-03-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-18/trinity-seven-kenji-saito-launches-new-manga-series-on-april-19/.170763"
+    }
+  ],
+  "sources": {
+    "anilist": "110048",
+    "anime_planet": "samayoeru-tensei-sha-tachi-no-revival-game",
+    "anime_news_network": "28776",
+    "kitsu": "54984",
+    "manga_updates": "hcw98f6",
+    "my_anime_list": "120464",
+    "shikimori": "120464"
+  },
+  "links": [
+    "https://bookwalker.jp/series/213995/",
+    "https://comic-walker.com/contents/detail/KDCW_FS01201043010000_68/",
+    "https://dragonage-comic.com/product/samayoeru_relive_game/",
+    "https://www.kadokawa.co.jp/product/321904000592/",
+    "https://mangabaka.org/33968"
+  ]
+}

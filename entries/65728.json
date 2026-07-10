@@ -1,0 +1,339 @@
+{
+  "kitsuId": "65728",
+  "title": "Pick Me Up!",
+  "updatedAt": "2026-07-10T13:11:34.042Z",
+  "matchVersion": 2,
+  "mangabakaId": 1465,
+  "mangabakaUrl": "https://mangabaka.org/1465",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzAvNi80LzMvZC8wLzAvYjIyMy80ODJhLzg3YzMvMDMwYWI0MjBlNjAw",
+  "author": "Hermod, U-Ne Cho",
+  "synopsis": "1-Star heroes are just fodder for learning a boss' attack patterns. That was Seojin Han's philosophy when playing the notoriously difficult game Pick Me Up. But after being transported into the game as one of those 1-star heroes, he's got no choice but to rise in rank and defeat the player controlling him and his party. Can a gacha game character hope to defeat a player akin to being his god? \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 209,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "drama",
+    "psychological",
+    "sci-fi",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Team Battle",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Nekomimi",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Black-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Competent Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Unique Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kingdom Management",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Play or Die Situation",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Death Game",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Game of Death",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Survival Game",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Archers",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Master-Disciple Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Summoned Into Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to a Game World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Virtual Reality",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fairy",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goblin",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "159441",
+    "anime_planet": "pick-me-up",
+    "kitsu": "65728",
+    "manga_updates": "r4ksmo5",
+    "my_anime_list": "154587",
+    "shikimori": "154587"
+  },
+  "links": [
+    "https://page.kakao.com/content/60914825",
+    "https://piccoma.com/web/product/121552",
+    "https://tapas.io/series/pick-me-up/info",
+    "https://th.kakaowebtoon.com/content/PICK_ME_UP/623?tab=episode",
+    "https://webtoon.kakao.com/content/픽-미-업/3205?tab=episode",
+    "https://namu.wiki/w/%ED%94%BD%20%EB%AF%B8%20%EC%97%85!(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/1465"
+  ]
+}

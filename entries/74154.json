@@ -1,0 +1,132 @@
+{
+  "kitsuId": "74154",
+  "title": "Gongmuwon Hunter S-geup Toesailji",
+  "updatedAt": "2026-07-10T13:06:14.981Z",
+  "matchVersion": 2,
+  "mangabakaId": 6725,
+  "mangabakaUrl": "https://mangabaka.org/6725",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzUvYi81LzMvMi9kLzQvMTUzNi80Yjk4L2FhOWIvNmI3NTE2NjYzNzJm",
+  "author": "Nokta, Why Not Me Production",
+  "synopsis": "In a world where hunter rank is everything, Rank F Yun Seo-Ra is lucky to even have a job at the Hunter Association. But when she's trapped in a dungeon, she yells at the system, blaming her inability to escape on her low rank. Out of pity, it offers her an exclusive contract, which Seo-Ra accepts, soaring to Rank S! She begs the system to keep this a secret until she can earn enough money to quit her job. Can Seo-Ra resign with riches, or will her fellow Rank S hunters track her down first? \n\n(Source: Tapas, edited)",
+  "status": "Hiatus",
+  "total": 40,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "romance",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "176769",
+    "anime_planet": "the-exclusive-contractors-quitting-chronicles",
+    "kitsu": "74154",
+    "manga_updates": "ryx8zz7",
+    "my_anime_list": "171490",
+    "shikimori": "171490"
+  },
+  "links": [
+    "https://page.kakao.com/content/63527047",
+    "https://tapas.io/series/the-exclusive-contractors-quitting-chronicles/info",
+    "https://namu.wiki/w/%EA%B3%B5%EB%AC%B4%EC%9B%90%20%ED%97%8C%ED%84%B0%EC%9D%98%20S%EA%B8%89%20%ED%87%B4%EC%82%AC%EC%9D%BC%EC%A7%80#s-7.1",
+    "https://mangabaka.org/6725"
+  ]
+}

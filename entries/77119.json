@@ -1,0 +1,129 @@
+{
+  "kitsuId": "77119",
+  "title": "Level 999 Goblin",
+  "updatedAt": "2026-07-10T13:16:24.241Z",
+  "matchVersion": 2,
+  "mangabakaId": 203076,
+  "mangabakaUrl": "https://mangabaka.org/203076",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 90
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81L2IvMS9mL2QvNS8xLzQvYjRlNi80MWQ1L2EwYjcvOTFmNTFiNTE4Y2Zi",
+  "author": "Dapi",
+  "synopsis": "Cheol-Su is a loser in life and a loser in-game... until he’s suddenly promoted to Goblin Summoner. He’s shocked when he discovers that his goblin summon is a hideous, max-level monster capable of obliterating any foe with a single attack! There’s just one catch, though--his new buddy can’t be unsummoned, and it draws way too much attention. Now stuck with an overpowered pet following him everywhere, he has to get crafty and channel his inner goblin to manipulate and claw his way to the top in pursuit of greatness and riches.\n\n(Source: WEBTOON)",
+  "status": "Completed",
+  "total": 60,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "comedy",
+    "fantasy",
+    "adventure",
+    "ecchi",
+    "harem",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Goblin",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Surreal Comedy",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "VRMMORPG",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "192813",
+    "anime_planet": "level-999-goblin",
+    "manga_updates": "nfyob5y",
+    "my_anime_list": "181842",
+    "shikimori": "181842"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=838991",
+    "https://series.naver.com/comic/detail.series?productNo=12576493",
+    "https://www.dongmanmanhua.cn/BOY/lv999gebulin/list?title_no=2797",
+    "https://www.webtoons.com/en/fantasy/level-999-goblin/list?title_no=8389",
+    "https://www.webtoons.com/fr/action/level-999-goblin/list?title_no=8786",
+    "https://www.webtoons.com/th/fantasy/level-999-goblin/list?title_no=8321",
+    "https://www.webtoons.com/zh-hant/fantasy/level-999-goblin/list?title_no=8594",
+    "https://namu.wiki/w/%EB%A0%88%EB%B2%A8999%20%EA%B3%A0%EB%B8%94%EB%A6%B0",
+    "https://mangabaka.org/203076"
+  ]
+}

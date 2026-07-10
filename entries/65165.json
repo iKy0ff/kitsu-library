@@ -1,0 +1,199 @@
+{
+  "kitsuId": "65165",
+  "title": "Gucheongugeom",
+  "updatedAt": "2026-07-10T13:17:21.362Z",
+  "matchVersion": 2,
+  "mangabakaId": 2215,
+  "mangabakaUrl": "https://mangabaka.org/2215",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zL2IvNy83L2MvMi9hLzkvODdkMy80MzYxL2FkOWQvYzIzMDAxYWU1ZDg4",
+  "author": "Jin-Haeng Jo, Kadok",
+  "synopsis": "Yeon Jeokha had to suffer years of abuse from his father's first wife for being the favored second wife's son. His fortunes change upon finding a mirror with a spirit who teaches him the Nine Heavens Sword Art, a powerful technique his father created. After an arduous decade of training, he successfully escapes and heads to the mountains, where he joins the Obong Outlaws as their strongest member. But he soon learns that the stronger he gets, the more enemies and rivals are bound to follow... \n\n(Source: Tapas)",
+  "status": "Completed",
+  "total": 153,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "drama",
+    "martial_arts",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Long-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Red-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Abused Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Confident Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical Setting",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Abuse",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Child Abuse",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sects",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "156193",
+    "anime_planet": "the-nine-heavens-swordmaster",
+    "kitsu": "65165",
+    "manga_updates": "oqvzgof",
+    "my_anime_list": "153509",
+    "shikimori": "153509"
+  },
+  "links": [
+    "https://page.kakao.com/content/60492600",
+    "https://tapas.io/series/the-nine-heavens-swordmaster/info",
+    "https://webtoon.kakao.com/content/구천구검/3208?tab=episode",
+    "https://mangabaka.org/2215"
+  ]
+}

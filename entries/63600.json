@@ -1,0 +1,203 @@
+{
+  "kitsuId": "63600",
+  "title": "99ganghwanamumongdungi",
+  "updatedAt": "2026-07-10T13:04:50.805Z",
+  "matchVersion": 2,
+  "mangabakaId": 52908,
+  "mangabakaUrl": "https://mangabaka.org/52908",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84L2EvOC8wL2UvOC82LzgvODBhMi80N2IwL2I0YjYvNzU5ZmM0NmFiZjBi",
+  "author": "Hong-Sil",
+  "synopsis": "Welcome to “Chrono Life,” a virtual reality game where only the strongest survive. Ji-u logs in to “Chrono Life,” only to be ignored and ridiculed by the other players for his lack of experience, crappy items, and being an overall noob. But when he upgrades his wooden stick to the max reinforcement level of +99, Ji-u realizes he has the power to split continents and slay armies of thousands in just one swing.\n\n*“It’s time to teach the rest of you a lesson, you f\\*ckers.”* \n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 213,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "drama"
+  ],
+  "tags": [
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Annoying Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Famous Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Comedic Violence",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Meta",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Age Gap",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Virtual Reality",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Parody",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Satire",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Surreal Comedy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "147102",
+    "anime_planet": "plus-99-reinforced-wooden-stick",
+    "kitsu": "63600",
+    "manga_updates": "4dy18um",
+    "my_anime_list": "147204",
+    "shikimori": "147204"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=792651",
+    "https://series.naver.com/comic/detail.series?productNo=8306797",
+    "https://www.webtoons.com/en/comedy/99-reinforced-wooden-stick/list?title_no=4286",
+    "https://www.webtoons.com/es/fantasy/99-reinforced-wooden-stick/list?title_no=4504",
+    "https://www.webtoons.com/fr/fantasy/99-reinforced-wooden-stick/list?title_no=4461",
+    "https://www.webtoons.com/th/action/99-reinforced-wooden-stick/list?title_no=4395",
+    "https://www.webtoons.com/zh-hant/fantasy/99wooden-stick/list?title_no=4484",
+    "https://namu.wiki/w/99%EA%B0%95%ED%99%94%EB%82%98%EB%AC%B4%EB%AA%BD%EB%91%A5%EC%9D%B4",
+    "https://mangabaka.org/52908"
+  ]
+}

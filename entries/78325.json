@@ -1,0 +1,116 @@
+{
+  "kitsuId": "78325",
+  "title": "Sihanbu Hwangjeui Juchiuiimnida",
+  "updatedAt": "2026-07-10T13:05:40.883Z",
+  "matchVersion": 2,
+  "mangabakaId": 5976,
+  "mangabakaUrl": "https://mangabaka.org/5976",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzUvNC8yLzMvNS81LzgvOWI4MC80ZDU3L2FmZjYvZjg0Yzg4N2U3N2E5",
+  "author": "Jeong-Ha, Selli",
+  "synopsis": "Executed for failing to save the emperor, Serena Vincent wakes up again and again on the day she’s assigned as his physician. Azaid Khan Krothen, the emperor's bastard son from a lowly maid, was cast aside at birth. But he now sits on a throne others want to control. As Serena races to cure his mysterious illness, each failure ends in her death. Trapped in a deadly loop, she must find the cure to the emperor's illness... before her next death is her last.\n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "total": 164,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "josei"
+  ],
+  "tags": [
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hospital",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Doctors",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Medical",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "187457",
+    "anime_planet": "the-dying-emperors-personal-physician",
+    "kitsu": "66175",
+    "manga_updates": "8wwujbl",
+    "my_anime_list": "177343",
+    "shikimori": "177343"
+  },
+  "links": [
+    "https://page.kakao.com/content/65582970",
+    "https://tapas.io/series/the-dying-emperors-personal-physician/info",
+    "https://webtoon.kakao.com/content/시한부-황제의-주치의입니다/4329",
+    "https://mangabaka.org/5976"
+  ]
+}

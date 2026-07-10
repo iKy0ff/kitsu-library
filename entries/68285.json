@@ -1,0 +1,133 @@
+{
+  "kitsuId": "68285",
+  "title": "Wo, Jinhua, Emo",
+  "updatedAt": "2026-07-10T12:59:39.274Z",
+  "matchVersion": 2,
+  "mangabakaId": 873,
+  "mangabakaUrl": "https://mangabaka.org/873",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE2MzUzNi12N1lNR3hZNEFWSXguanBn",
+  "author": "MOKF",
+  "synopsis": "In 3069, Earth faces annihilation from demonic invaders. Through grafting technology, humans turn the tide at the Battle of the Dawn by using demonic powers against their invaders. Amid this chaos, Aang, the Mightiest Warrior, falls, but his demise isn't the end. Instead, he mysteriously travels 60 years into the future, harboring the ultimate demon power within him—a double-edged sword. To overcome past regrets and uncover the truth, he must continuously \"evolve\" to control the demon within.\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "total": 151,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Boys Love",
+      "group": "Genre",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "163536",
+    "anime_planet": "the-devil-never-cries",
+    "kitsu": "68285",
+    "manga_updates": "2a9rjmf"
+  },
+  "links": [
+    "https://tapas.io/series/the-devil-never-cries/info",
+    "https://www.kuaikanmanhua.com/web/topic/17597/",
+    "https://www.tappytoon.com/en/book/the-devil-never-cries",
+    "https://www.webtoons.com/en/action/the-devil-never-cries/list?title_no=10228",
+    "https://www.webtoons.com/fr/action/demonic-evolution/list?title_no=8276",
+    "https://www.webtoons.com/th/fantasy/the-devil-never-cries/list?title_no=10327",
+    "https://mangabaka.org/873"
+  ]
+}

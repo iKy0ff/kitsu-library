@@ -1,0 +1,255 @@
+{
+  "kitsuId": "63730",
+  "title": "Sinhwageup Gwisok Item-eul Sone Neoeotda",
+  "updatedAt": "2026-07-10T13:11:41.710Z",
+  "matchVersion": 2,
+  "mangabakaId": 1970,
+  "mangabakaUrl": "https://mangabaka.org/1970",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzMvOS9hL2MvOC8xLzQvNDhlOC80NmNiL2I2NGIvMzUyMzE1YzI5NDBj",
+  "author": "Fantera, Seon-Yul Jeong, Seon-Yul Jeong",
+  "synopsis": "In a world where technology and magic are almost indistinguishable from one another, monsters and creatures of myth and legend reign terror upon mankind. In humanity’s darkest moment, individuals with special god-like powers emerge to save the day. They are — the Awakened. Meet Jae-Hyun, a feeble Awakened human Raider, who struggles to make ends meet until one day a series of confounding events allow him to claim a powerful item that will change the course of history forever…\n\n(Source: WEBTOON, edited)",
+  "status": "Releasing",
+  "total": 187,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "harem",
+    "romance",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Attempted Murder",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Memory Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Childhood Friends",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Complicated Family",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Mythology",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Norse Mythology",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Goddess",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Eye Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "151025",
+    "anime_planet": "mythic-item-obtained",
+    "kitsu": "63730",
+    "manga_updates": "itm1ceu",
+    "my_anime_list": "150561",
+    "shikimori": "150561"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=795297&weekday=mon",
+    "https://series.naver.com/comic/detail.series?productNo=8563145",
+    "https://www.webtoons.com/de/fantasy/mythic-item-obtained/list?title_no=6427",
+    "https://www.webtoons.com/en/fantasy/mythic-item-obtained/list?title_no=4582",
+    "https://www.webtoons.com/fr/action/mythic-item-obtained/list?title_no=4669",
+    "https://www.webtoons.com/th/fantasy/mythic-item-obtained/list?title_no=5705",
+    "https://www.webtoons.com/zh-hant/fantasy/mythic-item-obtained/list?title_no=4758",
+    "https://comic.naver.com/webtoon/list?titleId=795297",
+    "https://namu.wiki/w/%EC%8B%A0%ED%99%94%EA%B8%89%20%EA%B7%80%EC%86%8D%20%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%84%20%EC%86%90%EC%97%90%20%EB%84%A3%EC%97%88%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/1970"
+  ]
+}

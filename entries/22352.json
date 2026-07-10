@@ -1,0 +1,545 @@
+{
+  "kitsuId": "22352",
+  "title": "Horimiya",
+  "updatedAt": "2026-07-10T13:00:13.607Z",
+  "matchVersion": 2,
+  "mangabakaId": 6029,
+  "mangabakaUrl": "https://mangabaka.org/6029",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzAvMy8wLzkvMi83LzUvNGIwYy80ZmZmLzhjN2QvN2NkN2RhY2Y5Yjcz",
+  "author": "HERO",
+  "synopsis": "A sweet “aww”-inspiring tale of school life begins!! At school, Kyouko Hori is known for being smart, attractive, and popular. On the other hand, her classmate, the boring, gloomy Izumi Miyamura tends to get painted as a “loser fanboy.” But when a liberally pierced and tattooed (not to mention downright gorgeous) Miyamura appears unexpectedly on the doorstep of secretly plain-Jane homebody Hori, these two similarly dissimilar teenagers discover that there are multiple sides to every story…and person!\n\n*Source: Yen Press, Vol. 1*",
+  "status": "Completed",
+  "total": 152,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "romance",
+    "slice_of_life",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Male Demographic with Female Author",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Tsundere",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Tsundere Female Lead",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Sadists",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Long-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Glasses-Wearing Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Clumsy Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Ensemble Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Assertive Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blood-Thirsty Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Bold Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Capable Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Charismatic Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Female Lead with Sexual Experience",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Hard-Working Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Independent Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Popular Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Violent Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Virgin Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Cool Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Emotionally Strong Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead with Body Piercing",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead with Sexual Experience",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Masochist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Quirky Character",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fully Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Jdrama",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Live Action",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on Real Life",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Bakery",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Appearance Different from Personality",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedic Violence",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Opposites Attract",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Realistic Relationship",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Unrequited Love Becomes Requited",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Unrequited Love Stays Unrequited",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Friends to Lovers",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Family",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Brothers",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Siblings",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Older Sister",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Love-Hate Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Multiple Couples",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sexually Active Couple",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slow Romance",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Younger Brother",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Urban",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fetishes",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Sadism",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slapstick",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Jealousy",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Love Confession",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Marriage Proposal",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Possessive Lovers",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Episodic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "Horimiya: The Missing Pieces Anime's New Video Teases Emotional Return",
+      "date": "2023-06-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-06-24/horimiya-the-missing-pieces-anime-new-video-teases-emotional-return/.199587"
+    },
+    {
+      "title": "New Horimiya -piece- Anime Premieres in July",
+      "date": "2023-03-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-03-25/new-horimiya-piece-anime-premieres-in-july/.196395"
+    },
+    {
+      "title": "Live-Action Horimiya Project Previews School Romance, Toketadenkyu's Theme Song in Trailer",
+      "date": "2020-12-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-21/live-action-horimiya-project-previews-school-romance-toketadenkyu-theme-song-in-trailer/.167692"
+    },
+    {
+      "title": "Horimiya TV Anime Unveils 9 More Cast Members, More Staff, New Visual",
+      "date": "2020-11-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-23/horimiya-tv-anime-unveils-9-more-cast-members-more-staff-new-visual/.166621"
+    },
+    {
+      "title": "Horimiya TV Anime's 3rd Video Reveals Student Council's Cast",
+      "date": "2020-11-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-02/horimiya-tv-anime-3rd-video-reveals-student-council-cast/.165873"
+    },
+    {
+      "title": "Made in Abyss, ReLIFE, Momokuri Vie for Top Spot in Web Manga General Election",
+      "date": "2017-07-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2017-07-17/made-in-abyss-relife-momokuri-vie-for-top-spot-in-web-manga-general-election/.118929"
+    },
+    {
+      "title": "Zero Kara Hajimeru Mahō no Sho Fantasy Anime's 1st Promo Streamed",
+      "date": "2016-10-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-10-03/zero-kara-hajimeru-maho-no-sho-fantasy-anime-1st-promo-streamed/.107192"
+    },
+    {
+      "title": "First Madman Anime Festival on in Melbourne This Weekend",
+      "date": "2016-09-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-09-02/first-madman-anime-festival-on-in-melbourne-this-weekend/.106035"
+    },
+    {
+      "title": "More Titles Announced for AnimeLab Winter Season",
+      "date": "2016-01-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-01-12/more-titles-announced-for-animelab-winter-season/.97451"
+    },
+    {
+      "title": "Shōjo-tachi wa Kōya o Mezasu Anime's TV Ad Previews Cast's Ending Song",
+      "date": "2015-12-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2015-12-26/shojo-tachi-wa-koya-o-mezasu-anime-tv-ad-previews-cast-ending-song/.96928"
+    },
+    {
+      "title": "Futsuu no Joshikousei ga [Locodol] Yattemita's 2nd Promo Previews Opening",
+      "date": "2014-06-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-06-13/futsuu-no-joshikousei-ga-locodol-yattemita-2nd-promo-previews-opening/.75525"
+    },
+    {
+      "title": "Asami Shimoda, Inori Minase, Maya Yoshioka Join Locodol Anime Cast",
+      "date": "2014-03-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-03-31/asami-shimoda-inori-minase-maya-yoshioka-join-locodol-anime-cast"
+    },
+    {
+      "title": "2nd Hori-san to Miyamura-kun Video Anime's Promo Streamed",
+      "date": "2014-03-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-03-02/2nd-hori-san-to-miyamura-kun-video-anime-promo-streamed"
+    },
+    {
+      "title": "Hori-san & Miyamura-kun School Manga Has Anime in the Works",
+      "date": "2012-04-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-04-16/hori-san-and-miyamura-kun-school-manga-has-anime-in-the-works"
+    }
+  ],
+  "sources": {
+    "anilist": "72451",
+    "anime_planet": "horimiya",
+    "anime_news_network": "14296",
+    "kitsu": "22352",
+    "manga_updates": "uu6yf6n",
+    "my_anime_list": "42451",
+    "shikimori": "42451"
+  },
+  "links": [
+    "https://en.wikipedia.org/wiki/Hori-san_to_Miyamura-kun",
+    "https://global.manga-up.com/manga/122",
+    "https://ja.wikipedia.org/wiki/%E5%A0%80%E3%81%95%E3%82%93%E3%81%A8%E5%AE%AE%E6%9D%91%E3%81%8F%E3%82%93",
+    "https://magazine.jp.square-enix.com/gfantasy/story/horimiya/",
+    "https://www.nobi-nobi.fr/livres-series-horimiya/",
+    "https://www.normaeditorial.com/catalogo/manga/serie/horimiya",
+    "https://www.square-enix.co.jp/magazine/gfantasy/story/horimiya/",
+    "https://yenpress.com/series/horimiya",
+    "https://mangabaka.org/6029"
+  ]
+}

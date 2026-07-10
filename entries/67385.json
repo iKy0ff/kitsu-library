@@ -1,0 +1,283 @@
+{
+  "kitsuId": "67385",
+  "title": "I'm Being Raised by Villains",
+  "updatedAt": "2026-07-10T13:10:05.976Z",
+  "matchVersion": 2,
+  "mangabakaId": 436,
+  "mangabakaUrl": "https://mangabaka.org/436",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2IvNy81LzQvMC9jLzEvMWRjNi80MTRiL2FkZGQvOTkxZjk4ZjUwNTdm",
+  "author": "Eun-Hyang Ja, Yulli",
+  "synopsis": "Neglected by her family, Cha Mi-So dreams of life in her favorite novel as the beloved main character. Then one day, she wakes up inside the novel, but as Eileen Etam, a downtrodden side character who will be kicked out of her home! To avoid further neglect, she plots to leave before that occurs. But when Erno Etam, the crazy heir to House Etam, claims that Eileen is his daughter, her plans are foiled, and Eileen finds herself in the middle of a conflict between House Etam and a cast of villains. \n\n(Source: Tapas, edited)",
+  "status": "Releasing",
+  "total": 151,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "drama",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blue-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Golden/Yellow-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Pink-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "White/Silver-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Rich Characters",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dragon Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Nonhuman Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shape-Shifter Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Puppy-like Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shapeshifting",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Animal Transformation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dukes",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Family",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reverse Harem",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekaied Into a Novel",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Transmigrated into a Book World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Discrimination",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Rich Family",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "167171",
+    "anime_planet": "being-raised-by-villains",
+    "kitsu": "67385",
+    "manga_updates": "60hrhq7",
+    "my_anime_list": "158905",
+    "shikimori": "158905"
+  },
+  "links": [
+    "https://page.kakao.com/content/61822163",
+    "https://tapas.io/series/being-raised-by-villains/info",
+    "https://webtoon.kakao.com/content/악당들에게-키워지는-중입니다/3507?tab=episode",
+    "https://namu.wiki/w/%EC%95%85%EB%8B%B9%EB%93%A4%EC%97%90%EA%B2%8C%20%ED%82%A4%EC%9B%8C%EC%A7%80%EB%8A%94%20%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4#s-8.1",
+    "https://mangabaka.org/436"
+  ]
+}

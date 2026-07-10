@@ -1,0 +1,289 @@
+{
+  "kitsuId": "63638",
+  "title": "Ruri Dragon",
+  "updatedAt": "2026-07-10T12:59:58.321Z",
+  "matchVersion": 2,
+  "mangabakaId": 600,
+  "mangabakaUrl": "https://mangabaka.org/600",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2UvMy9mLzAvMS9jLzQvM2FjMS80MWU3L2IwNDcvYmNjMTkxYTQwYWM0",
+  "author": "Masaoki Shindou",
+  "synopsis": "Ruri Aoki awakens one morning to find a pair of horns growing from her head! It’s already hard enough trying to be a normal high school girl, so how the heck is she gonna figure out this crazy dragon stuff?\n\n*Source: VIZ Media*",
+  "status": "Releasing",
+  "total": 47,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "slice_of_life",
+    "supernatural",
+    "fantasy",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Girls Doing Cute Things",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Teen Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dragon Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Contemporary Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slapstick",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "RuriDragon Manga Delays Next Chapter to June",
+      "date": "2026-04-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-26/ruridragon-manga-delays-next-chapter-to-june/.236802"
+    },
+    {
+      "title": "RuriDragon Manga Goes on Hiatus Until April 27",
+      "date": "2026-03-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-11/ruridragon-manga-goes-on-hiatus-until-april-27/.235110"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 1-7",
+      "date": "2026-03-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-06/north-american-anime-manga-releases-march-1-7/.234832"
+    },
+    {
+      "title": "The Best New and Continuing Manga of 2025",
+      "date": "2025-12-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2025/the-best-anime-of/the-best-new-and-continuing-manga-of/.232031"
+    },
+    {
+      "title": "Masaoki Shindō's RuriDragon Manga Gets TV Anime by Kyoto Animation",
+      "date": "2025-12-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-12-28/masaoki-shindo-ruridragon-manga-gets-tv-anime-by-kyoto-animation/.232603"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 3-9",
+      "date": "2025-08-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-06/north-american-anime-manga-releases-august-3-9/.227361"
+    },
+    {
+      "title": "M&C! Releases RuriDragon Manga in Print in Indonesia",
+      "date": "2025-05-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-05-26/m-c-releases-ruridragon-manga-in-print-in-indonesia/.224808"
+    },
+    {
+      "title": "RuriDragon Manga Takes Short Break, Slated to Return in July",
+      "date": "2025-05-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-05-19/ruridragon-manga-takes-short-break-slated-to-return-in-july/.224574"
+    },
+    {
+      "title": "RuriDragon Volume 1 Manga Review",
+      "date": "2025-01-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/ruridragon/volume-1/.219721"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 5-11",
+      "date": "2025-01-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-01-07/north-american-anime-manga-releases-january-5-11/.219766"
+    },
+    {
+      "title": "Kagurabachi Tops Print Category, Girl Meets Rock! Wins in Web Category of Next Manga Awards 2024",
+      "date": "2024-08-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2024-08-28/kagurabachi-tops-print-category-girl-meets-rock-wins-in-web-category-of-next-manga-awards-2024/.214760"
+    },
+    {
+      "title": "Voting Opens for Next Manga Awards 2024",
+      "date": "2024-06-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2024-06-25/voting-opens-for-next-manga-awards-2024/.212369"
+    },
+    {
+      "title": "Viz Media Licenses Beyblade X, Mujina Into the Deep, Firefly Wedding, The Climber, More Manga",
+      "date": "2024-06-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-01/viz-media-licenses-beyblade-x-mujina-into-the-deep-firefly-wedding-the-climber-more-manga/.211428"
+    },
+    {
+      "title": "RuriDragon Manga Confirms Short Print Return Before Going Semi-Monthly Digitally",
+      "date": "2024-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-02-21/ruridragon-manga-confirms-short-print-return-before-going-semi-monthly-digitally/.207815"
+    },
+    {
+      "title": "Kono Manga ga Sugoi! Editors Unveil 2024 Rankings (Updated)",
+      "date": "2023-12-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-11/kono-manga-ga-sugoi-editors-unveil-2024-rankings/.205367"
+    },
+    {
+      "title": "RuriDragon Manga Takes Extended Break Due to Creator's Health",
+      "date": "2022-07-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-31/ruridragon-manga-takes-extended-break-due-to-creator-health/.188199"
+    },
+    {
+      "title": "RuriDragon Manga Takes Another 1-Week Break Due to Author's Health",
+      "date": "2022-07-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-24/ruridragon-manga-takes-another-1-week-break-due-to-author-health/.187961"
+    },
+    {
+      "title": "RuriDragon Manga Takes 1-Week Break Due to Author's 'Sudden Illness'",
+      "date": "2022-07-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-18/ruridragon-manga-takes-1-week-break-due-to-author-sudden-illness/.187727"
+    },
+    {
+      "title": "Viz Media, Manga Plus Publish Masaoki Shindō's RuriDragon Manga in English",
+      "date": "2022-06-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-19/viz-media-manga-plus-publish-masaoki-shindo-ruridragon-manga-in-english/.186799"
+    },
+    {
+      "title": "Fusai Naba, Masaoki Shindō Each Launch New Manga in Shonen Jump in June",
+      "date": "2022-05-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-30/fusai-naba-masaoki-shindo-each-launch-new-manga-in-shonen-jump-in-june/.186112"
+    }
+  ],
+  "sources": {
+    "anilist": "150440",
+    "anime_planet": "ruridragon",
+    "anime_news_network": "25808",
+    "kitsu": "63638",
+    "manga_updates": "rymwscf",
+    "my_anime_list": "148054",
+    "shikimori": "148054"
+  },
+  "links": [
+    "https://mangaplus.shueisha.co.jp/titles/100196",
+    "https://mangaplus.shueisha.co.jp/titles/200097",
+    "https://mangaplus.shueisha.co.jp/titles/300029",
+    "https://mangaplus.shueisha.co.jp/titles/400008",
+    "https://mangaplus.shueisha.co.jp/titles/700023",
+    "https://shonenjumpplus.com/episode/17106371853091617526",
+    "https://www.shonenjump.com/j/rensai/ruri.html",
+    "https://www.tongli.com.tw/BooksDetail.aspx?Bd=JC1295001",
+    "https://www.viz.com/ruridragon",
+    "https://en.wikipedia.org/wiki/RuriDragon",
+    "https://ja.wikipedia.org/wiki/ルリドラゴン",
+    "https://mangabaka.org/600"
+  ]
+}

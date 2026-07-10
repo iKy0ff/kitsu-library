@@ -1,0 +1,302 @@
+{
+  "kitsuId": "64851",
+  "title": "Sunjeong Villain",
+  "updatedAt": "2026-07-10T13:17:24.943Z",
+  "matchVersion": 2,
+  "mangabakaId": 55385,
+  "mangabakaUrl": "https://mangabaka.org/55385",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzQvMS9mL2EvOS8wL2QvY2UwMi80MjY4L2FkNGUvYmZjN2Q0YTFkMTM4",
+  "author": "Seyun",
+  "synopsis": "Dumped after confessing to her first crush of three years, Ro-Sa Park falls for her second when the nation’s favorite Superpowered Police Officer, Do-Ryeong Han, swoops in to save her as she’s plummeting from a toppling building. A few years later, a mysterious villain called Blackdog appears, but Do-Ryeong notices something is not quite right. Will the world’s worst villain ever win the heart of the strongest hero in the country? \n\n(Source: WEBTOON, edited)\n\n *Note: Includes four extra chapters.*",
+  "status": "Completed",
+  "total": 124,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "comedy",
+    "romance",
+    "supernatural",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Superheroes",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Black-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blonde-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Masked Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Misunderstood Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Oblivious Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shy Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Ambitious Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Famous Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Plain-Looking Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Popular male lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Quirky Character",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "College",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Chasing After Love Interest",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love Becomes Requited",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Idols",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Police",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Robots",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slapstick",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Surreal Comedy",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Conspiracy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Mature Romance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Music",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "153948",
+    "anime_planet": "villain-with-a-crush",
+    "kitsu": "64851",
+    "manga_updates": "9ecjfb3",
+    "my_anime_list": "151550",
+    "shikimori": "151550"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=797731",
+    "https://series.naver.com/comic/detail.series?productNo=8681330",
+    "https://www.webtoons.com/en/romance/villain-with-a-crush/list?title_no=5048",
+    "https://www.webtoons.com/fr/romance/villain-with-a-crush/list?title_no=4959",
+    "https://www.webtoons.com/th/romance/villain-with-a-crush/list?title_no=6032",
+    "https://www.webtoons.com/zh-hant/romance/villain-with-a-crush/list?title_no=5148",
+    "https://namu.wiki/w/%EC%88%9C%EC%A0%95%EB%B9%8C%EB%9F%B0",
+    "https://mangabaka.org/55385"
+  ]
+}

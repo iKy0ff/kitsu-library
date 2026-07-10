@@ -1,0 +1,172 @@
+{
+  "kitsuId": "72864",
+  "title": "Chewing the Academy With a Single Piece of Sashimi",
+  "updatedAt": "2026-07-10T12:55:16.795Z",
+  "matchVersion": 2,
+  "mangabakaId": 8283,
+  "mangabakaUrl": "https://mangabaka.org/8283",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84L2UvMC82LzQvMC9lL2QvMmJlZC80MGM2LzllN2MvYTIwNTc5MWNmMDRl",
+  "author": "GMAN, Tangahuru",
+  "synopsis": "Chef Kim, Korea's legendary sashimi master, is transported into the world of Blessing M, a mobile game he once played. But instead of being a hero, he finds himself as Geomma Kang, a mere background extra. Forced into a new life, Geomma discovers a new power: the Blessing of the Blade God. Now, to survive in this game-like world, he must slice through challenges and enemies alike. Will his unmatched skills in the kitchen be enough to carve out a new destiny? \n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "total": 86,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "drama",
+    "harem",
+    "romance",
+    "school_life",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Black-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "184502",
+    "anime_planet": "the-academys-sashimi-sword-master",
+    "kitsu": "72864",
+    "manga_updates": "4rosend",
+    "my_anime_list": "174162",
+    "shikimori": "174162"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=829875",
+    "https://namu.wiki/w/%EC%82%AC%EC%8B%9C%EB%AF%B8%20%ED%95%9C%20%EC%9E%90%EB%A3%A8%EB%A1%9C%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EB%A5%BC%20%EC%94%B9%EC%96%B4%EB%A8%B9%EC%9D%8C(%EC%9B%B9%ED%88%B0)",
+    "https://series.naver.com/comic/detail.series?productNo=11540563",
+    "https://www.dongmanmanhua.cn/BOY/cishendaozhibayingxiongxueyuan/list?title_no=2757",
+    "https://www.webtoons.com/en/fantasy/the-academys-sashimi-sword-master/list?title_no=7206",
+    "https://www.webtoons.com/fr/action/the-academys-sashimi-sword-master/list?title_no=8747",
+    "https://www.webtoons.com/th/fantasy/the-academys-sashimi-sword-master/list?title_no=7262",
+    "https://www.webtoons.com/zh-hant/fantasy/the-academys-sashimi-sword-master/list?title_no=7154",
+    "https://mangabaka.org/8283"
+  ]
+}

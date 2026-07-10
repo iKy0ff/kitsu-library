@@ -1,0 +1,159 @@
+{
+  "kitsuId": "63689",
+  "title": "Phone Addict",
+  "updatedAt": "2026-07-10T13:03:43.156Z",
+  "matchVersion": 2,
+  "mangabakaId": 124114,
+  "mangabakaUrl": "https://mangabaka.org/124114",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzkvMC9kLzQvNC9hL2UvZjk0Zi80NjY1L2EzOTcvNzc2MDRhYzU3ODBk",
+  "author": "Hyeon-Dong Yong",
+  "synopsis": "Do you ever find yourself glued to your phone screen all day? Such is the case for Damu Ju, a girl in her third year of high school who has a particular attachment to her relatively ancient smartphone of ten years. All she wants is to graduate quietly with no trouble, but her high school life becomes anything but ordinary when one day, her smartphone transforms into a cute human boy – who still functions as a phone! \n\n(Source: WEBTOONS)",
+  "status": "Completed",
+  "total": 60,
+  "type": "manhwa",
+  "genres": [
+    "comedy",
+    "fantasy",
+    "romance",
+    "mystery",
+    "school_life",
+    "shoujo",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Shapeshifting",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Transformation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Death of Loved One",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "135245",
+    "anime_planet": "phone-addict",
+    "kitsu": "63689",
+    "manga_updates": "n76v0jx",
+    "my_anime_list": "147982",
+    "shikimori": "147982"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=55929080",
+    "https://www.webtoons.com/de/romance/smartphone-addict/list?title_no=4219",
+    "https://www.webtoons.com/en/romance/phone-addict/list?title_no=4187",
+    "https://www.webtoons.com/es/romance/phone-addict/list?title_no=4378",
+    "https://www.webtoons.com/fr/romance/smartphone-addict/list?title_no=4073",
+    "https://www.webtoons.com/th/drama/smartphone-addict/list?title_no=4184",
+    "https://page.kakao.com/home/55929080",
+    "https://mangabaka.org/124114"
+  ]
+}

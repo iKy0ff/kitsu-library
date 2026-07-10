@@ -1,0 +1,357 @@
+{
+  "kitsuId": "58920",
+  "title": "Master Villainess the Invincible!",
+  "updatedAt": "2026-07-10T13:19:25.114Z",
+  "matchVersion": 2,
+  "mangabakaId": 988,
+  "mangabakaUrl": "https://mangabaka.org/988",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzQvYS8xLzYvZC84L2MvMDZmNS80ODg2L2JiYzEvNGYwZWY0NmUzYjFm",
+  "author": "Bi-Nam Ga, Willbright",
+  "synopsis": "Yeoju is a second-rate author living a mediocre existence in modern-day Korea. A tragic accident lands her in the plot of a bestselling martial arts novel and she wakes up as the infamous villainess Hae-Won Tang. Hoping to save herself from a gruesome death, Yeoju must figure out who to trust, harness Haewon’s inner chi, and learn martial arts as she fights to save the Sichuan Tang Clan. Can she change the outcome of the novel and prove she’s the worthy hero? \n\n(Source: Tapas, edited)",
+  "status": "Completed",
+  "total": 130,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "fantasy",
+    "romance",
+    "historical",
+    "martial_arts",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Attempted Extortion",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Blonde-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tall Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blushing Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blushing Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Kind female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Talented Female lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigrated Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Underestimated Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Devoted Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "China",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hidden Identity",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Prince",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Loyal Servant",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Spy",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Older Male Younger Female",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Brother-Sister Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "God-Human Relationship",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Height Gap",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Chinese Ambience",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekaied Into a Novel",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Transmigrated into a Book World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Chinese Mythology",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Child Abuse",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Conspiracy",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Love Confession",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sects",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Ancient China",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Traumatic Past",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "128273",
+    "anime_planet": "master-villainess-the-invincible",
+    "kitsu": "58920",
+    "manga_updates": "kgbarka",
+    "my_anime_list": "147820",
+    "shikimori": "147820"
+  },
+  "links": [
+    "https://page.kakao.com/home?seriesId=56271898&page=1",
+    "https://tapas.io/series/master-villainess-the-invincible",
+    "https://webtoon.kakao.com/content/무협지-악녀인데-내가-제일-쎄/2455",
+    "https://namu.wiki/w/%EB%AC%B4%ED%98%91%EC%A7%80%20%EC%95%85%EB%85%80%EC%9D%B8%EB%8D%B0%20%EB%82%B4%EA%B0%80%20%EC%A0%9C%EC%9D%BC%20%EC%8E%84!#s-5.1",
+    "https://page.kakao.com/content/56271898",
+    "https://mangabaka.org/988"
+  ]
+}

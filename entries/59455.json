@@ -1,0 +1,567 @@
+{
+  "kitsuId": "59455",
+  "title": "Hwasangwihwan",
+  "updatedAt": "2026-07-10T13:06:57.181Z",
+  "matchVersion": 2,
+  "mangabakaId": 1746,
+  "mangabakaUrl": "https://mangabaka.org/1746",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2MvNS9iL2EvYy85L2IvOTkxOS80MWNhLzhkOTYvZTdmYmJhY2I2MWYy",
+  "author": "Biga, LICO",
+  "synopsis": "When Cheong-Myeong of the Mount Hua Sect awakens a hundred years in the future, his last memories are of a bloody battle against the Leader of the Demonic Cult, the evil Cheon-Ma. The battle almost saw the end of the Ten Great Sects of ancient China, when Cheong-Myeong ended the hard-fought struggle by striking down Cheon-Ma. Soon after, he succumbed to his wounds, filled with regret at their pyrrhic victory. All is not lost, however, as he awakens to his second chance at life. Shocked to find his beloved Mount Hua Sect reduced to a mere shadow of itself in the present day, Cheong-Myeong embarks on a journey to restore Mount Hua to its former glory.\n\n(Source: WEBTOON, edited)",
+  "status": "Releasing",
+  "total": 168,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "drama",
+    "martial_arts",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Mountain Climbing",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Ojou-sama",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Sadists",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Long-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Long-Haired Male Character",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Long-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Muscles",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tanned Skin",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rich Characters",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Primarily Male Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Bold Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hard-Working Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Genius",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Hard-Working Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Athletic Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Bold Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Charismatic Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cunning Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Famous Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fearless Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Greedy Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Hard-Working Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Pragmatic Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rude Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sarcastic Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Snarky Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Straightforward Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Vindictive Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Violent Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Quirky Character",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "China",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mountain",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dead Friend",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kill or Be Killed Situation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "incidental"
+    },
+    {
+      "name": "Disciple",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Merchants",
+      "group": "Occupations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Teachers",
+      "group": "Occupations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Master-Disciple Relationship",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Chinese Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Chinese Mythology",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sadism",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Zombies",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slapstick",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Competitions",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Debts",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Alcohol",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Economics",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Religion",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Sects",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Rich Family",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Ancient China",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "incidental"
+    },
+    {
+      "name": "Censorship",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "132144",
+    "anime_planet": "return-of-the-blossoming-blade",
+    "kitsu": "59455",
+    "manga_updates": "cmx86o6",
+    "my_anime_list": "146878",
+    "shikimori": "146878"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list.nhn?titleId=769209",
+    "https://comic.naver.com/webtoon/list?titleId=769209",
+    "https://namu.wiki/w/%ED%99%94%EC%82%B0%EA%B7%80%ED%99%98(%EC%9B%B9%ED%88%B0)",
+    "https://series.naver.com/comic/detail.series?productNo=6030941",
+    "https://www.dongmanmanhua.cn/BOY/jianzunguilai/list?title_no=1639",
+    "https://www.webtoons.com/en/action/return-of-the-blossoming-blade/list?title_no=2849",
+    "https://www.webtoons.com/es/fantasy/return-of-the-blossoming-blade/list?title_no=7311",
+    "https://www.webtoons.com/fr/fantasy/return-of-the-blossoming-blade/list?title_no=4335",
+    "https://www.webtoons.com/th/fantasy/return-of-the-blossoming-blade/list?title_no=3029",
+    "https://www.webtoons.com/zh-hant/martial-arts/jianzunguilai/list?title_no=2695",
+    "https://mangabaka.org/1746"
+  ]
+}
