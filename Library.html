@@ -94,6 +94,7 @@
     <a href="Sources.html" style="display:block;padding:15px 6px;border-bottom:2px dashed var(--ink-faint);font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);">Sources</a>
     <a href="Notifications.html" style="display:flex;align-items:center;justify-content:space-between;padding:15px 6px;border-bottom:2px dashed var(--ink-faint);font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);"><span>Notifications</span><span id="drawerNotif" style="display:none;min-width:20px;height:20px;padding:0 5px;background:var(--red);color:var(--paper);border-radius:10px;font-size:11px;align-items:center;justify-content:center;">0</span></a>
     <a href="Settings.html" style="display:block;padding:15px 6px;font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);">Settings</a>
+    <a href="Database.html" style="display:block;padding:15px 6px;border-top:2px dashed var(--ink-faint);font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);">Database</a>
     <div id="drawerUnread" style="margin-top:auto;padding-top:16px;font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-faint);letter-spacing:.06em;">0 CH UNREAD</div>
   </aside>
 
@@ -124,7 +125,24 @@
   var statusDeep  = { "Reading": "var(--red-deep)", "Completed": "var(--good-deep)", "On Hold": "#7a5a14", "Plan to Read": "#6b6455", "Dropped": "#463f34" };
 
   var state = { filter: "All", sort: "updated", view: "cards", search: "", genres: [], tags: [], tagQuery: "",
-                drawer: false, sortOpen: false, filtersOpen: false };
+                colSort: null, drawer: false, sortOpen: false, filtersOpen: false };
+
+  // list-view column sorting (click a header: 1st click ▲ ascending, 2nd ▼ descending)
+  var COL_VALUE = {
+    title:    function (m) { return (m.title || "").toLowerCase(); },
+    status:   function (m) { return m.status || ""; },
+    progress: function (m) { return m.pct; },
+    score:    function (m) { return m.score === "—" ? -1 : Number(m.score) || 0; },
+    updated:  function (m) { return m.mins == null ? Infinity : m.mins; } // fewer minutes = more recent
+  };
+  function applyColSort(list) {
+    if (!state.colSort || !COL_VALUE[state.colSort.key]) return list;
+    var v = COL_VALUE[state.colSort.key], dir = state.colSort.dir;
+    return list.slice().sort(function (a, b) {
+      var x = v(a), y = v(b);
+      return (x < y ? -1 : x > y ? 1 : 0) * dir;
+    });
+  }
 
   function minutesAgo(u) {
     if (!u || u === "—") return Infinity;
@@ -210,7 +228,8 @@
     if (q) list = list.filter(function (m) { return (m.title + " " + m.author).toLowerCase().indexOf(q) !== -1; });
     var sd = SORT_DEFS.find(function (s) { return s.key === state.sort; }) || SORT_DEFS[0];
     list.sort(sd.fn);
-    return list;
+    // a clicked list-view column header overrides the dropdown sort
+    return applyColSort(list);
   }
 
   function allGenres() {
@@ -295,7 +314,7 @@
       var b = document.createElement("button");
       b.style.cssText = "display:block;width:100%;text-align:left;white-space:nowrap;font-family:'JetBrains Mono',monospace;font-size:12px;padding:10px 14px;border:none;border-bottom:1px dashed #c7bb9f;cursor:pointer;background:" + (active ? "var(--ink)" : "transparent") + ";color:" + (active ? "var(--paper)" : "var(--ink-soft)") + ";font-weight:" + (active ? 700 : 400) + ";";
       b.textContent = s.label;
-      b.onclick = function () { state.sort = s.key; state.sortOpen = false; render(); };
+      b.onclick = function () { state.sort = s.key; state.colSort = null; state.sortOpen = false; render(); };
       sl.appendChild(b);
     });
   }
@@ -344,9 +363,14 @@
       });
       html += '</div>';
     } else {
+      // sortable header cells: data-colsort carries the key; arrows show state
+      function th(label, key, right) {
+        var arrow = state.colSort && state.colSort.key === key ? (state.colSort.dir === 1 ? ' \u25B2' : ' \u25BC') : '';
+        return '<span data-colsort="' + key + '" style="cursor:pointer;user-select:none;' + (right ? 'text-align:right;' : '') + '">' + label + arrow + '</span>';
+      }
       html = '<div style="border:2px solid var(--ink);">' +
         '<div style="display:grid;grid-template-columns:44px 2fr 132px 150px 60px 74px;gap:14px;align-items:center;padding:11px 16px;background:var(--ink);font-family:\'JetBrains Mono\',monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--paper);">' +
-        '<span></span><span>Title</span><span>Status</span><span>Progress</span><span style="text-align:right;">Score</span><span style="text-align:right;">Updated</span></div>';
+        '<span></span>' + th('Title', 'title') + th('Status', 'status') + th('Progress', 'progress') + th('Score', 'score', true) + th('Updated', 'updated', true) + '</div>';
       list.forEach(function (m, i) {
         html += '<div' + entryLink(m) + ' style="display:grid;grid-template-columns:44px 2fr 132px 150px 60px 74px;gap:14px;align-items:center;padding:10px 16px;border-top:1px solid #c7bb9f;background:' + (i % 2 ? "rgba(23,20,15,0.03)" : "transparent") + ';cursor:pointer;">' +
           '<div style="width:30px;height:44px;position:relative;border:2px solid var(--ink);overflow:hidden;">' + coverHTML(m, 11) + '</div>' +
@@ -360,6 +384,17 @@
       html += '</div>';
     }
     root.innerHTML = html;
+    // wire the sortable list headers (1st click ▲ asc, 2nd click ▼ desc)
+    root.querySelectorAll('[data-colsort]').forEach(function (el) {
+      el.onclick = function (e) {
+        e.stopPropagation();
+        var key = el.getAttribute('data-colsort');
+        state.colSort = (state.colSort && state.colSort.key === key)
+          ? { key: key, dir: -state.colSort.dir }
+          : { key: key, dir: 1 };
+        render();
+      };
+    });
   }
 
   function render() {

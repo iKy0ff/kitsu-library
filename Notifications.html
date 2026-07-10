@@ -76,7 +76,7 @@
 
   function renderTabs() {
     var wrap = $('tabs'); wrap.innerHTML = '';
-    [['all', 'All'], ['status', 'Status'], ['release', 'Releases']].forEach(function (p) {
+    [['all', 'All'], ['status', 'Status'], ['release', 'News']].forEach(function (p) {
       var b = document.createElement('button');
       b.className = 'tab' + (filter === p[0] ? ' active' : '');
       b.textContent = p[1];

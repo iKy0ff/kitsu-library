@@ -26,7 +26,34 @@
   // serve a stale cached copy of the data file. document.write keeps this
   // behaving exactly like the original synchronous <script src> tag, so
   // load order relative to the scripts below is unchanged.
-  document.write('<script src="manga_history_data.js?v=' + Date.now() + '"><\/script>');
+  //
+  // AUTOMATIC SOURCE (matches the SYNC_SOURCE workflow variable design):
+  // when this repo's own manga_history_data.js is empty — i.e. the
+  // "Sync aggregate chapter count" step is skipped because SYNC_SOURCE=ledger —
+  // load the published Pace Ledger's data file instead. The check uses a
+  // synchronous XHR so exactly one <script> is written and the load order
+  // stays deterministic; on file:// (where XHR may fail) it falls back to
+  // the local file, preserving offline viewing.
+  (function () {
+    var LOCAL = 'manga_history_data.js?v=' + Date.now();
+    var REMOTE = 'https://iky0ff.github.io/manga-pace-ledger/manga_history_data.js?v=' + Date.now();
+    function hasData(txt) {
+      var m = String(txt || '').match(/const mangaHistoryData\s*=\s*(\[[\s\S]*\]);/);
+      return !!(m && /\{/.test(m[1]));
+    }
+    var src = LOCAL;
+    window.__ledgerSource = 'repo';
+    try {
+      var x = new XMLHttpRequest();
+      x.open('GET', LOCAL, false);
+      x.send();
+      if (x.status >= 200 && x.status < 300 && !hasData(x.responseText)) {
+        src = REMOTE;
+        window.__ledgerSource = 'ledger';
+      }
+    } catch (e) { /* file:// or network hiccup — keep the local file */ }
+    document.write('<script src="' + src + '"><\/script>');
+  })();
 </script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>

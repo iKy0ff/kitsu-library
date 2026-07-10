@@ -9,7 +9,31 @@
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=JetBrains+Mono:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
 <script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('kitsuTheme')||'kraft');}catch(e){document.documentElement.setAttribute('data-theme','kraft');}</script>
 <!-- Ledger (for the primary Kitsu card) + service health (from scripts/healthcheck.mjs) -->
-<script src="manga_history_data.js"></script>
+<script>
+  // Same automatic ledger-source chooser as Stats.html: prefer this repo's
+  // manga_history_data.js; when it's empty (SYNC_SOURCE=ledger skips the
+  // aggregate sync), load the published Pace Ledger instead.
+  (function () {
+    var LOCAL = 'manga_history_data.js?v=' + Date.now();
+    var REMOTE = 'https://iky0ff.github.io/manga-pace-ledger/manga_history_data.js?v=' + Date.now();
+    function hasData(txt) {
+      var m = String(txt || '').match(/const mangaHistoryData\s*=\s*(\[[\s\S]*\]);/);
+      return !!(m && /\{/.test(m[1]));
+    }
+    var src = LOCAL;
+    window.__ledgerSource = 'repo';
+    try {
+      var x = new XMLHttpRequest();
+      x.open('GET', LOCAL, false);
+      x.send();
+      if (x.status >= 200 && x.status < 300 && !hasData(x.responseText)) {
+        src = REMOTE;
+        window.__ledgerSource = 'ledger';
+      }
+    } catch (e) { /* file:// — keep local */ }
+    document.write('<script src="' + src + '"><\/script>');
+  })();
+</script>
 <script>try{window.mangaHistoryData=(typeof mangaHistoryData!=='undefined')?mangaHistoryData:(window.mangaHistoryData||[]);}catch(e){window.mangaHistoryData=window.mangaHistoryData||[];}</script>
 <script src="sources_status.js"></script>
 <script>try{window.sourcesStatus=(typeof sourcesStatus!=='undefined')?sourcesStatus:(window.sourcesStatus||null);}catch(e){window.sourcesStatus=window.sourcesStatus||null;}</script>
@@ -84,15 +108,38 @@
 
   // Primary Kitsu card from the ledger
   (function () {
-    var d = Array.isArray(window.mangaHistoryData) ? window.mangaHistoryData : [];
+    // Parses the ledger's VBS-style dates ("02-Jul-26 6:26:11 AM") reliably;
+    // falls back to native Date parsing for anything else.
+    function parseLedgerDate(str) {
+      var m = /^(\d{1,2})-([A-Za-z]{3})-(\d{2}) (\d{1,2}):(\d{2}):(\d{2}) (AM|PM)$/.exec(String(str || '').trim());
+      if (m) {
+        var months = { Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11 };
+        var h = (+m[4]) % 12; if (m[7] === 'PM') h += 12;
+        return new Date(2000 + (+m[3]), months[m[2]], +m[1], h, +m[5], +m[6]);
+      }
+      var d = new Date(str);
+      return isNaN(d) ? null : d;
+    }
+    // NOTE: the data file declares a top-level `const`, which is NOT a
+    // window property — read the bare identifier via typeof.
+    var d = (typeof mangaHistoryData !== 'undefined' && Array.isArray(mangaHistoryData)) ? mangaHistoryData : [];
+    var srcLabel = window.__ledgerSource === 'ledger'
+      ? ' <span style="font-weight:400;color:var(--ink-faint);">\u00B7 source: Pace Ledger (remote)</span>'
+      : ' <span style="font-weight:400;color:var(--ink-faint);">\u00B7 source: this repo</span>';
     if (d.length) {
       var last = d[d.length - 1];
       $('chapCount').textContent = Number(last.chapters).toLocaleString();
-      var mins = Math.floor((Date.now() - new Date(last.date2).getTime()) / 60000);
-      $('lastSync').textContent = mins < 1 ? 'just now' : mins < 60 ? mins + ' min ago' : mins < 1440 ? Math.floor(mins / 60) + ' hr ago' : Math.floor(mins / 1440) + 'd ago';
+      var dt = parseLedgerDate(last.date2) || parseLedgerDate(last.date1);
+      if (dt) {
+        var mins = Math.floor((Date.now() - dt.getTime()) / 60000);
+        var rel = mins < 1 ? 'just now' : mins < 60 ? mins + ' min ago' : mins < 1440 ? Math.floor(mins / 60) + ' hr ago' : Math.floor(mins / 1440) + 'd ago';
+        $('lastSync').innerHTML = rel + srcLabel;
+      } else {
+        $('lastSync').innerHTML = 'unknown' + srcLabel;
+      }
     } else {
       $('chapCount').textContent = '0';
-      $('lastSync').textContent = 'never';
+      $('lastSync').innerHTML = 'never <span style="font-weight:400;color:var(--ink-faint);">\u2014 no ledger data: this repo\u2019s ledger is empty and the published Pace Ledger couldn\u2019t be reached</span>';
     }
   })();
 

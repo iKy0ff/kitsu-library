@@ -24,6 +24,7 @@ mangabaka -> cover, author, synopsis, status, genres, weighted tags, news, cross
 | `Entry.html` | Per-title detail (synopsis, weighted+grouped tags, news, match-confidence badge, links out to MangaBaka / AniList / MAL / MangaUpdates / Anime-Planet / Shikimori + raw referrers) via `Entry.html?id=<kitsuId>` | `library.js`, `entries/<id>.json` |
 | `Stats.html` | Reading-stats dashboard — Dashboard / Goals / History / Preferences | `manga_history_data.js` (or Pace Ledger) |
 | `Sources.html` | Service health (Kitsu / mangabaka) | `sources_status.js` |
+| `Database.html` | Match audit — how every entry was linked to mangabaka (confidence %, method, verify links), sortable; reached from the Library drawer | `library.js` |
 | `Notifications.html` | Status & news notices | `notifications.js` |
 | `Settings.html` | Theme, chart defaults, stale threshold, config export/import | `localStorage` |
 
@@ -53,7 +54,7 @@ Notices never reset. `notify.mjs` writes one file per day — `notifications/not
 
 ## Stats data source
 
-Automatic indicator (no toggle): uses this repo's `manga_history_data.js` if it has data, else the published Pace Ledger, fetched live. Repo variable **`SYNC_SOURCE=ledger`** skips `sync.mjs` (rely on the Pace Ledger); default `repo` runs it.
+Automatic source (no toggle): Stats **and** the Sources “Last sync” card use this repo's `manga_history_data.js` if it has data, else they load the published Pace Ledger live (the `REMOTE` constant at the top of `Stats.html` / `Sources.html` — `https://iky0ff.github.io/manga-pace-ledger/manga_history_data.js`). Repo variable **`SYNC_SOURCE=ledger`** skips `sync.mjs` (rely on the Pace Ledger); default `repo` runs it. In ledger mode the card shows the remote ledger's last `date2` and labels the source “Pace Ledger (remote)”.
 
 ---
 

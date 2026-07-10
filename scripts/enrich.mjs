@@ -387,7 +387,12 @@ function applyToLibrary(item, e) {
   if (e.total) item.total = e.total;
   if (e.status) item.mangabakaStatus = e.status;
   item.mangabakaId = e.mangabakaId || null;      // notify.mjs uses this to spot re-matches
-  if (e.match) item.matchConfidence = e.match.confidence;
+  item.mangabakaUrl = e.mangabakaUrl || (e.mangabakaId ? 'https://mangabaka.org/' + e.mangabakaId : null);
+  if (e.match) {                                 // Database.html reads these
+    item.matchConfidence = e.match.confidence;
+    item.matchMethod = e.match.method;
+    item.matchScore = e.match.score;
+  }
   if (e.genres) item.genres = e.genres;
   if (Array.isArray(e.tags)) item.tags = e.tags.map((t) => t && t.name).filter(Boolean);
   if (Array.isArray(e.news)) item.newsCount = e.news.length;
