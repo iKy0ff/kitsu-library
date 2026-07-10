@@ -64,6 +64,7 @@ jobs:
         run: node scripts/enrich.mjs
         env:
           MAX_PER_RUN: ${{ vars.MAX_PER_RUN }}
+          REFRESH_HOURS: ${{ vars.REFRESH_HOURS }}
         continue-on-error: true
         id: enrich_step
 

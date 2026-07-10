@@ -126,6 +126,11 @@
 
   var state = { filter: "All", sort: "updated", view: "cards", search: "", genres: [], tags: [], tagQuery: "",
                 colSort: null, drawer: false, sortOpen: false, filtersOpen: false };
+  // view mode persists across visits, same convention as the theme
+  try {
+    var savedView = localStorage.getItem("kitsuView");
+    if (savedView === "cards" || savedView === "covers" || savedView === "list") state.view = savedView;
+  } catch (e) {}
 
   // list-view column sorting (click a header: 1st click ▲ ascending, 2nd ▼ descending)
   var COL_VALUE = {
@@ -422,7 +427,11 @@
 
   // Events
   $("search").oninput = function (e) { state.search = e.target.value; render(); };
-  $("viewBtn").onclick = function () { state.view = VIEWS[(VIEWS.indexOf(state.view) + 1) % VIEWS.length]; render(); };
+  $("viewBtn").onclick = function () {
+    state.view = VIEWS[(VIEWS.indexOf(state.view) + 1) % VIEWS.length];
+    try { localStorage.setItem("kitsuView", state.view); } catch (e) {}
+    render();
+  };
   $("sortBtn").onclick = function (e) { e.stopPropagation(); state.sortOpen = !state.sortOpen; state.filtersOpen = false; render(); };
   $("filtersBtn").onclick = function (e) { e.stopPropagation(); state.filtersOpen = !state.filtersOpen; state.sortOpen = false; render(); };
   // clicks inside the filters menu (incl. the tag search box) must not bubble

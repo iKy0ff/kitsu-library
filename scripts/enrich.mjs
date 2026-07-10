@@ -58,7 +58,18 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const KITSU_ID_FIELD = 'kitsuId';
-const REFRESH_DAYS = 7;
+// How long an entry's data is considered fresh before the sync re-resolves
+// it (full re-match + re-fetch). Set to 0: EVERY run re-checks the entire
+// library, so upstream fixes on mangabaka/Kitsu appear on the very next
+// sync. Practical effect on the 15-min schedule: a full pass (~26 min for
+// ~385 titles) outlasts the interval, so syncs run back-to-back around the
+// clock (~55 passes/day, ~60k requests — paced at ~1/s and mostly served
+// from mangabaka's cache, which doesn't count toward their rate limit).
+// Raise via the REFRESH_HOURS env var / repo variable (e.g. 6 = four
+// passes/day) if that ever becomes a problem.
+const REFRESH_HOURS = process.env.REFRESH_HOURS !== undefined && process.env.REFRESH_HOURS !== ''
+  ? Math.max(0, Number(process.env.REFRESH_HOURS) || 0)
+  : 0;
 const MATCH_VERSION = 2;                         // bump to force a global re-match
 const DEFAULT_MAX_PER_RUN = 500;                 // <-- edit me (or set MAX_PER_RUN env)
 const MAX_PER_RUN = Math.max(1, Number(process.env.MAX_PER_RUN) || DEFAULT_MAX_PER_RUN);
@@ -292,6 +303,14 @@ async function resolveMangabaka(item, dict) {
     author: Array.isArray(d.authors) ? d.authors.join(', ') : (d.authors || ''),
     synopsis: d.description || '',
     status: mapStatus(d.status),
+    // mangabaka's own rating; normalize to a 0–10 scale (their UI shows /100
+    // in places), one decimal. null when absent so Kitsu's score stays.
+    rating: (function () {
+      let r = Number(d.rating);
+      if (!isFinite(r) || r <= 0) return null;
+      if (r > 10) r = r / 10;
+      return Math.round(r * 10) / 10;
+    })(),
     total: Number(d.total_chapters) || Number(d.final_chapter) || null,
     type: d.type || '',
     genres: Array.isArray(d.genres) ? d.genres.map((g) => (typeof g === 'string' ? g : g.name)).filter(Boolean) : [],
@@ -318,7 +337,7 @@ function isFresh(kid) {
   const j = readEntry(kid);
   if (!j) return false;
   if ((j.matchVersion || 0) !== MATCH_VERSION) return false;   // matcher changed — re-match
-  return j.updatedAt && (Date.now() - new Date(j.updatedAt).getTime() < REFRESH_DAYS * 86400000);
+  return j.updatedAt && (Date.now() - new Date(j.updatedAt).getTime() < REFRESH_HOURS * 3600000);
 }
 
 // comick was removed from the project — scrub its leftovers from old entries.
@@ -385,6 +404,8 @@ function applyToLibrary(item, e) {
   // total: mangabaka wins when it has one (it's usually the most current);
   // Kitsu's count stays as the fallback.
   if (e.total) item.total = e.total;
+  // score: same policy — mangabaka's rating when present, Kitsu otherwise.
+  if (e.rating != null) item.score = e.rating;
   if (e.status) item.mangabakaStatus = e.status;
   item.mangabakaId = e.mangabakaId || null;      // notify.mjs uses this to spot re-matches
   item.mangabakaUrl = e.mangabakaUrl || (e.mangabakaId ? 'https://mangabaka.org/' + e.mangabakaId : null);

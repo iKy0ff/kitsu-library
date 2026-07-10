@@ -44,7 +44,7 @@ mangabaka -> cover, author, synopsis, status, genres, weighted tags, news, cross
 
 ## Enrichment: how it fills in
 
-`enrich.mjs` re-enriches at most `MAX_PER_RUN` titles per run (default **500** — the whole library in one go; override with the `MAX_PER_RUN` env var / repo variable) and caches each in `entries/<id>.json`, refreshing after `REFRESH_DAYS` (7). It paces itself at ~1 request/second (the rate the reference mangabaka client uses), backs off 20 s on any 429, and checkpoints `library.js` every 10 titles, so a full ~380-title fill takes ~45 minutes once and routine runs finish in seconds. Every failure is appended to `sync_errors.log` with the URL and HTTP status. Tag chips on the Entry page are sized by mangabaka weight (core › defining › recurrent › incidental).
+`enrich.mjs` re-enriches at most `MAX_PER_RUN` titles per run (default **500** — the whole library in one go; override with the `MAX_PER_RUN` env var / repo variable) and caches each in `entries/<id>.json`, refreshing after `REFRESH_HOURS` (default 0 = re-check every run). It paces itself at ~1 request/second (the rate the reference mangabaka client uses), backs off 20 s on any 429, and checkpoints `library.js` every 10 titles, so a full ~380-title fill takes ~45 minutes once and routine runs finish in seconds. Every failure is appended to `sync_errors.log` with the URL and HTTP status. Tag chips on the Entry page are sized by mangabaka weight (core › defining › recurrent › incidental).
 
 **API paths are verified:** mangabaka's public API is **`/v1/`** (`https://api.mangabaka.dev/v1/series/search`, `/v1/series/{id}`, `/v1/series/{id}/news`) — confirmed against the official docs and the comictagger `mangabaka_talker` client. The search API needs `content_rating` repeated four times or results are silently "safe"-only. All of this is encoded in `scripts/enrich.mjs`.
 
@@ -124,6 +124,7 @@ Repo → **Settings → Secrets and variables → Actions → Variables** tab �
 | `SYNC_MODE` | `github` (default-ish) / `cron` / `both` / `manual` | Which trigger may run the sync. Leave unset or `github` to just use GitHub's schedule. |
 | `SYNC_SOURCE` | `repo` (default) / `ledger` | `ledger` skips the aggregate chapter-count sync and lets Stats read the published Pace Ledger instead. |
 | `MAX_PER_RUN` | number, e.g. `50` | Caps how many titles `enrich.mjs` (re)enriches per run. **Unset = 500** (whole library in one run). |
+| `REFRESH_HOURS` | number, e.g. `12` | How long enriched data stays cached before a full re-match/re-fetch. **Unset = 0**: everything re-checked every run (back-to-back ~26-min syncs on the 15-min schedule). Set e.g. `6` for four passes/day instead. |
 
 ### 6. First run — do a small test first
 
@@ -140,7 +141,7 @@ Repo → **Settings → Secrets and variables → Actions → Variables** tab �
    at the deliberately slow ~1 request/second pace). Already-enriched titles
    are cached and skipped, so this run only does the remainder.
 6. From then on the schedule keeps things fresh: each title is re-enriched at
-   most once every `REFRESH_DAYS` (7), so routine runs finish in seconds.
+   most once every `REFRESH_HOURS` (7), so routine runs finish in seconds.
 
 **Timing note:** the schedule in `sync.yml` fires every 15 minutes — that
 frequency exists for the aggregate chapter-count ledger (Stats). The enrichment

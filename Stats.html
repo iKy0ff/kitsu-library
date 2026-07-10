@@ -1907,7 +1907,15 @@
   const STATS_REMOTE_URL = 'https://iky0ff.github.io/manga-pace-ledger/manga_history_data.js';
   const STATS_LOCAL_DATA = (typeof mangaHistoryData !== 'undefined' && mangaHistoryData) ? mangaHistoryData.slice() : [];
   let statsRemoteCache = null;
-  let statsSource = STATS_LOCAL_DATA.length ? 'repo' : 'ledger';
+  // Source resolution order:
+  //   1. the head loader already decided (window.__ledgerSource) — when the
+  //      repo ledger was empty it loaded the Pace Ledger INTO the data slot,
+  //      so length-checking here would wrongly say "this repo"
+  //   2. otherwise: repo if the local file has data
+  //   3. otherwise: fetch the Pace Ledger asynchronously (file:// fallback,
+  //      where the head loader can't inspect the local file)
+  let statsSource = (window.__ledgerSource === 'ledger') ? 'ledger-loaded'
+                  : STATS_LOCAL_DATA.length ? 'repo' : 'ledger-fetch';
 
   function setSourceIndicator(text) {
       const el = document.getElementById('sourceIndicator');
@@ -1939,7 +1947,12 @@
           });
   }
   function initStatsSource() {
-      if (statsSource === 'repo') {
+      if (statsSource === 'ledger-loaded') {
+          // The head loader already fetched the Pace Ledger into the data
+          // slot — label it correctly and render what's there.
+          setSourceIndicator('◆ Source: Pace Ledger');
+          applyDataAndRender(STATS_LOCAL_DATA);
+      } else if (statsSource === 'repo') {
           setSourceIndicator('◆ Source: this repo');
           applyDataAndRender(STATS_LOCAL_DATA);
       } else {
