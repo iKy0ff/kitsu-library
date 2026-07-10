@@ -264,6 +264,12 @@
       "mbId": 562,
       "newsCount": 0
     },
+    "54173": {
+      "title": "A Returner's Magic Should Be Special",
+      "pub": "Completed",
+      "mbId": 6364,
+      "newsCount": 10
+    },
     "54238": {
       "title": "Kage no Jitsuryokusha ni Naritakute",
       "pub": "Releasing",
@@ -1470,6 +1476,12 @@
       "mbId": 2823,
       "newsCount": 0
     },
+    "70627": {
+      "title": "Sanyanggaeui Hoegwibonneung",
+      "pub": "Completed",
+      "mbId": 82192,
+      "newsCount": 0
+    },
     "70681": {
       "title": "The Extra's Academy Survival Guide",
       "pub": "Releasing",
@@ -2136,12 +2148,6 @@
       "mbId": 202866,
       "newsCount": 0
     },
-    "77552": {
-      "title": "Geomsul Myeonggaui Daemabeopsa Mangnaettal",
-      "pub": "Hiatus",
-      "mbId": 522688,
-      "newsCount": 0
-    },
     "77616": {
       "title": "Imouto no Haishin ni Hairikondara VTuber Atsukai Sareta Ken",
       "pub": "Releasing",
@@ -2298,6 +2304,12 @@
       "mbId": 594826,
       "newsCount": 0
     },
+    "78759": {
+      "title": "Murim Sachaewang",
+      "pub": "Releasing",
+      "mbId": 590195,
+      "newsCount": 0
+    },
     "78760": {
       "title": "Classmates wa Isekai Ten'i nanoni Watashi wa Isekai Tensei",
       "pub": "Releasing",
@@ -2305,5 +2317,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-10T13:19:28.948Z"
+  "updatedAt": "2026-07-10T21:30:05.005Z"
 }

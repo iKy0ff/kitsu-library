@@ -1,0 +1,84 @@
+{
+  "kitsuId": "78759",
+  "title": "Murim Sachaewang",
+  "updatedAt": "2026-07-10T21:29:57.205Z",
+  "matchVersion": 2,
+  "mangabakaId": 590195,
+  "mangabakaUrl": "https://mangabaka.org/590195",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 82
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2IvOS8xL2YvNi9lLzAvNDk0Yi80MThlLzllNWYvMjhjMDc0YWY0MjJk",
+  "author": "Hong-Sil, Sallyeojuseyo",
+  "synopsis": "Whether it’s forging a single sword, feeding and clothing your disciples, or even just breathing…everything costs money in the Murim. Need cash? Has your credit score tanked? Then come to the Continental Bank. Same-day approval, no collateral required. Can’t pay us back? Oh, don’t you worry. We’ll take it out of your hide. Now, relax! If you tense up, you’ll just give yourself internal injuries! Thank you for your business, valued customer!\n\n(Source: Naver, translated)",
+  "status": "Releasing",
+  "total": 8,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "action",
+    "comedy",
+    "drama",
+    "martial_arts"
+  ],
+  "tags": [
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Debts",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "213118",
+    "anime_planet": "murim-loan-shark-king",
+    "manga_updates": "1j7qzna"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=851610",
+    "https://series.naver.com/comic/detail.series?productNo=14270649",
+    "https://mangabaka.org/590195"
+  ]
+}
