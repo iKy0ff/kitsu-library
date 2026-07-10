@@ -1,0 +1,1993 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>進行中 — Reading Stats · Kitsu Library</title><meta name="description" content="A self-updating manga reading tracker synced from Kitsu — streaks, pace, goals, and chapter history, viewable from any device.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="進行中 — Manga Pace Ledger">
+<meta property="og:description" content="A self-updating manga reading tracker synced from Kitsu — streaks, pace, goals, and chapter history.">
+<meta property="og:image" content="https://iky0ff.github.io/manga-pace-ledger/favicons/favicon-512.png">
+<meta property="og:url" content="https://iky0ff.github.io/manga-pace-ledger/manga-pace-ledger.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="進行中 — Manga Pace Ledger">
+<meta name="twitter:description" content="A self-updating manga reading tracker synced from Kitsu.">
+<meta name="twitter:image" content="https://iky0ff.github.io/manga-pace-ledger/favicons/favicon-512.png">
+<link rel="icon" type="image/x-icon" href="favicons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="favicons/favicon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="favicons/favicon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicons/favicon-180.png">
+<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('kitsuTheme')||'kraft');}catch(e){document.documentElement.setAttribute('data-theme','kraft');}</script>
+<script>
+  // Cache-busting loader: appends a fresh timestamp to the URL on every
+  // page load so browsers (and mobile Safari/Chrome in particular) can't
+  // serve a stale cached copy of the data file. document.write keeps this
+  // behaving exactly like the original synchronous <script src> tag, so
+  // load order relative to the scripts below is unchanged.
+  //
+  // AUTOMATIC SOURCE (matches the SYNC_SOURCE workflow variable design):
+  // when this repo's own manga_history_data.js is empty — i.e. the
+  // "Sync aggregate chapter count" step is skipped because SYNC_SOURCE=ledger —
+  // load the published Pace Ledger's data file instead. The check uses a
+  // synchronous XHR so exactly one <script> is written and the load order
+  // stays deterministic; on file:// (where XHR may fail) it falls back to
+  // the local file, preserving offline viewing.
+  (function () {
+    var LOCAL = 'manga_history_data.js?v=' + Date.now();
+    var REMOTE = 'https://iky0ff.github.io/manga-pace-ledger/manga_history_data.js?v=' + Date.now();
+    function hasData(txt) {
+      var m = String(txt || '').match(/const mangaHistoryData\s*=\s*(\[[\s\S]*\]);/);
+      return !!(m && /\{/.test(m[1]));
+    }
+    var src = LOCAL;
+    window.__ledgerSource = 'repo';
+    try {
+      var x = new XMLHttpRequest();
+      x.open('GET', LOCAL, false);
+      x.send();
+      if (x.status >= 200 && x.status < 300 && !hasData(x.responseText)) {
+        src = REMOTE;
+        window.__ledgerSource = 'ledger';
+      }
+    } catch (e) { /* file:// or network hiccup — keep the local file */ }
+    document.write('<script src="' + src + '"><\/script>');
+  })();
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2"></script>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper: #e8e1cf;
+    --paper-deep: #dcd3bb;
+    --ink: #17140f;
+    --ink-soft: #56503f;
+    --ink-faint: #8a8270;
+    --stamp-red: #ac3327;
+    --stamp-red-deep: #7e2118;
+    --gold: #a1791f;
+    --line: #17140f;
+    --good: #3f5f3a;
+    --good-deep: #2a4327;
+    --ink-rgb: 23,20,15;
+    --stamp-red-rgb: 172,51,39;
+    --good-rgb: 63,95,58;
+  }
+
+  html[data-theme="mono"]{
+    --paper: #f4f2ec;
+    --paper-deep: #e6e2d6;
+    --ink: #0a0a0a;
+    --ink-soft: #333333;
+    --ink-faint: #767267;
+    --stamp-red: #c22323;
+    --stamp-red-deep: #8c1414;
+    --gold: #8a6d1a;
+    --line: #0a0a0a;
+    --good: #2c6b28;
+    --good-deep: #1c4419;
+    --ink-rgb: 10,10,10;
+    --stamp-red-rgb: 194,35,35;
+    --good-rgb: 44,107,40;
+  }
+
+  html[data-theme="dark"]{
+    --paper: #1e1a16;
+    --paper-deep: #29241f;
+    --ink: #b8ab8f;
+    --ink-soft: #8f8369;
+    --ink-faint: #5f5646;
+    --stamp-red: #d85f45;
+    --stamp-red-deep: #f0805f;
+    --gold: #c99a3e;
+    --line: #b8ab8f;
+    --good: #7ec178;
+    --good-deep: #98d890;
+    --ink-rgb: 184,171,143;
+    --stamp-red-rgb: 216,95,69;
+    --good-rgb: 126,193,120;
+  }
+
+  [data-reduce-motion="1"] *{
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+
+  *{ box-sizing:border-box; }
+
+  @media (prefers-reduced-motion: reduce){
+    *{ animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+  }
+
+  body{
+    margin:0;
+    padding:48px 40px 80px;
+    background:
+      radial-gradient(circle at 1px 1px, rgba(var(--ink-rgb),0.09) 1px, transparent 0) 0 0/14px 14px,
+      var(--paper);
+    color:var(--ink);
+    font-family:'Zen Kaku Gothic New', 'Inter', sans-serif;
+  }
+
+  a{ text-decoration:none; }
+  .wrap{ max-width:1000px; margin:0 auto; }
+  .stat-tab{ font-family:'JetBrains Mono',monospace; font-weight:700; font-size:12px; text-transform:uppercase; letter-spacing:.05em; padding:11px 18px; cursor:pointer; border:2px solid var(--ink); margin-left:-2px; background:transparent; color:var(--ink-soft); }
+  .stat-tab:first-child{ margin-left:0; }
+  .stat-tab.active{ background:var(--ink); color:var(--paper); }
+
+  /* ---------- HEADER ---------- */
+  header{
+    display:flex; justify-content:space-between; align-items:flex-end;
+    border-bottom:5px solid var(--ink);
+    padding-bottom:18px; margin-bottom:34px; gap:20px; flex-wrap:wrap;
+  }
+  .title-block{ display:flex; align-items:baseline; gap:16px; cursor:pointer; border-radius:4px; }
+  .title-block:hover .kanji-tag{ background:var(--stamp-red-deep); }
+  .title-block:hover h1{ opacity:0.85; }
+  .title-block:focus-visible{ outline:3px solid var(--gold); outline-offset:4px; }
+  .kanji-tag{
+    font-size:15px; letter-spacing:.2em; color:var(--paper);
+    background:var(--stamp-red); padding:5px 10px; font-weight:700;
+    writing-mode:vertical-rl; text-orientation:upright; line-height:1;
+  }
+  h1{
+    font-family:'Anton', sans-serif; font-weight:400;
+    font-size:44px; letter-spacing:.01em; margin:0; line-height:.9;
+    text-transform:uppercase;
+  }
+  h1 span{ color:var(--stamp-red); }
+  .home-utility-bar{
+    display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap;
+    margin-bottom:24px; padding-bottom:20px; border-bottom:3px dashed var(--ink-faint);
+  }
+  .home-utility-left{ display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+  .home-utility-right{ display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+  .hamburger-btn{
+    font-family:'JetBrains Mono', monospace; font-weight:700; font-size:20px; line-height:1;
+    background:transparent; color:var(--ink); border:2px solid var(--ink); padding:10px 16px;
+    cursor:pointer; transition:background .15s ease, color .15s ease;
+  }
+  .hamburger-btn:hover{ background:var(--ink); color:var(--paper); }
+  .hamburger-btn:focus-visible{ outline:3px solid var(--gold); outline-offset:2px; }
+
+  /* ---------- PAGES ---------- */
+  .page{ display:none; }
+  .page.active{ display:block; }
+
+  /* ---------- NAV DRAWER ---------- */
+  .nav-overlay{
+    display:none; position:fixed; inset:0; background:rgba(var(--ink-rgb),0.5);
+    z-index:1200;
+  }
+  .nav-overlay.open{ display:block; }
+  .nav-drawer{
+    position:fixed; top:0; right:0; height:100%; width:280px; max-width:82vw;
+    background:var(--paper); border-left:3px solid var(--ink); box-shadow:-9px 0 0 var(--ink);
+    display:flex; flex-direction:column; padding:24px 22px; gap:4px;
+    transform:translateX(100%); transition:transform .25s ease;
+  }
+  .nav-overlay.open .nav-drawer{ transform:translateX(0); }
+  .nav-link{
+    font-family:'JetBrains Mono', monospace; text-transform:uppercase; letter-spacing:.08em;
+    font-size:15px; font-weight:700; text-align:left; background:none; border:none;
+    border-bottom:2px dashed var(--ink-faint); color:var(--ink); padding:16px 6px;
+    cursor:pointer; transition:color .15s ease, background .15s ease;
+  }
+  .nav-link:last-of-type{ border-bottom:none; }
+  .nav-link:hover{ background:rgba(var(--stamp-red-rgb),0.06); }
+  .nav-link.active{ color:var(--stamp-red-deep); }
+  #stale-warning{
+    display:none; font-family:'JetBrains Mono', monospace; font-size:12px;
+    letter-spacing:.05em; color:var(--stamp-red-deep); border:2px solid var(--stamp-red-deep);
+    padding:8px 12px; background:rgba(var(--stamp-red-rgb),0.12); font-weight:700;
+  }
+  .sync-btn{
+    font-family:'JetBrains Mono', monospace; font-weight:700; font-size:13px;
+    background:var(--ink); color:var(--paper); border:none; padding:12px 20px;
+    letter-spacing:.05em; cursor:pointer; text-transform:uppercase;
+    transition:transform .15s ease, background .15s ease;
+  }
+  .sync-btn:hover{ background:var(--stamp-red); transform:translateY(-2px); }
+  .sync-btn:focus-visible{ outline:3px solid var(--gold); outline-offset:2px; }
+  .theme-btn{
+    font-family:'JetBrains Mono', monospace; font-weight:700; font-size:13px;
+    background:transparent; color:var(--ink); border:2px solid var(--ink); padding:10px 16px;
+    letter-spacing:.05em; cursor:pointer; text-transform:uppercase;
+    transition:background .15s ease, color .15s ease;
+  }
+  .theme-btn:hover{ background:var(--ink); color:var(--paper); }
+  .theme-btn:focus-visible{ outline:3px solid var(--gold); outline-offset:2px; }
+  #last-synced{
+    font-family:'JetBrains Mono', monospace; font-size:11px; letter-spacing:.05em;
+    color:var(--ink-faint); white-space:nowrap;
+  }
+
+  /* ---------- GRID / PANELS ---------- */
+  .grid{ display:grid; grid-template-columns:1.15fr .85fr; gap:26px; }
+  .full{ grid-column:1 / -1; }
+
+  .panel{
+    background:var(--paper);
+    border:3px solid var(--ink);
+    box-shadow:7px 7px 0 var(--ink);
+    padding:26px;
+    position:relative;
+  }
+  .panel.tilt-l{ transform:rotate(-.6deg); }
+  .panel.tilt-r{ transform:rotate(.6deg); }
+
+  .eyebrow{
+    font-family:'JetBrains Mono', monospace; font-size:11px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--ink-faint); margin:0 0 18px;
+    display:flex; align-items:center; gap:8px;
+  }
+  .eyebrow::before{ content:''; width:8px; height:8px; background:var(--stamp-red); display:inline-block; }
+
+  /* Hero */
+  .hero{ display:flex; flex-direction:column; align-items:flex-start; justify-content:center; min-height:210px; }
+  .hero-num{
+    font-family:'Anton', sans-serif; font-size:118px; line-height:.82; color:var(--ink);
+  }
+  .hero-label{
+    font-family:'JetBrains Mono', monospace; font-size:14px; letter-spacing:.1em;
+    color:var(--ink-soft); text-transform:uppercase; margin-top:8px;
+  }
+
+  /* Goal panel */
+  .goal-form{ display:flex; flex-direction:column; gap:14px; }
+  label.field-label{
+    font-family:'JetBrains Mono', monospace; font-size:11px; letter-spacing:.1em;
+    text-transform:uppercase; color:var(--ink-soft); display:block; margin-bottom:6px;
+  }
+  input[type="number"], input[type="date"]{
+    width:100%; background:var(--paper-deep); border:2px solid var(--ink);
+    color:var(--ink); padding:12px 14px; font-family:'JetBrains Mono', monospace;
+    font-size:16px; font-weight:600;
+  }
+  input:focus-visible{ outline:3px solid var(--gold); outline-offset:1px; }
+
+  /* Analytics strip */
+  .analytics-panel{ overflow:visible; }
+  .analytics-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:0; }
+  .stat-box{
+    padding:14px 18px; text-align:left; border-left:2px dashed var(--ink-faint);
+  }
+  .stat-box:first-child{ border-left:none; padding-left:0; }
+  .stat-val{
+    font-family:'Anton', sans-serif; font-size:34px; color:var(--stamp-red-deep); min-height:38px;
+  }
+  .stat-label{
+    font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--ink-soft);
+    text-transform:uppercase; letter-spacing:.08em; margin-top:4px;
+  }
+  #historical-pace{
+    margin-top:16px; padding-top:14px; border-top:2px solid var(--ink);
+    font-family:'JetBrains Mono', monospace; font-size:12.5px; color:var(--ink-soft);
+    letter-spacing:.03em;
+  }
+
+  /* Hanko stamp */
+  .tracked-header-row{ display:flex; justify-content:space-between; align-items:flex-start; gap:16px; margin-bottom:18px; }
+  .stamp{
+    width:72px; height:72px; flex-shrink:0;
+    transform:rotate(-9deg); color:var(--stamp-red); mix-blend-mode:multiply;
+    pointer-events:none; overflow:visible;
+  }
+  .stamp.stamp-gold{ color:var(--gold); }
+  .stamp-ahead{ color:var(--good) !important; }
+  .stamp-behind{ color:var(--stamp-red) !important; }
+  html[data-theme="dark"] .stamp{ mix-blend-mode:normal; }
+
+  /* Range / view toggle (all/7d/30d, cumulative/daily) */
+  .range-toggle{ display:flex; gap:0; margin-top:14px; flex-wrap:wrap; }
+  .range-btn{
+    font-family:'JetBrains Mono', monospace; font-weight:700; font-size:11px;
+    background:transparent; color:var(--ink-soft); border:2px solid var(--ink);
+    padding:6px 12px; cursor:pointer; text-transform:uppercase; letter-spacing:.05em;
+    margin-left:-2px;
+  }
+  .range-btn:first-child{ margin-left:0; }
+  .range-btn.active{ background:var(--ink); color:var(--paper); }
+  .range-btn:focus-visible{ outline:3px solid var(--gold); outline-offset:1px; }
+  .range-btn:disabled{ opacity:.4; cursor:not-allowed; }
+
+  /* Progress bar */
+  .progress-track{
+    width:100%; height:22px; background:var(--paper-deep); border:2px solid var(--ink);
+    position:relative; margin-top:10px; overflow:hidden;
+  }
+  .progress-fill{
+    height:100%; background:repeating-linear-gradient(115deg, var(--stamp-red) 0 8px, var(--stamp-red-deep) 8px 16px);
+    transition:width .4s ease; min-width:0;
+  }
+  .progress-fill.complete{ background:repeating-linear-gradient(115deg, var(--good) 0 8px, var(--good-deep) 8px 16px); }
+  .progress-pct{
+    position:absolute; top:0; right:8px; height:100%; display:flex; align-items:center;
+    font-family:'JetBrains Mono', monospace; font-size:11px; font-weight:700; color:var(--ink);
+    text-shadow:0 0 4px var(--paper), 0 0 4px var(--paper);
+  }
+
+  /* Goal cards */
+  .goal-list{ display:flex; flex-direction:column; gap:16px; margin-top:20px; }
+  .goal-card{
+    border:2px solid var(--ink); background:var(--paper-deep); padding:16px 18px; position:relative;
+  }
+  .goal-card-head{ display:flex; justify-content:space-between; align-items:flex-start; gap:10px; margin-bottom:10px; }
+  .goal-title{ font-family:'JetBrains Mono', monospace; font-weight:700; font-size:13px; letter-spacing:.04em; }
+  .goal-title .goal-deadline{ display:block; color:var(--ink-faint); font-weight:500; font-size:11px; margin-top:2px; }
+  .goal-actions{ display:flex; gap:8px; flex-shrink:0; }
+  .icon-btn{
+    background:transparent; border:2px solid var(--ink); color:var(--ink); cursor:pointer;
+    font-size:15px; line-height:1; padding:5px 9px; font-family:'JetBrains Mono', monospace;
+    transition:background .15s ease, color .15s ease;
+  }
+  .icon-btn.small{ padding:3px 7px; font-size:12px; }
+  .icon-btn:hover{ background:var(--ink); color:var(--paper); }
+  .icon-btn.starred{ background:var(--gold); border-color:var(--gold); color:var(--ink); }
+  .icon-btn.delete-btn:hover{ background:var(--stamp-red); border-color:var(--stamp-red); color:var(--paper); }
+  .icon-btn:focus-visible{ outline:3px solid var(--gold); outline-offset:1px; }
+  .goal-stats-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:0; margin-top:8px; }
+  .goal-stats-grid .stat-box{ padding:8px 14px; }
+  .goal-stats-grid .stat-val{ font-size:22px; min-height:auto; }
+  .no-goals{
+    font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--ink-faint);
+    letter-spacing:.03em; padding:10px 0 0;
+  }
+  .save-goal-btn{
+    font-family:'JetBrains Mono', monospace; font-weight:700; font-size:16px;
+    background:var(--ink); color:var(--paper); border:2px solid var(--ink); padding:12px 18px;
+    letter-spacing:.05em; cursor:pointer; text-transform:uppercase;
+    transition:background .15s ease;
+  }
+  .save-goal-btn:hover{ background:var(--stamp-red); }
+  .save-goal-btn:focus-visible{ outline:3px solid var(--gold); outline-offset:2px; }
+
+  /* Settings page */
+  .settings-section{ margin-bottom:22px; }
+  .settings-section:last-child{ margin-bottom:0; }
+  .settings-checkbox{
+    display:flex; align-items:center; gap:10px; font-family:'JetBrains Mono', monospace;
+    font-size:13px; color:var(--ink-soft); margin-bottom:12px; cursor:pointer; letter-spacing:.02em;
+  }
+  .settings-checkbox:last-child{ margin-bottom:0; }
+  .settings-checkbox input[type="checkbox"]{ width:18px; height:18px; accent-color:var(--stamp-red); cursor:pointer; }
+  .file-label{ display:inline-flex; align-items:center; }
+
+  /* Live update status */
+  .update-status{ font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--ink-soft); }
+  .update-status:empty{ display:none; }
+  .update-status .toggle-btn{ margin-left:10px; padding:5px 12px; font-size:11px; }
+
+  /* Week delta / consistency / ETA text */
+  .week-delta-line{ font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--ink-soft); margin-top:12px; }
+  .week-delta{ font-weight:700; }
+  .week-delta.good{ color:var(--good); }
+  .week-delta.bad{ color:var(--stamp-red); }
+  .consistency-line{ font-family:'JetBrains Mono', monospace; font-size:11.5px; color:var(--ink-faint); margin-top:6px; }
+  .goal-eta-line{ font-family:'JetBrains Mono', monospace; font-size:11.5px; color:var(--ink-soft); margin-top:10px; line-height:1.5; }
+
+  /* Personal bests 2x2 grid */
+  .analytics-grid.cols-2 .stat-box:nth-child(2n+1){ border-left:none; padding-left:0; }
+  .analytics-grid.cols-2 .stat-box:nth-child(n+3){ border-top:2px dashed var(--ink-faint); padding-top:14px; }
+
+  /* Reading pattern mini charts */
+  .mini-chart-row{ display:flex; gap:20px; flex-wrap:wrap; }
+  .mini-chart-col{ flex:1; min-width:280px; }
+  .mini-chart-label{
+    font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--ink-faint);
+    margin-bottom:8px; letter-spacing:.05em; text-transform:uppercase;
+  }
+  .mini-chart-container{ height:180px; }
+
+  /* Undo banner */
+  .undo-banner{
+    display:flex; align-items:center; gap:14px; background:rgba(var(--stamp-red-rgb),0.1);
+    border:2px solid var(--stamp-red); padding:10px 16px; margin-bottom:14px;
+    font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--ink);
+  }
+
+  /* Unsaved-edits note (edits live only in this browser tab until exported) */
+  .unsaved-note{
+    font-family:'JetBrains Mono', monospace; font-size:11.5px; color:var(--stamp-red-deep);
+    background:rgba(var(--stamp-red-rgb),0.08); border:2px dashed var(--stamp-red-deep);
+    padding:8px 12px; margin:8px 0 14px; letter-spacing:.02em;
+  }
+  .unsaved-note code{ font-family:'JetBrains Mono', monospace; font-weight:700; }
+
+  /* Change history */
+  .change-log-row{
+    display:flex; gap:16px; padding:9px 0; border-bottom:1px solid var(--ink-faint);
+    font-family:'JetBrains Mono', monospace; font-size:11.5px; flex-wrap:wrap; color:var(--ink);
+  }
+  .change-log-row:last-child{ border-bottom:none; }
+  .change-log-time{ color:var(--ink-faint); min-width:150px; flex-shrink:0; }
+  .change-log-label{ font-weight:700; min-width:120px; flex-shrink:0; }
+  .change-log-detail{ color:var(--ink-soft); }
+
+  /* Heatmap */
+  .heatmap-wrap{ overflow-x:auto; padding-bottom:6px; }
+  .heatmap-months{ display:grid; gap:3px; margin-bottom:4px; }
+  .heatmap-month-label{ font-family:'JetBrains Mono', monospace; font-size:10px; color:var(--ink-faint); }
+  .heatmap-grid{ display:grid; grid-auto-flow:column; grid-template-rows:repeat(7,12px); grid-auto-columns:12px; gap:3px; }
+  .heat-cell{ width:12px; height:12px; border-radius:2px; border:1px solid rgba(var(--ink-rgb),0.08); }
+  .heatmap-legend{ display:flex; align-items:center; gap:6px; margin-top:12px; font-family:'JetBrains Mono', monospace; font-size:10px; color:var(--ink-faint); }
+  .heatmap-legend .heat-cell{ width:11px; height:11px; }
+
+  /* Trajectory panel */
+  .traj-header{ display:flex; justify-content:space-between; align-items:center; margin-bottom:6px; flex-wrap:wrap; gap:10px; }
+  .traj-controls{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+  .toggle-btn{
+    font-family:'JetBrains Mono', monospace; font-weight:700; font-size:12px;
+    background:transparent; color:var(--ink); border:2px solid var(--ink);
+    padding:7px 14px; cursor:pointer; text-transform:uppercase; letter-spacing:.05em;
+    transition:background .15s ease, color .15s ease;
+  }
+  .toggle-btn:hover{ background:var(--ink); color:var(--paper); }
+  .toggle-btn:focus-visible{ outline:3px solid var(--gold); outline-offset:2px; }
+  .toggle-btn:disabled{ opacity:.4; cursor:not-allowed; }
+
+  .speedline-bg{
+    background-image: repeating-linear-gradient(115deg, rgba(var(--ink-rgb),0.05) 0 2px, transparent 2px 34px);
+    border:2px solid var(--ink);
+    padding:16px;
+  }
+  .chart-container{ height:380px; width:100%; }
+  #chart-slot-full .chart-container{ height:min(70vh, 640px); }
+
+  /* History table */
+  .history-head{ display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:14px; margin-bottom:6px; }
+  .history-controls{
+    display:flex; align-items:center; gap:10px;
+    font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--ink-soft);
+    letter-spacing:.05em;
+  }
+  #visible-input{
+    width:56px; background:var(--paper-deep); border:2px solid var(--ink); color:var(--ink);
+    text-align:center; padding:6px; font-family:'JetBrains Mono', monospace; font-weight:700;
+  }
+  .export-btn{
+    font-family:'JetBrains Mono', monospace; font-weight:700; font-size:12px;
+    background:var(--stamp-red); color:var(--paper); border:none; padding:9px 16px;
+    cursor:pointer; text-transform:uppercase; letter-spacing:.05em;
+    transition:background .15s ease;
+  }
+  .export-btn:hover{ background:var(--stamp-red-deep); }
+  .export-btn:focus-visible{ outline:3px solid var(--gold); outline-offset:2px; }
+
+  table{ width:100%; border-collapse:collapse; margin-top:16px; }
+  thead th{
+    font-family:'JetBrains Mono', monospace; font-size:11px; letter-spacing:.08em;
+    text-transform:uppercase; color:var(--paper); background:var(--ink);
+    text-align:left; padding:12px 16px;
+  }
+  tbody td{
+    border-bottom:1px solid var(--ink-faint); padding:12px 16px;
+    font-family:'JetBrains Mono', monospace; font-size:13px; color:var(--ink);
+  }
+  tbody tr:nth-child(odd){ background:rgba(var(--ink-rgb),0.035); }
+  tbody tr:hover{ background:rgba(var(--stamp-red-rgb),0.07); }
+  .row-actions{ display:flex; gap:6px; }
+
+  @media (max-width: 880px){
+    .grid{ grid-template-columns:1fr; }
+    .hero-num{ font-size:80px; }
+    .panel{ box-shadow:5px 5px 0 var(--ink); }
+    .analytics-grid{ grid-template-columns:1fr; }
+    .stat-box{ border-left:none; border-top:2px dashed var(--ink-faint); padding-left:0; }
+    .stat-box:first-child{ border-top:none; }
+    .goal-stats-grid{ grid-template-columns:1fr; }
+    .goal-stats-grid .stat-box{ border-left:none; border-top:2px dashed var(--ink-faint); padding-left:14px; }
+    .goal-stats-grid .stat-box:first-child{ border-top:none; }
+    .stamp{ width:56px; height:56px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header style="display:flex;justify-content:space-between;align-items:center;border-bottom:5px solid var(--ink);padding-bottom:18px;margin-bottom:22px;gap:20px;flex-wrap:wrap;">
+    <div style="display:flex;align-items:center;gap:16px;">
+      <a href="Library.html" style="font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink);border:2px solid var(--ink);padding:9px 13px;text-decoration:none;" onmouseover="this.style.background='var(--ink)';this.style.color='var(--paper)';" onmouseout="this.style.background='transparent';this.style.color='var(--ink)';">&larr; Library</a>
+      <h1 style="font-family:'Anton',sans-serif;font-weight:400;font-size:34px;letter-spacing:.01em;margin:0;line-height:.9;text-transform:uppercase;">Reading <span style="color:var(--stamp-red);">Stats</span></h1>
+    </div>
+    <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-faint);letter-spacing:.06em;">進行 · LEDGER</span>
+  </header>
+
+  <!-- inline tab bar (replaces the old hamburger drawer) -->
+  <div style="display:flex;gap:0;flex-wrap:wrap;margin-bottom:30px;">
+    <button class="stat-tab active" data-page="home" onclick="showPage('home')">Dashboard</button>
+    <button class="stat-tab" data-page="goal" onclick="showPage('goal')">Goals</button>
+    <button class="stat-tab" data-page="history" onclick="showPage('history')">History</button>
+    <button class="stat-tab" data-page="settings" onclick="showPage('settings')">Preferences</button>
+  </div>
+
+  <!-- ============ HOME ============ -->
+  <div class="page" id="page-home">
+    <div class="home-utility-bar">
+      <div class="home-utility-left">
+        <div id="stale-warning">⚠ STALE — NO RECENT SYNC</div>
+        <span id="sourceIndicator" style="font-family:'JetBrains Mono',monospace; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--ink-soft);"></span>
+        <span id="last-synced">—</span>
+      </div>
+      <div class="home-utility-right">
+        <button class="theme-btn" id="checkUpdatesBtn" onclick="checkForUpdates()">⇅ Check Live</button>
+        <button class="sync-btn" onclick="location.reload()">⟳ Sync Data</button>
+      </div>
+    </div>
+    <div class="update-status" id="updateStatus" style="font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--ink-soft); margin:-8px 0 16px; min-height:15px;"></div>
+
+    <div class="grid">
+
+      <div class="panel tilt-l hero">
+        <p class="eyebrow">Chapters logged</p>
+        <div class="hero-num" id="current-count">0</div>
+        <div class="hero-label">Total chapters read, per Kitsu ledger</div>
+      </div>
+
+      <div class="panel tilt-r">
+        <p class="eyebrow">Personal bests</p>
+        <div class="analytics-grid cols-2" style="grid-template-columns:1fr 1fr;">
+          <div class="stat-box">
+            <div class="stat-val" id="best-day">—</div>
+            <div class="stat-label">Best single day</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-val" id="best-week">—</div>
+            <div class="stat-label">Best 7-day run</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-val" id="streak-stat">—</div>
+            <div class="stat-label">Day streak</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-val" id="avg-active-day">—</div>
+            <div class="stat-label">Avg on active day</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel full analytics-panel">
+        <div class="tracked-header-row">
+          <p class="eyebrow" id="tracked-goal-title" style="margin-bottom:0;">Tracked goal</p>
+          <svg class="stamp" id="pace-stamp" viewBox="0 0 120 120" aria-hidden="true">
+            <defs>
+              <filter id="hankoRough" x="-20%" y="-20%" width="140%" height="140%">
+                <feTurbulence type="fractalNoise" baseFrequency="0.06 0.07" numOctaves="3" seed="11" result="noise"/>
+                <feDisplacementMap in="SourceGraphic" in2="noise" scale="3.2"/>
+              </filter>
+              <filter id="hankoGrain" x="-20%" y="-20%" width="140%" height="140%">
+                <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="5" result="n"/>
+                <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0" result="na"/>
+                <feComposite in="na" in2="SourceGraphic" operator="in"/>
+              </filter>
+            </defs>
+            <g class="hanko-ink" fill="none" stroke="currentColor" filter="url(#hankoRough)">
+              <rect x="8" y="8" width="104" height="104" stroke-width="5"/>
+              <rect x="16" y="16" width="88" height="88" stroke-width="1.5" opacity="0.7"/>
+            </g>
+            <g class="hanko-ink" fill="currentColor" filter="url(#hankoRough)">
+              <text x="60" y="52" text-anchor="middle" font-family="'Zen Kaku Gothic New','Hiragino Sans',sans-serif" font-weight="900" font-size="34">配</text>
+              <text x="60" y="86" text-anchor="middle" font-family="'Zen Kaku Gothic New','Hiragino Sans',sans-serif" font-weight="900" font-size="34">分</text>
+            </g>
+            <text class="hanko-ink" x="60" y="103" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="9" letter-spacing="3" fill="currentColor" filter="url(#hankoRough)">PACE</text>
+            <rect x="8" y="8" width="104" height="104" fill="currentColor" opacity="0.55" filter="url(#hankoGrain)"/>
+          </svg>
+        </div>
+        <div class="analytics-grid">
+          <div class="stat-box">
+            <div class="stat-val" id="daily-pace">—</div>
+            <div class="stat-label">Daily pace required</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-val" id="days-left">—</div>
+            <div class="stat-label">Time remaining</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-val" id="finish-date">—</div>
+            <div class="stat-label">Projected finish</div>
+          </div>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" id="tracked-progress-fill" style="width:0%;"></div>
+          <div class="progress-pct" id="tracked-progress-pct">0%</div>
+        </div>
+        <div class="goal-eta-line" id="tracked-eta-line"></div>
+        <div class="week-delta-line" id="tracked-week-delta"></div>
+        <div id="historical-pace">Historical avg: —</div>
+        <div class="consistency-line" id="consistency-line"></div>
+        <div class="range-toggle" id="histRangeToggle">
+          <button class="range-btn active" data-range="all" onclick="setHistRange('all')">All-time</button>
+          <button class="range-btn" data-range="7" onclick="setHistRange('7')">Last 7d</button>
+          <button class="range-btn" data-range="30" onclick="setHistRange('30')">Last 30d</button>
+        </div>
+      </div>
+
+      <div class="panel full">
+        <p class="eyebrow">Reading heatmap</p>
+        <div class="heatmap-wrap">
+          <div class="heatmap-months" id="heatmap-months"></div>
+          <div class="heatmap-grid" id="heatmap-grid"></div>
+        </div>
+        <div class="heatmap-legend">
+          <span>Less</span>
+          <div class="heat-cell" style="background:var(--paper-deep);"></div>
+          <div class="heat-cell" style="background:rgba(var(--stamp-red-rgb),0.25);"></div>
+          <div class="heat-cell" style="background:rgba(var(--stamp-red-rgb),0.45);"></div>
+          <div class="heat-cell" style="background:rgba(var(--stamp-red-rgb),0.7);"></div>
+          <div class="heat-cell" style="background:rgba(var(--stamp-red-rgb),0.95);"></div>
+          <span>More</span>
+        </div>
+      </div>
+
+      <div class="panel full">
+        <p class="eyebrow">Reading patterns</p>
+        <div class="mini-chart-row">
+          <div class="mini-chart-col">
+            <div class="mini-chart-label">By day of week</div>
+            <div class="mini-chart-container"><canvas id="dowChart"></canvas></div>
+          </div>
+          <div class="mini-chart-col">
+            <div class="mini-chart-label">By hour of day</div>
+            <div class="mini-chart-container"><canvas id="hourChart"></canvas></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel full" id="chart-slot-home"></div>
+
+    </div>
+  </div>
+
+  <!-- ============ GOAL ============ -->
+  <div class="page" id="page-goal">
+    <div class="grid">
+      <div class="panel full tilt-l">
+        <p class="eyebrow">Set a new goal</p>
+        <div class="goal-form" style="flex-direction:row; align-items:flex-end; flex-wrap:wrap;">
+          <div style="flex:1; min-width:180px;">
+            <label class="field-label" for="target-chapters">Target chapters</label>
+            <input type="number" id="target-chapters" placeholder="e.g. 34000">
+          </div>
+          <div style="flex:1; min-width:180px;">
+            <label class="field-label" for="target-date">Deadline</label>
+            <input type="date" id="target-date">
+          </div>
+          <button class="save-goal-btn" onclick="saveGoal()">+ Save Goal</button>
+        </div>
+        <div class="goal-list" id="goal-list">
+          <div class="no-goals" id="no-goals-msg">No goals saved yet — add one above.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ CHART (fullscreen) ============ -->
+  <div class="page" id="page-chart">
+    <div class="grid">
+      <div class="panel full" id="chart-slot-full"></div>
+    </div>
+  </div>
+
+  <!-- ============ HISTORY ============ -->
+  <div class="page" id="page-history">
+    <div class="grid">
+      <div class="panel full">
+        <div class="history-head">
+          <p class="eyebrow" style="margin:0;">History matrix</p>
+          <div class="history-controls">
+            <input type="number" id="visible-input" onchange="updateVisible(this.value)">
+            <span>/ <span id="total-span">0</span> entries visible</span>
+            <button class="export-btn" onclick="exportCSV()">Export CSV</button>
+          </div>
+        </div>
+        <button class="save-goal-btn" style="margin:14px 0 4px;" onclick="exportCleanedData()">⬇ Export Cleaned manga_history_data.js</button>
+        <div class="unsaved-note" id="unsaved-note" style="display:none;">⚠ You have unsaved edits — they only exist in this browser tab. Export the file above and replace <code>manga_history_data.js</code> in the repo, or they'll be lost next time this page loads.</div>
+        <div class="undo-banner" id="undo-banner" style="display:none;">
+          <span class="undo-banner-label">Entry deleted.</span>
+          <button class="toggle-btn" onclick="undoDelete()">Undo</button>
+        </div>
+        <table id="history-table">
+          <thead><tr><th>Start date</th><th>Last checked</th><th>Chapters</th><th>Actions</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="panel full">
+        <p class="eyebrow">Change history</p>
+        <div id="change-log-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ SETTINGS ============ -->
+  <div class="page" id="page-settings">
+    <div class="grid">
+      <div class="panel full">
+        <p class="eyebrow">Preferences</p>
+
+        <div class="settings-section">
+          <label class="field-label">Default chart view</label>
+          <div class="range-toggle" id="defaultChartViewGroup">
+            <button class="range-btn" data-value="cumulative" onclick="setDefaultChartView('cumulative')">Cumulative</button>
+            <button class="range-btn" data-value="daily" onclick="setDefaultChartView('daily')">Daily Volume</button>
+          </div>
+        </div>
+
+        <div class="settings-section">
+          <label class="settings-checkbox">
+            <input type="checkbox" id="settingShowPoints" onchange="setDefaultShowPoints(this.checked)">
+            Show data points by default
+          </label>
+          <label class="settings-checkbox">
+            <input type="checkbox" id="settingShowGoalLine" onchange="setDefaultShowGoalLine(this.checked)">
+            Show goal line by default
+          </label>
+        </div>
+
+        <div class="settings-section">
+          <label class="field-label" for="settingStaleHours">Stale warning threshold (hours)</label>
+          <input type="number" id="settingStaleHours" min="1" max="720" step="1" onchange="setStaleHours(this.value)">
+        </div>
+
+        <div class="settings-section" style="border-top:2px dashed var(--ink-faint); padding-top:16px; margin-top:4px;">
+          <label class="field-label">Configuration backup</label>
+          <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <button class="toggle-btn" onclick="exportConfig()">⬇ Export Configuration</button>
+            <label class="toggle-btn" style="cursor:pointer;">
+              ⬆ Import Configuration
+              <input type="file" accept="application/json" id="importConfigInput" onchange="importConfig(this.files[0])" style="display:none;">
+            </label>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Shared trajectory chart card — reparented between #chart-slot-home and #chart-slot-full -->
+  <template id="chart-card-template">
+    <div id="chart-card">
+      <div class="traj-header">
+        <p class="eyebrow" style="margin:0;">Trajectory over time</p>
+        <div class="traj-controls">
+          <div class="range-toggle" id="chartViewToggle" style="margin-top:0;">
+            <button class="range-btn active" data-view="cumulative" onclick="setChartView('cumulative')">Cumulative</button>
+            <button class="range-btn" data-view="daily" onclick="setChartView('daily')">Daily Volume</button>
+          </div>
+          <button class="toggle-btn" id="togglePoints" onclick="togglePoints()">Hide Points</button>
+          <button class="toggle-btn" id="toggleGoalLine" onclick="toggleGoalLine()">Show Goal Line</button>
+          <button class="toggle-btn" id="resetZoom" onclick="resetChartZoom()">Reset Zoom</button>
+        </div>
+      </div>
+      <div class="speedline-bg">
+        <div class="chart-container"><canvas id="progressChart"></canvas></div>
+      </div>
+      <div style="font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--ink-faint); margin-top:10px; letter-spacing:.03em;">Scroll or pinch to zoom · drag to pan · "Show Goal Line" overlays the starred goal's target pace (off by default)</div>
+    </div>
+  </template>
+
+</div>
+
+<script>
+  /* ============================================================
+     THEME (kraft / mono / dark)
+  ============================================================ */
+  const THEME_COLORS = {
+      kraft: { red:'#ac3327', ink:'#17140f', inkSoft:'#56503f', inkFaint:'#8a8270', grid:'rgba(23,20,15,0.08)' },
+      mono:  { red:'#c22323', ink:'#0a0a0a', inkSoft:'#333333', inkFaint:'#767267', grid:'rgba(10,10,10,0.08)' },
+      dark:  { red:'#d85f45', ink:'#b8ab8f', inkSoft:'#8f8369', inkFaint:'#5f5646', grid:'rgba(184,171,143,0.12)' }
+  };
+
+  function applyTheme(theme) {
+      const valid = THEME_COLORS[theme] ? theme : 'kraft';
+      document.documentElement.setAttribute('data-theme', valid);
+      document.querySelectorAll('#themeToggleGroup .range-btn').forEach(b => b.classList.toggle('active', b.dataset.theme === valid));
+      buildChart();
+      buildPatternCharts();
+  }
+
+  function setTheme(theme) {
+      try { localStorage.setItem('kitsuTheme', theme); } catch (e) { /* storage unavailable */ }
+      applyTheme(theme);
+  }
+
+  /* ============================================================
+     PAGE NAVIGATION (hamburger side drawer + page switching)
+  ============================================================ */
+  function openNav() { /* drawer removed — replaced by inline tabs */ }
+  function closeNav() { /* drawer removed — replaced by inline tabs */ }
+
+  function moveChartToSlot(slotId) {
+      const card = document.getElementById('chart-card');
+      const slot = document.getElementById(slotId);
+      if (!card || !slot) return;
+      if (card.parentElement !== slot) slot.appendChild(card);
+  }
+
+  function showPage(name) {
+      document.querySelectorAll('.page').forEach(p => p.classList.toggle('active', p.id === 'page-' + name));
+      document.querySelectorAll('.stat-tab').forEach(b => b.classList.toggle('active', b.dataset.page === name));
+
+      // Chart always lives in the dashboard slot now (no fullscreen page).
+      moveChartToSlot('chart-slot-home');
+      if (name === 'home' && chart) requestAnimationFrame(() => chart.resize());
+
+      if (name === 'settings') populateSettingsForm();
+      window.scrollTo(0, 0);
+  }
+
+  document.addEventListener('keydown', () => { /* nav drawer removed */ });
+
+  /* ============================================================
+     SETTINGS PANEL (theme + chart defaults + misc preferences)
+  ============================================================ */
+  function populateSettingsForm() {
+      const defaultView = localStorage.getItem('kitsuChartView') || 'cumulative';
+      document.querySelectorAll('#defaultChartViewGroup .range-btn').forEach(b => b.classList.toggle('active', b.dataset.value === defaultView));
+
+      document.getElementById('settingShowPoints').checked = (localStorage.getItem('kitsuShowPoints') ?? 'true') === 'true';
+      document.getElementById('settingShowGoalLine').checked = (localStorage.getItem('kitsuShowGoal') ?? 'false') === 'true';
+      document.getElementById('settingStaleHours').value = localStorage.getItem('kitsuStaleHours') || '24';
+  }
+
+  function setDefaultChartView(view) {
+      try { localStorage.setItem('kitsuChartView', view); } catch (e) { /* storage unavailable */ }
+      document.querySelectorAll('#defaultChartViewGroup .range-btn').forEach(b => b.classList.toggle('active', b.dataset.value === view));
+      setChartView(view);
+  }
+
+  function setDefaultShowPoints(checked) {
+      try { localStorage.setItem('kitsuShowPoints', checked); } catch (e) { /* storage unavailable */ }
+      showPoints = checked;
+      document.getElementById('togglePoints').innerText = showPoints ? 'Hide Points' : 'Show Points';
+      buildChart();
+  }
+
+  function setDefaultShowGoalLine(checked) {
+      try { localStorage.setItem('kitsuShowGoal', checked); } catch (e) { /* storage unavailable */ }
+      showGoalLine = checked;
+      document.getElementById('toggleGoalLine').innerText = showGoalLine ? 'Hide Goal Line' : 'Show Goal Line';
+      buildChart();
+  }
+
+  function setReduceMotion(checked) {
+      try { localStorage.setItem('kitsuReduceMotion', checked); } catch (e) { /* storage unavailable */ }
+      document.documentElement.setAttribute('data-reduce-motion', checked ? '1' : '0');
+  }
+
+  function setStaleHours(hours) {
+      const n = Math.max(1, Math.min(720, parseInt(hours, 10) || 24));
+      try { localStorage.setItem('kitsuStaleHours', String(n)); } catch (e) { /* storage unavailable */ }
+      document.getElementById('settingStaleHours').value = n;
+      renderAll();
+  }
+
+  /* ============================================================
+     GOALS (multi-goal + starred goal + persistence)
+  ============================================================ */
+  let goals = [];
+
+  function loadGoals() {
+      try {
+          const saved = JSON.parse(localStorage.getItem('kitsuGoals') || 'null');
+          if (Array.isArray(saved)) { goals = saved; return; }
+      } catch (e) { /* fall through to migration */ }
+      try {
+          const old = JSON.parse(localStorage.getItem('kitsuGoal') || '{}');
+          if (old.targetChapters && old.targetDate) {
+              goals = [{ id: Date.now(), targetChapters: old.targetChapters, targetDate: old.targetDate, starred: true }];
+              persistGoals();
+              return;
+          }
+      } catch (e) { /* no legacy goal either */ }
+      goals = [];
+  }
+
+  function persistGoals() {
+      try { localStorage.setItem('kitsuGoals', JSON.stringify(goals)); }
+      catch (e) { console.error('Could not save goals:', e); }
+  }
+
+  function saveGoal() {
+      const targetChapters = document.getElementById('target-chapters').value;
+      const targetDate = document.getElementById('target-date').value;
+      if (!targetChapters || !targetDate) { alert('Enter both a target chapter count and a deadline.'); return; }
+      goals.push({ id: Date.now(), targetChapters, targetDate, starred: goals.length === 0 });
+      persistGoals();
+      document.getElementById('target-chapters').value = '';
+      document.getElementById('target-date').value = '';
+      renderAll();
+  }
+
+  function toggleStar(id) {
+      goals.forEach(g => g.starred = (g.id === id));
+      persistGoals();
+      renderAll();
+  }
+
+  function deleteGoal(id) {
+      const removed = goals.find(g => g.id === id);
+      goals = goals.filter(g => g.id !== id);
+      if (removed && removed.starred && goals.length) goals[0].starred = true;
+      persistGoals();
+      renderAll();
+  }
+
+  function computeGoalStats(goal, current, histAvg) {
+      const target = parseInt(goal.targetChapters);
+      let dailyPace = '—', daysLeftStr = '—', finishStr = '—';
+
+      // Malformed/blank target (only reachable via a hand-edited or imported
+      // ledger_config.json, not the normal form) — bail out with clean
+      // placeholders instead of letting NaN/Invalid Date leak into the UI.
+      if (!Number.isFinite(target) || target <= 0) {
+          return { dailyPace, daysLeftStr, finishStr, progressPct: 0, remaining: NaN };
+      }
+
+      const remaining = target - current;
+      const progressPct = Math.max(0, Math.min(100, (current / target) * 100));
+
+      if (remaining <= 0) {
+          dailyPace = '0.0'; daysLeftStr = 'Done'; finishStr = 'Reached';
+      } else {
+          const daysUntil = Math.ceil((localDateFromYMD(goal.targetDate) - new Date()) / 86400000);
+          if (daysUntil > 0) {
+              dailyPace = (remaining / daysUntil).toFixed(1);
+              daysLeftStr = daysUntil + 'd';
+          } else {
+              daysLeftStr = 'Past due';
+          }
+          if (histAvg > 0) {
+              const proj = new Date();
+              proj.setDate(proj.getDate() + Math.ceil(remaining / histAvg));
+              finishStr = proj.toLocaleDateString('en-GB');
+          }
+      }
+      return { dailyPace, daysLeftStr, finishStr, progressPct, remaining };
+  }
+
+  // Explicit ETA sentence for a goal — surfaces what's otherwise only
+  // readable by eyeballing the trend line on the chart.
+  function goalEtaSentence(goal, s, histAvg) {
+      if (isNaN(s.remaining)) return 'This goal is missing a valid target chapter count.';
+      if (s.remaining <= 0) return 'Goal already reached! 🎉';
+      if (histAvg <= 0) return 'No reading pace recorded yet — projection unavailable.';
+      if (s.finishStr === '—') return 'Deadline has passed with progress still remaining.';
+      return `At your ${histAvg.toFixed(1)}/day average, you'll hit this goal around ${s.finishStr}.`;
+  }
+
+  function weekDeltaText(wd) {
+      if (!wd) return '';
+      if (wd.lastWeek === null) return `This week: ${wd.thisWeek} ch <span class="week-delta">(not enough history for a last-week comparison yet)</span>`;
+      const arrow = wd.delta >= 0 ? '▲' : '▼';
+      const cls = wd.delta >= 0 ? 'good' : 'bad';
+      const sign = wd.delta >= 0 ? '+' : '';
+      return `This week: ${wd.thisWeek} ch <span class="week-delta ${cls}">${arrow} ${sign}${wd.delta} vs last week (${wd.lastWeek})</span>`;
+  }
+
+  function renderGoalCards(current, histAvg, wd) {
+      const list = document.getElementById('goal-list');
+      list.innerHTML = '';
+      if (!goals.length) {
+          list.innerHTML = '<div class="no-goals" id="no-goals-msg">No goals saved yet — add one above.</div>';
+          return;
+      }
+      goals.forEach(goal => {
+          const s = computeGoalStats(goal, current, histAvg);
+          const card = document.createElement('div');
+          card.className = 'goal-card';
+          card.innerHTML = `
+            <div class="goal-card-head">
+              <div class="goal-title">${parseInt(goal.targetChapters).toLocaleString()} ch
+                <span class="goal-deadline">by ${localDateFromYMD(goal.targetDate).toLocaleDateString('en-GB')}</span>
+              </div>
+              <div class="goal-actions">
+                <button class="icon-btn ${goal.starred ? 'starred' : ''}" title="Star this goal" onclick="toggleStar(${goal.id})">★</button>
+                <button class="icon-btn delete-btn" title="Delete goal" onclick="deleteGoal(${goal.id})">✕</button>
+              </div>
+            </div>
+            <div class="goal-stats-grid">
+              <div class="stat-box"><div class="stat-val">${s.dailyPace}</div><div class="stat-label">Daily pace required</div></div>
+              <div class="stat-box"><div class="stat-val">${s.daysLeftStr}</div><div class="stat-label">Time remaining</div></div>
+              <div class="stat-box"><div class="stat-val">${s.finishStr}</div><div class="stat-label">Projected finish</div></div>
+            </div>
+            <div class="progress-track">
+              <div class="progress-fill ${s.progressPct >= 100 ? 'complete' : ''}" style="width:${s.progressPct.toFixed(1)}%;"></div>
+              <div class="progress-pct">${s.progressPct.toFixed(0)}%</div>
+            </div>
+            <div class="goal-eta-line">${goalEtaSentence(goal, s, histAvg)}</div>
+            <div class="week-delta-line">${wd ? weekDeltaText(wd) : ''}</div>`;
+          list.appendChild(card);
+      });
+  }
+
+  function renderTrackedGoal(current, histAvg, wd) {
+      const starred = goals.find(g => g.starred) || goals[0];
+      const titleEl = document.getElementById('tracked-goal-title');
+      const fill = document.getElementById('tracked-progress-fill');
+      const pctEl = document.getElementById('tracked-progress-pct');
+      const etaEl = document.getElementById('tracked-eta-line');
+      const wdEl = document.getElementById('tracked-week-delta');
+
+      if (!starred) {
+          titleEl.innerText = 'Tracked goal — none set';
+          document.getElementById('daily-pace').innerText = '—';
+          document.getElementById('days-left').innerText = '—';
+          document.getElementById('finish-date').innerText = '—';
+          fill.style.width = '0%'; fill.classList.remove('complete'); pctEl.innerText = '0%';
+          if (etaEl) etaEl.innerText = '';
+          if (wdEl) wdEl.innerHTML = wd ? weekDeltaText(wd) : '';
+          return;
+      }
+      titleEl.innerText = `Starred goal — ${parseInt(starred.targetChapters).toLocaleString()} by ${localDateFromYMD(starred.targetDate).toLocaleDateString('en-GB')}`;
+      const s = computeGoalStats(starred, current, histAvg);
+      document.getElementById('daily-pace').innerText = s.dailyPace;
+      document.getElementById('days-left').innerText = s.daysLeftStr;
+      document.getElementById('finish-date').innerText = s.finishStr;
+      fill.style.width = s.progressPct.toFixed(1) + '%';
+      fill.classList.toggle('complete', s.progressPct >= 100);
+      pctEl.innerText = s.progressPct.toFixed(0) + '%';
+      if (etaEl) etaEl.innerText = goalEtaSentence(starred, s, histAvg);
+      if (wdEl) wdEl.innerHTML = wd ? weekDeltaText(wd) : '';
+  }
+
+  // Period-over-period: this week's chapters read vs the week before.
+  function chaptersAsOf(daysAgo) {
+      const cutoff = new Date(Date.now() - daysAgo * 86400000);
+      let val = null;
+      for (let i = 0; i < mangaHistoryData.length; i++) {
+          if (parseVBSDate(mangaHistoryData[i].date1) <= cutoff) val = mangaHistoryData[i].chapters;
+          else break;
+      }
+      return val;
+  }
+
+  function computeWeekDelta() {
+      if (!mangaHistoryData.length) return null;
+      const now = mangaHistoryData[mangaHistoryData.length - 1].chapters;
+      const w1 = chaptersAsOf(7);
+      if (w1 === null) return null;
+      const w2 = chaptersAsOf(14);
+      const thisWeek = now - w1;
+      const lastWeek = w2 !== null ? (w1 - w2) : null;
+      return { thisWeek, lastWeek, delta: lastWeek !== null ? thisWeek - lastWeek : null };
+  }
+
+  /* ============================================================
+     HISTORICAL PACE RANGE TOGGLE (all-time / 7d / 30d)
+  ============================================================ */
+  let histRange = localStorage.getItem('kitsuHistRange') || 'all';
+
+  function setHistRange(range) {
+      histRange = range;
+      try { localStorage.setItem('kitsuHistRange', range); } catch (e) { /* storage unavailable */ }
+      document.querySelectorAll('#histRangeToggle .range-btn').forEach(b => b.classList.toggle('active', b.dataset.range === range));
+      renderAll();
+  }
+
+  function computeHistAvg(range) {
+      if (!mangaHistoryData.length) return 0;
+      const last = mangaHistoryData[mangaHistoryData.length - 1];
+      const current = last.chapters;
+      const lastDate = parseVBSDate(last.date1);
+      let referenceEntry;
+      if (range === 'all') {
+          referenceEntry = mangaHistoryData[0];
+      } else {
+          const cutoff = new Date(lastDate.getTime() - parseInt(range) * 86400000);
+          referenceEntry = mangaHistoryData.find(e => parseVBSDate(e.date1) >= cutoff) || mangaHistoryData[0];
+      }
+      const daysElapsed = Math.max(0.1, (lastDate - parseVBSDate(referenceEntry.date1)) / 86400000);
+      return (current - referenceEntry.chapters) / daysElapsed;
+  }
+
+  /* ============================================================
+     STREAK / BEST DAY / BEST WEEK (from daily breakdown)
+  ============================================================ */
+  function pad2(n) { return n < 10 ? '0' + n : '' + n; }
+  function dayKey(d) { return d.getFullYear() + '-' + pad2(d.getMonth() + 1) + '-' + pad2(d.getDate()); }
+
+  function computeDailyBreakdown() {
+      if (!mangaHistoryData.length) return [];
+      const dayHasEntry = {};
+      const dailyDiff = {};
+
+      // Every day that has at least one check-in counts for streaks,
+      // regardless of whether the count went up that day.
+      mangaHistoryData.forEach(e => {
+          [e.date1, e.date2].forEach(ds => { dayHasEntry[dayKey(parseVBSDate(ds))] = true; });
+      });
+
+      // Attribute each entry-to-entry increase to the day the later
+      // entry was logged on. This fixes a bug where the very first
+      // tracked day always showed 0 — it was being diffed against a
+      // nonexistent "day before tracking started" instead of against
+      // its own earlier same-day entries.
+      for (let i = 1; i < mangaHistoryData.length; i++) {
+          const diff = mangaHistoryData[i].chapters - mangaHistoryData[i - 1].chapters;
+          if (diff > 0) {
+              const key = dayKey(parseVBSDate(mangaHistoryData[i].date1));
+              dailyDiff[key] = (dailyDiff[key] || 0) + diff;
+          }
+      }
+
+      const keys = Object.keys(dayHasEntry).sort();
+      const cursor = localDateFromYMD(keys[0]);
+      const lastDate = localDateFromYMD(keys[keys.length - 1]);
+      const days = [];
+      while (cursor <= lastDate) {
+          const key = dayKey(cursor);
+          days.push({ key, diff: dailyDiff[key] || 0, hasEntry: !!dayHasEntry[key] });
+          cursor.setDate(cursor.getDate() + 1);
+      }
+      return days;
+  }
+
+  function computeStreak(days) {
+      if (!days.length) return 0;
+      let streak = 0;
+      for (let i = days.length - 1; i >= 0; i--) {
+          if (days[i].hasEntry) streak++; else break;
+      }
+      return streak;
+  }
+
+  function computeBests(days) {
+      let bestDay = 0, bestWeek = 0, windowSum = 0;
+      const queue = [];
+      days.forEach(d => {
+          bestDay = Math.max(bestDay, d.diff);
+          queue.push(d.diff);
+          windowSum += d.diff;
+          if (queue.length > 7) windowSum -= queue.shift();
+          bestWeek = Math.max(bestWeek, windowSum);
+      });
+
+      // Avg active day: chapters per calendar day, counting only days that
+      // actually had reading (d.diff > 0). The first and last calendar day of
+      // the WHOLE tracked history are excluded from this specific average —
+      // tracking starts and ends at some arbitrary time of day, not midnight,
+      // so those two days are only ever partially covered (you may have read
+      // before tracking began, or could still read more after the last
+      // logged entry, on that same date). Counting them as if they were full
+      // days would understate the average, especially badly while the
+      // dataset is still young (a handful of days) since the distortion
+      // doesn't dilute away yet the way it does over weeks/months of history.
+      const middleDays = days.slice(1, -1);
+      let activeSum = 0, activeCount = 0;
+      middleDays.forEach(d => {
+          if (d.diff > 0) { activeSum += d.diff; activeCount++; }
+      });
+      const avgActiveDay = activeCount ? activeSum / activeCount : 0;
+
+      return { bestDay, bestWeek, avgActiveDay, avgActiveDayReady: activeCount > 0 };
+  }
+
+  // NOTE: an "Avg session" / "Longest session" stat used to live here, inferred
+  // from sync-poll timestamps. Removed — even after fixing the idle-time bug it
+  // was still an unreliable estimate (couldn't distinguish real multi-hour
+  // sessions from bursts around unmonitored gaps), and it wasn't a stat worth
+  // that much guesswork. See computeBests() and the streak/avg-active-day stats
+  // below for the reliable replacements.
+
+  // Consistency / volatility: coefficient of variation across active read-days.
+  function computeConsistency(days) {
+      const active = days.filter(d => d.hasEntry).map(d => d.diff);
+      if (active.length < 2) return null;
+      const mean = active.reduce((a, b) => a + b, 0) / active.length;
+      if (mean === 0) return null;
+      const variance = active.reduce((a, b) => a + Math.pow(b - mean, 2), 0) / active.length;
+      const stdDev = Math.sqrt(variance);
+      const cv = (stdDev / mean) * 100;
+      let label;
+      if (cv < 30) label = 'steady grinding';
+      else if (cv < 70) label = 'moderately variable';
+      else label = 'binge-then-drought';
+      return { cv, label };
+  }
+
+  // Day-of-week / hour-of-day breakdown, attributed to each session's start time.
+  function computeTimePatterns() {
+      const byHour = new Array(24).fill(0);
+      const byDow = new Array(7).fill(0);
+      for (let i = 1; i < mangaHistoryData.length; i++) {
+          const diff = mangaHistoryData[i].chapters - mangaHistoryData[i - 1].chapters;
+          if (diff > 0) {
+              const d = parseVBSDate(mangaHistoryData[i].date1);
+              byHour[d.getHours()] += diff;
+              byDow[d.getDay()] += diff;
+          }
+      }
+      return { byHour, byDow };
+  }
+
+  let hourChart, dowChart;
+  function buildPatternCharts() {
+      const theme = localStorage.getItem('kitsuTheme') || 'kraft';
+      const c = THEME_COLORS[theme] || THEME_COLORS.kraft;
+      const { byHour, byDow } = computeTimePatterns();
+      const dowLabels = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+      const hourLabels = Array.from({ length: 24 }, (_, i) => i + ':00');
+
+      if (hourChart) { hourChart.destroy(); hourChart = null; }
+      if (dowChart) { dowChart.destroy(); dowChart = null; }
+
+      const hourCtx = document.getElementById('hourChart')?.getContext('2d');
+      const dowCtx = document.getElementById('dowChart')?.getContext('2d');
+      if (!hourCtx || !dowCtx) return;
+
+      const opts = {
+          responsive: true, maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+              x: { ticks: { color: c.inkSoft, font: { family: "'JetBrains Mono', monospace", size: 9 } }, grid: { display: false } },
+              y: { ticks: { color: c.inkSoft, font: { family: "'JetBrains Mono', monospace", size: 9 } }, grid: { color: c.grid } }
+          }
+      };
+
+      dowChart = new Chart(dowCtx, { type: 'bar', data: { labels: dowLabels, datasets: [{ data: byDow, backgroundColor: c.red, borderRadius: 2 }] }, options: opts });
+      hourChart = new Chart(hourCtx, { type: 'bar', data: { labels: hourLabels, datasets: [{ data: byHour, backgroundColor: c.red, borderRadius: 2 }] }, options: opts });
+  }
+
+  /* ============================================================
+     FEATURE 1: CONTRIBUTION HEATMAP
+  ============================================================ */
+  function buildHeatmapWeeks(days) {
+      if (!days.length) return [];
+      const first = localDateFromYMD(days[0].key);
+      const startPad = first.getDay();
+      const cells = [];
+      for (let i = 0; i < startPad; i++) cells.push(null);
+      days.forEach(d => cells.push(d));
+      while (cells.length % 7 !== 0) cells.push(null);
+      const weeks = [];
+      for (let i = 0; i < cells.length; i += 7) weeks.push(cells.slice(i, i + 7));
+      return weeks;
+  }
+
+  function heatColor(diff, maxDiff) {
+      if (!diff) return 'var(--paper-deep)';
+      const ratio = maxDiff > 0 ? diff / maxDiff : 0;
+      let alpha;
+      if (ratio > 0.75) alpha = 0.95;
+      else if (ratio > 0.5) alpha = 0.7;
+      else if (ratio > 0.25) alpha = 0.45;
+      else alpha = 0.25;
+      return `rgba(var(--stamp-red-rgb), ${alpha})`;
+  }
+
+  function renderHeatmap() {
+      const days = computeDailyBreakdown();
+      const grid = document.getElementById('heatmap-grid');
+      const monthsEl = document.getElementById('heatmap-months');
+      if (!grid || !monthsEl) return;
+      grid.innerHTML = '';
+      monthsEl.innerHTML = '';
+      if (!days.length) return;
+
+      const weeks = buildHeatmapWeeks(days);
+      grid.style.gridTemplateColumns = `repeat(${weeks.length}, 12px)`;
+      monthsEl.style.gridTemplateColumns = `repeat(${weeks.length}, 12px)`;
+      const maxDiff = Math.max(1, ...days.map(d => d.diff));
+
+      let lastMonth = null;
+      weeks.forEach((week, wi) => {
+          const firstReal = week.find(d => d);
+          if (firstReal) {
+              const d = localDateFromYMD(firstReal.key);
+              const m = d.getMonth();
+              if (m !== lastMonth) {
+                  const lbl = document.createElement('span');
+                  lbl.className = 'heatmap-month-label';
+                  lbl.style.gridColumn = String(wi + 1);
+                  lbl.innerText = d.toLocaleDateString('en-GB', { month: 'short' });
+                  monthsEl.appendChild(lbl);
+                  lastMonth = m;
+              }
+          }
+      });
+
+      weeks.forEach(week => {
+          week.forEach(day => {
+              const cell = document.createElement('div');
+              cell.className = 'heat-cell';
+              if (day) {
+                  cell.style.background = heatColor(day.diff, maxDiff);
+                  cell.title = `${day.key}: ${day.diff} chapter${day.diff === 1 ? '' : 's'} read`;
+              } else {
+                  cell.style.visibility = 'hidden';
+              }
+              grid.appendChild(cell);
+          });
+      });
+  }
+
+  /* ============================================================
+     AHEAD / BEHIND PACE STAMP
+  ============================================================ */
+  function updatePaceStamp(current, histAvg) {
+      const stampEl = document.getElementById('pace-stamp');
+      stampEl.classList.remove('stamp-ahead', 'stamp-behind');
+
+      const starred = goals.find(g => g.starred) || goals[0];
+      if (!starred) return;
+
+      const s = computeGoalStats(starred, current, histAvg);
+      const required = parseFloat(s.dailyPace);
+      if (!isFinite(required)) return;
+
+      if (histAvg >= required) {
+          stampEl.classList.add('stamp-ahead');
+      } else {
+          stampEl.classList.add('stamp-behind');
+      }
+  }
+
+  /* ============================================================
+     LAST SYNCED
+  ============================================================ */
+  function formatAgo(ms) {
+      const mins = Math.floor(ms / 60000);
+      if (mins < 1) return 'just now';
+      if (mins < 60) return mins + ' min ago';
+      const hrs = Math.floor(mins / 60);
+      if (hrs < 24) return hrs + ' hr ago';
+      return Math.floor(hrs / 24) + 'd ago';
+  }
+
+  function updateLastSynced() {
+      if (!mangaHistoryData.length) return;
+      const last = mangaHistoryData[mangaHistoryData.length - 1];
+      const el = document.getElementById('last-synced');
+      if (el) el.innerText = 'Last synced ' + formatAgo(Date.now() - parseVBSDate(last.date2).getTime());
+  }
+
+  /* ============================================================
+     CHART (trajectory / daily volume, with zoom/pan + target line)
+  ============================================================ */
+  let chart, limit = 10,
+      showPoints = (localStorage.getItem('kitsuShowPoints') ?? 'true') === 'true',
+      chartView = localStorage.getItem('kitsuChartView') || 'cumulative',
+      showGoalLine = (localStorage.getItem('kitsuShowGoal') ?? 'false') === 'true';
+
+  function parseVBSDate(s) { return new Date(s); }
+
+  // Parses a plain "yyyy-mm-dd" string (from <input type="date"> or from
+  // dayKey()) as LOCAL midnight instead of UTC midnight. `new Date("yyyy-mm-dd")`
+  // is spec'd to parse as UTC, which then displays/compares as the previous
+  // calendar day for anyone west of UTC (most of the Americas) once it's run
+  // back through local-time getters like toLocaleDateString/getDay/getMonth.
+  // Every place in this file that turns a bare date-only string into a Date
+  // for local display or local day-of-week/month math should use this instead
+  // of `new Date(str)`.
+  function localDateFromYMD(s) {
+      const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(s);
+      if (!m) return new Date(s); // not a plain date-only string — leave as-is
+      return new Date(parseInt(m[1], 10), parseInt(m[2], 10) - 1, parseInt(m[3], 10));
+  }
+
+  let pts = [], trendData = [], slope = 0, intercept = 0;
+
+  function recomputeDerived() {
+      pts = [];
+      if (typeof mangaHistoryData !== 'undefined') {
+          mangaHistoryData.forEach(e => {
+              pts.push({ x: parseVBSDate(e.date1), y: e.chapters });
+              pts.push({ x: parseVBSDate(e.date2), y: e.chapters });
+          });
+      }
+      const lastPoints = pts.slice(-10);
+      const n = lastPoints.length;
+      let sumX = 0, sumY = 0, sumXY = 0, sumXX = 0;
+      lastPoints.forEach(p => {
+          const x = p.x.getTime();
+          sumX += x; sumY += p.y; sumXY += x * p.y; sumXX += x * x;
+      });
+      slope = (n * sumXY - sumX * sumY) / (n * sumXX - sumX * sumX);
+      intercept = (sumY - slope * sumX) / n;
+      trendData = pts.map(p => ({ x: p.x, y: slope * p.x.getTime() + intercept }));
+  }
+  recomputeDerived();
+
+  try {
+      const zoomPlugin = window.ChartZoom || window['chartjs-plugin-zoom'];
+      if (zoomPlugin && window.Chart && Chart.register) Chart.register(zoomPlugin);
+  } catch (e) { console.warn('Zoom plugin not registered:', e); }
+
+  function buildTargetLine() {
+      const starred = goals.find(g => g.starred) || goals[0];
+      if (!starred || !mangaHistoryData.length) return null;
+      const target = parseInt(starred.targetChapters);
+      const targetDate = localDateFromYMD(starred.targetDate);
+      if (!target || isNaN(targetDate.getTime())) return null;
+
+      const startEntry = mangaHistoryData[0];
+      const startPoint = { x: parseVBSDate(startEntry.date1), y: startEntry.chapters };
+      const endPoint = { x: targetDate, y: target };
+      if (endPoint.x <= startPoint.x) return null;
+
+      const theme = localStorage.getItem('kitsuTheme') || 'kraft';
+      const c = THEME_COLORS[theme] || THEME_COLORS.kraft;
+      return {
+          label: `Goal pace (${target.toLocaleString()} by ${targetDate.toLocaleDateString('en-GB')})`,
+          data: [startPoint, endPoint],
+          borderColor: c.inkFaint,
+          borderDash: [3, 5],
+          borderWidth: 1.5,
+          pointRadius: 0,
+          fill: false
+      };
+  }
+
+  function buildChart() {
+      if (chart) { chart.destroy(); chart = null; }
+      const ctx = document.getElementById('progressChart')?.getContext('2d');
+      if (!ctx) return;
+      const theme = localStorage.getItem('kitsuTheme') || 'kraft';
+      const c = THEME_COLORS[theme] || THEME_COLORS.kraft;
+
+      // Default to showing just the last 7 days of activity on load/rebuild —
+      // a month or year of history at once makes the recent trend hard to read.
+      // Users can still pan/zoom out freely; this only sets the starting view.
+      const allDates = (chartView === 'daily'
+          ? computeDailyBreakdown().map(d => localDateFromYMD(d.key))
+          : pts.map(p => p.x)
+      );
+      let xMin, xMax;
+      if (allDates.length) {
+          xMax = new Date(Math.max(...allDates.map(d => d.getTime())));
+          xMin = new Date(xMax.getTime() - 7 * 86400000);
+      }
+
+      const commonScales = {
+          x: {
+              type: 'time', time: { unit: 'day' }, min: xMin, max: xMax,
+              ticks: { color: c.inkSoft, font: { family: "'JetBrains Mono', monospace", size: 10 } }, grid: { color: c.grid }
+          },
+          y: { min: chartView === 'daily' ? 0 : undefined, ticks: { callback: v => Math.floor(v), color: c.inkSoft, font: { family: "'JetBrains Mono', monospace", size: 10 } }, grid: { color: c.grid } }
+      };
+      const commonPlugins = {
+          legend: { display: true, labels: { color: c.ink, font: { family: "'JetBrains Mono', monospace", size: 11 } } },
+          zoom: {
+              pan: { enabled: true, mode: 'xy' },
+              zoom: { wheel: { enabled: true }, pinch: { enabled: true }, mode: 'xy' },
+              limits: { y: { min: 0 } }
+          }
+      };
+
+      if (chartView === 'daily') {
+          const days = computeDailyBreakdown();
+          const barData = days.map(d => ({ x: localDateFromYMD(d.key), y: d.diff }));
+          chart = new Chart(ctx, {
+              type: 'bar',
+              data: { datasets: [{ label: 'Chapters/day', data: barData, backgroundColor: c.red, borderColor: c.red, borderWidth: 1, borderRadius: 2 }] },
+              options: { responsive: true, maintainAspectRatio: false, plugins: commonPlugins, scales: commonScales }
+          });
+      } else {
+          const datasets = [
+              { label: 'Progress', data: pts, borderColor: c.red, backgroundColor: c.red, borderWidth: 3, fill: false, pointRadius: showPoints ? 3 : 0 },
+              { label: 'Trend', data: trendData, borderColor: c.ink, borderDash: [6, 4], borderWidth: 2, pointRadius: 0 }
+          ];
+          const targetLine = showGoalLine ? buildTargetLine() : null;
+          if (targetLine) datasets.push(targetLine);
+          chart = new Chart(ctx, {
+              type: 'line',
+              data: { datasets },
+              options: { responsive: true, maintainAspectRatio: false, plugins: commonPlugins, scales: commonScales }
+          });
+      }
+  }
+
+  function toggleGoalLine() {
+      showGoalLine = !showGoalLine;
+      document.getElementById('toggleGoalLine').innerText = showGoalLine ? 'Hide Goal Line' : 'Show Goal Line';
+      buildChart();
+  }
+
+  function setChartView(view) {
+      chartView = view;
+      document.querySelectorAll('#chartViewToggle .range-btn').forEach(b => b.classList.toggle('active', b.dataset.view === view));
+      const tp = document.getElementById('togglePoints');
+      tp.disabled = (view !== 'cumulative');
+      buildChart();
+  }
+
+  function resetChartZoom() {
+      if (chart && typeof chart.resetZoom === 'function') chart.resetZoom();
+  }
+
+  function exportCSV() {
+      let csv = "StartDate,LastChecked,Chapters\n";
+      mangaHistoryData.forEach(e => csv += `${e.date1},${e.date2},${e.chapters}\n`);
+      const blob = new Blob([csv], { type: 'text/csv' });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.setAttribute('href', url);
+      a.setAttribute('download', 'manga_data_export.csv');
+      a.click();
+  }
+
+  function togglePoints() {
+      if (chartView !== 'cumulative') return;
+      showPoints = !showPoints;
+      document.getElementById('togglePoints').innerText = showPoints ? "Hide Points" : "Show Points";
+      buildChart();
+  }
+
+  function renderHistory() {
+      const tbody = document.querySelector('#history-table tbody');
+      tbody.innerHTML = '';
+      const total = mangaHistoryData.length;
+      limit = Math.min(Math.max(1, limit), total || 1);
+      document.getElementById('visible-input').value = limit;
+      document.getElementById('total-span').innerText = total;
+      const startIdx = total - limit;
+      mangaHistoryData.slice(-limit).forEach((e, i) => {
+          const idx = startIdx + i;
+          tbody.innerHTML += `<tr>
+              <td>${e.date1}</td>
+              <td>${e.date2}</td>
+              <td>${e.chapters}</td>
+              <td><div class="row-actions">
+                <button class="icon-btn small" title="Edit entry" onclick="editEntry(${idx})">✎</button>
+                <button class="icon-btn small delete-btn" title="Delete entry" onclick="deleteEntry(${idx})">✕</button>
+              </div></td>
+          </tr>`;
+      });
+  }
+
+  function updateVisible(val) {
+      const parsed = parseInt(val, 10);
+      // Guard against non-numeric/blank input (e.g. the user clears the field
+      // or types letters) — parseInt would otherwise set `limit` to NaN, which
+      // never self-corrects (Math.max/Math.min propagate NaN) and paradoxically
+      // shows ALL entries instead of clamping to a sane default.
+      limit = isNaN(parsed) ? (isNaN(limit) ? 10 : limit) : parsed;
+      renderHistory();
+  }
+
+  /* ============================================================
+     CHANGE HISTORY — audit trail for manual ledger edits
+  ============================================================ */
+  let changeLog = [];
+
+  function loadChangeLog() {
+      try { changeLog = JSON.parse(localStorage.getItem('kitsuChangeLog') || '[]'); }
+      catch (e) { changeLog = []; }
+  }
+
+  function persistChangeLog() {
+      try {
+          if (changeLog.length > 100) changeLog = changeLog.slice(-100);
+          localStorage.setItem('kitsuChangeLog', JSON.stringify(changeLog));
+      } catch (e) { console.error('Could not save change log:', e); }
+  }
+
+  function logChange(action, details) {
+      changeLog.push({ ts: Date.now(), action, details });
+      persistChangeLog();
+  }
+
+  function renderChangeLog() {
+      const el = document.getElementById('change-log-list');
+      if (!el) return;
+      if (!changeLog.length) { el.innerHTML = '<div class="no-goals">No manual edits yet.</div>'; return; }
+      const labels = { edit: '✎ Edited', delete: '✕ Deleted', undo: '↺ Undid delete', sync: '⇅ Live sync' };
+      el.innerHTML = [...changeLog].reverse().slice(0, 50).map(c => {
+          const d = new Date(c.ts);
+          const label = labels[c.action] || c.action;
+          return `<div class="change-log-row"><span class="change-log-time">${d.toLocaleString('en-GB')}</span><span class="change-log-label">${label}</span><span class="change-log-detail">${c.details}</span></div>`;
+      }).join('');
+  }
+
+  /* ============================================================
+     FEATURE 4: IN-APP LEDGER CORRECTION (CRUD)
+  ============================================================ */
+  let hasUnsavedEdits = false;
+
+  function updateUnsavedNote() {
+      const note = document.getElementById('unsaved-note');
+      if (note) note.style.display = hasUnsavedEdits ? 'block' : 'none';
+  }
+
+  // Called after every in-app ledger mutation (edit/delete/undo/live-append).
+  // These only ever touch the in-memory array — nothing here writes to disk —
+  // so we flag it clearly until the user runs "Export Cleaned Data" and
+  // actually replaces manga_history_data.js, or the edits are lost on reload.
+  function afterDataMutation() {
+      hasUnsavedEdits = true;
+      updateUnsavedNote();
+      recomputeDerived();
+      renderHistory();
+      renderAll();
+  }
+
+  function editEntry(idx) {
+      const entry = mangaHistoryData[idx];
+      if (!entry) return;
+      const newChaptersRaw = prompt('Chapters read (running total):', entry.chapters);
+      if (newChaptersRaw === null) return;
+      const parsed = parseInt(newChaptersRaw);
+      if (isNaN(parsed)) { alert('Enter a whole number.'); return; }
+
+      // Warn (don't block) if the edit would drop below the previous entry —
+      // almost always a typo, but the user might genuinely be correcting a
+      // Kitsu overcount, so let them proceed if they confirm.
+      const prevEntry = mangaHistoryData[idx - 1];
+      if (prevEntry && parsed < prevEntry.chapters) {
+          const proceed = confirm(`Heads up: ${parsed} is lower than the previous entry (${prevEntry.chapters}). This is almost always a typo. Save anyway?`);
+          if (!proceed) return;
+      }
+
+      const newDate2 = prompt('Last checked timestamp (e.g. 03-Jul-26 10:02:40 AM):', entry.date2);
+      if (newDate2 === null) return;
+
+      const before = `${entry.chapters} @ ${entry.date2}`;
+      entry.chapters = parsed;
+      entry.date2 = newDate2;
+      logChange('edit', `${before} → ${parsed} @ ${newDate2}`);
+      afterDataMutation();
+  }
+
+  // Stack (not a single slot) so multiple deletes in a row can each be undone,
+  // most-recent-first — previously only the very last deletion was recoverable
+  // and earlier ones in the same burst were silently unrecoverable.
+  let deletedStack = [];
+
+  function showUndoBanner() {
+      const banner = document.getElementById('undo-banner');
+      if (!banner) return;
+      const label = banner.querySelector('.undo-banner-label');
+      if (label) {
+          label.textContent = deletedStack.length > 1
+              ? `${deletedStack.length} entries deleted.`
+              : 'Entry deleted.';
+      }
+      banner.style.display = 'flex';
+      clearTimeout(showUndoBanner._t);
+      showUndoBanner._t = setTimeout(hideUndoBanner, 8000);
+  }
+
+  function hideUndoBanner() {
+      const banner = document.getElementById('undo-banner');
+      if (banner) banner.style.display = 'none';
+  }
+
+  function undoDelete() {
+      if (!deletedStack.length) return;
+      const last = deletedStack.pop();
+      mangaHistoryData.splice(last.idx, 0, last.entry);
+      logChange('undo', `restored chapters ${last.entry.chapters} @ ${last.entry.date1}`);
+      if (deletedStack.length) {
+          showUndoBanner(); // more still undoable — keep banner up, reset its timer
+      } else {
+          hideUndoBanner();
+      }
+      afterDataMutation();
+  }
+
+  function deleteEntry(idx) {
+      const entry = mangaHistoryData[idx];
+      if (!entry) return;
+      if (!confirm('Delete this ledger entry? You can undo immediately after.')) return;
+      mangaHistoryData.splice(idx, 1);
+      deletedStack.push({ entry, idx });
+      logChange('delete', `chapters ${entry.chapters} @ ${entry.date1}`);
+      showUndoBanner();
+      afterDataMutation();
+  }
+
+  function exportCleanedData() {
+      const lines = mangaHistoryData.map(e =>
+          `  { date1: "${e.date1}", date2: "${e.date2}", chapters: ${e.chapters} }`
+      ).join(',\n');
+      const content = `const mangaHistoryData = [\n${lines}\n];\n`;
+      const blob = new Blob([content], { type: 'text/javascript' });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'manga_history_data.js';
+      a.click();
+      URL.revokeObjectURL(url);
+      hasUnsavedEdits = false;
+      updateUnsavedNote();
+  }
+
+  /* ============================================================
+     FEATURE 5: CONFIGURATION BACKUP / RESTORE
+  ============================================================ */
+  const CONFIG_KEYS = [
+      'kitsuGoals', 'kitsuTheme', 'kitsuHistRange',
+      'kitsuChartView', 'kitsuShowPoints', 'kitsuShowGoal',
+      'kitsuReduceMotion', 'kitsuStaleHours'
+  ];
+
+  function exportConfig() {
+      const config = {};
+      CONFIG_KEYS.forEach(key => { config[key] = localStorage.getItem(key); });
+      const blob = new Blob([JSON.stringify(config, null, 2)], { type: 'application/json' });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'ledger_config.json';
+      a.click();
+      URL.revokeObjectURL(url);
+  }
+
+  function importConfig(file) {
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = (e) => {
+          try {
+              const config = JSON.parse(e.target.result);
+              CONFIG_KEYS.forEach(key => {
+                  if (config[key] !== undefined && config[key] !== null) {
+                      localStorage.setItem(key, config[key]);
+                  }
+              });
+              loadGoals();
+              histRange = localStorage.getItem('kitsuHistRange') || 'all';
+              chartView = localStorage.getItem('kitsuChartView') || 'cumulative';
+              showPoints = (localStorage.getItem('kitsuShowPoints') ?? 'true') === 'true';
+              showGoalLine = (localStorage.getItem('kitsuShowGoal') ?? 'false') === 'true';
+              document.documentElement.setAttribute('data-reduce-motion', localStorage.getItem('kitsuReduceMotion') === 'true' ? '1' : '0');
+              document.querySelectorAll('#histRangeToggle .range-btn').forEach(b => b.classList.toggle('active', b.dataset.range === histRange));
+              document.querySelectorAll('#chartViewToggle .range-btn').forEach(b => b.classList.toggle('active', b.dataset.view === chartView));
+              document.getElementById('togglePoints').innerText = showPoints ? 'Hide Points' : 'Show Points';
+              document.getElementById('toggleGoalLine').innerText = showGoalLine ? 'Hide Goal Line' : 'Show Goal Line';
+              applyTheme(localStorage.getItem('kitsuTheme') || 'kraft');
+              populateSettingsForm();
+              renderHistory();
+              renderAll();
+              alert('Configuration imported successfully.');
+          } catch (err) {
+              alert("That file isn't a valid ledger_config.json backup.");
+          }
+      };
+      reader.readAsText(file);
+      document.getElementById('importConfigInput').value = '';
+  }
+
+  /* ============================================================
+     FEATURE: LIVE "CHECK FOR UPDATES" (browser-side Kitsu fetch)
+  ============================================================ */
+  const CLIENT_ANOMALY_THRESHOLD = 500; // mirrors the VBS-side guard
+
+  function formatVBSStyle(d) {
+      const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      const dd = String(d.getDate()).padStart(2, '0');
+      const mon = months[d.getMonth()];
+      const yy = String(d.getFullYear()).slice(-2);
+      let h = d.getHours();
+      const ampm = h >= 12 ? 'PM' : 'AM';
+      h = h % 12; if (h === 0) h = 12;
+      const mm = String(d.getMinutes()).padStart(2, '0');
+      const ss = String(d.getSeconds()).padStart(2, '0');
+      return `${dd}-${mon}-${yy} ${h}:${mm}:${ss} ${ampm}`;
+  }
+
+  function appendLiveEntry(units) {
+      const now = new Date();
+      const fmt = formatVBSStyle(now);
+      mangaHistoryData.push({ date1: fmt, date2: fmt, chapters: units });
+      logChange('sync', `Appended live entry from Kitsu check: ${units} chapters at ${fmt}`);
+      afterDataMutation();
+      document.getElementById('updateStatus').innerText = 'Appended — remember to run the VBS sync (or use Export Cleaned Data) to persist this to disk.';
+  }
+
+  async function checkForUpdates() {
+      const btn = document.getElementById('checkUpdatesBtn');
+      const statusEl = document.getElementById('updateStatus');
+      if (!mangaHistoryData.length) return;
+      btn.disabled = true;
+      statusEl.innerText = 'Checking Kitsu…';
+      try {
+          const res = await fetch('https://kitsu.app/api/edge/users/1699796/stats?cachebuster=' + Date.now(), {
+              headers: { 'Accept': 'application/vnd.api+json' }
+          });
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const text = await res.text();
+
+          // Mirror the VBS script's parsing exactly rather than assuming a
+          // structured JSON path — Kitsu doesn't expose "units" where a
+          // plain data[].attributes.units lookup would find it, which is
+          // why the working VBS sync does a raw substring/regex search.
+          let pos = text.indexOf('"kind":"manga-amount-consumed"');
+          if (pos === -1) pos = text.indexOf('"kind": "manga-amount-consumed"');
+          if (pos === -1) throw new Error("couldn't find manga-amount-consumed in response");
+          const chunk = text.slice(pos, pos + 300);
+          const unitsMatch = chunk.match(/"units"\s*:\s*(\d+)/);
+          if (!unitsMatch) throw new Error("couldn't find a units value near manga-amount-consumed");
+          const liveUnits = parseInt(unitsMatch[1]);
+          const last = mangaHistoryData[mangaHistoryData.length - 1];
+
+          if (liveUnits > last.chapters) {
+              const diff = liveUnits - last.chapters;
+              statusEl.innerHTML = '';
+              if (diff >= CLIENT_ANOMALY_THRESHOLD) {
+                  statusEl.innerText = `⚠ Live value jumped by ${diff} chapters — looks anomalous, not auto-applying. Check Kitsu manually.`;
+              } else {
+                  statusEl.append(`${diff} new chapter${diff === 1 ? '' : 's'} available (now at ${liveUnits}).`);
+                  const applyBtn = document.createElement('button');
+                  applyBtn.className = 'toggle-btn';
+                  applyBtn.innerText = 'Append to ledger';
+                  applyBtn.onclick = () => appendLiveEntry(liveUnits);
+                  statusEl.appendChild(applyBtn);
+              }
+          } else if (liveUnits === last.chapters) {
+              statusEl.innerText = `Up to date — Kitsu also shows ${liveUnits} chapters.`;
+          } else {
+              statusEl.innerText = `Kitsu shows ${liveUnits}, lower than local ${last.chapters} — leaving local data untouched.`;
+          }
+      } catch (err) {
+          statusEl.innerText = 'Live check failed (' + err.message + '). This is often a CORS restriction when opening the file directly — the VBS sync still works fine.';
+      } finally {
+          btn.disabled = false;
+      }
+  }
+
+  /* ============================================================
+     MASTER RENDER
+  ============================================================ */
+  function renderAll() {
+      if (!mangaHistoryData.length) return;
+      const last = mangaHistoryData[mangaHistoryData.length - 1];
+      const current = last.chapters;
+      document.getElementById('current-count').innerText = current;
+
+      const histAvg = computeHistAvg(histRange);
+      const rangeLabel = histRange === 'all' ? 'all-time' : `last ${histRange}d`;
+      document.getElementById('historical-pace').innerText = `Historical avg (${rangeLabel}): ${histAvg.toFixed(1)} chapters/day`;
+
+      const days = computeDailyBreakdown();
+      const bests = computeBests(days);
+      document.getElementById('best-day').innerText = bests.bestDay;
+      document.getElementById('best-week').innerText = bests.bestWeek;
+      document.getElementById('streak-stat').innerText = computeStreak(days);
+      document.getElementById('avg-active-day').innerText = bests.avgActiveDayReady ? bests.avgActiveDay.toFixed(1) : '—';
+
+      const consistency = computeConsistency(days);
+      const consEl = document.getElementById('consistency-line');
+      if (consEl) consEl.innerText = consistency ? `Consistency: ${consistency.cv.toFixed(0)}% CV — ${consistency.label}` : 'Consistency: not enough data yet';
+
+      const wd = computeWeekDelta();
+
+      renderGoalCards(current, histAvg, wd);
+      renderTrackedGoal(current, histAvg, wd);
+      updatePaceStamp(current, histAvg);
+      renderHeatmap();
+      buildChart();
+      buildPatternCharts();
+      renderChangeLog();
+
+      // Use date2, not date1 — date2 is the most recent CONFIRMED sync
+      // check-in (kept fresh by every idle poll), while date1 is just when
+      // the chapter count last changed, which can be far older even during
+      // a perfectly healthy, currently-idle sync. Matches updateLastSynced().
+      const lastSyncDate = parseVBSDate(last.date2);
+      const staleHours = parseFloat(localStorage.getItem('kitsuStaleHours')) || 24;
+      const staleEl = document.getElementById('stale-warning');
+      staleEl.style.display = (new Date() - lastSyncDate) > staleHours * 3600000 ? 'inline-block' : 'none';
+      staleEl.innerText = `⚠ STALE — NO SYNC IN ${staleHours}H`;
+      updateLastSynced();
+  }
+
+  /* ============================================================
+     DATA SOURCE — automatic, no manual toggle
+     ------------------------------------------------------------
+     Uses this repo's own manga_history_data.js when it has data;
+     otherwise falls back to the published Pace Ledger, fetched live.
+     A repo variable (SYNC_SOURCE=repo|ledger) controls whether the
+     workflow bothers running sync.mjs — see README / sync.yml.
+     `mangaHistoryData` is a const, so we swap its CONTENTS in place.
+  ============================================================ */
+  const STATS_REMOTE_URL = 'https://iky0ff.github.io/manga-pace-ledger/manga_history_data.js';
+  const STATS_LOCAL_DATA = (typeof mangaHistoryData !== 'undefined' && mangaHistoryData) ? mangaHistoryData.slice() : [];
+  let statsRemoteCache = null;
+  // Source resolution order:
+  //   1. the head loader already decided (window.__ledgerSource) — when the
+  //      repo ledger was empty it loaded the Pace Ledger INTO the data slot,
+  //      so length-checking here would wrongly say "this repo"
+  //   2. otherwise: repo if the local file has data
+  //   3. otherwise: fetch the Pace Ledger asynchronously (file:// fallback,
+  //      where the head loader can't inspect the local file)
+  let statsSource = (window.__ledgerSource === 'ledger') ? 'ledger-loaded'
+                  : STATS_LOCAL_DATA.length ? 'repo' : 'ledger-fetch';
+
+  function setSourceIndicator(text) {
+      const el = document.getElementById('sourceIndicator');
+      if (el) el.innerText = text;
+  }
+  function setActiveHistoryData(arr) {
+      mangaHistoryData.length = 0;
+      for (let i = 0; i < arr.length; i++) mangaHistoryData.push(arr[i]);
+  }
+  // Full re-render after the active dataset changes: rebuild the chart's
+  // derived points (recomputeDerived), reset the history "visible" count
+  // (so it isn't stuck at 1 from when the repo ledger was empty), repaint.
+  function applyDataAndRender(arr) {
+      setActiveHistoryData(arr);
+      limit = Math.min(Math.max(arr.length, 1), 30);
+      recomputeDerived();
+      renderHistory();
+      renderAll();
+  }
+  function fetchRemoteLedger() {
+      if (statsRemoteCache) return Promise.resolve(statsRemoteCache);
+      return fetch(STATS_REMOTE_URL + '?v=' + Date.now(), { cache: 'no-store' })
+          .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
+          .then(t => {
+              const m = t.match(/mangaHistoryData\s*=\s*(\[[\s\S]*\]);/);
+              if (!m) throw new Error('could not parse remote data file');
+              statsRemoteCache = (new Function('return ' + m[1]))();
+              return statsRemoteCache;
+          });
+  }
+  function initStatsSource() {
+      if (statsSource === 'ledger-loaded') {
+          // The head loader already fetched the Pace Ledger into the data
+          // slot — label it correctly and render what's there.
+          setSourceIndicator('◆ Source: Pace Ledger');
+          applyDataAndRender(STATS_LOCAL_DATA);
+      } else if (statsSource === 'repo') {
+          setSourceIndicator('◆ Source: this repo');
+          applyDataAndRender(STATS_LOCAL_DATA);
+      } else {
+          setSourceIndicator('◆ Source: Pace Ledger');
+          applyDataAndRender([]); // paint empty state immediately
+          fetchRemoteLedger()
+              .then(arr => { applyDataAndRender(arr); })
+              .catch(e => { setSourceIndicator('◆ Source: Pace Ledger — load failed (' + e.message + ')'); });
+      }
+  }
+
+  window.onload = () => {
+      // Chart card lives in a <template> and gets inserted into whichever page
+      // slot needs it (Home vs the fullscreen Chart page) — start it in Home.
+      document.getElementById('chart-slot-home').appendChild(
+          document.getElementById('chart-card-template').content.cloneNode(true)
+      );
+      showPage('home');
+
+      loadGoals();
+      loadChangeLog();
+      applyTheme(localStorage.getItem('kitsuTheme') || 'kraft');
+      document.documentElement.setAttribute('data-reduce-motion', localStorage.getItem('kitsuReduceMotion') === 'true' ? '1' : '0');
+      document.querySelectorAll('#chartViewToggle .range-btn').forEach(b => b.classList.toggle('active', b.dataset.view === chartView));
+      document.getElementById('togglePoints').innerText = showPoints ? 'Hide Points' : 'Show Points';
+      document.getElementById('toggleGoalLine').innerText = showGoalLine ? 'Hide Goal Line' : 'Show Goal Line';
+      document.querySelectorAll('#histRangeToggle .range-btn').forEach(b => b.classList.toggle('active', b.dataset.range === histRange));
+      renderHistory();
+      renderAll();
+
+      // Pick the data source automatically (repo if it has data, else Pace Ledger)
+      initStatsSource();
+
+      setInterval(updateLastSynced, 30000);
+  };
+</script>
+</body>
+</html>

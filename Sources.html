@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>同期 · Sources · Kitsu Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=JetBrains+Mono:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('kitsuTheme')||'kraft');}catch(e){document.documentElement.setAttribute('data-theme','kraft');}</script>
+<!-- Ledger (for the primary Kitsu card) + service health (from scripts/healthcheck.mjs) -->
+<script>
+  // Same automatic ledger-source chooser as Stats.html: prefer this repo's
+  // manga_history_data.js; when it's empty (SYNC_SOURCE=ledger skips the
+  // aggregate sync), load the published Pace Ledger instead.
+  (function () {
+    var LOCAL = 'manga_history_data.js?v=' + Date.now();
+    var REMOTE = 'https://iky0ff.github.io/manga-pace-ledger/manga_history_data.js?v=' + Date.now();
+    function hasData(txt) {
+      var m = String(txt || '').match(/const mangaHistoryData\s*=\s*(\[[\s\S]*\]);/);
+      return !!(m && /\{/.test(m[1]));
+    }
+    var src = LOCAL;
+    window.__ledgerSource = 'repo';
+    try {
+      var x = new XMLHttpRequest();
+      x.open('GET', LOCAL, false);
+      x.send();
+      if (x.status >= 200 && x.status < 300 && !hasData(x.responseText)) {
+        src = REMOTE;
+        window.__ledgerSource = 'ledger';
+      }
+    } catch (e) { /* file:// — keep local */ }
+    document.write('<script src="' + src + '"><\/script>');
+  })();
+</script>
+<script>try{window.mangaHistoryData=(typeof mangaHistoryData!=='undefined')?mangaHistoryData:(window.mangaHistoryData||[]);}catch(e){window.mangaHistoryData=window.mangaHistoryData||[];}</script>
+<script src="sources_status.js"></script>
+<script>try{window.sourcesStatus=(typeof sourcesStatus!=='undefined')?sourcesStatus:(window.sourcesStatus||null);}catch(e){window.sourcesStatus=window.sourcesStatus||null;}</script>
+<style>
+  :root, html[data-theme="kraft"]{ --paper:#e8e1cf; --paper-deep:#dcd3bb; --ink:#17140f; --ink-soft:#56503f; --ink-faint:#8a8270; --red:#ac3327; --red-deep:#7e2118; --gold:#a1791f; --good:#3f5f3a; --good-deep:#2a4327; --dot:rgba(23,20,15,0.09); }
+  html[data-theme="mono"]{ --paper:#f4f2ec; --paper-deep:#e6e2d6; --ink:#0a0a0a; --ink-soft:#333333; --ink-faint:#767267; --red:#c22323; --red-deep:#8c1414; --gold:#8a6d1a; --good:#2c6b28; --good-deep:#1c4419; --dot:rgba(10,10,10,0.08); }
+  html[data-theme="dark"]{ --paper:#1e1a16; --paper-deep:#29241f; --ink:#b8ab8f; --ink-soft:#8f8369; --ink-faint:#5f5646; --red:#d85f45; --red-deep:#f0805f; --gold:#c99a3e; --good:#7ec178; --good-deep:#98d890; --dot:rgba(184,171,143,0.12); }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: radial-gradient(circle at 1px 1px, var(--dot) 1px, transparent 0) 0 0/14px 14px, var(--paper); color: var(--ink); font-family: 'Zen Kaku Gothic New', sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: var(--red); text-decoration: none; }
+  ::selection { background: var(--red); color: var(--paper); }
+  ::-webkit-scrollbar { width: 12px; height: 12px; }
+  ::-webkit-scrollbar-thumb { background: var(--ink); border: 3px solid var(--paper); }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+  html[data-reduce-motion="1"] * { animation: none !important; }
+  .btn { font-family:'JetBrains Mono',monospace; font-weight:700; font-size:12px; text-transform:uppercase; letter-spacing:.05em; color:var(--ink); background:transparent; border:2px solid var(--ink); padding:9px 13px; cursor:pointer; text-decoration:none; }
+  .btn:hover { background:var(--ink); color:var(--paper); }
+  .eyebrow { font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-faint); display:flex; align-items:center; gap:8px; }
+  .eyebrow::before { content:""; width:8px; height:8px; background:var(--red); display:inline-block; }
+</style>
+</head>
+<body>
+<div style="max-width:1000px;margin:0 auto;padding:44px 40px 90px;">
+
+  <header style="display:flex;justify-content:space-between;align-items:center;border-bottom:5px solid var(--ink);padding-bottom:18px;margin-bottom:34px;gap:20px;flex-wrap:wrap;">
+    <div style="display:flex;align-items:center;gap:16px;">
+      <a href="Library.html" class="btn">&larr; Library</a>
+      <h1 style="font-family:'Anton',sans-serif;font-weight:400;font-size:34px;letter-spacing:.01em;margin:0;line-height:.9;text-transform:uppercase;">Sour<span style="color:var(--red);">ces</span></h1>
+    </div>
+    <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-faint);letter-spacing:.06em;">同期 · SYNC</span>
+  </header>
+
+  <div class="eyebrow" style="margin-bottom:14px;">Library source</div>
+  <div style="background:var(--paper-deep);border:3px solid var(--ink);box-shadow:7px 7px 0 var(--ink);padding:26px;margin-bottom:34px;">
+    <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:18px;flex-wrap:wrap;">
+      <div style="display:flex;gap:16px;align-items:flex-start;">
+        <div style="width:52px;height:52px;background:var(--red);display:flex;align-items:center;justify-content:center;flex-shrink:0;font-family:'Anton',sans-serif;font-size:26px;color:var(--paper);">K</div>
+        <div>
+          <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+            <span style="font-family:'Anton',sans-serif;font-size:24px;text-transform:uppercase;">Kitsu</span>
+            <span style="font-family:'JetBrains Mono',monospace;font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--paper);background:var(--ink);padding:3px 7px;">Primary</span>
+          </div>
+          <div style="font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--ink-soft);margin-top:8px;line-height:1.7;">
+            <div>USER &nbsp;<span style="color:var(--ink);font-weight:700;">@iky0ff · #1699796</span></div>
+            <div>LAST SYNC &nbsp;<span id="lastSync" style="color:var(--ink);font-weight:700;">—</span> &nbsp;·&nbsp; <span id="chapCount">—</span> chapters logged</div>
+          </div>
+        </div>
+      </div>
+      <a href="Stats.html" class="btn" style="color:var(--paper);background:var(--ink);">&#8635; Open Stats</a>
+    </div>
+  </div>
+
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px;">
+    <div class="eyebrow">Service status</div>
+    <button id="recheck" class="btn">&#8635; Re-check</button>
+  </div>
+
+  <div id="services" style="display:flex;flex-direction:column;gap:16px;"></div>
+
+  <div id="checkedNote" style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-faint);margin-top:14px;"></div>
+
+  <div style="margin-top:30px;background:var(--paper-deep);border:2px dashed var(--ink-faint);padding:16px 20px;font-family:'JetBrains Mono',monospace;font-size:11.5px;color:var(--ink-soft);line-height:1.6;">
+    &#9873; <strong>Kitsu</strong> drives your library &amp; chapter counts. <strong>mangabaka</strong> supplies metadata (genres, tags, news). Status is measured server-side by the sync job — browsers can't check these directly (CORS).
+  </div>
+</div>
+
+<script>
+"use strict";
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+
+  // Primary Kitsu card from the ledger
+  (function () {
+    // Parses the ledger's VBS-style dates ("02-Jul-26 6:26:11 AM") reliably;
+    // falls back to native Date parsing for anything else.
+    function parseLedgerDate(str) {
+      var m = /^(\d{1,2})-([A-Za-z]{3})-(\d{2}) (\d{1,2}):(\d{2}):(\d{2}) (AM|PM)$/.exec(String(str || '').trim());
+      if (m) {
+        var months = { Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11 };
+        var h = (+m[4]) % 12; if (m[7] === 'PM') h += 12;
+        return new Date(2000 + (+m[3]), months[m[2]], +m[1], h, +m[5], +m[6]);
+      }
+      var d = new Date(str);
+      return isNaN(d) ? null : d;
+    }
+    // NOTE: the data file declares a top-level `const`, which is NOT a
+    // window property — read the bare identifier via typeof.
+    var d = (typeof mangaHistoryData !== 'undefined' && Array.isArray(mangaHistoryData)) ? mangaHistoryData : [];
+    var srcLabel = window.__ledgerSource === 'ledger'
+      ? ' <span style="font-weight:400;color:var(--ink-faint);">\u00B7 source: Pace Ledger (remote)</span>'
+      : ' <span style="font-weight:400;color:var(--ink-faint);">\u00B7 source: this repo</span>';
+    if (d.length) {
+      var last = d[d.length - 1];
+      $('chapCount').textContent = Number(last.chapters).toLocaleString();
+      var dt = parseLedgerDate(last.date2) || parseLedgerDate(last.date1);
+      if (dt) {
+        var mins = Math.floor((Date.now() - dt.getTime()) / 60000);
+        var rel = mins < 1 ? 'just now' : mins < 60 ? mins + ' min ago' : mins < 1440 ? Math.floor(mins / 60) + ' hr ago' : Math.floor(mins / 1440) + 'd ago';
+        $('lastSync').innerHTML = rel + srcLabel;
+      } else {
+        $('lastSync').innerHTML = 'unknown' + srcLabel;
+      }
+    } else {
+      $('chapCount').textContent = '0';
+      $('lastSync').innerHTML = 'never <span style="font-weight:400;color:var(--ink-faint);">\u2014 no ledger data: this repo\u2019s ledger is empty and the published Pace Ledger couldn\u2019t be reached</span>';
+    }
+  })();
+
+  var MAP = {
+    up:       { label: 'Operational', color: 'var(--good)' },
+    degraded: { label: 'Degraded',    color: 'var(--gold)' },
+    down:     { label: 'Down',        color: 'var(--red)' },
+    unknown:  { label: 'Awaiting check', color: 'var(--ink-faint)' }
+  };
+
+  // Fallback definitions used until healthcheck.mjs has written sources_status.js
+  var FALLBACK = [
+    { mark: 'K',  name: 'Kitsu',     role: 'Library & reading counts',            site: 'unknown', api: 'unknown', latency: '—', note: 'awaiting first check', siteUrl: 'kitsu.app', apiUrl: 'kitsu.app/api/edge' },
+    { mark: 'MB', name: 'mangabaka', role: 'Metadata — genres, tags, news',       site: 'unknown', api: 'unknown', latency: '—', note: 'awaiting first check', siteUrl: 'mangabaka.org', apiUrl: 'api.mangabaka.dev/v1' }];
+
+  function getServices() {
+    var s = window.sourcesStatus;
+    if (s && Array.isArray(s.services) && s.services.length) return s.services;
+    return FALLBACK;
+  }
+  function checkedAt() {
+    var s = window.sourcesStatus;
+    if (s && s.checkedAt) {
+      var mins = Math.floor((Date.now() - new Date(s.checkedAt).getTime()) / 60000);
+      return mins < 1 ? 'just now' : mins < 60 ? mins + ' min ago' : mins < 1440 ? Math.floor(mins / 60) + ' hr ago' : Math.floor(mins / 1440) + 'd ago';
+    }
+    return null;
+  }
+
+  function dotStyle(color, live) {
+    return 'width:8px;height:8px;border-radius:50%;background:' + color + ';flex-shrink:0;' + (live ? 'animation:pulse 1.6s ease-in-out infinite;' : '');
+  }
+
+  function render() {
+    var wrap = $('services'); wrap.innerHTML = '';
+    var ck = checkedAt();
+    getServices().forEach(function (s) {
+      var siteM = MAP[s.site] || MAP.unknown, apiM = MAP[s.api] || MAP.unknown;
+      var worst = (s.site === 'down' || s.api === 'down') ? 'down' : ((s.site === 'degraded' || s.api === 'degraded') ? 'degraded' : (s.site === 'unknown' || s.api === 'unknown') ? 'unknown' : 'up');
+      var wM = MAP[worst];
+      var live = worst === 'up' || worst === 'degraded';
+
+      var card = document.createElement('div');
+      card.style.cssText = 'background:var(--paper);border:2px solid var(--ink);padding:22px;';
+      card.innerHTML =
+        '<div style="display:flex;align-items:flex-start;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:18px;">' +
+          '<div style="display:flex;gap:15px;align-items:center;">' +
+            '<div style="width:46px;height:46px;flex-shrink:0;background:var(--paper-deep);border:2px solid var(--ink);display:flex;align-items:center;justify-content:center;font-family:\'Anton\',sans-serif;font-size:15px;color:var(--ink);">' + s.mark + '</div>' +
+            '<div><div style="font-family:\'Zen Kaku Gothic New\',sans-serif;font-weight:700;font-size:17px;">' + s.name + '</div>' +
+            '<div style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:var(--ink-faint);margin-top:4px;">' + s.role + '</div></div>' +
+          '</div>' +
+          '<span style="font-family:\'JetBrains Mono\',monospace;font-size:9.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:5px 9px;color:' + wM.color + ';border:1.5px solid ' + wM.color + ';display:inline-flex;align-items:center;gap:7px;white-space:nowrap;"><span style="' + dotStyle(wM.color, live) + '"></span>' + wM.label + '</span>' +
+        '</div>' +
+        '<div style="display:grid;grid-template-columns:1fr 1fr;gap:0;border:2px solid var(--ink);">' +
+          '<div style="padding:14px 16px;border-right:2px solid var(--ink);">' +
+            '<div style="font-family:\'JetBrains Mono\',monospace;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:8px;">Website</div>' +
+            '<div style="display:flex;align-items:center;gap:8px;"><span style="' + dotStyle(siteM.color, live) + '"></span><span style="font-family:\'JetBrains Mono\',monospace;font-size:13px;font-weight:700;color:' + siteM.color + ';">' + siteM.label + '</span></div>' +
+            '<div style="font-family:\'JetBrains Mono\',monospace;font-size:10.5px;color:var(--ink-faint);margin-top:6px;">' + s.siteUrl + '</div>' +
+          '</div>' +
+          '<div style="padding:14px 16px;">' +
+            '<div style="font-family:\'JetBrains Mono\',monospace;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:8px;">API</div>' +
+            '<div style="display:flex;align-items:center;gap:8px;"><span style="' + dotStyle(apiM.color, live) + '"></span><span style="font-family:\'JetBrains Mono\',monospace;font-size:13px;font-weight:700;color:' + apiM.color + ';">' + apiM.label + '</span></div>' +
+            '<div style="font-family:\'JetBrains Mono\',monospace;font-size:10.5px;color:var(--ink-faint);margin-top:6px;">' + s.apiUrl + '</div>' +
+          '</div>' +
+        '</div>' +
+        '<div style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:12px;font-family:\'JetBrains Mono\',monospace;font-size:10.5px;color:var(--ink-faint);">' +
+          '<span>LATENCY &nbsp;<span style="color:var(--ink-soft);font-weight:700;">' + (s.latency || '—') + '</span></span>' +
+          '<span>' + (s.note || '') + '</span>' +
+          '<span>CHECKED &nbsp;<span style="color:var(--ink-soft);font-weight:700;">' + (ck || 'never') + '</span></span>' +
+        '</div>';
+      wrap.appendChild(card);
+    });
+    $('checkedNote').textContent = ck ? ('Last health-check: ' + ck) : 'No health-check has run yet — status fills in after the sync workflow runs healthcheck.mjs.';
+  }
+
+  $('recheck').onclick = function () {
+    $('checkedNote').textContent = 'Health-checks run server-side in the sync job (browsers are CORS-blocked from these APIs). Trigger the workflow to refresh.';
+  };
+
+  render();
+})();
+</script>
+</body>
+</html>

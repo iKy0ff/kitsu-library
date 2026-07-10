@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>蔵書 · Kitsu Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=JetBrains+Mono:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" sizes="192x192" href="favicons/favicon-192.png">
+<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('kitsuTheme')||'kraft');}catch(e){document.documentElement.setAttribute('data-theme','kraft');}</script>
+<!-- Per-title library feed, written by scripts/sync-library.mjs. Empty until first sync. -->
+<script src="library.js"></script>
+<script>try{window.libraryData=(typeof libraryData!=='undefined')?libraryData:(window.libraryData||[]);}catch(e){window.libraryData=window.libraryData||[];}</script>
+<!-- Notifications feed (for the unread badge count) -->
+<script src="notifications.js"></script>
+<script>try{window.notificationsData=(typeof notificationsData!=='undefined')?notificationsData:(window.notificationsData||[]);}catch(e){window.notificationsData=window.notificationsData||[];}</script>
+<style>
+  :root, html[data-theme="kraft"]{ --paper:#e8e1cf; --paper-deep:#dcd3bb; --ink:#17140f; --ink-soft:#56503f; --ink-faint:#8a8270; --red:#ac3327; --red-deep:#7e2118; --gold:#a1791f; --good:#3f5f3a; --good-deep:#2a4327; --dot:rgba(23,20,15,0.09); }
+  html[data-theme="mono"]{ --paper:#f4f2ec; --paper-deep:#e6e2d6; --ink:#0a0a0a; --ink-soft:#333333; --ink-faint:#767267; --red:#c22323; --red-deep:#8c1414; --gold:#8a6d1a; --good:#2c6b28; --good-deep:#1c4419; --dot:rgba(10,10,10,0.08); }
+  html[data-theme="dark"]{ --paper:#1e1a16; --paper-deep:#29241f; --ink:#b8ab8f; --ink-soft:#8f8369; --ink-faint:#5f5646; --red:#d85f45; --red-deep:#f0805f; --gold:#c99a3e; --good:#7ec178; --good-deep:#98d890; --dot:rgba(184,171,143,0.12); }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: radial-gradient(circle at 1px 1px, var(--dot) 1px, transparent 0) 0 0/14px 14px, var(--paper); color: var(--ink); font-family: 'Zen Kaku Gothic New', sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: var(--red); text-decoration: none; }
+  ::selection { background: var(--red); color: var(--paper); }
+  ::-webkit-scrollbar { width: 12px; height: 12px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--ink); border: 3px solid var(--paper); }
+  .u-hover:hover { background: var(--ink) !important; color: var(--paper) !important; }
+  .cover-img { width:100%; height:100%; object-fit:cover; display:block; }
+</style>
+</head>
+<body>
+<div style="max-width:1400px;margin:0 auto;padding:44px 40px 90px;">
+
+  <!-- HEADER -->
+  <header style="display:flex;justify-content:space-between;align-items:center;border-bottom:5px solid var(--ink);padding-bottom:18px;margin-bottom:26px;gap:20px;flex-wrap:wrap;">
+    <div style="display:flex;align-items:center;gap:16px;">
+      <span style="font-family:'JetBrains Mono',monospace;font-size:15px;letter-spacing:.2em;color:var(--paper);background:var(--red);padding:6px 10px;font-weight:700;writing-mode:vertical-rl;text-orientation:upright;line-height:1;">蔵書</span>
+      <h1 style="font-family:'Anton',sans-serif;font-weight:400;font-size:46px;letter-spacing:.01em;margin:0;line-height:.9;text-transform:uppercase;">Kitsu <span style="color:var(--red);">Library</span></h1>
+    </div>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <a href="Notifications.html" class="u-hover" style="position:relative;display:flex;align-items:center;justify-content:center;background:transparent;color:var(--ink);border:2px solid var(--ink);padding:11px 13px;" aria-label="Notifications" title="Notifications">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.7 21a2 2 0 0 1-3.4 0"></path></svg>
+        <span id="notifBadge" style="display:none;position:absolute;top:-8px;right:-8px;min-width:18px;height:18px;padding:0 4px;background:var(--red);color:var(--paper);border:2px solid var(--paper);border-radius:9px;font-family:'JetBrains Mono',monospace;font-size:10px;font-weight:700;align-items:center;justify-content:center;line-height:1;">0</span>
+      </a>
+      <button id="menuBtn" class="u-hover" style="font-family:'JetBrains Mono',monospace;font-weight:700;font-size:20px;line-height:1;background:transparent;color:var(--ink);border:2px solid var(--ink);padding:11px 17px;cursor:pointer;" aria-label="Open menu">&#9776;</button>
+    </div>
+  </header>
+
+  <!-- UTILITY BAR -->
+  <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:30px;padding-bottom:20px;border-bottom:3px dashed var(--ink-faint);">
+    <div style="flex:1;display:flex;align-items:center;gap:10px;background:var(--paper);border:2px solid var(--ink);padding:0 14px;min-width:220px;max-width:420px;">
+      <span style="color:var(--red);font-weight:700;font-family:'JetBrains Mono',monospace;font-size:13px;">/</span>
+      <input id="search" placeholder="search library…" style="flex:1;background:transparent;border:none;outline:none;padding:11px 0;font-family:'JetBrains Mono',monospace;color:var(--ink);font-size:13px;">
+    </div>
+
+    <div style="position:relative;">
+      <button id="filtersBtn" class="u-hover" style="display:flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink);border:2px solid var(--ink);background:transparent;padding:10px 14px;cursor:pointer;height:42px;box-sizing:border-box;">&#9662; <span id="filtersBtnLabel">Filters</span></button>
+      <div id="filtersMenu" style="display:none;position:absolute;top:calc(100% + 6px);left:0;z-index:20;width:300px;max-height:460px;overflow:auto;background:var(--paper);border:2px solid var(--ink);box-shadow:5px 5px 0 var(--ink);">
+        <div id="facetClear"></div>
+        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);padding:12px 14px 8px;">Genres <span style="opacity:.6;text-transform:none;letter-spacing:0;">· pick several</span></div>
+        <div id="genreList"></div>
+        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);padding:14px 14px 8px;border-top:2px solid var(--ink);">Tags <span style="opacity:.6;text-transform:none;letter-spacing:0;">· pick several</span></div>
+        <div style="padding:0 14px 8px;"><input id="tagSearch" type="text" placeholder="filter tags…" style="width:100%;box-sizing:border-box;font-family:'JetBrains Mono',monospace;font-size:12px;padding:7px 9px;border:1.5px solid var(--ink-faint);background:var(--paper);color:var(--ink);outline:none;"></div>
+        <div id="tagList"></div>
+      </div>
+    </div>
+
+    <div style="margin-left:auto;display:flex;gap:10px;align-items:stretch;">
+      <button id="viewBtn" style="display:flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--paper);background:var(--ink);border:2px solid var(--ink);padding:10px 14px;height:42px;box-sizing:border-box;cursor:pointer;" title="Cycle display: Cards / Covers / List">▤ Cards</button>
+      <div style="position:relative;">
+        <button id="sortBtn" class="u-hover" style="display:flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink);border:2px solid var(--ink);background:transparent;padding:10px 14px;cursor:pointer;height:42px;box-sizing:border-box;">Sort &#9662;</button>
+        <div id="sortMenu" style="display:none;position:absolute;top:calc(100% + 6px);right:0;z-index:20;min-width:210px;background:var(--paper);border:2px solid var(--ink);box-shadow:5px 5px 0 var(--ink);">
+          <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);padding:12px 14px 8px;">Show</div>
+          <div id="filterList"></div>
+          <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);padding:12px 14px 8px;border-top:2px solid var(--ink);">Sort by</div>
+          <div id="sortList"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- DRAWER -->
+  <div id="backdrop" style="position:fixed;inset:0;background:rgba(23,20,15,0.5);z-index:40;opacity:0;pointer-events:none;transition:opacity .25s;"></div>
+  <aside id="drawer" style="position:fixed;top:0;right:0;bottom:0;width:300px;max-width:82vw;background:var(--paper);border-left:3px solid var(--ink);box-shadow:-9px 0 0 var(--ink);z-index:50;display:flex;flex-direction:column;padding:24px 22px;overflow-y:auto;transform:translateX(105%);transition:transform .25s ease;">
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;">
+      <span style="font-family:'Anton',sans-serif;font-size:24px;text-transform:uppercase;">Menu</span>
+      <button id="drawerClose" style="font-family:'JetBrains Mono',monospace;background:transparent;border:2px solid var(--ink);color:var(--ink);cursor:pointer;font-size:14px;padding:6px 10px;line-height:1;" aria-label="Close">&times;</button>
+    </div>
+    <button id="allTitlesBtn" style="display:flex;align-items:center;justify-content:space-between;width:100%;padding:15px 6px;background:none;border:none;border-bottom:2px dashed var(--ink-faint);cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);text-align:left;"><span>Library</span><span id="drawerTotal" style="font-size:12px;color:var(--ink-faint);">0</span></button>
+    <a href="Stats.html" style="display:block;padding:15px 6px;border-bottom:2px dashed var(--ink-faint);font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);">Stats</a>
+    <a href="Sources.html" style="display:block;padding:15px 6px;border-bottom:2px dashed var(--ink-faint);font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);">Sources</a>
+    <a href="Notifications.html" style="display:flex;align-items:center;justify-content:space-between;padding:15px 6px;border-bottom:2px dashed var(--ink-faint);font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);"><span>Notifications</span><span id="drawerNotif" style="display:none;min-width:20px;height:20px;padding:0 5px;background:var(--red);color:var(--paper);border-radius:10px;font-size:11px;align-items:center;justify-content:center;">0</span></a>
+    <a href="Settings.html" style="display:block;padding:15px 6px;font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);">Settings</a>
+    <a href="Database.html" style="display:block;padding:15px 6px;border-top:2px dashed var(--ink-faint);font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink);">Database</a>
+    <div id="drawerUnread" style="margin-top:auto;padding-top:16px;font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-faint);letter-spacing:.06em;">0 CH UNREAD</div>
+  </aside>
+
+  <!-- SECTION HEADING -->
+  <div style="display:flex;align-items:flex-end;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-bottom:22px;">
+    <div>
+      <div style="font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);display:flex;align-items:center;gap:8px;margin-bottom:8px;"><span style="width:8px;height:8px;background:var(--red);display:inline-block;"></span>Library / <span id="crumb">All Titles</span></div>
+      <h2 id="sectionTitle" style="font-family:'Anton',sans-serif;font-weight:400;font-size:34px;margin:0;text-transform:uppercase;line-height:.9;">All Titles</h2>
+    </div>
+    <div style="font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--ink-soft);"><span id="countLabel">0</span> titles &middot; <span id="sortLabel">Recently updated</span></div>
+  </div>
+
+  <div id="viewRoot"></div>
+</div>
+
+<script>
+"use strict";
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var RAW = Array.isArray(window.libraryData) ? window.libraryData : [];
+  function idOf(m) { return String(m.kitsuId || m.slug || m.title || ""); }
+  // Single definition — cards navigate to the in-app Entry page. (A second
+  // definition lower in this file once shadowed this one and sent clicks to
+  // the external Kitsu page; keep exactly one entryLink.)
+  function entryLink(m) { return m.id ? ' onclick="location.href=\'Entry.html?id=' + encodeURIComponent(m.id) + '\'"' : ''; }
+
+  var statusColor = { "Reading": "var(--red)", "Completed": "var(--good)", "On Hold": "var(--gold)", "Plan to Read": "var(--ink-faint)", "Dropped": "#6f6656" };
+  var statusDeep  = { "Reading": "var(--red-deep)", "Completed": "var(--good-deep)", "On Hold": "#7a5a14", "Plan to Read": "#6b6455", "Dropped": "#463f34" };
+
+  var state = { filter: "All", sort: "updated", view: "cards", search: "", genres: [], tags: [], tagQuery: "",
+                colSort: null, drawer: false, sortOpen: false, filtersOpen: false };
+  // view mode persists across visits, same convention as the theme
+  try {
+    var savedView = localStorage.getItem("kitsuView");
+    if (savedView === "cards" || savedView === "covers" || savedView === "list") state.view = savedView;
+  } catch (e) {}
+
+  // list-view column sorting (click a header: 1st click ▲ ascending, 2nd ▼ descending)
+  var COL_VALUE = {
+    title:    function (m) { return (m.title || "").toLowerCase(); },
+    status:   function (m) { return m.status || ""; },
+    progress: function (m) { return m.pct; },
+    score:    function (m) { return m.score === "—" ? -1 : Number(m.score) || 0; },
+    updated:  function (m) { return m.mins == null ? Infinity : m.mins; } // fewer minutes = more recent
+  };
+  function applyColSort(list) {
+    if (!state.colSort || !COL_VALUE[state.colSort.key]) return list;
+    var v = COL_VALUE[state.colSort.key], dir = state.colSort.dir;
+    return list.slice().sort(function (a, b) {
+      var x = v(a), y = v(b);
+      return (x < y ? -1 : x > y ? 1 : 0) * dir;
+    });
+  }
+
+  function minutesAgo(u) {
+    if (!u || u === "—") return Infinity;
+    var m = /(\d+)\s*(h|d|w|mo|y)/.exec(u);
+    if (!m) return u === "just now" ? 0 : Infinity;
+    var n = +m[1], unit = { h: 60, d: 1440, w: 10080, mo: 43200, y: 525600 }[m[2]] || 60;
+    return n * unit;
+  }
+  function initials(title) {
+    return (title || "").replace(/^The\s+/i, "").split(/\s+/).filter(function (w) { return /[A-Za-z0-9]/.test(w); })
+      .slice(0, 2).map(function (w) { return w[0]; }).join("").toUpperCase() || "?";
+  }
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+
+  // Precompute derived per-title values
+  var MANGA = RAW.map(function (m) {
+    var read = Number(m.read) || 0;
+    var total = Number(m.total) || 0;
+    var unread = Math.max(0, total - read);
+    var pct = total ? Math.round((read / total) * 100) : 0;
+    var status = m.status || "";
+    return {
+      title: m.title || "Untitled", author: m.author || "", year: m.year || "",
+      status: status, score: (m.score != null ? m.score : "—"),
+      id: idOf(m), genres: Array.isArray(m.genres) ? m.genres : [],
+      tags: Array.isArray(m.tags) ? m.tags : [],
+      cover: m.cover || "", url: m.url || "", hue: (m.hue != null ? m.hue : 30),
+      read: read, total: total, unread: unread, pct: pct,
+      chLabel: read + "/" + (total || "?"),
+      updated: m.updated || "—", mins: minutesAgo(m.updated),
+      initials: initials(m.title),
+      sc: statusColor[status] || "var(--ink-faint)", scDeep: statusDeep[status] || "#6b6455",
+      done: (total > 0 && unread === 0 && read > 0)
+    };
+  });
+
+  function coverHTML(m, fontSize) {
+    if (m.cover) return '<img class="cover-img" src="' + esc(m.cover) + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">';
+    return '<div style="position:absolute;inset:0;background:oklch(0.5 0.07 ' + m.hue + ');background-image:repeating-linear-gradient(135deg, rgba(232,225,207,0.09) 0 8px, transparent 8px 16px);display:flex;align-items:center;justify-content:center;">' +
+           '<span style="font-family:\'Anton\',sans-serif;font-size:' + fontSize + 'px;color:rgba(232,225,207,0.9);">' + esc(m.initials) + '</span></div>';
+  }
+  function pill(m) {
+    return '<span style="font-family:\'JetBrains Mono\',monospace;font-size:9.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:3px 7px;color:' + m.sc + ';background:var(--paper);border:1.5px solid ' + m.sc + ';white-space:nowrap;justify-self:start;">' + esc(m.status) + '</span>';
+  }
+  function pctBar(m) {
+    return '<div style="width:' + m.pct + '%;height:100%;background:repeating-linear-gradient(115deg, ' + m.sc + ' 0 7px, ' + m.scDeep + ' 7px 14px);"></div>';
+  }
+  var STATUS_DEFS = [
+    { key: "All", label: "All Titles", dot: "var(--ink-faint)" },
+    { key: "Reading", label: "Reading Now", dot: "var(--red)" },
+    { key: "Completed", label: "Completed", dot: "var(--good)" },
+    { key: "On Hold", label: "On Hold", dot: "var(--gold)" },
+    { key: "Plan to Read", label: "Plan to Read", dot: "var(--ink-faint)" },
+    { key: "Dropped", label: "Dropped", dot: "#6f6656" }
+  ];
+  var SORT_DEFS = [
+    { key: "updated", label: "Recently updated", fn: function (a, b) { return a.mins - b.mins; } },
+    { key: "title", label: "Title A–Z", fn: function (a, b) { return a.title.replace(/^The\s+/i, "").localeCompare(b.title.replace(/^The\s+/i, "")); } },
+    { key: "chapters_high", label: "Chapters ↓", fn: function (a, b) { return b.total - a.total; } },
+    { key: "chapters_low", label: "Chapters ↑", fn: function (a, b) { return a.total - b.total; } },
+    { key: "score", label: "Score ↓", fn: function (a, b) { return (b.score || 0) - (a.score || 0); } },
+    { key: "progress", label: "Progress ↓", fn: function (a, b) { return b.pct - a.pct; } }
+  ];
+  var VIEWS = ["cards", "covers", "list"];
+  var VIEW_META = { cards: { icon: "▤", label: "Cards" }, covers: { icon: "▦", label: "Covers" }, list: { icon: "☰", label: "List" } };
+
+  function counts() {
+    var c = { All: MANGA.length };
+    STATUS_DEFS.slice(1).forEach(function (d) { c[d.key] = MANGA.filter(function (m) { return m.status === d.key; }).length; });
+    return c;
+  }
+
+  function getFiltered() {
+    var list = state.filter === "All" ? MANGA.slice() : MANGA.filter(function (m) { return m.status === state.filter; });
+    // multi-select, AND semantics: the title must carry every selected genre/tag
+    if (state.genres.length) list = list.filter(function (m) {
+      return state.genres.every(function (g) { return m.genres.indexOf(g) !== -1; });
+    });
+    if (state.tags.length) list = list.filter(function (m) {
+      return state.tags.every(function (t) { return m.tags.indexOf(t) !== -1; });
+    });
+    var q = state.search.trim().toLowerCase();
+    if (q) list = list.filter(function (m) { return (m.title + " " + m.author).toLowerCase().indexOf(q) !== -1; });
+    var sd = SORT_DEFS.find(function (s) { return s.key === state.sort; }) || SORT_DEFS[0];
+    list.sort(sd.fn);
+    // a clicked list-view column header overrides the dropdown sort
+    return applyColSort(list);
+  }
+
+  function allGenres() {
+    var c = {};
+    MANGA.forEach(function (m) { m.genres.forEach(function (g) { c[g] = (c[g] || 0) + 1; }); });
+    return Object.keys(c).sort().map(function (g) { return { g: g, n: c[g] }; });
+  }
+  function allTags() {
+    var c = {};
+    MANGA.forEach(function (m) { m.tags.forEach(function (t) { c[t] = (c[t] || 0) + 1; }); });
+    return Object.keys(c).sort(function (a, b) { return c[b] - c[a] || a.localeCompare(b); })
+      .map(function (t) { return { g: t, n: c[t] }; });
+  }
+  // one row in a facet list: click toggles selection, menu STAYS OPEN so
+  // several genres/tags can be picked in a row
+  function facetRow(wrap, label, n, active, onToggle) {
+    var b = document.createElement("button");
+    b.style.cssText = "display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;padding:9px 14px;border:none;border-top:1px dashed #c7bb9f;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:12px;background:" + (active ? "var(--ink)" : "transparent") + ";color:" + (active ? "var(--paper)" : "var(--ink-soft)") + ";";
+    b.innerHTML = "<span>" + (active ? "&#10003; " : "") + esc(label) + "</span>" + (n != null ? '<span style="opacity:.7;">' + n + "</span>" : "");
+    b.onclick = function (e) { e.stopPropagation(); onToggle(); renderFacetFilters(); render(); };
+    wrap.appendChild(b);
+  }
+  function toggleIn(arr, val) {
+    var i = arr.indexOf(val);
+    if (i === -1) arr.push(val); else arr.splice(i, 1);
+  }
+  function renderFacetFilters() {
+    var gw = $("genreList"), tw = $("tagList"), cw = $("facetClear");
+    if (!gw || !tw) return;
+    gw.innerHTML = ""; tw.innerHTML = ""; if (cw) cw.innerHTML = "";
+
+    var nActive = state.genres.length + state.tags.length;
+    if (cw && nActive) {
+      var cb = document.createElement("button");
+      cb.style.cssText = "display:block;width:100%;padding:10px 14px;border:none;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;background:var(--red);color:var(--paper);";
+      cb.textContent = "\u2715 Clear all filters (" + nActive + ")";
+      cb.onclick = function (e) { e.stopPropagation(); state.genres = []; state.tags = []; renderFacetFilters(); render(); };
+      cw.appendChild(cb);
+    }
+
+    var genres = allGenres();
+    if (!genres.length) {
+      gw.innerHTML = '<div style="padding:11px 14px;border-top:1px dashed #c7bb9f;font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-faint);line-height:1.5;">\u2691 Genres appear once the enrichment sync has run.</div>';
+    } else {
+      genres.forEach(function (x) {
+        facetRow(gw, x.g, x.n, state.genres.indexOf(x.g) !== -1, function () { toggleIn(state.genres, x.g); });
+      });
+    }
+
+    var tags = allTags();
+    if (!tags.length) {
+      tw.innerHTML = '<div style="padding:11px 14px;border-top:1px dashed #c7bb9f;font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-faint);line-height:1.5;">\u2691 Tags appear once the enrichment sync has run.</div>';
+    } else {
+      var q = state.tagQuery.trim().toLowerCase();
+      // selected tags always pinned on top, then matches of the search box
+      var sel = tags.filter(function (x) { return state.tags.indexOf(x.g) !== -1; });
+      var rest = tags.filter(function (x) { return state.tags.indexOf(x.g) === -1 && (!q || x.g.toLowerCase().indexOf(q) !== -1); });
+      sel.forEach(function (x) { facetRow(tw, x.g, x.n, true, function () { toggleIn(state.tags, x.g); }); });
+      rest.slice(0, 60).forEach(function (x) { facetRow(tw, x.g, x.n, false, function () { toggleIn(state.tags, x.g); }); });
+      if (rest.length > 60) {
+        var more = document.createElement("div");
+        more.style.cssText = "padding:9px 14px;border-top:1px dashed #c7bb9f;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--ink-faint);";
+        more.textContent = "+" + (rest.length - 60) + " more — type above to narrow";
+        tw.appendChild(more);
+      }
+    }
+  }
+  function renderMenus() {
+    var c = counts();
+    var fl = $("filterList"); fl.innerHTML = "";
+    STATUS_DEFS.forEach(function (d) {
+      var active = d.key === state.filter;
+      var b = document.createElement("button");
+      b.style.cssText = "display:flex;align-items:center;gap:11px;width:100%;padding:10px 12px;border:none;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:13px;background:" + (active ? "var(--ink)" : "transparent") + ";color:" + (active ? "var(--paper)" : "var(--ink-soft)") + ";font-weight:" + (active ? 700 : 400) + ";";
+      b.innerHTML = '<span style="width:8px;height:8px;background:' + d.dot + ';flex-shrink:0;"></span><span style="flex:1;text-align:left;">' + d.label + '</span><span style="opacity:.7;">' + (c[d.key] || 0) + '</span>';
+      b.onclick = function () { state.filter = d.key; state.sortOpen = false; render(); };
+      fl.appendChild(b);
+    });
+    var sl = $("sortList"); sl.innerHTML = "";
+    SORT_DEFS.forEach(function (s) {
+      var active = s.key === state.sort;
+      var b = document.createElement("button");
+      b.style.cssText = "display:block;width:100%;text-align:left;white-space:nowrap;font-family:'JetBrains Mono',monospace;font-size:12px;padding:10px 14px;border:none;border-bottom:1px dashed #c7bb9f;cursor:pointer;background:" + (active ? "var(--ink)" : "transparent") + ";color:" + (active ? "var(--paper)" : "var(--ink-soft)") + ";font-weight:" + (active ? 700 : 400) + ";";
+      b.textContent = s.label;
+      b.onclick = function () { state.sort = s.key; state.colSort = null; state.sortOpen = false; render(); };
+      sl.appendChild(b);
+    });
+  }
+
+  function renderView(list) {
+    var root = $("viewRoot");
+    if (!MANGA.length) {
+      root.innerHTML = '<div style="font-family:\'JetBrains Mono\',monospace;font-size:13px;color:var(--ink-faint);padding:60px 0;text-align:center;line-height:1.8;">Your library is empty.<br>Run the sync workflow to pull it from Kitsu, or check the Sources page.</div>';
+      return;
+    }
+    if (!list.length) {
+      root.innerHTML = '<div style="font-family:\'JetBrains Mono\',monospace;font-size:13px;color:var(--ink-faint);padding:60px 0;text-align:center;">No titles match this filter/search.</div>';
+      return;
+    }
+    var html = "";
+    if (state.view === "cards") {
+      html = '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:20px;">';
+      list.forEach(function (m) {
+        html += '<div' + entryLink(m) + ' style="display:flex;gap:16px;padding:16px;background:var(--paper-deep);border:2px solid var(--ink);box-shadow:5px 5px 0 var(--ink);cursor:pointer;">' +
+          '<div style="width:82px;flex-shrink:0;aspect-ratio:2/3;position:relative;border:2px solid var(--ink);overflow:hidden;">' + coverHTML(m, 24) + '</div>' +
+          '<div style="flex:1;min-width:0;display:flex;flex-direction:column;gap:7px;">' +
+            '<div style="font-family:\'Zen Kaku Gothic New\',sans-serif;font-weight:700;font-size:15px;line-height:1.2;">' + esc(m.title) + '</div>' +
+            '<div style="font-family:\'JetBrains Mono\',monospace;font-size:10.5px;color:var(--ink-faint);">' + esc(m.author || "—") + ' &middot; ' + esc(m.year || "—") + '</div>' +
+            '<div style="display:flex;align-items:center;gap:9px;margin-top:1px;">' + pill(m) +
+              '<span style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:var(--gold);font-weight:700;">&#9733; ' + esc(m.score) + '</span></div>' +
+            '<div style="margin-top:auto;display:flex;flex-direction:column;gap:5px;">' +
+              '<div style="height:13px;background:var(--paper);border:2px solid var(--ink);overflow:hidden;">' + pctBar(m) + '</div>' +
+              '<div style="font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-soft);display:flex;justify-content:space-between;"><span>' + esc(m.chLabel) + ' ch</span><span>' + esc(m.updated) + '</span></div>' +
+            '</div>' +
+          '</div></div>';
+      });
+      html += '</div>';
+    } else if (state.view === "covers") {
+      html = '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:18px;">';
+      list.forEach(function (m) {
+        var badge = m.done ? "✓" : String(m.unread);
+        var badgeBg = m.done ? "var(--good)" : "var(--red)";
+        html += '<div' + entryLink(m) + ' style="display:flex;flex-direction:column;gap:8px;cursor:pointer;">' +
+          '<div style="position:relative;aspect-ratio:2/3;border:2px solid var(--ink);box-shadow:4px 4px 0 var(--ink);overflow:hidden;">' + coverHTML(m, 34) +
+            '<div style="position:absolute;top:5px;right:5px;font-family:\'JetBrains Mono\',monospace;font-size:10px;font-weight:700;line-height:1;padding:4px 6px;color:var(--paper);background:' + badgeBg + ';border:1.5px solid var(--ink);">' + badge + '</div>' +
+            '<div style="position:absolute;left:0;right:0;bottom:0;height:5px;background:var(--paper);border-top:2px solid var(--ink);">' + pctBar(m) + '</div>' +
+          '</div>' +
+          '<div style="font-family:\'Zen Kaku Gothic New\',sans-serif;font-weight:700;font-size:12px;line-height:1.25;">' + esc(m.title) + '</div>' +
+          '<div style="font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-faint);display:flex;justify-content:space-between;"><span>' + esc(m.chLabel) + '</span><span>' + esc(m.year || "") + '</span></div>' +
+        '</div>';
+      });
+      html += '</div>';
+    } else {
+      // sortable header cells: data-colsort carries the key; arrows show state
+      function th(label, key, right) {
+        var arrow = state.colSort && state.colSort.key === key ? (state.colSort.dir === 1 ? ' \u25B2' : ' \u25BC') : '';
+        return '<span data-colsort="' + key + '" style="cursor:pointer;user-select:none;' + (right ? 'text-align:right;' : '') + '">' + label + arrow + '</span>';
+      }
+      html = '<div style="border:2px solid var(--ink);">' +
+        '<div style="display:grid;grid-template-columns:44px 2fr 132px 150px 60px 74px;gap:14px;align-items:center;padding:11px 16px;background:var(--ink);font-family:\'JetBrains Mono\',monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--paper);">' +
+        '<span></span>' + th('Title', 'title') + th('Status', 'status') + th('Progress', 'progress') + th('Score', 'score', true) + th('Updated', 'updated', true) + '</div>';
+      list.forEach(function (m, i) {
+        html += '<div' + entryLink(m) + ' style="display:grid;grid-template-columns:44px 2fr 132px 150px 60px 74px;gap:14px;align-items:center;padding:10px 16px;border-top:1px solid #c7bb9f;background:' + (i % 2 ? "rgba(23,20,15,0.03)" : "transparent") + ';cursor:pointer;">' +
+          '<div style="width:30px;height:44px;position:relative;border:2px solid var(--ink);overflow:hidden;">' + coverHTML(m, 11) + '</div>' +
+          '<div style="min-width:0;"><div style="font-family:\'Zen Kaku Gothic New\',sans-serif;font-weight:700;font-size:13.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + esc(m.title) + '</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-faint);">' + esc(m.author || "—") + ' &middot; ' + esc(m.year || "") + '</div></div>' +
+          pill(m) +
+          '<div style="display:flex;align-items:center;gap:8px;"><div style="flex:1;height:11px;background:var(--paper);border:2px solid var(--ink);overflow:hidden;">' + pctBar(m) + '</div><span style="font-family:\'JetBrains Mono\',monospace;font-size:10px;color:var(--ink-faint);white-space:nowrap;">' + esc(m.chLabel) + '</span></div>' +
+          '<span style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:var(--gold);font-weight:700;text-align:right;">&#9733;' + esc(m.score) + '</span>' +
+          '<span style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:var(--ink-faint);text-align:right;">' + esc(m.updated) + '</span>' +
+        '</div>';
+      });
+      html += '</div>';
+    }
+    root.innerHTML = html;
+    // wire the sortable list headers (1st click ▲ asc, 2nd click ▼ desc)
+    root.querySelectorAll('[data-colsort]').forEach(function (el) {
+      el.onclick = function (e) {
+        e.stopPropagation();
+        var key = el.getAttribute('data-colsort');
+        state.colSort = (state.colSort && state.colSort.key === key)
+          ? { key: key, dir: -state.colSort.dir }
+          : { key: key, dir: 1 };
+        render();
+      };
+    });
+  }
+
+  function render() {
+    var list = getFiltered();
+    var current = STATUS_DEFS.find(function (d) { return d.key === state.filter; });
+    var sd = SORT_DEFS.find(function (s) { return s.key === state.sort; }) || SORT_DEFS[0];
+    $("crumb").textContent = current.label;
+    $("sectionTitle").textContent = current.label;
+    $("countLabel").textContent = list.length;
+    $("sortLabel").textContent = sd.label;
+    $("viewBtn").innerHTML = VIEW_META[state.view].icon + " " + VIEW_META[state.view].label;
+    $("drawerTotal").textContent = MANGA.length;
+    $("drawerUnread").textContent = MANGA.reduce(function (s, m) { return s + m.unread; }, 0) + " CH UNREAD";
+    $("sortMenu").style.display = state.sortOpen ? "block" : "none";
+    $("filtersMenu").style.display = state.filtersOpen ? "block" : "none";
+    var nf = state.genres.length + state.tags.length;
+    var fbl = $("filtersBtnLabel"); if (fbl) fbl.textContent = nf ? "Filters (" + nf + ")" : "Filters";
+    $("backdrop").style.opacity = state.drawer ? "1" : "0";
+    $("backdrop").style.pointerEvents = state.drawer ? "auto" : "none";
+    $("drawer").style.transform = state.drawer ? "translateX(0)" : "translateX(105%)";
+    renderMenus();
+    renderFacetFilters();
+    renderView(list);
+  }
+
+  // Events
+  $("search").oninput = function (e) { state.search = e.target.value; render(); };
+  $("viewBtn").onclick = function () {
+    state.view = VIEWS[(VIEWS.indexOf(state.view) + 1) % VIEWS.length];
+    try { localStorage.setItem("kitsuView", state.view); } catch (e) {}
+    render();
+  };
+  $("sortBtn").onclick = function (e) { e.stopPropagation(); state.sortOpen = !state.sortOpen; state.filtersOpen = false; render(); };
+  $("filtersBtn").onclick = function (e) { e.stopPropagation(); state.filtersOpen = !state.filtersOpen; state.sortOpen = false; render(); };
+  // clicks inside the filters menu (incl. the tag search box) must not bubble
+  // to the document-level close handler — the menu stays open for multi-select
+  $("filtersMenu").onclick = function (e) { e.stopPropagation(); };
+  $("tagSearch").oninput = function (e) { state.tagQuery = e.target.value; renderFacetFilters(); };
+  $("menuBtn").onclick = function () { state.drawer = true; render(); };
+  $("drawerClose").onclick = function () { state.drawer = false; render(); };
+  $("backdrop").onclick = function () { state.drawer = false; render(); };
+  $("allTitlesBtn").onclick = function () { state.filter = "All"; state.drawer = false; render(); };
+  document.addEventListener("click", function () {
+    if (state.sortOpen || state.filtersOpen) { state.sortOpen = false; state.filtersOpen = false; render(); }
+  });
+
+  // Notifications badge
+  (function () {
+    var n = Array.isArray(window.notificationsData) ? window.notificationsData : [];
+    var readMap = {}; try { readMap = JSON.parse(localStorage.getItem("kitsuNotifRead") || "{}") || {}; } catch (e) {}
+    var unread = n.filter(function (x) { return readMap[x.id] ? false : x.unread; }).length;
+    if (unread > 0) {
+      $("notifBadge").textContent = unread; $("notifBadge").style.display = "flex";
+      $("drawerNotif").textContent = unread; $("drawerNotif").style.display = "flex";
+    }
+  })();
+
+  render();
+})();
+</script>
+</body>
+</html>
