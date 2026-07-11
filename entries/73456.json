@@ -1,0 +1,112 @@
+{
+  "kitsuId": "73456",
+  "title": "The Reincarnation of the Great Mage in Myth",
+  "updatedAt": "2026-07-10T23:52:20.462Z",
+  "matchVersion": 2,
+  "mangabakaId": 4404,
+  "mangabakaUrl": "https://mangabaka.org/4404",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80L2EvNy85L2MvZC81LzgvOWU5NC80ZTUwL2E3ZWIvYjlhZTk5MmFkMjdh",
+  "author": "Junsol, Sakura Yoshino, Tumin",
+  "synopsis": "Hayool was supposed to be a genius mage and the next head of his clan, but when he turns out to be incompatible with magical AI, his friends and family expect him to give up on his dreams. Too determined to abandon his ambitions, he discovers a book written by the founder of magic itself, and it teaches him to do magic without AI. Suddenly much more powerful than his classmates and school bullies, it seems he might have a bright future after all—if he can survive the secret plots against him.\n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "rating": 6.7,
+  "total": 100,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "comedy",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "192153",
+    "anime_planet": "the-return-of-the-mythical-archmage",
+    "kitsu": "73456",
+    "manga_updates": "7zvtal4",
+    "my_anime_list": "176354",
+    "shikimori": "176354"
+  },
+  "links": [
+    "https://manga.bilibili.com/detail/mc36823",
+    "https://page.kakao.com/content/65414765?tab_type=overview",
+    "https://tapas.io/series/mythical-archmage-returns/info",
+    "https://webtoon.kakao.com/content/신화-속-대마법사의-재림/4300?tab=episode",
+    "https://namu.wiki/w/%EC%8B%A0%ED%99%94%20%EC%86%8D%20%EB%8C%80%EB%A7%88%EB%B2%95%EC%82%AC%EC%9D%98%20%EC%9E%AC%EB%A6%BC(%EC%9B%B9%ED%88%B0)",
+    "https://page.kakao.com/content/65414765",
+    "https://mangabaka.org/4404"
+  ]
+}

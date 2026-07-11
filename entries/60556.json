@@ -1,0 +1,155 @@
+{
+  "kitsuId": "60556",
+  "title": "Wo Neng Fu Zhi Tian Fu",
+  "updatedAt": "2026-07-11T00:02:55.219Z",
+  "matchVersion": 2,
+  "mangabakaId": 49263,
+  "mangabakaUrl": "https://mangabaka.org/49263",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEzODM2Ni1EQzN0NU1TdjZ2MDUuanBn",
+  "author": "Hao Fan, Jian Shen Wu Di",
+  "synopsis": "Ye Tian gained the power to copy others' talents. In order to protect his sister, he struggled to survive in the apocalyptic era of the invasion of exotic beasts. In order to become stronger, he began to explore the unknown world and gradually uncovered the secrets of the invasion of different dimensions... \n\n(Source: MangaToon)",
+  "status": "Completed",
+  "rating": 7.2,
+  "total": 106,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "martial_arts",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Archery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Determined Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Determined Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Kaiju",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "138366",
+    "anime_planet": "your-talent-is-mine",
+    "kitsu": "60556",
+    "manga_updates": "rom41cw"
+  },
+  "links": [
+    "https://mangatoon.mobi/en/your-talent-is-mine?content_id=2858198",
+    "https://piccoma.com/web/product/95716",
+    "https://www.kuaikanmanhua.com/web/topic/11086/",
+    "https://www.webcomicsapp.com/comic/Your-Talent-Is-Mine/65011f198c252b568464a9cf",
+    "https://www.webnovel.com/comic/your-talent-is-mine_29892263408952401",
+    "https://www.webtoons.com/fr/action/le-collectionneur-de-talents/list?title_no=7762",
+    "https://mangabaka.org/49263"
+  ]
+}

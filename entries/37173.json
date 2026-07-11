@@ -1,0 +1,660 @@
+{
+  "kitsuId": "37173",
+  "title": "Kumo desu ga, Nani ka?",
+  "updatedAt": "2026-07-10T23:53:33.997Z",
+  "matchVersion": 2,
+  "mangabakaId": 2992,
+  "mangabakaUrl": "https://mangabaka.org/2992",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzEvZS84LzIvYy84LzYvMjBmOS80ZmU2Lzg5MmMvYmRmYzJiN2NjNGZj",
+  "author": "Asahiro Kakashi, Okina Baba",
+  "synopsis": "I’m gonna survive-just watch me! I was your average, everyday high school girl, but now I’ve been reborn in a magical world…as a spider?! Wait-this isn’t how these stories are supposed to go! Can I get a do-over? …No? But how am I supposed to survive in this big, scary dungeon as one of the weakest monsters? It’s “every spider for herself “ in here! I gotta figure out the rules to this QUICK, or I’ll be kissing my short second life good-bye…\n\n*Source: Yen Press, Vol. 1*",
+  "status": "Releasing",
+  "rating": 7.8,
+  "total": 79,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "action",
+    "drama",
+    "seinen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Battles",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Cannibalism",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon Exploring",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Ensemble Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Capable Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Competent Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Creative Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cunning Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Determined Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Eccentric Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Immortal Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Nonhuman Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Pragmatic Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strategic Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Unique Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Genius Protagonist",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Loner Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Appearance Different from Personality",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Split Personality",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Imminent Death",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dissociative Identities",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Kill or Be Killed Situation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Meta",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Butler",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Knight",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "System Administrator",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Insects",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monkey",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Robots",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Vampires",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Near-Death Experience",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Injury",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Eye Powers",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drawn by Hentai Artist",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, April 26-May 2",
+      "date": "2026-05-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-01/north-american-anime-manga-releases-april-26-may-2/.236859"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 16-22",
+      "date": "2025-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-21/north-american-anime-manga-releases-february-16-22/.221368"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 16-22",
+      "date": "2024-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-06-21/north-american-anime-manga-releases-june-16-22/.212192"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 21-27",
+      "date": "2022-08-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-08-23/north-american-anime-manga-releases-august-21-27/.188928"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 19-25",
+      "date": "2021-12-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-21/north-american-anime-manga-releases-december-19-25/.180876"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 18-24",
+      "date": "2021-04-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-04-20/north-american-anime-manga-releases-april-18-24/.171951"
+    },
+    {
+      "title": "'So I'm a Spider, So What?' Manga Artist Praises the 'Vulgarity' of Mushoku Tensei's Setting",
+      "date": "2021-03-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2021-03-03/so-im-a-spider-so-what-manga-artist-praises-the-vulgarity-of-mushoku-tensei-setting/.170157"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 16-22",
+      "date": "2020-08-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-08-18/north-american-anime-manga-releases-august-16-22/.163047"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 22-28",
+      "date": "2020-03-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-03-25/north-american-anime-manga-releases-march-22-28/.157907"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 4-10",
+      "date": "2019-08-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-08-08/north-american-anime-manga-releases-august-4-10/.149770"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 28-August 3",
+      "date": "2019-07-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-07-30/north-american-anime-manga-releases-july-28-august-3/.149526"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 14-20",
+      "date": "2019-07-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-07-16/north-american-anime-manga-releases-july-14-20/.149049"
+    },
+    {
+      "title": "'So I'm a Spider, So What?' Novels Get Comedy Manga Spinoff",
+      "date": "2019-06-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-06-05/so-im-a-spider-so-what-novels-get-comedy-manga-spinoff/.147457"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 17-23",
+      "date": "2019-03-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-03-21/north-american-anime-manga-releases-march-17-23/.144741"
+    },
+    {
+      "title": "Japanese Comic Ranking, January 7-13",
+      "date": "2019-01-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-01-16/japanese-comic-ranking-january-7-13/.142151"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 28-November 3",
+      "date": "2018-10-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-10-30/north-american-anime-manga-releases-october-28-november-3/.138839"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 22-28",
+      "date": "2018-07-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-07-24/north-american-anime-manga-releases-july-22-28/.134644"
+    },
+    {
+      "title": "Japanese Comic Ranking, July 9-15",
+      "date": "2018-07-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-07-18/japanese-comic-ranking-july-9-15/.134411"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 8-14",
+      "date": "2018-04-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-04-10/north-american-anime-manga-releases-april-8-14/.130203"
+    },
+    {
+      "title": "Japanese Comic Ranking, January 1-7",
+      "date": "2018-01-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-01-10/japanese-comic-ranking-january-1-7/.126287"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 25-31",
+      "date": "2018-01-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-01-10/japanese-comic-ranking-december-25-31/.126284"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 17-23",
+      "date": "2017-12-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-12-19/north-american-anime-manga-releases-december-17-23/.125512"
+    },
+    {
+      "title": "The Fall 2017 Manga Guide - So I'm A Spider, So What?",
+      "date": "2017-12-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2017-12-13/the-fall-2017-manga-guide/so-im-a-spider-so-what/.125233"
+    },
+    {
+      "title": "Japanese Comic Ranking, June 5-11",
+      "date": "2017-06-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-06-14/japanese-comic-ranking-june-5-11/.117479"
+    },
+    {
+      "title": "Japanese Comic Ranking, November 28-December 4",
+      "date": "2016-12-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-12-07/japanese-comic-ranking-november-28-december-4/.109623"
+    }
+  ],
+  "sources": {
+    "anilist": "86952",
+    "anime_planet": "so-im-a-spider-so-what",
+    "anime_news_network": "19912",
+    "kitsu": "37173",
+    "manga_updates": "cgzqi7u",
+    "my_anime_list": "95353",
+    "shikimori": "95353"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_KS11000007010000_68/",
+    "https://yenpress.com/series/so-i-m-a-spider-so-what-manga",
+    "https://en.wikipedia.org/wiki/So_I%27m_a_Spider,_So_What%3F",
+    "https://ja.wikipedia.org/wiki/%E8%9C%98%E8%9B%9B%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E3%81%AA%E3%81%AB%E3%81%8B%3F",
+    "https://web-ace.jp/youngaceup/contents/1000013/",
+    "https://mangabaka.org/2992"
+  ]
+}

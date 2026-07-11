@@ -1,0 +1,269 @@
+{
+  "kitsuId": "63842",
+  "title": "Kare Chwihan Bameul Geotda",
+  "updatedAt": "2026-07-11T00:00:46.100Z",
+  "matchVersion": 2,
+  "mangabakaId": 54240,
+  "mangabakaUrl": "https://mangabaka.org/54240",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wL2EvZS85LzYvZS9mL2QvNGE2My80NmQ3L2IxZDkvNWZjZTE5ZjM4MGU5",
+  "author": "Jin-Seong Yu, JP",
+  "synopsis": "Kidnapped as a child to be trained in the art of poison, So-Han Jin returns to his hometown in search of the group of New Moon Sword Dancers who raised him. However, upon his return, So-Han discovers the sword dancers have been defeated by a nefarious sect that now rules the area, with some members having been abducted. What would have been a heartwarming reunion transforms into a quest for revenge as So-Han begins his search for the remaining sword dancers, and he’s willing to poison anyone who gets in his way.\n\n(Source: WEBTOON, edited)",
+  "status": "Hiatus",
+  "rating": 7.4,
+  "total": 131,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "historical",
+    "martial_arts",
+    "mature",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Duels",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Annoying Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Calm Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Famous Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Ninja",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Feudal Japan",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Organized Crime",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "150823",
+    "anime_planet": "a-dance-of-swords-in-the-night",
+    "kitsu": "63842",
+    "manga_updates": "g4xtsfy",
+    "my_anime_list": "148457",
+    "shikimori": "148457"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=795542",
+    "https://series.naver.com/comic/detail.series?productNo=8530460",
+    "https://www.webtoons.com/en/action/a-dance-of-swords-in-the-night/list?title_no=4596",
+    "https://www.webtoons.com/fr/action/une-danse-des-lames-dans-les-tenebres/list?title_no=4781",
+    "https://namu.wiki/w/%EC%B9%BC%EC%97%90%20%EC%B7%A8%ED%95%9C%20%EB%B0%A4%EC%9D%84%20%EA%B1%B7%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/54240"
+  ]
+}

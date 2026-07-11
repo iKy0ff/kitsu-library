@@ -1,0 +1,108 @@
+{
+  "kitsuId": "72116",
+  "title": "Wo Kao Jian Lese Shang Wangzhe",
+  "updatedAt": "2026-07-11T00:01:48.063Z",
+  "matchVersion": 2,
+  "mangabakaId": 76901,
+  "mangabakaUrl": "https://mangabaka.org/76901",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4MTcxNC11U2g5YXBtMjl2a0cuanBn",
+  "author": "Xiaochi Bai",
+  "synopsis": "You've received a hidden job. Processing… Congratulations, Scavenger! Typhon Ye couldn’t afford to repay the high-interest loans that plagued him after a few failed investments, so his loan shark made him do illegal work for private parties to repay his debts. On one fateful day, Typhon struck down a monster he should never have been able to, and in that instant, experience points surged within him! He’d leveled up from Lv. 0 to Lv. 1! Typhon had triggered his once-in-a-lifetime opportunity to get a job! But the hands of fate had another plan for him, he awakened to a job unheard of in history -Scavenger! A “unique” job that revolves entirely around junk! \n\n(Source: WebComics)",
+  "status": "Completed",
+  "rating": 6.4,
+  "total": 83,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "martial_arts",
+    "mystery",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "181714",
+    "anime_planet": "i-became-the-king-by-scavenging",
+    "kitsu": "72116",
+    "manga_updates": "mm8bowb"
+  },
+  "links": [
+    "https://manga.bilibili.com/detail/mc34089?from=manga_index",
+    "https://www.webcomicsapp.com/comic/Junk-to-King-I-Am-A-Scavenger/6855280762661d74815d93c5",
+    "https://mangabaka.org/76901"
+  ]
+}

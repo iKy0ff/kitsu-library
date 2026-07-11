@@ -1,0 +1,376 @@
+{
+  "kitsuId": "56244",
+  "title": "God Of Blackfield",
+  "updatedAt": "2026-07-11T00:09:54.455Z",
+  "matchVersion": 2,
+  "mangabakaId": 1417,
+  "mangabakaUrl": "https://mangabaka.org/1417",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzUvMC80L2MvYi9lLzQvOTk0OC80Mzg4LzlkZTgvZGYxOWMxNDczY2M0",
+  "author": "Insung Shin, Mujang, Un",
+  "synopsis": "Leaving only black soot and dead bodies in his wake, Kang Chan, the “God of Blackfield,” struck fear into the hearts of his enemies. But one day, in the chaos of battle, his life was abruptly snuffed out. “I’ve been shot… but the bullet came from behind me!” Revived three years later, this “god” is now a wimpy high schooler with major problems—savage bullies, shady business dealings, and even girls. Revenge seemed like a straight shot, but high school is a battlefield all of its own!\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "rating": 7.2,
+  "total": 323,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "supernatural",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Armed Combat",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Unarmed Combat",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Crimes",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Attempted Murder",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Drug Trafficking",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Badass Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blood-Thirsty Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cold Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cruel Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Cunning Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Unattractive Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Violent Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "France",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "France",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School Clubs",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Past Friendship",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Delinquents",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Soldier",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "High School Teacher",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drugs",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Economics",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gangs",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mafia",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Secrets",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Attempted Suicide",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Torture",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "118267",
+    "anime_planet": "god-of-blackfield",
+    "kitsu": "56244",
+    "manga_updates": "wlb2ugp",
+    "my_anime_list": "147532",
+    "shikimori": "147532"
+  },
+  "links": [
+    "https://page.kakao.com/content/54498159",
+    "https://piccoma.com/web/product/23019",
+    "https://tapas.io/series/god-of-blackfield/info",
+    "https://webtoon.kakao.com/content/갓-오브-블랙필드/2374?tab=episode",
+    "https://namu.wiki/w/갓%20오브%20블랙필드#s-7.1",
+    "https://mangabaka.org/1417"
+  ]
+}

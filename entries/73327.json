@@ -1,0 +1,207 @@
+{
+  "kitsuId": "73327",
+  "title": "Watashi no Kokoro wa Ojisan de Aru",
+  "updatedAt": "2026-07-10T23:51:43.013Z",
+  "matchVersion": 2,
+  "mangabakaId": 1398,
+  "mangabakaUrl": "https://mangabaka.org/1398",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2QvZS85L2EvZS8zLzgvZjg4ZS80NTdmLzhiMzEvYjM3MTFlZDY5ODQ4",
+  "author": "Utsugi, Yuuhi Shimano",
+  "synopsis": "With no friends, family, or romance to speak of, Haruka has lived his life just going through the motions—until the day he awakens in the body of a beautiful, and womanly, dark elf! Suddenly, a world beyond his wildest imagination awaits, and uncontainable excitement races through him. There’s just one problem: He gave up on putting himself out there a long time ago and has no idea how to strike up a conversation with other people. Teenagers and (other) women are certainly no exception. But with a bottomless well of mana and a ridiculously tough body to boot, Haruka won’t let any overthinking get in the way this time. Little by little, the dark elf works past his (her) fears and self-doubt, forging deep bonds with precious new friends and growing together with them. So begins a heartwarming story of an old man determined to make the most of this new fantastical lease on life!\n\n*Source: J-Novel Club, Vol. 1*",
+  "status": "Releasing",
+  "rating": 7.2,
+  "total": 39,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "action",
+    "gender_bender",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Calm Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dark/Tan Skin Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elf Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mature Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigrated into Another World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Light Novel",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, March 15-21",
+      "date": "2026-03-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-20/north-american-anime-manga-releases-march-15-21/.235374"
+    },
+    {
+      "title": "J-Novel Club Adds 9 Light Novel, 4 Manga Titles",
+      "date": "2025-08-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-23/j-novel-club-adds-9-light-novel-4-manga-titles/.227972"
+    },
+    {
+      "title": "The Spring 2025 Light Novel Guide - This Alluring Dark Elf has the Heart of a Middle-Aged Man!",
+      "date": "2025-05-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2025-05-02/the-spring-2025-light-novel-guide/this-alluring-dark-elf-has-the-heart-of-a-middle-aged-man/.222486"
+    }
+  ],
+  "sources": {
+    "anilist": "183382",
+    "anime_planet": "this-alluring-dark-elf-has-the-heart-of-a-middle-aged-man",
+    "anime_news_network": "37628",
+    "kitsu": "73327",
+    "manga_updates": "5f3f2on",
+    "my_anime_list": "174676",
+    "shikimori": "174676"
+  },
+  "links": [
+    "https://j-novel.club/series/this-alluring-dark-elf-has-the-heart-of-a-middle-aged-man-manga",
+    "https://manga.nicovideo.jp/comic/69532",
+    "https://pash-up.jp/content/00002574",
+    "https://www.shufu.co.jp/bookmook/detail/9784391163643/",
+    "https://mangabaka.org/1398"
+  ]
+}

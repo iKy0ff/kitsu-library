@@ -1,0 +1,118 @@
+{
+  "kitsuId": "71725",
+  "title": "Chong Zu Zhuzai, Wo Wan de Jiushi Tianzai",
+  "updatedAt": "2026-07-11T00:05:58.440Z",
+  "matchVersion": 2,
+  "mangabakaId": 9408,
+  "mangabakaUrl": "https://mangabaka.org/9408",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3OTE4NS1JY1VOQk1JdWllNlcuanBn",
+  "author": "Dong Dong Xiao Hong Mao, Yike Liu",
+  "synopsis": "300 years ago, rifts containing monsters appeared all over the world. Class changers, who consisted of combat, support, and life-type awakened people, fought against the monsters and protected the people. Out of the four grades of class changers, divine is the rarest, appearing once in a century, which is why all eyes were on Chen Jiang, the first divine class changer in a century. However, expectations were turned into disappointment when he awakened into the most unpopular type, the life type. However, for some reason, Chen Jiang seems quite content with what happened... \n\n(Source: Tappytoon)",
+  "status": "Releasing",
+  "rating": 6.9,
+  "total": 119,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "drama",
+    "fantasy",
+    "adventure",
+    "harem",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Insects",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "179185",
+    "anime_planet": "supreme-zerg-lord-the-catastrophe",
+    "kitsu": "71725",
+    "manga_updates": "w7dcnvm"
+  },
+  "links": [
+    "https://www.kuaikanmanhua.com/web/topic/21997/",
+    "https://www.tappytoon.com/en/book/supreme-zerg-lord-the-catastrophe",
+    "https://mangabaka.org/9408"
+  ]
+}

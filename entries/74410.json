@@ -1,0 +1,120 @@
+{
+  "kitsuId": "74410",
+  "title": "The Overpowered Veteran Healer",
+  "updatedAt": "2026-07-11T00:05:31.123Z",
+  "matchVersion": 2,
+  "mangabakaId": 1235,
+  "mangabakaUrl": "https://mangabaka.org/1235",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jLzUvYS9jLzAvNS9kLzUvNzZkMS80MmRhL2E0MzYvYmIzOWNhMTBjZmIw",
+  "author": "Awonit, Awonit, jd",
+  "synopsis": "Top Korean hunter Siu 'The Rabid Hound' Min defeated the Demon Lord with his disciples, only to be trapped in a monster-filled otherworld for 100 years. However, a century of struggles did not break Siu—it drove him to break his limits instead. Now, he returns to Earth with Pred, his mysterious partner, only to learn that his name and legacy have been erased, along with his disciples’... and that only 10 years have passed on Earth. As new conflicts arise, will Siu and Pred prevail and uncover the truth?\n\n(Source: WEBTOONS)",
+  "status": "Releasing",
+  "rating": 6.1,
+  "total": 89,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Disciple",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "188215",
+    "anime_planet": "the-veteran-healer-is-overpowered",
+    "kitsu": "74410",
+    "manga_updates": "mvvxdnp",
+    "my_anime_list": "178738",
+    "shikimori": "178738"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=836359",
+    "https://series.naver.com/comic/detail.series?productNo=12164064",
+    "https://www.webtoons.com/en/fantasy/the-veteran-healer-is-overpowered/list?title_no=7829",
+    "https://www.webtoons.com/fr/action/the-veteran-healer-is-overpowered/list?title_no=8261",
+    "https://www.webtoons.com/zh-hant/fantasy/the-veteran-healer-is-overpowered/list?title_no=7890",
+    "https://mangabaka.org/1235"
+  ]
+}

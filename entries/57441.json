@@ -1,0 +1,307 @@
+{
+  "kitsuId": "57441",
+  "title": "Quanzhi Gaoshou",
+  "updatedAt": "2026-07-11T00:07:19.647Z",
+  "matchVersion": 2,
+  "mangabakaId": 42289,
+  "mangabakaUrl": "https://mangabaka.org/42289",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 75
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyNDYxOC1YVDltbE5wT2hIVGYuanBn",
+  "author": "Hudie Lan, Yuewen Manhua",
+  "synopsis": "No one could ever come close to “Battle God” Ye Qiu’s skills in Glory, a popular game that took the world by storm. His professional team, however, replaced him with another captain, and even seized his account. He was left to start anew at an internet cafe as a manager. When a new District 10 opened up in Glory, he dives back, armed with a decade of experience and an unfinished custom weapon. His path to redemption, filled with strategy and memories, marks his thrilling return to the summit. \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "rating": 7.5,
+  "total": 261,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Team Battle",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Smoking",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Tournaments",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Scheming Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Scheming Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Teasing Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Calm Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cool Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cunning Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Manipulative Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Mentor",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Audio Drama",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Chinese Drama",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Donghua",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "China",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Friend",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Spy",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Childhood Friends",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Complicated Family",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Twins",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Chinese Ambience",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Chinese Mythology",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Virtual World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Competitions",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Rich Family",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "E-Sports",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "MMORPG",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Novel",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "124618",
+    "anime_planet": "the-kings-avatar-2020",
+    "manga_updates": "gjvog84"
+  },
+  "links": [
+    "https://ac.qq.com/Comic/comicInfo/id/656019",
+    "https://manga.bilibili.com/detail/mc27593",
+    "https://tapas.io/series/the-kings-avatar/info",
+    "https://www.webnovel.com/comic/the-king's-avatar_17959825305729101",
+    "https://mangabaka.org/42289"
+  ]
+}

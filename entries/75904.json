@@ -1,0 +1,208 @@
+{
+  "kitsuId": "75904",
+  "title": "Geu Appae Geu Ttal",
+  "updatedAt": "2026-07-10T23:50:05.006Z",
+  "matchVersion": 2,
+  "mangabakaId": 97737,
+  "mangabakaUrl": "https://mangabaka.org/97737",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzkvNi8wLzYvZi85L2MvYjFlZi80NTg3Lzg2YTAvMzQ2OWNlOGVjOWU4",
+  "author": "Studio Inus, Wol-Rim Ju",
+  "synopsis": "Once known as the White Night Witch, Alisia is reborn without her powers as a young princess neglected by her father, the emperor. When she regains her magic after hearing the news of his death in battle, she plans to rule the chaotic empire herself... That is, until the emperor returns alive. Now, Alisia must mend fences with her father while also handling schemes and secrets lurking around them. Will these two, so different yet so similar, make amends and work together? Or is it all too late?\n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "rating": 6.7,
+  "total": 76,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "drama",
+    "historical"
+  ],
+  "tags": [
+    {
+      "name": "Red-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Red-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Neglected Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Princess Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Memories of Past Life",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Emperors",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Family",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Father and Daughter",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "189142",
+    "anime_planet": "like-father-like-daughter",
+    "kitsu": "75904",
+    "manga_updates": "lhid8mv",
+    "my_anime_list": "180223",
+    "shikimori": "180223"
+  },
+  "links": [
+    "https://page.kakao.com/content/66232401",
+    "https://tapas.io/series/like-father-like-daughter/info",
+    "https://webtoon.kakao.com/content/그-아빠에-그-딸/4433?tab=episode",
+    "https://mangabaka.org/97737"
+  ]
+}

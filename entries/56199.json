@@ -1,0 +1,326 @@
+{
+  "kitsuId": "56199",
+  "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+  "updatedAt": "2026-07-10T23:55:24.506Z",
+  "matchVersion": 2,
+  "mangabakaId": 9692,
+  "mangabakaUrl": "https://mangabaka.org/9692",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzEvMy85L2YvOS81LzkvOWM3NC80YWZiL2IxMDYvMjhiZjQ1YzhmOGY5",
+  "author": "Rokujuuyon Okazawa, Rurekuche",
+  "synopsis": "Dariel is a dark soldier in the Demon King’s army in his 30s and unable to use magic who was suddenly dismissed! Kicked out of his hometown, Dariel drifted into a human village where adventurer skills that aren’t bestowed onto demons bursted into bloom! “I’m…human…?” Then, a village girl launches a fierce attack to get her hands on and subdue him, a novice adventurer, who fell into her lap?! His second chance at life and he still can’t relax has just begun! \n\n(Source: K Manga)",
+  "status": "Releasing",
+  "rating": 6.8,
+  "total": 69,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "romance",
+    "slice_of_life",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Clumsy Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Clumsy Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ditzy Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Kind female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Voluptuous Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Naive Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Older Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedic Violence",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Hidden past",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Lifestyle Change",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Older Male Younger Female",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Married Couple",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Panchira",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Boys Love Subtext",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Amputee",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Marriage",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Sumo",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "incidental"
+    }
+  ],
+  "news": [
+    {
+      "title": "Kaiko Sareta Ankoku Heishi (30-Dai) no Slow na Second Life Fantasy Novels Gets January TV Anime (Updated)",
+      "date": "2022-07-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-19/kaiko-sareta-ankoku-heishi-no-slow-na-second-life-fantasy-novels-gets-january-tv-anime/.187839"
+    }
+  ],
+  "sources": {
+    "anilist": "113647",
+    "anime_planet": "chillin-in-my-30s-after-getting-fired-from-the-demon-kings-army",
+    "anime_news_network": "26095",
+    "kitsu": "56199",
+    "manga_updates": "ni2scx5",
+    "my_anime_list": "121485",
+    "shikimori": "121485"
+  },
+  "links": [
+    "https://kc.kodansha.co.jp/title?code=1000034781",
+    "https://kmanga.kodansha.com/title/10056/",
+    "https://pocket.shonenmagazine.com/episode/13933686331619729029",
+    "https://yanmaga.jp/c/ankokuheishi/",
+    "https://en.wikipedia.org/wiki/Chillin%27_in_My_30s_After_Getting_Fired_from_the_Demon_King%27s_Army",
+    "https://ja.wikipedia.org/wiki/解雇された暗黒兵士（30代）のスローなセカンドライフ",
+    "https://magazine.yanmaga.jp/c/ankokuheishi/",
+    "https://mangabaka.org/9692"
+  ]
+}

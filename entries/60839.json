@@ -1,0 +1,348 @@
+{
+  "kitsuId": "60839",
+  "title": "Namjuui Ibyangttari Doeeotseumnida",
+  "updatedAt": "2026-07-10T23:50:08.752Z",
+  "matchVersion": 2,
+  "mangabakaId": 6759,
+  "mangabakaUrl": "https://mangabaka.org/6759",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzcvMC8xL2UvNi9jL2UvMTQ4Ny80MzFlLzhlNDAvYzJjZWIxY2JkYjNl",
+  "author": "Latine, Ttona",
+  "synopsis": "The handsome Duke Voreoti is the most terrifying man in the empire, with the coldest of demeanors and a gaze that can kill. But one day, he suddenly says that he wants to… adopt a child?! And that child is me?! After finding me at a shady orphanage, he whisked me away to his snowy palace without a second thought. Now I’m learning all the ways of the feared Voreoti family from his knights. However, things get dicey when the Duke becomes suspicious of my origins. With these fangs and jet black hair, perhaps we are more than just kindred spirits…\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "rating": 8.2,
+  "total": 170,
+  "type": "manhwa",
+  "genres": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "romance",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Perverted Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscles",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adopted Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Memories of Past Life",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Dukes",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Knight",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Servant",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Father and Daughter",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Father-Daughter Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Stepfather-Stepdaughter Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Uncle-Niece Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekaied Into a Novel",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnated in a Book World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transmigrated into a Book World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Adopted Children",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Single Parent",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Torture",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "138363",
+    "anime_planet": "the-male-leads-little-lion-daughter",
+    "kitsu": "60839",
+    "manga_updates": "7j43f8y",
+    "my_anime_list": "148238",
+    "shikimori": "148238"
+  },
+  "links": [
+    "https://page.kakao.com/content/57616627",
+    "https://piccoma.com/web/product/92682",
+    "https://tapas.io/series/the-male-leads-little-lion-daughter/info",
+    "https://www.kuaikanmanhua.com/web/topic/10167/",
+    "https://www.lezhinfr.com/detail/daf_4100104",
+    "https://namu.wiki/w/%EB%82%A8%EC%A3%BC%EC%9D%98%20%EC%9E%85%EC%96%91%EB%94%B8%EC%9D%B4%20%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4#s-7.1",
+    "https://page.kakao.com/home?seriesId=57616627",
+    "https://mangabaka.org/6759"
+  ]
+}

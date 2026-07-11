@@ -1,0 +1,332 @@
+{
+  "kitsuId": "64555",
+  "title": "Iljindamdangiljin",
+  "updatedAt": "2026-07-10T23:58:36.967Z",
+  "matchVersion": 2,
+  "mangabakaId": 935,
+  "mangabakaUrl": "https://mangabaka.org/935",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yL2QvMC83LzMvZC8wLzcvOWNjMi80N2JkLzk3MmQvMDEzYjRjZDEzZjVh",
+  "author": "GRIMZO",
+  "synopsis": "After dropping out of high school, Daegun Kwon is working part-time at a convenience store while preparing to get his GED. After being harassed by a group of punks during work and teaching them a lesson, Daegun is approached by a woman from the Education Foundation about a project called “Designated Bully”. After being offered another chance at a normal life, Daegun accepts the offer and attends school to perform his one duty as the designated bully: To take down the other bullies, and restore order to the school. \n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "rating": 7.3,
+  "total": 191,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "school_life",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Fights",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Tall Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Blushing Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Bullied Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Bully",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Bold Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Delinquent Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead Falls in Love at First Sight",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Badass Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cold Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Cool Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Poor Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Popular male lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong-Willed Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Violent Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Appearance Different from Actual Age",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Subtle Romance",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Delinquents",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gangs",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Secret Organizations",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "153207",
+    "anime_planet": "designated-bully",
+    "kitsu": "64555",
+    "manga_updates": "ehtc0hn",
+    "my_anime_list": "150998",
+    "shikimori": "150998"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=797153",
+    "https://series.naver.com/comic/detail.series?productNo=8593848",
+    "https://www.dongmanmanhua.cn/CAMPUS/xiaobafuzeren/list?title_no=2211",
+    "https://www.webtoons.com/en/action/designated-bully/list?title_no=4866",
+    "https://www.webtoons.com/id/action/designated-bully/list?title_no=4710",
+    "https://www.webtoons.com/th/action/designated-bully/list?title_no=4802",
+    "https://namu.wiki/w/%EC%9D%BC%EC%A7%84%EB%8B%B4%EB%8B%B9%EC%9D%BC%EC%A7%84",
+    "https://mangabaka.org/935"
+  ]
+}

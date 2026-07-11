@@ -1,0 +1,495 @@
+{
+  "kitsuId": "54238",
+  "title": "Kage no Jitsuryokusha ni Naritakute",
+  "updatedAt": "2026-07-10T23:56:26.816Z",
+  "matchVersion": 2,
+  "mangabakaId": 3205,
+  "mangabakaUrl": "https://mangabaka.org/3205",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzgvMC9kLzcvYi8zLzYvNGUyNC80ZTljL2JiYTcvZDdhMWI4NWZhYmFm",
+  "author": "Anri Sakano, Daisuke Aizawa",
+  "synopsis": "One big fat lie and a few twisted truths. \n\nEven in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him! \n\n(Source: Yen Press)",
+  "status": "Releasing",
+  "rating": 8.2,
+  "total": 81,
+  "type": "manga",
+  "genres": [
+    "action",
+    "comedy",
+    "fantasy",
+    "adventure",
+    "drama",
+    "ecchi",
+    "harem",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Chuunibyou",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Masked Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Badass Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cool Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Deceptively Weak-Looking Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Deceptive Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dense Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Eccentric Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Hidden past",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Hidden Powers",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Brother Complex",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Siblings",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Zombies",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Vampires",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Parody",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Satire",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Conspiracy",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Secret Organizations",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, June 7-13",
+      "date": "2026-06-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-12/north-american-anime-manga-releases-june-7-13/.238295"
+    },
+    {
+      "title": "BookWalker Global Store Unveils 2025 Rankings",
+      "date": "2025-12-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-12-18/bookwalker-global-store-unveils-2025-rankings/.232203"
+    },
+    {
+      "title": "Yen Press Releases Light Novels on Tapas",
+      "date": "2025-10-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-10-10/yen-press-releases-light-novels-on-tapas/.229836"
+    },
+    {
+      "title": "Yen On and Tapas Partner to Launch Release of Current Yen Press Properties",
+      "date": "2025-10-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2025-10-10/yen-on-and-tapas-partner-to-launch-release-of-current-yen-press-properties/.229841"
+    },
+    {
+      "title": "Yen Audio Announces the Audiobook Adaptation of Popular Yen Press Property",
+      "date": "2024-12-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2024-12-17/yen-audio-announces-the-audiobook-adaptation-of-popular-yen-press-property/.219171"
+    },
+    {
+      "title": "Bookwalker Global Store Unveils 2024 Rankings",
+      "date": "2024-12-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-16/bookwalker-global-store-unveils-2024-rankings/.219152"
+    },
+    {
+      "title": "Kono Light Novel ga Sugoi! Book Reveals 2025 Series Rankings",
+      "date": "2024-11-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-11-26/kono-light-novel-ga-sugoi-book-reveals-2025-series-rankings/.218304"
+    },
+    {
+      "title": "The Eminence in Shadow Series Gets Anime Film",
+      "date": "2023-12-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-20/the-eminence-in-shadow-series-gets-anime-film/.205737"
+    },
+    {
+      "title": "Bookwalker Global Store Unveils 2023 Rankings",
+      "date": "2023-12-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-12/bookwalker-global-store-unveils-2023-rankings/.205373"
+    },
+    {
+      "title": "Kono Light Novel ga Sugoi! Reveals 2024 Series Ranking",
+      "date": "2023-11-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-24/kono-light-novel-ga-sugoi-reveals-2024-series-ranking/.204796"
+    },
+    {
+      "title": "The Eminence in Shadow Novels Get New Manga Based on Mobile Game Story (Updated)",
+      "date": "2023-11-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-01/the-eminence-in-shadow-novels-get-new-manga-based-on-mobile-game-story/.203997"
+    },
+    {
+      "title": "Eminence in Shadow Series Gets iOS, Android, PC Game",
+      "date": "2022-09-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-09-27/eminence-in-shadow-series-gets-ios-android-pc-game/.190264"
+    },
+    {
+      "title": "Eminence in Shadow Anime's English-Subtitled Video Highlights Operatives Beta, Gamma",
+      "date": "2022-06-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-29/eminence-in-shadow-anime-english-subtitled-video-highlights-operatives-beta-gamma/.187204"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 5-11",
+      "date": "2022-06-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-08/north-american-anime-manga-releases-june-5-11/.186430"
+    },
+    {
+      "title": "The Eminence in Shadow Anime Announces Seven Shades' Cast",
+      "date": "2022-02-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-17/the-eminence-in-shadow-anime-announces-seven-shades-cast/.182724"
+    },
+    {
+      "title": "4th Kingdom Anime Series Unveils Theme Song Artists, Main Visual",
+      "date": "2022-02-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-17/4th-kingdom-anime-series-unveils-theme-song-artists-main-visual/.182723"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 25-May 1",
+      "date": "2021-04-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-04-27/north-american-anime-manga-releases-april-25-may-1/.172186"
+    },
+    {
+      "title": "The Eminence in Shadow Isekai TV Anime Confirmed",
+      "date": "2021-02-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-25/the-eminence-in-shadow-isekai-tv-anime-confirmed/.169960"
+    },
+    {
+      "title": "The Eminence in Shadow Isekai Light Novels Listed With Anime",
+      "date": "2021-02-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-24/the-eminence-in-shadow-isekai-light-novels-listed-with-anime/.169890"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 8-14",
+      "date": "2020-11-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-10/north-american-anime-manga-releases-november-8-14/.166213"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 18-24",
+      "date": "2020-10-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-22/north-american-anime-manga-releases-october-18-24/.165408"
+    },
+    {
+      "title": "The Eminence in Shadow Novel 1",
+      "date": "2020-09-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/the-eminence-in-shadow/novel-1/.163494"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 2-15",
+      "date": "2020-08-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-08-13/north-american-anime-manga-releases-august-2-15/.162826"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 19-25",
+      "date": "2020-07-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-07-23/north-american-anime-manga-releases-july-19-25/.162122"
+    },
+    {
+      "title": "Kono Light Novel ga Sugoi! Reveals 2020 Series Ranking",
+      "date": "2019-11-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-11-25/kono-light-novel-ga-sugoi-reveals-2020-series-ranking/.153638"
+    },
+    {
+      "title": "BookWalker Announces Next Big Light Novels Poll Results For 2019",
+      "date": "2019-08-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2019-08-27/bookwalker-announces-next-big-light-novels-poll-results-for-2019/.150367"
+    },
+    {
+      "title": "The Eminence in Shadow Novels Inspire 'Shadow Gaiden' Manga Spinoff",
+      "date": "2019-06-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-06-26/the-eminence-in-shadow-novels-inspire-shadow-gaiden-manga-spinoff/.148285"
+    },
+    {
+      "title": "Yen Press Licenses 4 Manga, 2 Novels for November Release",
+      "date": "2019-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-05-03/yen-press-licenses-4-manga-2-novels-for-november-release/.146387"
+    },
+    {
+      "title": "Yen Press Announces New Licenses for Fall 2019",
+      "date": "2019-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2019-05-03/yen-press-announces-new-licenses-for-fall-2019/.146389"
+    }
+  ],
+  "sources": {
+    "anilist": "106758",
+    "anime_planet": "the-eminence-in-shadow",
+    "anime_news_network": "22171",
+    "kitsu": "54238",
+    "manga_updates": "ug5qy4o",
+    "my_anime_list": "119022",
+    "shikimori": "119022"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_KS04200967010000_68/",
+    "https://manga.bilibili.com/detail/mc28084",
+    "https://page.kakao.com/content/56810312",
+    "https://www.kadokawa.com.tw/collections/我想成為影之強者-全系列/products/9789577436733",
+    "https://yenpress.com/9781975325183/the-eminence-in-shadow-vol-1-manga/",
+    "https://en.wikipedia.org/wiki/The_Eminence_in_Shadow",
+    "https://ja.wikipedia.org/wiki/%E9%99%B0%E3%81%AE%E5%AE%9F%E5%8A%9B%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6!",
+    "https://web-ace.jp/compace/contents/366/",
+    "https://mangabaka.org/3205"
+  ]
+}

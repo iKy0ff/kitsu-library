@@ -1,0 +1,456 @@
+{
+  "kitsuId": "26193",
+  "title": "The Gamer",
+  "updatedAt": "2026-07-11T00:12:49.503Z",
+  "matchVersion": 2,
+  "mangabakaId": 5087,
+  "mangabakaUrl": "https://mangabaka.org/5087",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yL2EvYi9lL2YvYy9jLzYvOThlYS80NWZkLzgzOGIvZjQzMjhjNjRjNDI0",
+  "author": "San-Young Sang",
+  "synopsis": "Ji-Han Han is your typical high school student -- minus the fact the he’s acquired the special ability to view the world around him as a video-game. Not long after this discovery, he stumbles upon a hidden world filled with others just like him. Now, amidst juggling homework and completing quests, Ji-Han must learn how to navigate his newfound power in order to level up in life.\n\n(Source: WEBTOONS)",
+  "status": "Completed",
+  "rating": 7.3,
+  "total": 511,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "romance",
+    "school_life",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Magical Battles",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Young Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Fighters",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Genius",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Prodigy",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Hard-Working Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Perceptive Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Henshin",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedic Violence",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Curses",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Subtle Romance",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Hidden Powers",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Transfer Students",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fighters",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "School Boy",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "School Girl",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Teachers",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Older Female Younger Male",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Best Friends",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Childhood Friends",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Cousins",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Contemporary Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Zombies",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Spirits",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem Subtext",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Secret Organizations",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Godly Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    },
+    {
+      "name": "Elemental Manipulation",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "85155",
+    "anime_planet": "the-gamer",
+    "kitsu": "26193",
+    "manga_updates": "9qp5pzn",
+    "my_anime_list": "146787",
+    "shikimori": "146787"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list.nhn?titleId=552960",
+    "https://series.naver.com/comic/detail.series?productNo=2353659&isWebtoonAgreePopUp=true",
+    "https://www.webtoons.com/fr/fantasy/the-gamer/list?title_no=1883",
+    "https://www.webtoons.com/en/fantasy/the-gamer/list?title_no=88",
+    "https://comic.naver.com/webtoon/list?titleId=552960",
+    "https://ko.wikipedia.org/wiki/%EB%8D%94_%EA%B2%8C%EC%9D%B4%EB%A8%B8",
+    "https://namu.wiki/w/%EB%8D%94%20%EA%B2%8C%EC%9D%B4%EB%A8%B8",
+    "https://mangabaka.org/5087"
+  ]
+}

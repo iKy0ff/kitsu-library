@@ -1,0 +1,471 @@
+{
+  "kitsuId": "55057",
+  "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama",
+  "updatedAt": "2026-07-10T23:55:28.290Z",
+  "matchVersion": 2,
+  "mangabakaId": 8617,
+  "mangabakaUrl": "https://mangabaka.org/8617",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzkvNS9lLzkvOS85LzYvYjdiZC80ZDk4L2FjOTcvODU2NGFlNDg0YWYw",
+  "author": "Fuurou, Yumbo",
+  "synopsis": "After decades of war, Dias returns home as a hero and is rewarded with his own domain. When he arrives at his new lands, however, they turn out to be little more than endless grassy plains without even a single subject. Literally put out to pasture, Dias is stumped as to how to live any life other than a soldier's. But when a horned girl named Alna crosses his path, Dias takes his first steps to being the lord of a not-so-empty frontier. \n\n(Source: J-Novel Club)",
+  "status": "Releasing",
+  "rating": 7.3,
+  "total": 71,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "romance",
+    "slice_of_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Agriculture",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Tsundere",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Scars",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Dark/Tan Skin",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dark/Tan Skin Female Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Aggressive Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Capable Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dark/Tan Skin Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Blunt Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dense Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dumb Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Famous Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Older Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Rapist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kingdom Management",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Abuse of Power",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Chef",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Age Gap",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Older Male Younger Female",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Twins",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Love-Hate Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Married Couple",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adopted Children",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adoption",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Marriage",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Marriage Proposal",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Transgender",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "J-Novel Club Reveals 7 Light Novel, 2 Manga Licenses, 13 Print Releases",
+      "date": "2026-07-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/j-novel-club-reveals-7-light-novel-2-manga-licenses-13-print-releases/.239251"
+    },
+    {
+      "title": "Read It First: Manga, Light Novel Sources for Summer 2026 Anime",
+      "date": "2026-06-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2026/summer/.237534"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 31-September 6",
+      "date": "2025-09-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-09-04/north-american-anime-manga-releases-august-31-september-6/.228364"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 8-14",
+      "date": "2025-06-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-12/north-american-anime-manga-releases-june-8-14/.225421"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 16-22",
+      "date": "2025-03-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-03-20/north-american-anime-manga-releases-march-16-22/.222536"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 19-25",
+      "date": "2025-01-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-01-23/north-american-anime-manga-releases-january-19-25/.220262"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 27-November 2",
+      "date": "2024-10-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-30/north-american-anime-manga-releases-october-27-november-2/.217303"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 18-24",
+      "date": "2024-08-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-22/north-american-anime-manga-releases-august-18-24/.214559"
+    },
+    {
+      "title": "Azuki Announces New Partnership With J-Novel Club, Adds 21 J-Novel Club Titles",
+      "date": "2024-07-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-07-06/azuki-announces-new-partnership-with-j-novel-club-adds-21-j-novel-club-titles/.212902"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 26-June 1",
+      "date": "2024-05-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-05-29/north-american-anime-manga-releases-may-26-june-1/.211293"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 18-24",
+      "date": "2024-02-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-02-23/north-american-anime-manga-releases-february-18-24/.207843"
+    },
+    {
+      "title": "The Fall 2023 Manga Guide - The Frontier Lord Begins With Zero Subjects",
+      "date": "2023-09-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2023-09-21/the-fall-2023-manga-guide/the-frontier-lord-begins-with-zero-subjects/.202000"
+    },
+    {
+      "title": "The Fall 2023 Manga Guide - The Frontier Lord Begins With Zero Subjects",
+      "date": "2023-09-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2023/fall/the-frontier-lord-begins-with-zero-subjects/.202000"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 10-16",
+      "date": "2023-09-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-15/north-american-anime-manga-releases-september-10-16/.202285"
+    },
+    {
+      "title": "J-Novel Club Adds 7 Light Novels, 7 Manga, Ascendance of a Bookworm Audiobooks",
+      "date": "2023-07-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-07-01/j-novel-club-adds-7-light-novels-7-manga-ascendance-of-a-bookworm-audiobooks/.199702"
+    }
+  ],
+  "sources": {
+    "anilist": "106770",
+    "anime_planet": "the-frontier-lord-begins-with-zero-subjects-tales-of-blue-dias-and-the-beastkin-alna",
+    "anime_news_network": "28876",
+    "kitsu": "55057",
+    "manga_updates": "81vza4u",
+    "my_anime_list": "121461",
+    "shikimori": "121461"
+  },
+  "links": [
+    "https://comic-earthstar.jp/detail/zeronin/",
+    "https://comic.pixiv.net/works/5509",
+    "https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects-tales-of-blue-dias-and-the-beastkin-alna",
+    "https://www.omoi.com/series/the-frontier-lord-begins-with-zero-subjects-tales-of-blue-dias-and-the-onikin-alna",
+    "https://www.comic-earthstar.jp/detail/zeronin/",
+    "https://mangabaka.org/8617"
+  ]
+}

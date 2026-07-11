@@ -1,0 +1,261 @@
+{
+  "kitsuId": "61562",
+  "title": "Reality Quest",
+  "updatedAt": "2026-07-10T23:57:41.361Z",
+  "matchVersion": 2,
+  "mangabakaId": 1524,
+  "mangabakaUrl": "https://mangabaka.org/1524",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81L2YvNi85L2IvOS85LzIvNDgxNi80ZDg5LzgxZTcvOTg0MzNmNDUzZmM2",
+  "author": "Ju-Un Lee",
+  "synopsis": "Dowan Ha is a bullied gamer, whose bullies force him to grind to obtain in-game items for them. After one such bully demands that Dowan obtain an impossibly rare item for him or be beaten in front of the prettiest girl in school, Dowan games day and night for a week until he drops dead from exhaustion. However, as soon as he dies, he respawns back in his classroom one week before his death. Everything is the same as it was before, except now he has all the skills he’s acquired from the games he’s played in real life! Will Dowan be able to use his newfound abilities and gamified existence to defeat his bullies? \n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "rating": 7.4,
+  "total": 211,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "supernatural",
+    "comedy",
+    "drama",
+    "fantasy",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Unarmed Combat",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Bully",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "High School Student Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strategic Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Subtle Romance",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Delinquents",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Attempted Rape",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gangs",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "141705",
+    "anime_planet": "reality-quest",
+    "kitsu": "61562",
+    "manga_updates": "oug0awj",
+    "my_anime_list": "151157",
+    "shikimori": "151157"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=783888",
+    "https://series.naver.com/comic/detail.series?productNo=6708595",
+    "https://www.dongmanmanhua.cn/BOY/xianshichuangguan/list?title_no=2048",
+    "https://www.webtoons.com/en/action/reality-quest/list?title_no=4697",
+    "https://www.webtoons.com/fr/fantasy/reality-quest/list?title_no=4228",
+    "https://www.webtoons.com/th/fantasy/reality-quest/list?title_no=4271",
+    "https://www.webtoons.com/zh-hant/fantasy/reality-quest/list?title_no=4149",
+    "https://namu.wiki/w/%ED%98%84%EC%8B%A4%ED%80%98%EC%8A%A4%ED%8A%B8",
+    "https://mangabaka.org/1524"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "kitsuId": "77467",
+  "title": "The Monster Dame Requests Maternity Leave",
+  "updatedAt": "2026-07-11T00:05:35.074Z",
+  "matchVersion": 2,
+  "mangabakaId": 117000,
+  "mangabakaUrl": "https://mangabaka.org/117000",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzEvMi9lL2QvMy81L2YvZTk0ZS80MjQ0LzkyZWUvZDVhNGFiOGE0MTI0",
+  "author": "Cosmology, Seong-Yeong Oh",
+  "synopsis": "Lucia is the captain of the imperial knights and a swordmaster famous for her extraordinary achievements. However, she regrets something on her deathbed: unknowingly aiding a nefarious group in their plot to sacrifice the saintess for profit. So when she wakes up in the past as her 25-year-old self, Lucia is determined to rescue the child saintess and keep her safe until she’s old enough to protect herself. But the formidable knight is completely clueless when it comes to raising a child... Will six months of maternity leave be enough time for her to figure things out? The following series contains depictions of child abuse that may be upsetting to some readers. Viewer discretion is advised.\n\n(Source: WEBTOONS)",
+  "status": "Releasing",
+  "rating": 6.9,
+  "total": 60,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "drama",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Childcare",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Carefree Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dense Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead with Children",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Knight Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Regressed Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Knight",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Saint/Saintess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adopted Children",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Parenthood",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Trauma",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "189263",
+    "anime_planet": "the-monster-dame-requests-maternity-leave",
+    "manga_updates": "ws31fir",
+    "my_anime_list": "180913",
+    "shikimori": "180913"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=837610",
+    "https://series.naver.com/comic/detail.series?productNo=12334155",
+    "https://www.tappytoon.com/en/book/the-monster-dame-requests-maternity-leave",
+    "https://www.webtoons.com/en/romance/the-monster-dame-requests-maternity-leave/list?title_no=8190",
+    "https://mangabaka.org/117000"
+  ]
+}

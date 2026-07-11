@@ -1,0 +1,225 @@
+{
+  "kitsuId": "70433",
+  "title": "Quan Qiu Bing Feng: Wo Dazaole Mori Anquan Wu",
+  "updatedAt": "2026-07-11T00:07:03.533Z",
+  "matchVersion": 2,
+  "mangabakaId": 8473,
+  "mangabakaUrl": "https://mangabaka.org/8473",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4MDU0MS02QW1EcmdHajNCaGsuanBn",
+  "author": "Fanqie Manhua, Ji Yi De Hai",
+  "synopsis": "The world is plunged into an ice age, and 95% of humanity have been wiped out! Despite his kindness, Zhang Yi was betrayed and killed by the very people he helped. \n\nBut Zhang Yi is reborn with an awesome power – space manipulation! Given a second chance, he starts hoarding supplies like mad to prepare for the icy apocalypse. This time, he'll be ready to rule the frozen wasteland! He vows to bring vengeance on those who betrayed him in the past life! \n\n(Source: Fanqie Manhua, translated)",
+  "status": "Hiatus",
+  "rating": 6.6,
+  "total": 633,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "drama",
+    "sci-fi",
+    "fantasy",
+    "horror",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Mass Murder",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Hacking",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Golden/Yellow-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychopaths",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Evil Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Careful Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hackers",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Apocalypse",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Snow",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Zombies",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Disability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Human Experiment",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Suicide",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "180541",
+    "anime_planet": "global-freeze-i-created-an-apocalypse-shelter",
+    "kitsu": "70433",
+    "manga_updates": "c33h8oq"
+  },
+  "links": [
+    "https://mangabaka.org/8473"
+  ]
+}

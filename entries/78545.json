@@ -1,0 +1,45 @@
+{
+  "kitsuId": "78545",
+  "title": "PUPPET 2026",
+  "updatedAt": "2026-07-11T00:12:26.155Z",
+  "matchVersion": 2,
+  "mangabakaId": 589293,
+  "mangabakaUrl": "https://mangabaka.org/589293",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8zLzM0NTY3MmwuanBn",
+  "author": "",
+  "synopsis": "In a world where the dead can be revived as clones, a boy struggles to become the person he was meant to replace.",
+  "status": "Completed",
+  "rating": null,
+  "total": 1,
+  "type": "other",
+  "genres": [
+    "drama",
+    "sci-fi"
+  ],
+  "tags": [
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "kitsu": "78545",
+    "my_anime_list": "193717"
+  },
+  "links": [
+    "https://www.sunday-webry.com/episode/12207421983552140694",
+    "https://mangabaka.org/589293"
+  ]
+}

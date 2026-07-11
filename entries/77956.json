@@ -1,0 +1,103 @@
+{
+  "kitsuId": "77956",
+  "title": "Densetsu no Ansatsusha, Tensei Shitara Ouke no Aisare Suemusume ni Natte Shimaimashite",
+  "updatedAt": "2026-07-11T00:05:03.536Z",
+  "matchVersion": 2,
+  "mangabakaId": 3944,
+  "mangabakaUrl": "https://mangabaka.org/3944",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIwMTkxNS02NzgxWEVBbUU0eUEuanBn",
+  "author": "Shiroi Gohan",
+  "synopsis": "“Babuba, Babubabubabubabu!?” (Am I going to be a baby!?) \n\nTot, a legendary assassin in the underworld, was sold by her parents at a young age and was raised strictly as a killer, so she never knew the love of a family she lacked. Suddenly, she saves a cat and dies, but after his death, she’s destined for hell for taking countless lives. However, because of one good deed —saving a cat— she's allowed to be reincarnated and is born again as a royal princess, Patricia. \n\nThen, God commands her to save the royal family—her family. She was supposed to be reborn as a helpless baby, but her assassin skills haven’t faded, and she continues to battle killers one by one. Gradually, feelings of wanting to protect the royal family members who love each other unconditionally just because they are family...?\n\n(Source: Jump TOON, translated)",
+  "status": "Releasing",
+  "rating": 6.6,
+  "total": 94,
+  "type": "manga",
+  "genres": [
+    "fantasy",
+    "romance"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Princess Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Abused Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "201915",
+    "anime_planet": "densetsu-no-ansatsusha-tenseishitara-ouke-no-aisare-suemusume-ni-natteshimaimashite",
+    "manga_updates": "eem1y5j",
+    "my_anime_list": "173130",
+    "shikimori": "173130"
+  },
+  "links": [
+    "https://jumptoon.com/series/JT00055",
+    "https://mangabaka.org/3944"
+  ]
+}

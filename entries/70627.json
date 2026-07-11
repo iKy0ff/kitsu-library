@@ -1,0 +1,135 @@
+{
+  "kitsuId": "70627",
+  "title": "Sanyanggaeui Hoegwibonneung",
+  "updatedAt": "2026-07-10T23:49:11.911Z",
+  "matchVersion": 2,
+  "mangabakaId": 82192,
+  "mangabakaUrl": "https://mangabaka.org/82192",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85LzkvMS8zL2YvNy82L2QvODQzOS80YzI4L2FmZTIvNjM1ZGY2MTI4YTZj",
+  "author": "Acro, Studio W",
+  "synopsis": "After being brainwashed by the emperor, Yahn has served him as his loyal puppet. Upon finding out that he has been played by the emperor, Yahn vows vengeance, but he falls to the mighty emperor’s powers. However, instead of dying, Yahn opens his eyes to find that he has gone back in time, to when he used to be a soldier in training. Will he now seek vengeance on the emperor, or will he go look for his family? The choice is now in his hands. \n\n(Source: WEBTOON)",
+  "status": "Completed",
+  "rating": 6.9,
+  "total": 100,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Chibi",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Regressed Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Manipulative Antagonists",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "171710",
+    "anime_planet": "return-of-the-hound",
+    "kitsu": "70627",
+    "manga_updates": "fmw5bja",
+    "my_anime_list": "167553",
+    "shikimori": "167553"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=818850",
+    "https://manga.bilibili.com/detail/mc38836",
+    "https://series.naver.com/comic/detail.series?productNo=10412331",
+    "https://www.webtoons.com/en/fantasy/return-of-the-hound/list?title_no=6543",
+    "https://namu.wiki/w/%EC%82%AC%EB%83%A5%EA%B0%9C%EC%9D%98%20%ED%9A%8C%EA%B7%80%EB%B3%B8%EB%8A%A5(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/82192"
+  ]
+}

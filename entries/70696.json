@@ -1,0 +1,185 @@
+{
+  "kitsuId": "70696",
+  "title": "Boss Mopdapge Haengdonghaseyo, Swallow Ssi!",
+  "updatedAt": "2026-07-11T00:04:04.964Z",
+  "matchVersion": 2,
+  "mangabakaId": 4471,
+  "mangabakaUrl": "https://mangabaka.org/4471",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kL2UvZC9hLzMvNC81L2QvNmQ2Yi80ODBiLzk5NjkvMzc5YjZmN2Q5ZTdk",
+  "author": "Relteuri, Wookjakga",
+  "synopsis": "The Primordial Core’s an unconquerable dungeon, the lair of the most powerful monster ever to exist, the Original Monster, the incarnation of evil—Swallow... who happens to be a lazy boss monster who just wants to sleep. Taking care of this lazy bum is Renee, a homunculus maid whose obsession with Swallow knows no bounds. At this point, the only one keeping the dungeon running is Patrick, the last brain cell of the bunch—and he’s a skeleton! Will Mr. Swallow get any rest amid all this chaos? \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "rating": 7.2,
+  "total": 133,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "comedy",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Cannibalism",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Maid Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Eccentric Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Lazy Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Company",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Kingdom",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Coworkers",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "172623",
+    "anime_planet": "act-like-a-boss-monster-mr-swallow",
+    "kitsu": "70696",
+    "manga_updates": "tdr2mww",
+    "my_anime_list": "167735",
+    "shikimori": "167735"
+  },
+  "links": [
+    "https://page.kakao.com/content/63218605?tab_type=overview",
+    "https://tapas.io/series/act-like-a-boss-monster-mr-swallow/info",
+    "https://namu.wiki/w/%EB%B3%B4%EC%8A%A4%20%EB%AA%B9%EB%8B%B5%EA%B2%8C%20%ED%96%89%EB%8F%99%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EC%8A%A4%EC%99%88%EB%A1%9C%EC%9A%B0%20%EC%94%A8!#s-8.2",
+    "https://page.kakao.com/content/63218605",
+    "https://mangabaka.org/4471"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "kitsuId": "77616",
+  "title": "Imouto no Haishin ni Hairikondara VTuber Atsukai Sareta Ken",
+  "updatedAt": "2026-07-10T23:54:05.586Z",
+  "matchVersion": 2,
+  "mangabakaId": 576078,
+  "mangabakaUrl": "https://mangabaka.org/576078",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 71
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwNjc1Mi1oaGZYRHVMU2dhbkUuanBn",
+  "author": "Ao Umito, Kaiji Eba",
+  "synopsis": "A comedy about the hectic lives of very unique Vtubers!\n\nThat day, Harukaze Sakura, the Vtuber with the setting of a heiress from a prestigious family, had an accident on stream.\n\nShe fell asleep while streaming, and the voices from a family member were picked up on stream, a very common livestream accident.\n\nHowever, that Vtuber is my little sister, and that family member is me, also thanks to that stream I've been dragged into the stream as Harukaze Sakura's \"Big Bro\"\n\nA screaming otaku girl, An alcoholic saintess snow woman, a gamer demon king --This is the lively daily life of these crazy people and us, siblings.",
+  "status": "Releasing",
+  "rating": 6.3,
+  "total": 5,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "slice_of_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Livestreaming",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Otaku",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Younger Sister",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "VTuber",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Siblings",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Brother and Sister",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "206752",
+    "anime_planet": "imouto-no-haishin-ni-hairikondara-vtuber-atsukai-sareta-ken",
+    "manga_updates": "46uvr83",
+    "my_anime_list": "190378"
+  },
+  "links": [
+    "https://www.123hon.com/nova/web-comic/imouto_v/",
+    "https://mangabaka.org/576078"
+  ]
+}

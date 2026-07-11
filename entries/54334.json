@@ -1,0 +1,285 @@
+{
+  "kitsuId": "54334",
+  "title": "The Ghostly Doctor",
+  "updatedAt": "2026-07-10T23:52:27.811Z",
+  "matchVersion": 2,
+  "mangabakaId": 9051,
+  "mangabakaUrl": "https://mangabaka.org/9051",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEwMzU4Mi1yUm1jUU16U1Npd24ucG5n",
+  "author": "Jiong Feng",
+  "synopsis": "She, the leader of the hidden sect, specializes in poison and assassination. A genius, and a weirdo, in the eyes of others. After dying from an accident, she was reborn in the body of a disfigured lady. Having her identity changed and unable to return to her family, she abandoned them, but, if she doesn't take revenge on those who caused her harm, will she be worthy of the title \"The Ghostly Doctor\"? As clouds gather, heroes fight to be the strongest! How will she conquer the world in a red robe, and fight among the strong heroes?! \n\n(Source: ReadManhua)",
+  "status": "Releasing",
+  "rating": 7.5,
+  "total": 661,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "romance",
+    "drama",
+    "historical",
+    "martial_arts",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Crossdressing",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Long-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "White/Silver-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Scars",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Capable Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Cunning Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Ruthless Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Bisexual",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "China",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hospital",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Alchemists",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Doctors",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Alchemy",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Chinese Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Chinese Mythology",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Medical",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Ancient China",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "103582",
+    "anime_planet": "mesmerizing-ghost-doctor",
+    "kitsu": "54334",
+    "manga_updates": "6i3j2yw"
+  },
+  "links": [
+    "https://ac.qq.com/Comic/comicInfo/id/628719",
+    "https://www.webnovel.com/comic/mesmerizing-ghost-doctor_13136855306872401",
+    "https://mangabaka.org/9051"
+  ]
+}

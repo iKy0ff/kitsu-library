@@ -1,0 +1,256 @@
+{
+  "kitsuId": "55047",
+  "title": "Isekai Kaeri no Yuusha ga Gendai Saikyou! Inou Battle-kei Bishoujo o Bishibashi Choukyou Suru Koto ni!?",
+  "updatedAt": "2026-07-10T23:53:22.297Z",
+  "matchVersion": 2,
+  "mangabakaId": 5927,
+  "mangabakaUrl": "https://mangabaka.org/5927",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzgvMy9mL2UvNC81L2MvNDYyNy80ZGQ0LzljZmUvMzc5MDliZDNlNzg4",
+  "author": "Arata Shiraishi, Koban Sameda",
+  "synopsis": "Morishita Daiki became a hero after being summoned to another world. After skillfully striking down the Demon Lord, he returned to Japan. Daiki, with his strength concealed, was living a tranquil day-to-day life. However, apparitions and those with special powers run rampant in this seemingly-normal world. A supernatural school-battle epic rarely seen in the modern era unfolds in the shadows!! A story about an unbelievably strong hero returning to the modern era after his adventures in another world!\n\n*Source: Manga UP! Global*",
+  "status": "Releasing",
+  "rating": 6.4,
+  "total": 24,
+  "type": "manga",
+  "genres": [
+    "action",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "romance",
+    "supernatural",
+    "adventure",
+    "drama",
+    "harem",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Small Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rude Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sharp-Tongued Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shrine Maiden",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Contemporary Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Summoned Into Another World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Parallel World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "LGBTQ+",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Religion",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "recurrent"
+    }
+  ],
+  "news": [
+    {
+      "title": "Bookwalker Adds The Amazing Village Creator, The 6th Loop, 100+ More Titles From Square Enix",
+      "date": "2024-01-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-05/bookwalker-adds-the-amazing-village-creator-the-6th-loop-100-more-titles-from-square-enix/.205916"
+    }
+  ],
+  "sources": {
+    "anilist": "109111",
+    "anime_planet": "the-isekai-returnee-is-too-op-for-the-modern-world",
+    "anime_news_network": "27541",
+    "kitsu": "55047",
+    "manga_updates": "w8woai0",
+    "my_anime_list": "120446",
+    "shikimori": "120446"
+  },
+  "links": [
+    "https://global.manga-up.com/manga/28",
+    "https://sp.seiga.nicovideo.jp/comic/44097",
+    "https://www.ganganonline.com/contents/isekai/",
+    "https://mangabaka.org/5927"
+  ]
+}

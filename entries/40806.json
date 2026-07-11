@@ -1,0 +1,242 @@
+{
+  "kitsuId": "40806",
+  "title": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
+  "updatedAt": "2026-07-11T00:00:30.665Z",
+  "matchVersion": 2,
+  "mangabakaId": 3781,
+  "mangabakaUrl": "https://mangabaka.org/3781",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzgvMC8zLzMvNC9iLzUvOWRjNC80MmU2L2FjODUvZGIzYzY1ZjJmODE1",
+  "author": "Nekoko, RIO",
+  "synopsis": "**A fantasy isekai adventure about a man who has to restart life…as an egg?!**\n\nIn a world full of dangerous monsters, our unnamed protagonist finds himself reborn at the very bottom of the food chain as an immobile, powerless egg. Even just hatching will require leveling up by fighting monsters–the same monsters who’d love to eat him as a snack. But with the help of the mysterious voice in his head, he’s determined to grow into the most powerful creature in the world!\n\n*Source: Seven Seas Entertainment*",
+  "status": "Releasing",
+  "rating": 7.2,
+  "total": 49,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "action",
+    "comedy",
+    "drama",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragon Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Nonhuman Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Forest",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Shapeshifting",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "incidental"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, December 28-January 3",
+      "date": "2025-12-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-12-30/north-american-anime-manga-releases-december-28-january-3/.232638"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 23-March 1",
+      "date": "2025-02-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-02-25/north-american-anime-manga-releases-february-23-march-1/.221592"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 25-March 2",
+      "date": "2024-02-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-02-29/north-american-anime-manga-releases-february-25-march-2/.208070"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 24-30",
+      "date": "2023-09-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-26/north-american-anime-manga-releases-september-24-30/.202840"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 1-7",
+      "date": "2022-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-03/north-american-anime-manga-releases-may-1-7/.185294"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 13-19",
+      "date": "2022-02-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-15/north-american-anime-manga-releases-february-13-19/.182660"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 26-October 2",
+      "date": "2021-09-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-09-28/north-american-anime-manga-releases-september-26-october-2/.177933"
+    },
+    {
+      "title": "Seven Seas Licenses 7 Novels, 3 Manga",
+      "date": "2020-12-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-01/seven-seas-licenses-7-novels-3-manga/.166877"
+    }
+  ],
+  "sources": {
+    "anilist": "101468",
+    "anime_planet": "reincarnated-as-a-dragon-hatchling",
+    "anime_news_network": "25303",
+    "kitsu": "40806",
+    "manga_updates": "y87dhln",
+    "my_anime_list": "113178",
+    "shikimori": "113178"
+  },
+  "links": [
+    "https://comic-earthstar.jp/detail/doratama/",
+    "https://sevenseasentertainment.com/series/reincarnated-as-a-dragon-hatchling-manga/",
+    "https://en.wikipedia.org/wiki/Reincarnated_as_a_Dragon_Hatchling",
+    "https://mangabaka.org/3781"
+  ]
+}

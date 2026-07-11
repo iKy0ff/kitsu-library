@@ -1,0 +1,613 @@
+{
+  "kitsuId": "70681",
+  "title": "The Extra's Academy Survival Guide",
+  "updatedAt": "2026-07-11T00:01:13.355Z",
+  "matchVersion": 2,
+  "mangabakaId": 5307,
+  "mangabakaUrl": "https://mangabaka.org/5307",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2UvYi8xLzUvNi9kL2UvY2Q1ZC80MTc4L2EzZWMvM2MwMjIwYzliZTUy",
+  "author": "Green Kyrin, Korita",
+  "synopsis": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?\n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "rating": 8.2,
+  "total": 114,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "comedy",
+    "drama",
+    "harem",
+    "romance",
+    "school_life",
+    "shounen",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Dancing",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Smoking",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Camping",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Young Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blue-Eyed Character",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Blue-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blonde-Haired Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Blonde-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blonde-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Scheming Character",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Glasses-Wearing Character/s",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Bookworms",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Strong-Willed Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rich to Poor",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Determined Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Naive Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Badass Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Capable Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Careful Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Competent Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cool Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Determined Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Hard-Working Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Hated Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Independent Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Noble Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ostracized Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Poor Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Popular male lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Reliable Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Scheming Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strategic Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong-Willed Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Quirky Character",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Teenagers",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Younger Sister",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Garden",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Forest",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Library",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Church",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Magic School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Death Fate",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Death of Leading Characters",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sudden Death",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Love Rival",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Time Loop",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Magic Items",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Merchants",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Saint/Saintess",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Brother-Sister Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to a Game World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "First Kiss",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Stolen First Kiss",
+      "group": "Sexual Content",
+      "weight": "incidental"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Spirits",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Alcohol",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Harem Subtext",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Religion",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fishing",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Amateur",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "172619",
+    "anime_planet": "the-extras-academy-survival-guide",
+    "kitsu": "70681",
+    "manga_updates": "iy9ya7q",
+    "my_anime_list": "166865",
+    "shikimori": "166865"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=820097",
+    "https://series.naver.com/comic/detail.series?productNo=10577696",
+    "https://www.dongmanmanhua.cn/BOY/sanliufanpaixueyuanshegncunji/list?title_no=2751",
+    "https://www.webtoons.com/en/fantasy/the-extras-academy-survival-guide/list?title_no=6465",
+    "https://www.webtoons.com/fr/action/the-extras-academy-survival-guide/list?title_no=6388",
+    "https://www.webtoons.com/zh-hant/fantasy/academy-survival/list?title_no=6261",
+    "https://namu.wiki/w/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%97%90%EC%84%9C%20%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/5307"
+  ]
+}

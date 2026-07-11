@@ -1,0 +1,334 @@
+{
+  "kitsuId": "65029",
+  "title": "Bunsineuro Jadongsanyang",
+  "updatedAt": "2026-07-10T23:58:13.486Z",
+  "matchVersion": 2,
+  "mangabakaId": 4135,
+  "mangabakaUrl": "https://mangabaka.org/4135",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzEvMC85LzUvZi9iL2MvMjM3OS80MDU1L2FkYTIvMDYyNDkwZmQ4Nzc1",
+  "author": "Cha-ssi, Zombie",
+  "synopsis": "Sang-u, an average sophomore in college, always dreamt of having multiple versions of himself—one for study, another for play. One day, he awakens with a skill called “cloning,” and Sang-u thinks his dream has come true. But will cloning really steer his life in the direction he had hoped for, or does fate have other plans in store?\n\n(Source: WEBTOON)",
+  "status": "Completed",
+  "rating": 7.4,
+  "total": 176,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "martial_arts",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Team Battle",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Attempted Murder",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Muscles",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Friendly Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Naive Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Scarred Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Underestimated Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Transformation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedic Undertone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Loop",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Contemporary Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Attempted Rape",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Sexual Coercion",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Clone",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Death",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Injury",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Rescue",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "155950",
+    "anime_planet": "auto-hunting-with-my-clones",
+    "kitsu": "65029",
+    "manga_updates": "kd3cp61",
+    "my_anime_list": "153965",
+    "shikimori": "153965"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=799805",
+    "https://series.naver.com/comic/detail.series?productNo=8833786",
+    "https://www.webtoons.com/en/action/auto-hunting-with-my-clones/list?title_no=5034",
+    "https://www.webtoons.com/fr/action/auto-hunting-with-my-clones/list?title_no=5031",
+    "https://www.webtoons.com/zh-hant/fantasy/auto-hunting-with-my-clones/list?title_no=5140",
+    "https://namu.wiki/w/%EB%B6%84%EC%8B%A0%EC%9C%BC%EB%A1%9C%20%EC%9E%90%EB%8F%99%EC%82%AC%EB%83%A5(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/4135"
+  ]
+}

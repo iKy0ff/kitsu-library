@@ -1,0 +1,163 @@
+{
+  "kitsuId": "78146",
+  "title": "Ranker-neun Oneuldo Euntoereul Kkumkkunda",
+  "updatedAt": "2026-07-10T23:50:50.925Z",
+  "matchVersion": 2,
+  "mangabakaId": 356683,
+  "mangabakaUrl": "https://mangabaka.org/356683",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2MvYy9lL2UvZC8wLzMvZjVhMi80ZjU3LzljMTkvMzJhYzEyN2VjOTVk",
+  "author": "Eun-Seol Ji, Hyou",
+  "synopsis": "Newly-awakened hunter Habin Hyun is mankind’s only hope, but after many years of the minimum wage grind, all she wants to do is take a break. Unfortunately for her, her ridiculously broken stats catapult her into the spotlight in more ways than one. With every guild scouting her, the System’s bounty on her head, and love interests appearing from every angle, it seems Habin’s going to have to take her new friends and unlikely allies all the way to the Tower’s top, whether she likes it or not.\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "rating": 6.7,
+  "total": 49,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "action",
+    "comedy",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Poor Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Younger Sister",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Brother and Sister",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Reunion",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "197334",
+    "anime_planet": "the-ranker-who-just-wants-to-retire",
+    "manga_updates": "fw3lare",
+    "my_anime_list": "184179",
+    "shikimori": "184179"
+  },
+  "links": [
+    "https://page.kakao.com/content/66907096",
+    "https://tapas.io/series/the-ranker-dreams-of-retirement/info",
+    "https://webtoon.kakao.com/content/랭커는-오늘도-은퇴를-꿈꾼다/4539",
+    "https://mangabaka.org/356683"
+  ]
+}

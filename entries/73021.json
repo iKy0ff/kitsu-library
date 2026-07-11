@@ -1,0 +1,159 @@
+{
+  "kitsuId": "73021",
+  "title": "Hiding a Logistics Center in the Apocalypse",
+  "updatedAt": "2026-07-11T00:03:37.730Z",
+  "matchVersion": 2,
+  "mangabakaId": 166,
+  "mangabakaUrl": "https://mangabaka.org/166",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2QvZC9jL2IvYy9iLzkvNjY1Ni80OGIyLzk4YzUvY2MzYWMwZDdiMmQ1",
+  "author": "Guchae, Jae-Deok Wang",
+  "synopsis": "Imagine you are stuck inside a warehouse while the world is experiencing an apocalypse. That’s exactly what’s happening to Jeong-gyeom, except he suddenly awakens a very odd but powerful ability to store anything in a parallel dimension, giving him the tools to defeat the creatures wreaking havoc on the world. But as he ventures into the ravaged city of Seoul, he realizes there is more to this apocalypse than meets the eye as he encounters other survivors and mysterious monsters on his quest to find his family. \n\n(Source: WEBTOON)",
+  "status": "Hiatus",
+  "rating": 7.2,
+  "total": 97,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "comedy",
+    "drama",
+    "sci-fi",
+    "seinen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Apocalypse",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "183519",
+    "anime_planet": "hiding-a-warehouse-in-the-apocalypse",
+    "kitsu": "73021",
+    "manga_updates": "cmkgwks",
+    "my_anime_list": "175706",
+    "shikimori": "175706"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=829743",
+    "https://series.naver.com/comic/detail.series?productNo=11521866",
+    "https://www.webtoons.com/en/action/hiding-a-warehouse-in-the-apocalypse/list?title_no=7181",
+    "https://www.webtoons.com/th/fantasy/hiding-a-warehouse-in-the-apocalypse/list?title_no=7677",
+    "https://namu.wiki/w/%EC%95%84%ED%8F%AC%EC%B9%BC%EB%A6%BD%EC%8A%A4%EC%97%90%20%EB%AC%BC%EB%A5%98%EC%84%BC%ED%84%B0%EB%A5%BC%20%EC%88%A8%EA%B9%80(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/166"
+  ]
+}

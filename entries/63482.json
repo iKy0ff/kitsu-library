@@ -1,0 +1,186 @@
+{
+  "kitsuId": "63482",
+  "title": "Eternal Force",
+  "updatedAt": "2026-07-10T23:57:13.856Z",
+  "matchVersion": 2,
+  "mangabakaId": 8381,
+  "mangabakaUrl": "https://mangabaka.org/8381",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzIvZS9hLzUvMC9mLzUvMTFlMC80YTFjL2EzMzQvZTA0N2JiMDhmMDQ2",
+  "author": "Geuk-Jin Jeon",
+  "synopsis": "Ha-Je Kang can’t take it anymore. Pushed to the breaking point by relentless bullying, Ha-Je stands at the edge of the school roof, ready to end it all. But just as he’s about to jump, he’s given a push -- literally -- by a mysterious upperclassman named Si-Un Lee, only to wake up the next day, unscathed. Little does Ha-Je know that Si-Un happens to be one of the most powerful martial artists in the Murim, the hidden world of martial arts. Ha-Je begs Si-Un to train him, but he never could have imagined just how tumultuous things could get in the martial arts underworld…\n\n(Source: WEBTOON, edited)",
+  "status": "Hiatus",
+  "rating": 7.2,
+  "total": 100,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "martial_arts",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Tournaments",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mind Break",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Unrealistic Fighting",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Trainer-Trainee Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gangs",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Super Powers",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "incidental"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "148677",
+    "anime_planet": "the-breaker-eternal-force",
+    "kitsu": "63482",
+    "manga_updates": "mzn3htv",
+    "my_anime_list": "146867",
+    "shikimori": "146867"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=794383",
+    "https://series.naver.com/comic/detail.series?productNo=8438630",
+    "https://webtoons.com/en/action/the-breaker-eternal-force/list?title_no=4501",
+    "https://www.webtoons.com/fr/action/the-breaker-eternal-force/list?title_no=4666",
+    "https://namu.wiki/w/%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%BB%A4(%EB%A7%8C%ED%99%94)",
+    "https://mangabaka.org/8381"
+  ]
+}

@@ -1,0 +1,2321 @@
+{
+  "titles": {
+    "38": {
+      "title": "One Piece",
+      "pub": "Releasing",
+      "mbId": 377,
+      "newsCount": 1017
+    },
+    "9964": {
+      "title": "Oyasumi Punpun",
+      "pub": "Completed",
+      "mbId": 1357,
+      "newsCount": 45
+    },
+    "21620": {
+      "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+      "pub": "Completed",
+      "mbId": 1762,
+      "newsCount": 48
+    },
+    "22352": {
+      "title": "Horimiya",
+      "pub": "Completed",
+      "mbId": 6029,
+      "newsCount": 14
+    },
+    "24147": {
+      "title": "One Punch-Man",
+      "pub": "Releasing",
+      "mbId": 725,
+      "newsCount": 438
+    },
+    "25426": {
+      "title": "Re:Monster",
+      "pub": "Releasing",
+      "mbId": 1955,
+      "newsCount": 19
+    },
+    "25436": {
+      "title": "Tower of God",
+      "pub": "Hiatus",
+      "mbId": 9999,
+      "newsCount": 8
+    },
+    "25931": {
+      "title": "Shoujo Shuumatsu Ryokou",
+      "pub": "Completed",
+      "mbId": 6805,
+      "newsCount": 15
+    },
+    "26193": {
+      "title": "The Gamer",
+      "pub": "Completed",
+      "mbId": 5087,
+      "newsCount": 0
+    },
+    "26906": {
+      "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+      "pub": "Releasing",
+      "mbId": 3112,
+      "newsCount": 27
+    },
+    "26970": {
+      "title": "The New Gate",
+      "pub": "Releasing",
+      "mbId": 3957,
+      "newsCount": 2
+    },
+    "35880": {
+      "title": "The God of High School",
+      "pub": "Completed",
+      "mbId": 2343,
+      "newsCount": 0
+    },
+    "37173": {
+      "title": "Kumo desu ga, Nani ka?",
+      "pub": "Releasing",
+      "mbId": 2992,
+      "newsCount": 25
+    },
+    "37180": {
+      "title": "Peach Boy Riverside",
+      "pub": "Completed",
+      "mbId": 683,
+      "newsCount": 28
+    },
+    "37583": {
+      "title": "Koushaku Reijou no Tashinami",
+      "pub": "Hiatus",
+      "mbId": 23239,
+      "newsCount": 13
+    },
+    "38021": {
+      "title": "Maoujou de Oyasumi",
+      "pub": "Releasing",
+      "mbId": 3083,
+      "newsCount": 51
+    },
+    "38359": {
+      "title": "unOrdinary",
+      "pub": "Releasing",
+      "mbId": 8805,
+      "newsCount": 0
+    },
+    "38865": {
+      "title": "Tongari Boushi no Atelier",
+      "pub": "Releasing",
+      "mbId": 2409,
+      "newsCount": 83
+    },
+    "39044": {
+      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+      "pub": "Releasing",
+      "mbId": 2648,
+      "newsCount": 17
+    },
+    "39104": {
+      "title": "Tondemo Skill de Isekai Hourou Meshi",
+      "pub": "Releasing",
+      "mbId": 9255,
+      "newsCount": 8
+    },
+    "39113": {
+      "title": "Tensei shitara Ken deshita",
+      "pub": "Releasing",
+      "mbId": 2966,
+      "newsCount": 21
+    },
+    "39114": {
+      "title": "Kenja no Mago",
+      "pub": "Releasing",
+      "mbId": 3832,
+      "newsCount": 11
+    },
+    "39537": {
+      "title": "I Love Yoo",
+      "pub": "Releasing",
+      "mbId": 25721,
+      "newsCount": 0
+    },
+    "39695": {
+      "title": "Kenja no Deshi wo Nanoru Kenja The Comic",
+      "pub": "Releasing",
+      "mbId": 24405,
+      "newsCount": 20
+    },
+    "39879": {
+      "title": "Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou",
+      "pub": "Releasing",
+      "mbId": 385,
+      "newsCount": 0
+    },
+    "40179": {
+      "title": "Winter Moon",
+      "pub": "Completed",
+      "mbId": 1560,
+      "newsCount": 0
+    },
+    "40268": {
+      "title": "Isekai Nonbiri Nouka",
+      "pub": "Releasing",
+      "mbId": 320,
+      "newsCount": 14
+    },
+    "40394": {
+      "title": "Nozomanu Fushi no Boukensha",
+      "pub": "Releasing",
+      "mbId": 6428,
+      "newsCount": 20
+    },
+    "40521": {
+      "title": "Kuro no Shoukanshi",
+      "pub": "Releasing",
+      "mbId": 3681,
+      "newsCount": 37
+    },
+    "40794": {
+      "title": "Potion-danomi de Ikinobimasu!",
+      "pub": "Completed",
+      "mbId": 5353,
+      "newsCount": 25
+    },
+    "40806": {
+      "title": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
+      "pub": "Releasing",
+      "mbId": 3781,
+      "newsCount": 8
+    },
+    "40815": {
+      "title": "Jujutsu Kaisen",
+      "pub": "Completed",
+      "mbId": 6199,
+      "newsCount": 219
+    },
+    "40840": {
+      "title": "Kuma Kuma Kuma Bear",
+      "pub": "Releasing",
+      "mbId": 8720,
+      "newsCount": 15
+    },
+    "40881": {
+      "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+      "pub": "Releasing",
+      "mbId": 4207,
+      "newsCount": 19
+    },
+    "40912": {
+      "title": "LUMINE",
+      "pub": "Completed",
+      "mbId": 30728,
+      "newsCount": 0
+    },
+    "41291": {
+      "title": "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+      "pub": "Releasing",
+      "mbId": 4788,
+      "newsCount": 16
+    },
+    "53937": {
+      "title": "Yuusha Goikkou no Kaerimichi",
+      "pub": "Completed",
+      "mbId": 30143,
+      "newsCount": 0
+    },
+    "54040": {
+      "title": "Nihonkoku Shoukan",
+      "pub": "Releasing",
+      "mbId": 4152,
+      "newsCount": 0
+    },
+    "54060": {
+      "title": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
+      "pub": "Hiatus",
+      "mbId": 30053,
+      "newsCount": 24
+    },
+    "54062": {
+      "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "pub": "Releasing",
+      "mbId": 29748,
+      "newsCount": 11
+    },
+    "54063": {
+      "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+      "pub": "Releasing",
+      "mbId": 4623,
+      "newsCount": 6
+    },
+    "54085": {
+      "title": "Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou",
+      "pub": "Completed",
+      "mbId": 30202,
+      "newsCount": 14
+    },
+    "54114": {
+      "title": "Solo Leveling",
+      "pub": "Completed",
+      "mbId": 3397,
+      "newsCount": 45
+    },
+    "54167": {
+      "title": "Tono no Kanri o Shite Miyou",
+      "pub": "Releasing",
+      "mbId": 562,
+      "newsCount": 0
+    },
+    "54173": {
+      "title": "A Returner's Magic Should Be Special",
+      "pub": "Completed",
+      "mbId": 6364,
+      "newsCount": 10
+    },
+    "54238": {
+      "title": "Kage no Jitsuryokusha ni Naritakute",
+      "pub": "Releasing",
+      "mbId": 3205,
+      "newsCount": 29
+    },
+    "54334": {
+      "title": "The Ghostly Doctor",
+      "pub": "Releasing",
+      "mbId": 9051,
+      "newsCount": 0
+    },
+    "54353": {
+      "title": "Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru",
+      "pub": "Releasing",
+      "mbId": 534,
+      "newsCount": 0
+    },
+    "54469": {
+      "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "pub": "Releasing",
+      "mbId": 33343,
+      "newsCount": 1
+    },
+    "54543": {
+      "title": "Jitsu wa Ore, Saikyou deshita?",
+      "pub": "Releasing",
+      "mbId": 3401,
+      "newsCount": 32
+    },
+    "54562": {
+      "title": "Chronicles of Heavenly Demon",
+      "pub": "Completed",
+      "mbId": 3795,
+      "newsCount": 0
+    },
+    "54567": {
+      "title": "Sekai Saikyou no Assassin, Isekai Kizoku ni Tensei suru",
+      "pub": "Releasing",
+      "mbId": 4802,
+      "newsCount": 13
+    },
+    "54597": {
+      "title": "The Beginning After the End",
+      "pub": "Releasing",
+      "mbId": 1238,
+      "newsCount": 0
+    },
+    "54688": {
+      "title": "Eleceed",
+      "pub": "Releasing",
+      "mbId": 57,
+      "newsCount": 3
+    },
+    "54690": {
+      "title": "Ranker Who Lives A Second Time",
+      "pub": "Releasing",
+      "mbId": 1378,
+      "newsCount": 0
+    },
+    "54758": {
+      "title": "This Witch of Mine",
+      "pub": "Completed",
+      "mbId": 7410,
+      "newsCount": 0
+    },
+    "54844": {
+      "title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+      "pub": "Releasing",
+      "mbId": 735,
+      "newsCount": 13
+    },
+    "54984": {
+      "title": "Samayoeru Tensei-sha-tachi no Revival Game",
+      "pub": "Completed",
+      "mbId": 33968,
+      "newsCount": 3
+    },
+    "55033": {
+      "title": "29-sai Dokushin wa Isekai de Jiyuu ni Ikita……katta",
+      "pub": "Hiatus",
+      "mbId": 33462,
+      "newsCount": 0
+    },
+    "55047": {
+      "title": "Isekai Kaeri no Yuusha ga Gendai Saikyou! Inou Battle-kei Bishoujo o Bishibashi Choukyou Suru Koto ni!?",
+      "pub": "Releasing",
+      "mbId": 5927,
+      "newsCount": 1
+    },
+    "55057": {
+      "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama",
+      "pub": "Releasing",
+      "mbId": 8617,
+      "newsCount": 15
+    },
+    "55099": {
+      "title": "Yofukashi no Uta",
+      "pub": "Completed",
+      "mbId": 5415,
+      "newsCount": 34
+    },
+    "55259": {
+      "title": "The Boy of Death",
+      "pub": "Releasing",
+      "mbId": 1216,
+      "newsCount": 0
+    },
+    "55550": {
+      "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
+      "pub": "Releasing",
+      "mbId": 7023,
+      "newsCount": 10
+    },
+    "55900": {
+      "title": "Mo Huang Da Guanjia",
+      "pub": "Releasing",
+      "mbId": 920,
+      "newsCount": 0
+    },
+    "56036": {
+      "title": "The Demon King Who Lost His Job",
+      "pub": "Releasing",
+      "mbId": 905,
+      "newsCount": 0
+    },
+    "56077": {
+      "title": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+      "pub": "Releasing",
+      "mbId": 1958,
+      "newsCount": 16
+    },
+    "56108": {
+      "title": "Auto Hunting",
+      "pub": "Completed",
+      "mbId": 37783,
+      "newsCount": 0
+    },
+    "56186": {
+      "title": "Akuyaku Reijou Level 99 ~Watashi wa UraBoss desuga Maou dewa Arimasen~",
+      "pub": "Releasing",
+      "mbId": 5574,
+      "newsCount": 4
+    },
+    "56199": {
+      "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+      "pub": "Releasing",
+      "mbId": 9692,
+      "newsCount": 1
+    },
+    "56244": {
+      "title": "God Of Blackfield",
+      "pub": "Releasing",
+      "mbId": 1417,
+      "newsCount": 0
+    },
+    "56270": {
+      "title": "The Great Mage Returns After 4000 Years",
+      "pub": "Releasing",
+      "mbId": 2336,
+      "newsCount": 0
+    },
+    "56313": {
+      "title": "Eiyuu no Musume toshite Umarekawatta Eiyuu wa Futatabi Eiyuu wo Mezasu",
+      "pub": "Completed",
+      "mbId": 9960,
+      "newsCount": 0
+    },
+    "56355": {
+      "title": "Sousou no Frieren",
+      "pub": "Hiatus",
+      "mbId": 1995,
+      "newsCount": 82
+    },
+    "56385": {
+      "title": "Rekishi ni Nokoru Akujo ni naru zo: Akuyaku Reijou ni naru hodo Ouji no Dekiai wa Kasoku suru you desu!",
+      "pub": "Releasing",
+      "mbId": 2175,
+      "newsCount": 7
+    },
+    "56448": {
+      "title": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+      "pub": "Releasing",
+      "mbId": 9745,
+      "newsCount": 1
+    },
+    "56452": {
+      "title": "Omniscient Reader's Point of View",
+      "pub": "Hiatus",
+      "mbId": 2060,
+      "newsCount": 3
+    },
+    "56500": {
+      "title": "Tutorial Tabui Goinmul",
+      "pub": "Completed",
+      "mbId": 8376,
+      "newsCount": 0
+    },
+    "56632": {
+      "title": "The Legend of the Northern Blade",
+      "pub": "Completed",
+      "mbId": 2960,
+      "newsCount": 0
+    },
+    "56704": {
+      "title": "Player",
+      "pub": "Completed",
+      "mbId": 442,
+      "newsCount": 0
+    },
+    "56757": {
+      "title": "The Horizon",
+      "pub": "Completed",
+      "mbId": 39468,
+      "newsCount": 0
+    },
+    "57203": {
+      "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+      "pub": "Releasing",
+      "mbId": 949,
+      "newsCount": 7
+    },
+    "57228": {
+      "title": "Viral Hit",
+      "pub": "Completed",
+      "mbId": 40040,
+      "newsCount": 4
+    },
+    "57257": {
+      "title": "Negai wo Kanaete Moraou to Akuma wo Shoukan Shita Kedo, Kawaikatta Node Kekkon Shimashita: Akuma no Niizuma",
+      "pub": "Completed",
+      "mbId": 5024,
+      "newsCount": 0
+    },
+    "57307": {
+      "title": "1 Second",
+      "pub": "Releasing",
+      "mbId": 39062,
+      "newsCount": 0
+    },
+    "57391": {
+      "title": "Watashi no Oshi wa Akuyaku Reijou.",
+      "pub": "Releasing",
+      "mbId": 2713,
+      "newsCount": 16
+    },
+    "57395": {
+      "title": "Mofumofu to Isekai Slow Life wo Mezashimasu!",
+      "pub": "Releasing",
+      "mbId": 34522,
+      "newsCount": 0
+    },
+    "57441": {
+      "title": "Quanzhi Gaoshou",
+      "pub": "Releasing",
+      "mbId": 42289,
+      "newsCount": 0
+    },
+    "57618": {
+      "title": "Nano Mashin",
+      "pub": "Releasing",
+      "mbId": 145,
+      "newsCount": 0
+    },
+    "57676": {
+      "title": "The Young Lady Is a Royal Chef",
+      "pub": "Releasing",
+      "mbId": 2622,
+      "newsCount": 0
+    },
+    "57703": {
+      "title": "Craft Game no Nouryoku de Isekai Kouryaku!!",
+      "pub": "Releasing",
+      "mbId": 5926,
+      "newsCount": 0
+    },
+    "57806": {
+      "title": "Reardale no Daichi nite",
+      "pub": "Releasing",
+      "mbId": 4652,
+      "newsCount": 14
+    },
+    "57901": {
+      "title": "Manleb Yeong-ungnim Kkeseo Gwihwan Hasinda",
+      "pub": "Releasing",
+      "mbId": 8987,
+      "newsCount": 0
+    },
+    "58010": {
+      "title": "Iphagyongbyeong",
+      "pub": "Hiatus",
+      "mbId": 836,
+      "newsCount": 0
+    },
+    "58053": {
+      "title": "Isekai Ten'ishita Node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru",
+      "pub": "Releasing",
+      "mbId": 41404,
+      "newsCount": 1
+    },
+    "58185": {
+      "title": "Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu",
+      "pub": "Releasing",
+      "mbId": 911,
+      "newsCount": 1
+    },
+    "58187": {
+      "title": "Limit Breaker",
+      "pub": "Completed",
+      "mbId": 2346,
+      "newsCount": 0
+    },
+    "58485": {
+      "title": "SSS-Class Revival Hunter",
+      "pub": "Hiatus",
+      "mbId": 1451,
+      "newsCount": 0
+    },
+    "58530": {
+      "title": "It Starts With a Kingpin Account",
+      "pub": "Releasing",
+      "mbId": 3570,
+      "newsCount": 0
+    },
+    "58543": {
+      "title": "Kajiya de Hajimeru Isekai Slow Life",
+      "pub": "Releasing",
+      "mbId": 6734,
+      "newsCount": 6
+    },
+    "58825": {
+      "title": "Neko no Inai Isekai ni Neko ga Tensei Shichatta Ohanashi",
+      "pub": "Completed",
+      "mbId": 5244,
+      "newsCount": 5
+    },
+    "58886": {
+      "title": "The Player That Can't Level Up",
+      "pub": "Releasing",
+      "mbId": 47777,
+      "newsCount": 0
+    },
+    "58920": {
+      "title": "Master Villainess the Invincible!",
+      "pub": "Completed",
+      "mbId": 988,
+      "newsCount": 0
+    },
+    "58967": {
+      "title": "Dungeons & Artifacts",
+      "pub": "Completed",
+      "mbId": 9488,
+      "newsCount": 0
+    },
+    "59169": {
+      "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+      "pub": "Releasing",
+      "mbId": 139,
+      "newsCount": 53
+    },
+    "59179": {
+      "title": "Doctor's Rebirth",
+      "pub": "Hiatus",
+      "mbId": 843,
+      "newsCount": 0
+    },
+    "59180": {
+      "title": "The Lady Wants to Rest",
+      "pub": "Hiatus",
+      "mbId": 47999,
+      "newsCount": 0
+    },
+    "59220": {
+      "title": "Jungle Juice",
+      "pub": "Releasing",
+      "mbId": 795,
+      "newsCount": 0
+    },
+    "59292": {
+      "title": "The Grand Mudang Saga",
+      "pub": "Releasing",
+      "mbId": 7973,
+      "newsCount": 0
+    },
+    "59357": {
+      "title": "Villain to Kill",
+      "pub": "Releasing",
+      "mbId": 6731,
+      "newsCount": 0
+    },
+    "59370": {
+      "title": "Jian Ge Xiaohua Zuo Laopo",
+      "pub": "Completed",
+      "mbId": 8790,
+      "newsCount": 0
+    },
+    "59455": {
+      "title": "Hwasangwihwan",
+      "pub": "Releasing",
+      "mbId": 1746,
+      "newsCount": 0
+    },
+    "59586": {
+      "title": "Tanaka-ke, Tensei suru.",
+      "pub": "Releasing",
+      "mbId": 41557,
+      "newsCount": 0
+    },
+    "59750": {
+      "title": "Reformation of the Deadbeat Noble",
+      "pub": "Releasing",
+      "mbId": 6459,
+      "newsCount": 0
+    },
+    "59773": {
+      "title": "The Warrior Returns",
+      "pub": "Hiatus",
+      "mbId": 2340,
+      "newsCount": 0
+    },
+    "59821": {
+      "title": "Seoul Station Druid",
+      "pub": "Completed",
+      "mbId": 9691,
+      "newsCount": 0
+    },
+    "59858": {
+      "title": "Itsudemo Jitaku ni Kaerareru Ore wa, Isekai de Gyoushounin wo Hajimemashita",
+      "pub": "Releasing",
+      "mbId": 2038,
+      "newsCount": 0
+    },
+    "60003": {
+      "title": "Shinjiteita Nakamatachi ni Dungeon Ouchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "pub": "Releasing",
+      "mbId": 8670,
+      "newsCount": 0
+    },
+    "60153": {
+      "title": "Hero Killer",
+      "pub": "Releasing",
+      "mbId": 1663,
+      "newsCount": 0
+    },
+    "60196": {
+      "title": "Tusinjeonsaenggi",
+      "pub": "Hiatus",
+      "mbId": 6958,
+      "newsCount": 0
+    },
+    "60262": {
+      "title": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+      "pub": "Releasing",
+      "mbId": 5387,
+      "newsCount": 4
+    },
+    "60513": {
+      "title": "The Dark Magician Transmigrates After 66666 Years",
+      "pub": "Releasing",
+      "mbId": 8238,
+      "newsCount": 0
+    },
+    "60556": {
+      "title": "Wo Neng Fu Zhi Tian Fu",
+      "pub": "Completed",
+      "mbId": 49263,
+      "newsCount": 0
+    },
+    "60579": {
+      "title": "Bildeueop",
+      "pub": "Hiatus",
+      "mbId": 42142,
+      "newsCount": 0
+    },
+    "60628": {
+      "title": "Solo Max-Level Newbie",
+      "pub": "Releasing",
+      "mbId": 1291,
+      "newsCount": 0
+    },
+    "60679": {
+      "title": "Neta Character Tensei toka Anmari da! The Comic",
+      "pub": "Releasing",
+      "mbId": 885,
+      "newsCount": 0
+    },
+    "60747": {
+      "title": "Samadhi",
+      "pub": "Completed",
+      "mbId": 76220,
+      "newsCount": 0
+    },
+    "60839": {
+      "title": "Namjuui Ibyangttari Doeeotseumnida",
+      "pub": "Releasing",
+      "mbId": 6759,
+      "newsCount": 0
+    },
+    "60854": {
+      "title": "The Greatest Estate Developer",
+      "pub": "Completed",
+      "mbId": 3391,
+      "newsCount": 0
+    },
+    "60873": {
+      "title": "Return of the Mad Demon",
+      "pub": "Releasing",
+      "mbId": 49377,
+      "newsCount": 0
+    },
+    "61302": {
+      "title": "Wo Zhen Bushi Xie Shen Zougou",
+      "pub": "Releasing",
+      "mbId": 2393,
+      "newsCount": 0
+    },
+    "61322": {
+      "title": "Pathfinder",
+      "pub": "Completed",
+      "mbId": 51008,
+      "newsCount": 0
+    },
+    "61348": {
+      "title": "Sierra",
+      "pub": "Completed",
+      "mbId": 48470,
+      "newsCount": 0
+    },
+    "61403": {
+      "title": "Tensei Shite High Elf ni Narimashita ga, Slow Life wa 120-nen de Akimashita",
+      "pub": "Releasing",
+      "mbId": 4888,
+      "newsCount": 2
+    },
+    "61495": {
+      "title": "Mezase Gouka Kyakusen!!: Fune Shoukan Skill de Isekai Rich Life wo Te ni Ireru",
+      "pub": "Releasing",
+      "mbId": 533,
+      "newsCount": 1
+    },
+    "61562": {
+      "title": "Reality Quest",
+      "pub": "Releasing",
+      "mbId": 1524,
+      "newsCount": 0
+    },
+    "61657": {
+      "title": "Nae Ga Kiun S Geub Deul",
+      "pub": "Releasing",
+      "mbId": 49861,
+      "newsCount": 0
+    },
+    "61782": {
+      "title": "Choinui Sidae",
+      "pub": "Releasing",
+      "mbId": 2159,
+      "newsCount": 0
+    },
+    "61826": {
+      "title": "Akdangi Saraganeun Beop",
+      "pub": "Completed",
+      "mbId": 49827,
+      "newsCount": 0
+    },
+    "61885": {
+      "title": "Choegangbukae",
+      "pub": "Completed",
+      "mbId": 48550,
+      "newsCount": 0
+    },
+    "61963": {
+      "title": "Wo! Tian Mìng Da Fanpai",
+      "pub": "Releasing",
+      "mbId": 704,
+      "newsCount": 0
+    },
+    "61981": {
+      "title": "Jaeanggeum Yeongungnimi Gwihwanhasyeotda",
+      "pub": "Releasing",
+      "mbId": 1432,
+      "newsCount": 0
+    },
+    "62052": {
+      "title": "Gwiryeongwang",
+      "pub": "Completed",
+      "mbId": 49799,
+      "newsCount": 0
+    },
+    "62168": {
+      "title": "Michin Hujageul Gildeurigo Maratda",
+      "pub": "Completed",
+      "mbId": 48691,
+      "newsCount": 0
+    },
+    "62185": {
+      "title": "All Rounder",
+      "pub": "Completed",
+      "mbId": 49233,
+      "newsCount": 0
+    },
+    "62310": {
+      "title": "Iltagangsa Baeksabu",
+      "pub": "Hiatus",
+      "mbId": 49374,
+      "newsCount": 0
+    },
+    "62467": {
+      "title": "Dark Moon: The Blood Altar",
+      "pub": "Completed",
+      "mbId": 66733,
+      "newsCount": 8
+    },
+    "62522": {
+      "title": "Myeolmang Ihuui Segye",
+      "pub": "Releasing",
+      "mbId": 5911,
+      "newsCount": 0
+    },
+    "62523": {
+      "title": "Quest Jisangjuui",
+      "pub": "Completed",
+      "mbId": 3367,
+      "newsCount": 0
+    },
+    "62525": {
+      "title": "100",
+      "pub": "Completed",
+      "mbId": 57372,
+      "newsCount": 0
+    },
+    "62690": {
+      "title": "The Final Raid Boss",
+      "pub": "Completed",
+      "mbId": 50315,
+      "newsCount": 0
+    },
+    "62745": {
+      "title": "Ruri Dragon",
+      "pub": "Completed",
+      "mbId": 47180,
+      "newsCount": 0
+    },
+    "62805": {
+      "title": "Hujakgaui Yeokdaegeup Mangnaeadeul",
+      "pub": "Releasing",
+      "mbId": 1230,
+      "newsCount": 0
+    },
+    "62861": {
+      "title": "Jamman Jado Ranker",
+      "pub": "Completed",
+      "mbId": 8529,
+      "newsCount": 0
+    },
+    "62872": {
+      "title": "Usuzumi no Hate",
+      "pub": "Releasing",
+      "mbId": 670,
+      "newsCount": 7
+    },
+    "63010": {
+      "title": "Binguijareul Wihan Teukye",
+      "pub": "Releasing",
+      "mbId": 7220,
+      "newsCount": 0
+    },
+    "63153": {
+      "title": "Kaoru Hana wa Rin to Saku",
+      "pub": "Releasing",
+      "mbId": 990,
+      "newsCount": 27
+    },
+    "63232": {
+      "title": "Kininatteru Hito ga Otoko ja Nakatta",
+      "pub": "Releasing",
+      "mbId": 944,
+      "newsCount": 28
+    },
+    "63346": {
+      "title": "Savage Fang Ojou-sama Shijou Saikyou no Youhei wa Shijou Saikyou no Bougyaku Reijou to Natte Nidome no Sekai wo Musou Suru",
+      "pub": "Completed",
+      "mbId": 2771,
+      "newsCount": 5
+    },
+    "63410": {
+      "title": "Kill The Dragon",
+      "pub": "Completed",
+      "mbId": 7185,
+      "newsCount": 0
+    },
+    "63447": {
+      "title": "Neoui Aiga Aniya",
+      "pub": "Releasing",
+      "mbId": 53844,
+      "newsCount": 0
+    },
+    "63482": {
+      "title": "Eternal Force",
+      "pub": "Hiatus",
+      "mbId": 8381,
+      "newsCount": 0
+    },
+    "63600": {
+      "title": "99ganghwanamumongdungi",
+      "pub": "Releasing",
+      "mbId": 52908,
+      "newsCount": 0
+    },
+    "63638": {
+      "title": "Ruri Dragon",
+      "pub": "Releasing",
+      "mbId": 600,
+      "newsCount": 20
+    },
+    "63665": {
+      "title": "X Ash",
+      "pub": "Hiatus",
+      "mbId": 50151,
+      "newsCount": 0
+    },
+    "63668": {
+      "title": "Musingwihwallok",
+      "pub": "Releasing",
+      "mbId": 6824,
+      "newsCount": 0
+    },
+    "63689": {
+      "title": "Phone Addict",
+      "pub": "Completed",
+      "mbId": 124114,
+      "newsCount": 0
+    },
+    "63709": {
+      "title": "Arafo Otoko no Isekai Tsuuhan Seikatsu",
+      "pub": "Completed",
+      "mbId": 4246,
+      "newsCount": 5
+    },
+    "63710": {
+      "title": "Bireomeogeul Hwansaeng",
+      "pub": "Hiatus",
+      "mbId": 54519,
+      "newsCount": 0
+    },
+    "63730": {
+      "title": "Sinhwageup Gwisok Item-eul Sone Neoeotda",
+      "pub": "Releasing",
+      "mbId": 1970,
+      "newsCount": 0
+    },
+    "63747": {
+      "title": "Wo Jia Laopo Lai Zi Yiqian Nian Qian",
+      "pub": "Completed",
+      "mbId": 68,
+      "newsCount": 0
+    },
+    "63842": {
+      "title": "Kare Chwihan Bameul Geotda",
+      "pub": "Hiatus",
+      "mbId": 54240,
+      "newsCount": 0
+    },
+    "63925": {
+      "title": "Jeoldaegeomgam",
+      "pub": "Releasing",
+      "mbId": 7971,
+      "newsCount": 0
+    },
+    "63976": {
+      "title": "Igyejinip Reloaded",
+      "pub": "Completed",
+      "mbId": 53349,
+      "newsCount": 0
+    },
+    "63977": {
+      "title": "Man Nyeon Mane Gwihwanhan Player",
+      "pub": "Hiatus",
+      "mbId": 6760,
+      "newsCount": 0
+    },
+    "64051": {
+      "title": "Sasinpyowol",
+      "pub": "Hiatus",
+      "mbId": 3172,
+      "newsCount": 0
+    },
+    "64076": {
+      "title": "Hwangjegung Yeop Maronie Nongjang",
+      "pub": "Releasing",
+      "mbId": 53507,
+      "newsCount": 0
+    },
+    "64093": {
+      "title": "Myoryeongui Hwangja",
+      "pub": "Completed",
+      "mbId": 49961,
+      "newsCount": 0
+    },
+    "64282": {
+      "title": "Tensei Babaa wa Misugosenai!: Moto Akutoku Jotei no Nishuume Life",
+      "pub": "Releasing",
+      "mbId": 49421,
+      "newsCount": 0
+    },
+    "64308": {
+      "title": "Pyegeubin Cheokaetdeon Hakgyosaenghwal",
+      "pub": "Completed",
+      "mbId": 55529,
+      "newsCount": 0
+    },
+    "64319": {
+      "title": "Hwansaengui Jeongseok",
+      "pub": "Releasing",
+      "mbId": 1656,
+      "newsCount": 0
+    },
+    "64430": {
+      "title": "Super no Ura de Yani Suu Futari",
+      "pub": "Releasing",
+      "mbId": 3188,
+      "newsCount": 25
+    },
+    "64457": {
+      "title": "Helmut (Kim Nan Sae)",
+      "pub": "Releasing",
+      "mbId": 5386,
+      "newsCount": 0
+    },
+    "64555": {
+      "title": "Iljindamdangiljin",
+      "pub": "Releasing",
+      "mbId": 935,
+      "newsCount": 0
+    },
+    "64680": {
+      "title": "Destiny Unchain Online: Kyuuketsuki Shoujo to Natte, Yagate \"Aka no Maou\" to Yobareru You ni Narimashita",
+      "pub": "Releasing",
+      "mbId": 521,
+      "newsCount": 1
+    },
+    "64755": {
+      "title": "Dungeon Odyssey",
+      "pub": "Hiatus",
+      "mbId": 1276,
+      "newsCount": 0
+    },
+    "64851": {
+      "title": "Sunjeong Villain",
+      "pub": "Completed",
+      "mbId": 55385,
+      "newsCount": 0
+    },
+    "64878": {
+      "title": "Majutsushi Kunon wa Miete Iru",
+      "pub": "Releasing",
+      "mbId": 8545,
+      "newsCount": 8
+    },
+    "64980": {
+      "title": "Hoegwihan Cheonjae Hunter-ui Seulgiroun Cheongsosaenghwal",
+      "pub": "Releasing",
+      "mbId": 54620,
+      "newsCount": 0
+    },
+    "65005": {
+      "title": "Dingji Qiyun, Qiaoqiao Xiulian Qian Nian",
+      "pub": "Releasing",
+      "mbId": 4121,
+      "newsCount": 0
+    },
+    "65022": {
+      "title": "Hoegwiro Chowolhaneun Daemadosa",
+      "pub": "Releasing",
+      "mbId": 306,
+      "newsCount": 0
+    },
+    "65027": {
+      "title": "Mabeobmyeongga Maknaeadeul",
+      "pub": "Releasing",
+      "mbId": 659,
+      "newsCount": 0
+    },
+    "65029": {
+      "title": "Bunsineuro Jadongsanyang",
+      "pub": "Completed",
+      "mbId": 4135,
+      "newsCount": 0
+    },
+    "65165": {
+      "title": "Gucheongugeom",
+      "pub": "Completed",
+      "mbId": 2215,
+      "newsCount": 0
+    },
+    "65424": {
+      "title": "Tsue to Tsurugi no Wistoria",
+      "pub": "Releasing",
+      "mbId": 1737,
+      "newsCount": 20
+    },
+    "65459": {
+      "title": "Yongsagogyo Deonjeongongryakgwa",
+      "pub": "Hiatus",
+      "mbId": 56404,
+      "newsCount": 0
+    },
+    "65541": {
+      "title": "Jeo Geureon Injae Animnida",
+      "pub": "Hiatus",
+      "mbId": 3070,
+      "newsCount": 0
+    },
+    "65573": {
+      "title": "Akdang Gongjakgaui Silse Mangnaettarimnida",
+      "pub": "Releasing",
+      "mbId": 6160,
+      "newsCount": 0
+    },
+    "65635": {
+      "title": "Boundless Necromancer",
+      "pub": "Completed",
+      "mbId": 58096,
+      "newsCount": 0
+    },
+    "65717": {
+      "title": "Muhanui Mabeopsa",
+      "pub": "Releasing",
+      "mbId": 1464,
+      "newsCount": 0
+    },
+    "65728": {
+      "title": "Pick Me Up!",
+      "pub": "Releasing",
+      "mbId": 1465,
+      "newsCount": 0
+    },
+    "65740": {
+      "title": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou",
+      "pub": "Releasing",
+      "mbId": 2894,
+      "newsCount": 0
+    },
+    "65753": {
+      "title": "Hikikomari Kyuuketsuki no Monmon",
+      "pub": "Completed",
+      "mbId": 4239,
+      "newsCount": 13
+    },
+    "65812": {
+      "title": "Sigrid",
+      "pub": "Completed",
+      "mbId": 6939,
+      "newsCount": 0
+    },
+    "66132": {
+      "title": "Serial Killer Isekai ni Oritatsu",
+      "pub": "Releasing",
+      "mbId": 9080,
+      "newsCount": 5
+    },
+    "66267": {
+      "title": "Wo Mei Zhou Suiji Yi Ge Xin Zhiye",
+      "pub": "Releasing",
+      "mbId": 49269,
+      "newsCount": 0
+    },
+    "66343": {
+      "title": "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru",
+      "pub": "Releasing",
+      "mbId": 4299,
+      "newsCount": 2
+    },
+    "66445": {
+      "title": "Eiyuu to Kenja no Tenseikon: Katsute no Koutekishu to Konyaku shite Saikyou Fuufu ni Narimashita",
+      "pub": "Releasing",
+      "mbId": 1701,
+      "newsCount": 3
+    },
+    "66505": {
+      "title": "Chao Shen Chong Shou Dian",
+      "pub": "Releasing",
+      "mbId": 1516,
+      "newsCount": 0
+    },
+    "66535": {
+      "title": "Gao Wu: Denglu Weilai Yi Wan Nian",
+      "pub": "Releasing",
+      "mbId": 1447,
+      "newsCount": 0
+    },
+    "66635": {
+      "title": "The Constellations Are My Disciples",
+      "pub": "Releasing",
+      "mbId": 934,
+      "newsCount": 0
+    },
+    "66779": {
+      "title": "Madojeonsaenggi",
+      "pub": "Releasing",
+      "mbId": 4643,
+      "newsCount": 0
+    },
+    "66874": {
+      "title": "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
+      "pub": "Releasing",
+      "mbId": 808,
+      "newsCount": 0
+    },
+    "67023": {
+      "title": "Jiang Si Xiansheng",
+      "pub": "Releasing",
+      "mbId": 6541,
+      "newsCount": 0
+    },
+    "67024": {
+      "title": "Cong Da Shu Kaishi De Jinhua",
+      "pub": "Releasing",
+      "mbId": 910,
+      "newsCount": 0
+    },
+    "67028": {
+      "title": "Maryoku 9999 Man - Zen Zokusei Tsukai no Dai Kenja",
+      "pub": "Releasing",
+      "mbId": 1976,
+      "newsCount": 0
+    },
+    "67038": {
+      "title": "Wo Bei Kun Zai Tong Yi Tian Yi Qian Nian",
+      "pub": "Releasing",
+      "mbId": 5569,
+      "newsCount": 0
+    },
+    "67137": {
+      "title": "Sihanbu Cheonjae Amheukgisa",
+      "pub": "Releasing",
+      "mbId": 7044,
+      "newsCount": 0
+    },
+    "67385": {
+      "title": "I'm Being Raised by Villains",
+      "pub": "Releasing",
+      "mbId": 436,
+      "newsCount": 0
+    },
+    "67611": {
+      "title": "Player-ga Gwageoreul Sumgim",
+      "pub": "Releasing",
+      "mbId": 66340,
+      "newsCount": 0
+    },
+    "67764": {
+      "title": "Cleric of Decay",
+      "pub": "Hiatus",
+      "mbId": 1488,
+      "newsCount": 0
+    },
+    "67850": {
+      "title": "Kami Chi no Kyuuseishu: 0.00000001% wo Hikiate Saikyou e",
+      "pub": "Releasing",
+      "mbId": 3924,
+      "newsCount": 2
+    },
+    "67869": {
+      "title": "Tensei Shitara SSS-Kyuu Goblin ni Narimashita",
+      "pub": "Releasing",
+      "mbId": 61660,
+      "newsCount": 0
+    },
+    "67911": {
+      "title": "Wu Nao Monü",
+      "pub": "Releasing",
+      "mbId": 47856,
+      "newsCount": 0
+    },
+    "68108": {
+      "title": "Skill-ppallo Level Up",
+      "pub": "Releasing",
+      "mbId": 1470,
+      "newsCount": 0
+    },
+    "68285": {
+      "title": "Wo, Jinhua, Emo",
+      "pub": "Releasing",
+      "mbId": 873,
+      "newsCount": 0
+    },
+    "68296": {
+      "title": "2 Level Hoegwihan Musin",
+      "pub": "Releasing",
+      "mbId": 5885,
+      "newsCount": 0
+    },
+    "68435": {
+      "title": "Ryū o kurau majutsu-shi",
+      "pub": "Completed",
+      "mbId": 8837,
+      "newsCount": 0
+    },
+    "68568": {
+      "title": "Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi",
+      "pub": "Releasing",
+      "mbId": 9414,
+      "newsCount": 0
+    },
+    "68677": {
+      "title": "Yuusha to Yobareta Ato ni: Soshite Musou Otoko wa Kazoku wo Tsukuru",
+      "pub": "Completed",
+      "mbId": 5199,
+      "newsCount": 0
+    },
+    "68690": {
+      "title": "Buchikire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "pub": "Releasing",
+      "mbId": 6666,
+      "newsCount": 10
+    },
+    "68710": {
+      "title": "Siling Fashi! Wo Ji Shi Tianzai",
+      "pub": "Releasing",
+      "mbId": 4828,
+      "newsCount": 0
+    },
+    "68921": {
+      "title": "The Terminally Ill Young Master of the Baek Clan",
+      "pub": "Completed",
+      "mbId": 69931,
+      "newsCount": 0
+    },
+    "68985": {
+      "title": "Hwansaenghan Amsaljaneun Geomsul Cheonjae",
+      "pub": "Releasing",
+      "mbId": 264,
+      "newsCount": 0
+    },
+    "69298": {
+      "title": "Insanely Talented Player",
+      "pub": "Completed",
+      "mbId": 70087,
+      "newsCount": 0
+    },
+    "69512": {
+      "title": "I Became an Evolving Space Monster",
+      "pub": "Completed",
+      "mbId": 70327,
+      "newsCount": 0
+    },
+    "69516": {
+      "title": "Star-Embracing Swordmaster",
+      "pub": "Releasing",
+      "mbId": 588,
+      "newsCount": 0
+    },
+    "69555": {
+      "title": "Isekai Samurai",
+      "pub": "Releasing",
+      "mbId": 807,
+      "newsCount": 10
+    },
+    "69729": {
+      "title": "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru",
+      "pub": "Releasing",
+      "mbId": 4576,
+      "newsCount": 0
+    },
+    "70082": {
+      "title": "Yongzhe X Nümowang",
+      "pub": "Completed",
+      "mbId": 9420,
+      "newsCount": 0
+    },
+    "70244": {
+      "title": "Wangui Himeuro Hoegwihanda",
+      "pub": "Releasing",
+      "mbId": 73161,
+      "newsCount": 0
+    },
+    "70245": {
+      "title": "Delivery Man From Murim",
+      "pub": "Completed",
+      "mbId": 3794,
+      "newsCount": 0
+    },
+    "70433": {
+      "title": "Quan Qiu Bing Feng: Wo Dazaole Mori Anquan Wu",
+      "pub": "Hiatus",
+      "mbId": 8473,
+      "newsCount": 0
+    },
+    "70480": {
+      "title": "I Killed an Academy Player",
+      "pub": "Releasing",
+      "mbId": 3676,
+      "newsCount": 0
+    },
+    "70557": {
+      "title": "Saikyou Ansatsusha, Class Ten'i de Isekai e",
+      "pub": "Releasing",
+      "mbId": 7918,
+      "newsCount": 0
+    },
+    "70560": {
+      "title": "Necromancer Hakgyoui Sohwancheonjae",
+      "pub": "Hiatus",
+      "mbId": 2823,
+      "newsCount": 0
+    },
+    "70627": {
+      "title": "Sanyanggaeui Hoegwibonneung",
+      "pub": "Completed",
+      "mbId": 82192,
+      "newsCount": 0
+    },
+    "70681": {
+      "title": "The Extra's Academy Survival Guide",
+      "pub": "Releasing",
+      "mbId": 5307,
+      "newsCount": 0
+    },
+    "70696": {
+      "title": "Boss Mopdapge Haengdonghaseyo, Swallow Ssi!",
+      "pub": "Releasing",
+      "mbId": 4471,
+      "newsCount": 0
+    },
+    "71117": {
+      "title": "Wo You Jiuqianwan-yi Tian Gou Jin",
+      "pub": "Completed",
+      "mbId": 74304,
+      "newsCount": 0
+    },
+    "71170": {
+      "title": "the golden experience point",
+      "pub": "Releasing",
+      "mbId": 3455,
+      "newsCount": 0
+    },
+    "71210": {
+      "title": "SSS Ji Chaoyue Changli De Sheng Qishi",
+      "pub": "Releasing",
+      "mbId": 3066,
+      "newsCount": 0
+    },
+    "71313": {
+      "title": "Eoneu Mabeopsaui Sikdang",
+      "pub": "Releasing",
+      "mbId": 4807,
+      "newsCount": 0
+    },
+    "71365": {
+      "title": "Henkyou no Kusushi, Miyako de S Rank Boukensha to Naru: Eiyuu-mura no Shounen ga Cheat Yaku de Mujikaku Musou",
+      "pub": "Releasing",
+      "mbId": 6912,
+      "newsCount": 0
+    },
+    "71388": {
+      "title": "Fortune-Telling Lady",
+      "pub": "Releasing",
+      "mbId": 6245,
+      "newsCount": 0
+    },
+    "71406": {
+      "title": "S-geup Hunter-neun Agyeok Gongnyeoga Doegi Silseumnida",
+      "pub": "Hiatus",
+      "mbId": 4533,
+      "newsCount": 0
+    },
+    "71426": {
+      "title": "Goeryeok Nansin",
+      "pub": "Hiatus",
+      "mbId": 4061,
+      "newsCount": 0
+    },
+    "71457": {
+      "title": "Nampyeonui Maldaero Jeongbureul Deullyeotda",
+      "pub": "Hiatus",
+      "mbId": 74756,
+      "newsCount": 0
+    },
+    "71505": {
+      "title": "The Indomitable Martial King",
+      "pub": "Releasing",
+      "mbId": 322,
+      "newsCount": 0
+    },
+    "71544": {
+      "title": "Hunter Academy's Strongest Battle God",
+      "pub": "Releasing",
+      "mbId": 9666,
+      "newsCount": 0
+    },
+    "71659": {
+      "title": "Reincarnation of the Hero Party Archmage",
+      "pub": "Releasing",
+      "mbId": 1499,
+      "newsCount": 0
+    },
+    "71712": {
+      "title": "Myeolmanghan Gamunui Hoegwija",
+      "pub": "Releasing",
+      "mbId": 76547,
+      "newsCount": 0
+    },
+    "71725": {
+      "title": "Chong Zu Zhuzai, Wo Wan de Jiushi Tianzai",
+      "pub": "Releasing",
+      "mbId": 9408,
+      "newsCount": 0
+    },
+    "71733": {
+      "title": "I Got The Weakest Class, Dragon Tamer!?",
+      "pub": "Releasing",
+      "mbId": 161,
+      "newsCount": 0
+    },
+    "71743": {
+      "title": "Potion-danomi de Ikinobimasu! Zoku",
+      "pub": "Releasing",
+      "mbId": 69513,
+      "newsCount": 25
+    },
+    "71781": {
+      "title": "How to Survive as a Time-Limited Dragon",
+      "pub": "Hiatus",
+      "mbId": 76986,
+      "newsCount": 0
+    },
+    "71873": {
+      "title": "Return of the Genius Player",
+      "pub": "Releasing",
+      "mbId": 78490,
+      "newsCount": 0
+    },
+    "71943": {
+      "title": "A Guide to the Right Life for Rankers",
+      "pub": "Releasing",
+      "mbId": 4457,
+      "newsCount": 0
+    },
+    "72021": {
+      "title": "Mo Ri Hen Ren: Kaiju Tunji Wan Yi Wuzi",
+      "pub": "Releasing",
+      "mbId": 9376,
+      "newsCount": 0
+    },
+    "72097": {
+      "title": "Nengan no Akuyaku Reijou (Last Boss) no Karada wo Te ni Ireta zo!",
+      "pub": "Releasing",
+      "mbId": 75861,
+      "newsCount": 3
+    },
+    "72112": {
+      "title": "Myeolmanghan Segyeui Chwisabyeong",
+      "pub": "Releasing",
+      "mbId": 151,
+      "newsCount": 0
+    },
+    "72116": {
+      "title": "Wo Kao Jian Lese Shang Wangzhe",
+      "pub": "Completed",
+      "mbId": 76901,
+      "newsCount": 0
+    },
+    "72166": {
+      "title": "Quick Teleporting Genius from Magic School",
+      "pub": "Hiatus",
+      "mbId": 7893,
+      "newsCount": 0
+    },
+    "72413": {
+      "title": "The Hero Became the Duke's Eldest Son",
+      "pub": "Completed",
+      "mbId": 3799,
+      "newsCount": 0
+    },
+    "72463": {
+      "title": "Sonyeonbeopchik",
+      "pub": "Hiatus",
+      "mbId": 936,
+      "newsCount": 0
+    },
+    "72464": {
+      "title": "I Became the Level 999 Demon King",
+      "pub": "Completed",
+      "mbId": 78721,
+      "newsCount": 0
+    },
+    "72544": {
+      "title": "Na Honjaman Level Up: Ragnarok",
+      "pub": "Hiatus",
+      "mbId": 1252,
+      "newsCount": 7
+    },
+    "72603": {
+      "title": "Jeoldae Hoegwi",
+      "pub": "Releasing",
+      "mbId": 1186,
+      "newsCount": 0
+    },
+    "72724": {
+      "title": "Solo Resurrection",
+      "pub": "Releasing",
+      "mbId": 1449,
+      "newsCount": 0
+    },
+    "72726": {
+      "title": "Cheonhajeirinui Sokkupchingu",
+      "pub": "Hiatus",
+      "mbId": 7834,
+      "newsCount": 0
+    },
+    "72733": {
+      "title": "Nekomimi Shoujo wa Mori de Slow Life wo Okuritai: Mofumofu wa Shomou Shimashita ga, Seijo to ka Ouji-sama to ka wa Chuumongai desu",
+      "pub": "Completed",
+      "mbId": 7313,
+      "newsCount": 0
+    },
+    "72864": {
+      "title": "Chewing the Academy With a Single Piece of Sashimi",
+      "pub": "Releasing",
+      "mbId": 8283,
+      "newsCount": 0
+    },
+    "72926": {
+      "title": "Madan no Ichi",
+      "pub": "Releasing",
+      "mbId": 676,
+      "newsCount": 17
+    },
+    "73011": {
+      "title": "Saikyou de Saisoku no Mugen Level Up: Skill [Keikenchi 1000-bai] to [Level Free] de Level Jougen no Kase ga Hazureta Ore wa Musou suru",
+      "pub": "Releasing",
+      "mbId": 4326,
+      "newsCount": 0
+    },
+    "73020": {
+      "title": "The Academy's Genius Tamer",
+      "pub": "Completed",
+      "mbId": 80224,
+      "newsCount": 0
+    },
+    "73021": {
+      "title": "Hiding a Logistics Center in the Apocalypse",
+      "pub": "Hiatus",
+      "mbId": 166,
+      "newsCount": 0
+    },
+    "73088": {
+      "title": "Hoegwihan Yongbyeongeun Da Gyehoegi Itda",
+      "pub": "Releasing",
+      "mbId": 6968,
+      "newsCount": 0
+    },
+    "73157": {
+      "title": "Sihanbu Cheonjaega Saranamneun Beop",
+      "pub": "Releasing",
+      "mbId": 80893,
+      "newsCount": 0
+    },
+    "73176": {
+      "title": "Myeongga-ui Yeokdaegeup Jaeneung Cheonjae-ro Hwansaenghaetda",
+      "pub": "Releasing",
+      "mbId": 2251,
+      "newsCount": 0
+    },
+    "73207": {
+      "title": "Lord Of Destiny Wheel",
+      "pub": "Releasing",
+      "mbId": 77820,
+      "newsCount": 0
+    },
+    "73212": {
+      "title": "Regressing as the Reincarnated Bastard of the Sword Clan",
+      "pub": "Releasing",
+      "mbId": 1459,
+      "newsCount": 0
+    },
+    "73213": {
+      "title": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
+      "pub": "Releasing",
+      "mbId": 2216,
+      "newsCount": 4
+    },
+    "73230": {
+      "title": "Nae Bunsini Geomuri Doeeoganda",
+      "pub": "Releasing",
+      "mbId": 3800,
+      "newsCount": 0
+    },
+    "73231": {
+      "title": "Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro",
+      "pub": "Releasing",
+      "mbId": 927,
+      "newsCount": 0
+    },
+    "73327": {
+      "title": "Watashi no Kokoro wa Ojisan de Aru",
+      "pub": "Releasing",
+      "mbId": 1398,
+      "newsCount": 3
+    },
+    "73329": {
+      "title": "Meccha Shoukan Sareta Ken (Tsugutoku)",
+      "pub": "Completed",
+      "mbId": 5112,
+      "newsCount": 0
+    },
+    "73351": {
+      "title": "Wo Qiyue Le Wo Ziji",
+      "pub": "Releasing",
+      "mbId": 1511,
+      "newsCount": 0
+    },
+    "73353": {
+      "title": "A Barbarian Was Admitted to the Academy",
+      "pub": "Cancelled",
+      "mbId": 3952,
+      "newsCount": 0
+    },
+    "73456": {
+      "title": "The Reincarnation of the Great Mage in Myth",
+      "pub": "Hiatus",
+      "mbId": 4404,
+      "newsCount": 0
+    },
+    "73458": {
+      "title": "Taida na Akujoku Kizoku ni Tensei Shita Ore, Scenario wo Bukkowa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
+      "pub": "Releasing",
+      "mbId": 2044,
+      "newsCount": 2
+    },
+    "73481": {
+      "title": "Return of the Sword God-Rank Civil Servant",
+      "pub": "Hiatus",
+      "mbId": 1551,
+      "newsCount": 0
+    },
+    "73485": {
+      "title": "Entomologist in Sichuan Tang Clan",
+      "pub": "Releasing",
+      "mbId": 3798,
+      "newsCount": 0
+    },
+    "73521": {
+      "title": "Do You Need Salvation?",
+      "pub": "Completed",
+      "mbId": 8122,
+      "newsCount": 0
+    },
+    "73626": {
+      "title": "Dao of the Bizarre Immortal",
+      "pub": "Releasing",
+      "mbId": 1093,
+      "newsCount": 0
+    },
+    "73671": {
+      "title": "Isekai de Mizu no Dai Seirei Yattemasu.",
+      "pub": "Releasing",
+      "mbId": 4406,
+      "newsCount": 0
+    },
+    "73760": {
+      "title": "Chronicles of the Reincarnated Demon God",
+      "pub": "Hiatus",
+      "mbId": 1271,
+      "newsCount": 0
+    },
+    "73800": {
+      "title": "A Dragonslayer's Peerless Regression",
+      "pub": "Releasing",
+      "mbId": 82142,
+      "newsCount": 0
+    },
+    "73836": {
+      "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Kareinaru Musouroku",
+      "pub": "Releasing",
+      "mbId": 3330,
+      "newsCount": 1
+    },
+    "73931": {
+      "title": "Jeonseolgeup Yeongungeun Academy Udeungsaeng",
+      "pub": "Releasing",
+      "mbId": 1436,
+      "newsCount": 0
+    },
+    "74066": {
+      "title": "I'm Going to Wipe Out This Country",
+      "pub": "Releasing",
+      "mbId": 1421,
+      "newsCount": 0
+    },
+    "74108": {
+      "title": "Senki Survival Saga: Isekai no Unmei wo Kaketa Mujintou Fujun Isei Kouyuu",
+      "pub": "Releasing",
+      "mbId": 941,
+      "newsCount": 0
+    },
+    "74113": {
+      "title": "The Genius Magician who Sees the Rainbow",
+      "pub": "Releasing",
+      "mbId": 98362,
+      "newsCount": 0
+    },
+    "74154": {
+      "title": "Gongmuwon Hunter S-geup Toesailji",
+      "pub": "Hiatus",
+      "mbId": 6725,
+      "newsCount": 0
+    },
+    "74281": {
+      "title": "I Died 999,999 Times: Unlimited Level-Up with My Immortality Skill",
+      "pub": "Completed",
+      "mbId": 539,
+      "newsCount": 0
+    },
+    "74339": {
+      "title": "Man Ji Chuanyue De Wo Weisheme Shi Mushi Xiaojie A",
+      "pub": "Releasing",
+      "mbId": 5094,
+      "newsCount": 0
+    },
+    "74410": {
+      "title": "The Overpowered Veteran Healer",
+      "pub": "Releasing",
+      "mbId": 1235,
+      "newsCount": 0
+    },
+    "74483": {
+      "title": "My Bias Gets on the Last Train",
+      "pub": "Releasing",
+      "mbId": 2578,
+      "newsCount": 0
+    },
+    "74506": {
+      "title": "Cong Goblin Dao Goblin Shen",
+      "pub": "Releasing",
+      "mbId": 9422,
+      "newsCount": 0
+    },
+    "74537": {
+      "title": "Iranai Skill wo Kaitorimasu",
+      "pub": "Releasing",
+      "mbId": 81013,
+      "newsCount": 0
+    },
+    "74725": {
+      "title": "Makai Youjo ni Tensei Shita Oji-san wa Heiwa no Tame ni Maou ni Naritai",
+      "pub": "Completed",
+      "mbId": 65769,
+      "newsCount": 0
+    },
+    "74781": {
+      "title": "Magye Academy-ui Silnun Agyeok",
+      "pub": "Hiatus",
+      "mbId": 187372,
+      "newsCount": 0
+    },
+    "74858": {
+      "title": "Norigam",
+      "pub": "Hiatus",
+      "mbId": 404,
+      "newsCount": 0
+    },
+    "74930": {
+      "title": "Amheukmyeongga Cheonjae Mangnaniga Doeeossda",
+      "pub": "Releasing",
+      "mbId": 110592,
+      "newsCount": 0
+    },
+    "74942": {
+      "title": "Yuusha desu ga, Heroine-tachi ni Inochi wo Nerawareteimasu",
+      "pub": "Releasing",
+      "mbId": 1321,
+      "newsCount": 0
+    },
+    "75023": {
+      "title": "Wanbyeokhan Silnun Agyeogeul Yeongihada",
+      "pub": "Hiatus",
+      "mbId": 111302,
+      "newsCount": 0
+    },
+    "75044": {
+      "title": "Akdangege Sarangbanneun Unmyeongimnida",
+      "pub": "Completed",
+      "mbId": 89302,
+      "newsCount": 0
+    },
+    "75054": {
+      "title": "Matabui Munjeadeul",
+      "pub": "Releasing",
+      "mbId": 112378,
+      "newsCount": 0
+    },
+    "75082": {
+      "title": "Moduga Geunyeoreul Saranghae",
+      "pub": "Completed",
+      "mbId": 109477,
+      "newsCount": 0
+    },
+    "75131": {
+      "title": "Choegang Dungeon-eul Wihayeo",
+      "pub": "Hiatus",
+      "mbId": 186706,
+      "newsCount": 0
+    },
+    "75140": {
+      "title": "Hoegwihan C-geup Tanker-ga Jukji Anha!",
+      "pub": "Releasing",
+      "mbId": 186256,
+      "newsCount": 0
+    },
+    "75565": {
+      "title": "Wangyou: Shen Ji Cike, Wo Ji Shi Anying",
+      "pub": "Releasing",
+      "mbId": 558,
+      "newsCount": 0
+    },
+    "75635": {
+      "title": "Counter Stop Mura no Goinkyo Demon-san",
+      "pub": "Completed",
+      "mbId": 70260,
+      "newsCount": 4
+    },
+    "75705": {
+      "title": "myeolmanghan segyeeseo on geomsin",
+      "pub": "Completed",
+      "mbId": 351587,
+      "newsCount": 0
+    },
+    "75772": {
+      "title": "Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru: Kabe wo Surinuketara Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!",
+      "pub": "Releasing",
+      "mbId": 3579,
+      "newsCount": 1
+    },
+    "75904": {
+      "title": "Geu Appae Geu Ttal",
+      "pub": "Hiatus",
+      "mbId": 97737,
+      "newsCount": 0
+    },
+    "75955": {
+      "title": "Myeolmanggeup Death Knight-ga Hoegwiham",
+      "pub": "Releasing",
+      "mbId": 358073,
+      "newsCount": 0
+    },
+    "76103": {
+      "title": "BJ Agyeogyeongae",
+      "pub": "Hiatus",
+      "mbId": 87689,
+      "newsCount": 0
+    },
+    "76239": {
+      "title": "Apocalypse Descends, I Reincarnated as a Tyrant",
+      "pub": "Releasing",
+      "mbId": 189926,
+      "newsCount": 0
+    },
+    "76293": {
+      "title": "Breakers",
+      "pub": "Releasing",
+      "mbId": 369805,
+      "newsCount": 0
+    },
+    "76430": {
+      "title": "Mia Has Returned",
+      "pub": "Hiatus",
+      "mbId": 367367,
+      "newsCount": 0
+    },
+    "76436": {
+      "title": "The Skeleton Messenger's Story",
+      "pub": "Releasing",
+      "mbId": 502337,
+      "newsCount": 0
+    },
+    "76485": {
+      "title": "Unrivaled Spear Ghost",
+      "pub": "Releasing",
+      "mbId": 353534,
+      "newsCount": 0
+    },
+    "76818": {
+      "title": "Santa Industry",
+      "pub": "Completed",
+      "mbId": 69565,
+      "newsCount": 0
+    },
+    "76826": {
+      "title": "Akdangdeurui Huwonjaga Doeeotda",
+      "pub": "Releasing",
+      "mbId": 547234,
+      "newsCount": 0
+    },
+    "76834": {
+      "title": "Munpa System-eul Sijakamnida",
+      "pub": "Releasing",
+      "mbId": 563633,
+      "newsCount": 0
+    },
+    "76870": {
+      "title": "Daegongnimui Sinbuneun Jiogui Jeonsa",
+      "pub": "Hiatus",
+      "mbId": 350044,
+      "newsCount": 0
+    },
+    "76890": {
+      "title": "Cheonui Eolgul",
+      "pub": "Hiatus",
+      "mbId": 204542,
+      "newsCount": 0
+    },
+    "76907": {
+      "title": "WITCHRIV",
+      "pub": "Releasing",
+      "mbId": 521389,
+      "newsCount": 0
+    },
+    "76925": {
+      "title": "Haimiya Senpai wa Kowakute Kawaii",
+      "pub": "Releasing",
+      "mbId": 564580,
+      "newsCount": 0
+    },
+    "77119": {
+      "title": "Level 999 Goblin",
+      "pub": "Completed",
+      "mbId": 203076,
+      "newsCount": 0
+    },
+    "77134": {
+      "title": "The Demon King Has Too Many Heroes",
+      "pub": "Releasing",
+      "mbId": 567481,
+      "newsCount": 0
+    },
+    "77166": {
+      "title": "Elf Tsuma to Hajimeru Yuukyuu no Tabi: Densetsu no Yuusha, Aisuru Elf to Tomoni 100-nen Mae ni Sukutta Sekai wo Tabisuru",
+      "pub": "Cancelled",
+      "mbId": 566772,
+      "newsCount": 0
+    },
+    "77174": {
+      "title": "Yotaka Futatabi",
+      "pub": "Releasing",
+      "mbId": 566078,
+      "newsCount": 0
+    },
+    "77217": {
+      "title": "Gongjakgaui Yeokdaegeup Sindong",
+      "pub": "Releasing",
+      "mbId": 402928,
+      "newsCount": 0
+    },
+    "77448": {
+      "title": "Agiyongi Gongjakgareul Sallim",
+      "pub": "Releasing",
+      "mbId": 357172,
+      "newsCount": 0
+    },
+    "77458": {
+      "title": "Agui Ssiaseul Kiwo Beoryeotda",
+      "pub": "Releasing",
+      "mbId": 90570,
+      "newsCount": 0
+    },
+    "77467": {
+      "title": "The Monster Dame Requests Maternity Leave",
+      "pub": "Releasing",
+      "mbId": 117000,
+      "newsCount": 0
+    },
+    "77490": {
+      "title": "Lv. 99 Princess of Black Flame",
+      "pub": "Releasing",
+      "mbId": 202866,
+      "newsCount": 0
+    },
+    "77616": {
+      "title": "Imouto no Haishin ni Hairikondara VTuber Atsukai Sareta Ken",
+      "pub": "Releasing",
+      "mbId": 576078,
+      "newsCount": 0
+    },
+    "77799": {
+      "title": "Yuusha Party wo Kubi ni Natta node Kokyou ni Kaettara, Member Zenin ga Tsuite Kitan da ga",
+      "pub": "Releasing",
+      "mbId": 349452,
+      "newsCount": 0
+    },
+    "77840": {
+      "title": "Yangchigi Mabeopsa",
+      "pub": "Releasing",
+      "mbId": 579689,
+      "newsCount": 0
+    },
+    "77905": {
+      "title": "Isekai Kaeri no Saikyou Tamer, Tsukaima wa Osananajimi",
+      "pub": "Releasing",
+      "mbId": 4354,
+      "newsCount": 0
+    },
+    "77956": {
+      "title": "Densetsu no Ansatsusha, Tensei Shitara Ouke no Aisare Suemusume ni Natte Shimaimashite",
+      "pub": "Releasing",
+      "mbId": 3944,
+      "newsCount": 0
+    },
+    "77984": {
+      "title": "Tensei Shitara Seikaiju Datta Ken",
+      "pub": "Completed",
+      "mbId": 82575,
+      "newsCount": 0
+    },
+    "77991": {
+      "title": "Bullobulsaro Sandaneun Geoseun",
+      "pub": "Releasing",
+      "mbId": 583840,
+      "newsCount": 0
+    },
+    "78001": {
+      "title": "Game Sekai de Mamono ni Tensei shiteshimatta Ore, Zense de Oshi datta Heroine wo Hirotteshimau",
+      "pub": "Releasing",
+      "mbId": 410688,
+      "newsCount": 0
+    },
+    "78137": {
+      "title": "Bad Business",
+      "pub": "Releasing",
+      "mbId": 571685,
+      "newsCount": 0
+    },
+    "78146": {
+      "title": "Ranker-neun Oneuldo Euntoereul Kkumkkunda",
+      "pub": "Releasing",
+      "mbId": 356683,
+      "newsCount": 0
+    },
+    "78154": {
+      "title": "Nova, Little Girl in the Monster Forest",
+      "pub": "Releasing",
+      "mbId": 98169,
+      "newsCount": 0
+    },
+    "78161": {
+      "title": "Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu ni Ai ni Gendai ni Iku",
+      "pub": "Releasing",
+      "mbId": 188,
+      "newsCount": 0
+    },
+    "78312": {
+      "title": "Get Married So I Can Curse Your Firstborn and Finally Be Free!",
+      "pub": "Completed",
+      "mbId": 75574,
+      "newsCount": 4
+    },
+    "78313": {
+      "title": "Koujo Tensei: Densetsu no Daimadoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan wo Tsukuri Musou suru",
+      "pub": "Releasing",
+      "mbId": 521424,
+      "newsCount": 0
+    },
+    "78314": {
+      "title": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
+      "pub": "Releasing",
+      "mbId": 109384,
+      "newsCount": 0
+    },
+    "78325": {
+      "title": "Sihanbu Hwangjeui Juchiuiimnida",
+      "pub": "Hiatus",
+      "mbId": 5976,
+      "newsCount": 0
+    },
+    "78326": {
+      "title": "Jiazu Yingzi De Beipan",
+      "pub": "Completed",
+      "mbId": 9405,
+      "newsCount": 0
+    },
+    "78327": {
+      "title": "Dang Dalao Cong Hua Qian Kai Shi",
+      "pub": "Completed",
+      "mbId": 9530,
+      "newsCount": 0
+    },
+    "78544": {
+      "title": "Asayake no Iro",
+      "pub": "Completed",
+      "mbId": 57842,
+      "newsCount": 0
+    },
+    "78545": {
+      "title": "PUPPET 2026",
+      "pub": "Completed",
+      "mbId": 589293,
+      "newsCount": 0
+    },
+    "78548": {
+      "title": "Moreuneun Manhwae Binguihaetda",
+      "pub": "Releasing",
+      "mbId": 588435,
+      "newsCount": 0
+    },
+    "78549": {
+      "title": "Dominant",
+      "pub": "Completed",
+      "mbId": 57929,
+      "newsCount": 0
+    },
+    "78550": {
+      "title": "Konyakusha ni Kirawareteiru You na node Hanaretemitara, Nazeka Kougi Saremashita",
+      "pub": "Releasing",
+      "mbId": 568010,
+      "newsCount": 0
+    },
+    "78551": {
+      "title": "Lilim Holic",
+      "pub": "Releasing",
+      "mbId": 586626,
+      "newsCount": 0
+    },
+    "78552": {
+      "title": "Sanagi no Heart",
+      "pub": "Releasing",
+      "mbId": 585466,
+      "newsCount": 0
+    },
+    "78757": {
+      "title": "Hissatsu Reijou Liese: Tensei Shita Saikyou no Koroshiya wa, Yami o Matou Akuyaku Reijou to naru",
+      "pub": "Releasing",
+      "mbId": 594826,
+      "newsCount": 0
+    },
+    "78759": {
+      "title": "Murim Sachaewang",
+      "pub": "Releasing",
+      "mbId": 590195,
+      "newsCount": 0
+    },
+    "78760": {
+      "title": "Classmates wa Isekai Ten'i nanoni Watashi wa Isekai Tensei",
+      "pub": "Releasing",
+      "mbId": 369581,
+      "newsCount": 0
+    }
+  },
+  "updatedAt": "2026-07-11T00:14:11.124Z"
+}

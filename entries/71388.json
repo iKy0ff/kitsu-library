@@ -1,0 +1,239 @@
+{
+  "kitsuId": "71388",
+  "title": "Fortune-Telling Lady",
+  "updatedAt": "2026-07-10T23:56:38.833Z",
+  "matchVersion": 2,
+  "mangabakaId": 6245,
+  "mangabakaUrl": "https://mangabaka.org/6245",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kL2UvYi8yL2EvNi9lLzQvMDQ2Yy80ZDhiLzliM2QvNTBhOWRkZGRhNGIz",
+  "author": "Kimgae, Saidin",
+  "synopsis": "Actress Lee Sia hasn't just been haunted by ghosts for years, she's also been plagued by dreams of a girl named Camilla Sorphel dying repeatedly at the hands of her stepfather and stepbrother. Despite her efforts to ignore the dreams, when an accident at work makes her wake up as Camilla, she's forced to seek the help of various ghosts to win over her family and avoid getting killed. But can this former actress play the part of a loving daughter and sister to her future executors? \n\n(Source: Tapas)",
+  "status": "Releasing",
+  "rating": 7.9,
+  "total": 144,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "comedy",
+    "drama",
+    "shoujo",
+    "slice_of_life",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Acting",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Red-Eyed Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Red-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Pink-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Noble Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Actress",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Dukes",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Brother-Sister Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Family",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Siblings",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Harem",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Seeing Things Other Humans Can't",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "170151",
+    "anime_planet": "fortune-telling-lady",
+    "kitsu": "71388",
+    "manga_updates": "6hrii6o",
+    "my_anime_list": "163177",
+    "shikimori": "163177"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/155233",
+    "https://page.kakao.com/content/62596697",
+    "https://tapas.io/series/fortune-telling-lady/info",
+    "https://th.kakaowebtoon.com/content/เลดี้ผู้ทำนายโชคชะตา/771",
+    "https://tw.kakaowebtoon.com/content/%E9%80%9A%E9%9D%88%E5%8D%83%E9%87%91/685",
+    "https://webtoon.kakao.com/content/점괘보는-공녀님/3722?tab=episode",
+    "https://mangabaka.org/6245"
+  ]
+}

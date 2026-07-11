@@ -1,0 +1,227 @@
+{
+  "kitsuId": "70244",
+  "title": "Wangui Himeuro Hoegwihanda",
+  "updatedAt": "2026-07-11T00:10:28.695Z",
+  "matchVersion": 2,
+  "mangabakaId": 73161,
+  "mangabakaUrl": "https://mangabaka.org/73161",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80LzgvYi9mLzIvYS9hL2IvMWY1ZC80YzVhL2FlZjUvMzE0OGQ0OTE4YWY5",
+  "author": "Ahn Soseol, Hyeon Seong",
+  "synopsis": "In a world where one's worth is determined by how powerful their skill is, Taehyeon is 35, unawakened, and barely able to scrape by as a pack bearer for monster hunters. But when a mysterious being calling itself “the King” gives him a skill of his own, Taehyeon gets a second chance at life. Now he’s back in high school and armed with Gluttony, a skill that allows him to block and absorb the skills of others! \n\n(Source: Webtoons)",
+  "status": "Releasing",
+  "rating": 6.9,
+  "total": 150,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "fantasy",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Battles",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Large Scale Battles",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon Exploring",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Blue-Haired Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Brown-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Brown-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullied Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult Cast",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Plain-Looking Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Rewind",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Knife",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Guild Master",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Special Ability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "170724",
+    "anime_planet": "returned-by-the-king",
+    "kitsu": "70244",
+    "manga_updates": "v9btf4k",
+    "my_anime_list": "164820",
+    "shikimori": "164820"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=817958",
+    "https://series.naver.com/comic/detail.series?productNo=10319749",
+    "https://www.webtoons.com/en/action/returned-by-the-king/list?title_no=6213",
+    "https://www.webtoons.com/fr/action/returned-by-the-king/list?title_no=6275",
+    "https://www.webtoons.com/th/action/returned-by-the-king/list?title_no=6007",
+    "https://namu.wiki/w/%EC%99%95%EC%9D%98%20%ED%9E%98%EC%9C%BC%EB%A1%9C%20%ED%9A%8C%EA%B7%80%ED%95%9C%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/73161"
+  ]
+}

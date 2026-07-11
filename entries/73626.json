@@ -1,0 +1,167 @@
+{
+  "kitsuId": "73626",
+  "title": "Dao of the Bizarre Immortal",
+  "updatedAt": "2026-07-11T00:04:32.211Z",
+  "matchVersion": 2,
+  "mangabakaId": 1093,
+  "mangabakaUrl": "https://mangabaka.org/1093",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE4NTU3Mi1vcFZTQlRHWUtHVDYucG5n",
+  "author": "Huwei De Bi, Xiaodao Zhang",
+  "synopsis": "High schooler Li Huowang can close his eyes and be transported to an uncanny world. Over there, he is a medicine primer who will be made into pills by his \"Master\" at any given time. Meanwhile, in the real world, Li Huowang is living in a mental hospital, unfit to continue school. The doctor told him that the uncanny world is just his hallucinations. What is real, and what is fake? Li Huowang really does not know. \n\n(Source: Webnovel)",
+  "status": "Releasing",
+  "rating": 7,
+  "total": 70,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "adventure",
+    "horror",
+    "mystery",
+    "psychological",
+    "supernatural",
+    "drama",
+    "fantasy",
+    "historical",
+    "martial_arts",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Alternate Universe",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Chinese Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Dark Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Disability",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Rehabilitation",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "185572",
+    "anime_planet": "dao-of-the-bizarre-immortal",
+    "kitsu": "73626",
+    "manga_updates": "rmqth2f"
+  },
+  "links": [
+    "https://ac.qq.com/Comic/ComicInfo/id/656073",
+    "https://www.webnovel.com/comic/abnormal-immortal-record-of-spooky-daoist_31463636800272701",
+    "https://mangabaka.org/1093"
+  ]
+}

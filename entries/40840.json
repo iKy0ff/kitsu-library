@@ -1,0 +1,301 @@
+{
+  "kitsuId": "40840",
+  "title": "Kuma Kuma Kuma Bear",
+  "updatedAt": "2026-07-10T23:53:02.752Z",
+  "matchVersion": 2,
+  "mangabakaId": 8720,
+  "mangabakaUrl": "https://mangabaka.org/8720",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84L2QvNy83LzIvZC82L2IvMDg3Mi80YTNjLzkxY2YvOTlkODc4OGUyYTdl",
+  "author": "Kumanano, Sergei",
+  "synopsis": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO game to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has!\n\n(Source: Seven Seas Entertainment)",
+  "status": "Releasing",
+  "rating": 7.6,
+  "total": 137,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "fantasy",
+    "action",
+    "adventure",
+    "josei",
+    "sci-fi",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Cute Girls Doing Cute Things",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Child Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Kind female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Henshin",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Hikikomori",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Economics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Yuri",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Loneliness",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, April 12-18",
+      "date": "2026-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-17/north-american-anime-manga-releases-april-12-18/.236358"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 31-September 6",
+      "date": "2025-09-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-09-04/north-american-anime-manga-releases-august-31-september-6/.228364"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 30-April 5",
+      "date": "2025-04-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-04-04/north-american-anime-manga-releases-march-30-april-5/.223096"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 8-14",
+      "date": "2024-12-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-12/north-american-anime-manga-releases-december-8-14/.218853"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 21-27",
+      "date": "2024-07-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-07-25/north-american-anime-manga-releases-july-21-27/.213514"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 10-16",
+      "date": "2024-03-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-03-13/north-american-anime-manga-releases-march-10-16/.208671"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 29-November 4",
+      "date": "2023-11-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-01/north-american-anime-manga-releases-october-29-november-4/.203993"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 9-15",
+      "date": "2022-01-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-01-11/north-american-anime-manga-releases-january-9-15/.181416"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 22-28",
+      "date": "2021-08-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-08-24/north-american-anime-manga-releases-august-22-28/.176614"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 17-23",
+      "date": "2021-01-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-01-19/north-american-anime-manga-releases-january-17-23/.168562"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 8-14",
+      "date": "2020-11-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-10/north-american-anime-manga-releases-november-8-14/.166213"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 6-12",
+      "date": "2020-09-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-09-08/north-american-anime-manga-releases-september-6-12/.163802"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 14-20",
+      "date": "2020-06-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-06-16/north-american-anime-manga-releases-june-14-20/.160703"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 10-16",
+      "date": "2020-05-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-05-12/north-american-anime-manga-releases-may-10-16/.159485"
+    },
+    {
+      "title": "Seven Seas Licenses Kuma Kuma Kuma Bear Light Novels and Manga Series",
+      "date": "2019-10-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2019-10-24/seven-seas-licenses-kuma-kuma-kuma-bear-light-novels-and-manga-series/.152581"
+    }
+  ],
+  "sources": {
+    "anilist": "101449",
+    "anime_planet": "kuma-kuma-kuma-bear",
+    "anime_news_network": "22597",
+    "kitsu": "40840",
+    "manga_updates": "vb4q73k",
+    "my_anime_list": "113752",
+    "shikimori": "113752"
+  },
+  "links": [
+    "https://pash-up.jp/content/00000001",
+    "https://sevenseasentertainment.com/series/kuma-kuma-kuma-bear-manga/",
+    "https://www.kadokawa.com.tw/products/9789577436740",
+    "https://comicpash.jp/kuma/",
+    "https://en.wikipedia.org/wiki/Kuma_Kuma_Kuma_Bear",
+    "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%BE%E3%82%AF%E3%83%9E%E7%86%8A%E3%83%99%E3%82%A2%E3%83%BC",
+    "https://mangabaka.org/8720"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "kitsuId": "75705",
+  "title": "myeolmanghan segyeeseo on geomsin",
+  "updatedAt": "2026-07-11T00:13:59.290Z",
+  "matchVersion": 2,
+  "mangabakaId": 351587,
+  "mangabakaUrl": "https://mangabaka.org/351587",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jLzUvOC82LzkvZS9jL2UvODkzYi80OTY1L2JmMWUvMzQ3OGY4N2E3MjA3",
+  "author": "Baebureumyeongeumanmeogeora, Dokgojin, Samsigi",
+  "synopsis": "The world was destroyed. A world filled with death and despair. The one who fought with a sword until the end — Sword God. Karselian Le Vandeyan. However, as if by fate, the door to another world opened, and this time… It was the Earth that had not been destroyed. There, monsters slowly appeared, and people were still living without knowing how great this disaster was. This world had not yet been destroyed. However, the moment they let their guard down, that terrible nightmare from the past would repeat itself. To prevent that Sword God takes up his sword again. He borrows the body of a weak human from the past and begins a new life. In exchange for taking over the body, he makes one promise. “I will protect your family.” And now, the real beginning. \n\n(Source: KakaoPage, translated)",
+  "status": "Completed",
+  "rating": 6.8,
+  "total": 51,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "drama",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Arrogant Characters",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "AI Generated",
+      "group": "Work Info",
+      "weight": "incidental"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "194024",
+    "anime_planet": "the-sword-god-from-a-ruined-world",
+    "kitsu": "75705",
+    "manga_updates": "n048hww",
+    "my_anime_list": "182461",
+    "shikimori": "182461"
+  },
+  "links": [
+    "https://page.kakao.com/content/66821873",
+    "https://piccoma.com/web/product/190966",
+    "https://webtoon.kakao.com/content/멸망한-세계에서-온-검신/4517?tab=episode",
+    "https://www.webtoons.com/fr/action/the-sword-god-from-the-destroyed-world/list?title_no=9307",
+    "https://mangabaka.org/351587"
+  ]
+}

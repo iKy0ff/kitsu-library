@@ -1,0 +1,119 @@
+{
+  "kitsuId": "66505",
+  "title": "Chao Shen Chong Shou Dian",
+  "updatedAt": "2026-07-10T23:56:22.873Z",
+  "matchVersion": 2,
+  "mangabakaId": 1516,
+  "mangabakaUrl": "https://mangabaka.org/1516",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE2MDE0My0wYlJpamRDS3FiV0cuanBn",
+  "author": "Bukun Zhou, Xi Gu",
+  "synopsis": "In the era of astral pets, only the might of pets was essential! However, making the pets stronger has always been a slow and arduous process for pet warriors. That was until the appearance of a mysterious pet shop that changed everything! The weakest skeleton could slay a great golden dragon with a single strike after training at this pet shop! Even the humble watchdog of the shop possessed ten legendary skills, and the female worker in the shop claimed to be a Goddess... As for what the shopkeeper Su Ping thinks: I'm merely training these cute pets to become exceptional overlord beasts. What? Is it not normal? \n\n(Source: Webnovel, translated)",
+  "status": "Releasing",
+  "rating": 7.3,
+  "total": 213,
+  "type": "manhua",
+  "genres": [
+    "action",
+    "drama",
+    "fantasy",
+    "comedy",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Monster/Beast Tamer",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Pets",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "160143",
+    "anime_planet": "astral-pet-store",
+    "kitsu": "66505",
+    "manga_updates": "8lke1mq"
+  },
+  "links": [
+    "https://ac.qq.com/Comic/ComicInfo/id/652762",
+    "https://manga.bilibili.com/detail/mc32436",
+    "https://www.iqiyi.com/manhua/detail_1xpubg2bjud.html",
+    "https://www.kuaikanmanhua.com/web/topic/16192/",
+    "https://www.webnovel.com/comic/astral-pet-store_24751317505732701",
+    "https://mangabaka.org/1516"
+  ]
+}

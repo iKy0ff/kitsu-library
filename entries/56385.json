@@ -1,0 +1,321 @@
+{
+  "kitsuId": "56385",
+  "title": "Rekishi ni Nokoru Akujo ni naru zo: Akuyaku Reijou ni naru hodo Ouji no Dekiai wa Kasoku suru you desu!",
+  "updatedAt": "2026-07-11T00:08:25.525Z",
+  "matchVersion": 2,
+  "mangabakaId": 2175,
+  "mangabakaUrl": "https://mangabaka.org/2175",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzIvMy9iL2IvZS9mLzMvYTE4OC80ZTM1Lzg4ZTEvZmJmMzk0YTM3OGQ3",
+  "author": "Akari Hoshi, Izumi Ookido",
+  "synopsis": "“Screw all your lip service! I'll go down in history as a villainess!” Me, the same girl who hates all those prim and proper heroines, got reincarnated as the villainess in the world of my favorite fantasy dating sim! It's my dream come true, so I'm going to leave my mark on history by becoming the world's greatest villainess! But to do that, I'll need to get a lot stronger and smarter. Just one problem—the harder I try to be evil, the harder the prince falls for me! At this rate, will I ever get to earn my place in history?! \n\n(Source: Yen Press)",
+  "status": "Releasing",
+  "rating": 7.5,
+  "total": 35,
+  "type": "manga",
+  "genres": [
+    "comedy",
+    "fantasy",
+    "romance",
+    "drama",
+    "josei"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Josei",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ojou-sama",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Eyepatch-Wearing Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dark/Tan Skin",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tanned Skin",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Blunt Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Emotionally Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Hard-Working Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dark/Tan Skin Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Memories of Past Life",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Prince",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Child Abuse",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Disability",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Otome Game",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, March 22-28",
+      "date": "2026-03-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-27/north-american-anime-manga-releases-march-22-28/.235655"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 24-30",
+      "date": "2025-08-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-29/north-american-anime-manga-releases-august-24-30/.228082"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 23-29",
+      "date": "2025-03-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-03-28/north-american-anime-manga-releases-march-23-29/.222870"
+    },
+    {
+      "title": "The Fall 2024 Manga Guide - I'll Become a Villainess Who Goes Down in History",
+      "date": "2024-10-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2024/fall/ill-become-a-villainess-who-goes-down-in-history/.215637"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 13-19",
+      "date": "2024-10-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-10-16/north-american-anime-manga-releases-october-13-19/.216737"
+    },
+    {
+      "title": "Acquisitions Announcement – Yen Press Surprises Fans with Over a Dozen New Titles",
+      "date": "2024-04-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2024-04-27/acquisitions-announcement-yen-press-surprises-fans-with-over-a-dozen-new-titles/.210273"
+    },
+    {
+      "title": "Yen Press Licenses 9 Manga, 5 Light Novel Series for October 2024",
+      "date": "2024-04-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-26/yen-press-licenses-9-manga-5-light-novel-series-for-october-2024/.210259"
+    }
+  ],
+  "sources": {
+    "anilist": "118721",
+    "anime_planet": "ill-become-a-villainess-who-goes-down-in-history-it-seems-turning-into-a-high-born-baddie-makes-the-prince-all-the-more-lovestruck",
+    "anime_news_network": "29352",
+    "kitsu": "56385",
+    "manga_updates": "9jjo0vj",
+    "my_anime_list": "126522",
+    "shikimori": "126522"
+  },
+  "links": [
+    "https://bslogcomic.com/series/rekishini_nokoru_akujoni_naruzo/",
+    "https://comic.pixiv.net/works/6628",
+    "https://comic-walker.com/contents/detail/KDCW_EB03201656010000_68/",
+    "https://seiga.nicovideo.jp/comic/47386",
+    "https://yenpress.com/series/i-ll-become-a-villainess-who-goes-down-in-history",
+    "https://bslogcomic.com/rekishi/index.html",
+    "https://en.wikipedia.org/wiki/I%27ll_Become_a_Villainess_Who_Goes_Down_in_History",
+    "https://ja.wikipedia.org/wiki/%E6%AD%B4%E5%8F%B2%E3%81%AB%E6%AE%8B%E3%82%8B%E6%82%AA%E5%A5%B3%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9E_%E6%82%AA%E5%BD%B9%E4%BB%A4%E5%AC%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E7%8E%8B%E5%AD%90%E3%81%AE%E6%BA%BA%E6%84%9B%E3%81%AF%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%A7%E3%81%99!",
+    "https://mangabaka.org/2175"
+  ]
+}

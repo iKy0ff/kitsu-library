@@ -1,0 +1,462 @@
+{
+  "kitsuId": "58010",
+  "title": "Iphagyongbyeong",
+  "updatedAt": "2026-07-11T00:04:44.200Z",
+  "matchVersion": 2,
+  "mangabakaId": 836,
+  "mangabakaUrl": "https://mangabaka.org/836",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzcvOC9kLzQvNi8zL2MvZGVjOC80NDBkLzlkZDQvZTg4MjcxZDE5M2Vj",
+  "author": "YC",
+  "synopsis": "At the age of eight, I-Jin Yu lost his parents in a plane crash and became stranded in a foreign land, forced to become a child mercenary in order to stay alive. He returns home ten years later to be reunited with his family in Korea, where food and shelter are plenty and everything seems peaceful. But I-Jin will soon learn that life as a teenager is a whole other feat of survival. With only one year of high school left, I-Jin must master new tactics to maneuver his way around the schoolhouse battleground. Can he survive a year of high school? Or rather, will the school be able to survive him?\n\n(Source: WEBTOON)",
+  "status": "Hiatus",
+  "rating": 8.1,
+  "total": 280,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "drama",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Armed Combat",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fights",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Unarmed Combat",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Crimes",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kidnapping",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Terrorism",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Kuudere",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adult Male Lead",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Muscular Male Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Handsome Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Scars",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Bully",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Badass Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Kind Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Overpowered Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Protective Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Quiet Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Straightforward Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Younger Sister",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "South Korea",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hidden past",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Lifestyle Change",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Knife",
+      "group": "Objects",
+      "weight": "incidental"
+    },
+    {
+      "name": "School Uniform",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Motorcycles",
+      "group": "Objects",
+      "weight": "incidental"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Bodyguard",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fighters",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Gangster",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "School Boy",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "School Girl",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Soldier",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Yakuza",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Family",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Siblings",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Brother and Sister",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Sisters",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Dead Parents",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Korean Folklore",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guns",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Organized Crime",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Mafia",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Terrorism",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Modern Era",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "126297",
+    "anime_planet": "teenage-mercenary",
+    "kitsu": "58010",
+    "manga_updates": "sclnjge",
+    "my_anime_list": "146966",
+    "shikimori": "146966"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list.nhn?titleId=758150&weekday=sun",
+    "https://series.naver.com/comic/detail.series?productNo=5611024",
+    "https://www.dongmanmanhua.cn/BOY/shaonianyongbing/list?title_no=1575",
+    "https://www.webtoons.com/de/action/teenage-mercenary/list?title_no=3732",
+    "https://www.webtoons.com/en/action/teenage-mercenary/list?title_no=2677",
+    "https://www.webtoons.com/es/action/teenage-mercenary/list?title_no=3252",
+    "https://www.webtoons.com/fr/action/high-school-mercenary/list?title_no=2678",
+    "https://www.webtoons.com/th/action/high-school-soldier/list?title_no=2438",
+    "https://www.webtoons.com/zh-hant/school/mercenary-soldier/list?title_no=2416",
+    "https://comic.naver.com/webtoon/list?titleId=758150",
+    "https://en.wikipedia.org/wiki/Teenage_Mercenary",
+    "https://namu.wiki/w/%EC%9E%85%ED%95%99%EC%9A%A9%EB%B3%91",
+    "https://mangabaka.org/836"
+  ]
+}

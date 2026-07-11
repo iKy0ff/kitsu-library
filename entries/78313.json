@@ -1,0 +1,93 @@
+{
+  "kitsuId": "78313",
+  "title": "Koujo Tensei: Densetsu no Daimadoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan wo Tsukuri Musou suru",
+  "updatedAt": "2026-07-10T23:56:30.767Z",
+  "matchVersion": 2,
+  "mangabakaId": 521424,
+  "mangabakaUrl": "https://mangabaka.org/521424",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMDAxOC12TzFNWldYVmRyRnMuanBn",
+  "author": "Arata Shiraishi",
+  "synopsis": "“I just wanted to become… the world's strongest!”\nAn archmage dies with his dream unfulfilled, only to find himself then reincarnated into the royal family. What's more, his new body is gifted with great abilities when it comes to close combat! In the hope of reaching the very top this time… he is given the name Evangeline—indeed, he turned female. Now living the life of a princess, muscle training and fighting are obviously off the table, but that doesn't stop Eva from secretly lifting dumbbells and swinging the sword in her bedroom! Thus, before she knows it—she became the strongest!? A tomboy princess power climb fantasy!\n\n(Source: Pocket Magazine, translated)",
+  "status": "Releasing",
+  "rating": 6.9,
+  "total": 21,
+  "type": "manga",
+  "genres": [
+    "fantasy",
+    "action",
+    "comedy",
+    "gender_bender",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Pink-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "200018",
+    "anime_planet": "koujo-tensei-densetsu-no-dai-madoushi-hime-kishi-to-narite-densetsu-no-reijou-kishidan-wo-tsukuri-musousuru",
+    "kitsu": "78313",
+    "manga_updates": "rer6umo",
+    "my_anime_list": "188078",
+    "shikimori": "188078"
+  },
+  "links": [
+    "https://pocket.shonenmagazine.com/title/02838/episode/422654",
+    "https://pocket.shonenmagazine.com/title/02838/",
+    "https://mangabaka.org/521424"
+  ]
+}

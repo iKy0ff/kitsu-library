@@ -1,0 +1,164 @@
+{
+  "kitsuId": "58053",
+  "title": "Isekai Ten'ishita Node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru",
+  "updatedAt": "2026-07-11T00:07:27.571Z",
+  "matchVersion": 2,
+  "mangabakaId": 41404,
+  "mangabakaUrl": "https://mangabaka.org/41404",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzkvYy9jLzAvNi9hL2EvNzJhNy80Y2ZmL2I2YjgvYmU4YzU5ZmY5YTM2",
+  "author": "Nanora, Shotou Shinkou",
+  "synopsis": "**“If going back home isn’t an option… I might as well try to make the best of this, right? I think I’ll have more fun here, anyway.”**\n\nSuzumiya Kaede has little to look forward to in life aside from online gaming, and even that’s slipping away from him. After a three-day-long MMO bender, he passes out and finds himself waking up in an entirely foreign fantasy world full of monsters and magic. Starting out with access to unthinkably powerful skills, he resolves to make the most of the situation and pioneer a hitherto unheard of niche: a spellsword.\n\n*Source: Comikey Media*",
+  "status": "Releasing",
+  "rating": 6.8,
+  "total": 52,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "romance"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to a Game World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "Comikey Adds 13 More Manga From Square Enix Including Bottom-tier Character Tomozaki, Rust-Eater Bisco",
+      "date": "2021-11-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-11-19/comikey-adds-13-more-manga-from-square-enix-including-bottom-tier-character-tomozaki-rust-eater-/.179760"
+    }
+  ],
+  "sources": {
+    "anilist": "126148",
+    "anime_planet": "i-think-ill-cheat-to-become-a-spellsword-in-another-world",
+    "anime_news_network": "27111",
+    "kitsu": "58053",
+    "manga_updates": "92rlonz",
+    "my_anime_list": "131333",
+    "shikimori": "131333"
+  },
+  "links": [
+    "https://bookwalker.jp/series/263575/",
+    "https://comic.pixiv.net/store/products/842265",
+    "https://comikey.com/comics/cheating-spellsword-in-another-world-manga/84/",
+    "https://global.manga-up.com/manga/141",
+    "https://ja.wikipedia.org/wiki/異世界転移したのでチートを生かして魔法剣士やることにする",
+    "https://www.amazon.co.jp/dp/B08VF2GT75",
+    "https://www.manga-up.com/titles/637",
+    "https://mangabaka.org/41404"
+  ]
+}

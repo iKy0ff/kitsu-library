@@ -1,0 +1,134 @@
+{
+  "kitsuId": "75131",
+  "title": "Choegang Dungeon-eul Wihayeo",
+  "updatedAt": "2026-07-11T00:11:15.421Z",
+  "matchVersion": 2,
+  "mangabakaId": 186706,
+  "mangabakaUrl": "https://mangabaka.org/186706",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzEvNy82LzAvOS85L2IvNjI0MC80ZGM4L2FjYzkvNzkwZmEwMzc5YTZl",
+  "author": "Yeong-Hun Go",
+  "synopsis": "Chiu Kang, known online as Kang Chi, is one of the best players in DC. To him, the real world feels dull and inefficient, so he pours everything into mastering the game. Yet... even at the top, life feels hollow. That all changed one day on his way home from the internet café. After a sudden accident, he wakes up not as Chiu Kang—but as Kella Caldern, the Demon King’s son.\n\n(Source: Tapas)",
+  "status": "Hiatus",
+  "rating": 6.2,
+  "total": 74,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullied Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Competent Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Naive Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "189990",
+    "anime_planet": "dungeon-architect",
+    "kitsu": "75131",
+    "manga_updates": "a1q3rg9",
+    "my_anime_list": "180891",
+    "shikimori": "180891"
+  },
+  "links": [
+    "https://page.kakao.com/content/66324872",
+    "https://tapas.io/series/for-the-ultimate-dungeon/info",
+    "https://webtoon.kakao.com/content/최강-던전을-위하여/4455",
+    "https://mangabaka.org/186706"
+  ]
+}

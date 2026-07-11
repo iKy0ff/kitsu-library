@@ -1,0 +1,266 @@
+{
+  "kitsuId": "68690",
+  "title": "Buchikire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+  "updatedAt": "2026-07-11T00:01:40.358Z",
+  "matchVersion": 2,
+  "mangabakaId": 6666,
+  "mangabakaUrl": "https://mangabaka.org/6666",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85LzMvNS8wL2YvNy9mLzQvOWFlZi80NjI3L2IwZmEvZjBjMWI2OTNmYzdl",
+  "author": "Imo Oono, Metabo Hagure",
+  "synopsis": "Elizabeth Leiston, the daughter of Haldoria’s powerful prime minister, is the picture of a refined noble lady and the perfect future queen. But when her fiancé publicly humiliates her, calls off their engagement, and starts spreading nasty rumors about her, Elizabeth reaches her breaking point. Why should her only friend be her loyal maid, and why should she continue to serve a country that doesn’t respect her? Elizabeth concludes she won't stand it any longer and will bring down the kingdom, even if it's the last thing she does! As such, she uses her quick wit and, more importantly, her seven magic grimoires to embark on a quest for revenge. And let her tell you, there will be hell to pay! \n\n(Source: J-Novel Club)",
+  "status": "Releasing",
+  "rating": 6.7,
+  "total": 66,
+  "type": "manga",
+  "genres": [
+    "drama",
+    "fantasy",
+    "adventure",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Blue-Eyed Character",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Blue-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Blue-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychopaths",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Blood-Thirsty Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sadistic Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Prison",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "J-Novel Club Reveals 7 Light Novel, 2 Manga Licenses, 13 Print Releases",
+      "date": "2026-07-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/j-novel-club-reveals-7-light-novel-2-manga-licenses-13-print-releases/.239251"
+    },
+    {
+      "title": "Crunchyroll to Stream One Piece Heroines, BanG Dream! Yume∞Mita, The Frontier Lord Begins with Zero Subjects, More Anime",
+      "date": "2026-06-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-30/crunchyroll-to-stream-one-piece-heroines-bang-dream-yume-mita-the-frontier-lord-begins-with-zero-/.239144"
+    },
+    {
+      "title": "Read It First: Manga, Light Novel Sources for Summer 2026 Anime",
+      "date": "2026-06-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2026/summer/.237534"
+    },
+    {
+      "title": "A Livid Lady's Guide to Getting Even Novels Get Anime",
+      "date": "2025-08-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-18/a-livid-lady-guide-to-getting-even-novels-get-anime/.227765"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 18-24",
+      "date": "2025-05-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-05-22/north-american-anime-manga-releases-may-18-24/.224588"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 22-28",
+      "date": "2024-12-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-26/north-american-anime-manga-releases-december-22-28/.219453"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 22-28",
+      "date": "2024-09-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-09-25/north-american-anime-manga-releases-september-22-28/.215957"
+    },
+    {
+      "title": "The Spring 2024 Light Novel Guide - A Livid Lady's Guide to Getting Even",
+      "date": "2024-04-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2024/spring/a-livid-lady-guide-to-getting-even/.209596"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 21-27",
+      "date": "2024-04-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-24/north-american-anime-manga-releases-april-21-27/.210133"
+    },
+    {
+      "title": "J-Novel Club Licenses 6 Novels, 7 Manga Titles",
+      "date": "2024-01-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-19/j-novel-club-licenses-6-novels-7-manga-titles/.206639"
+    }
+  ],
+  "sources": {
+    "anilist": "166824",
+    "anime_planet": "a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires",
+    "anime_news_network": "30713",
+    "kitsu": "68690",
+    "manga_updates": "whiiyub",
+    "my_anime_list": "164837",
+    "shikimori": "164837"
+  },
+  "links": [
+    "https://firecross.jp/ebook/series/468",
+    "https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-manga",
+    "https://www.omoi.com/series/a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires",
+    "https://en.wikipedia.org/wiki/A_Livid_Lady's_Guide_to_Getting_Even",
+    "https://mangabaka.org/6666"
+  ]
+}

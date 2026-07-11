@@ -1,0 +1,120 @@
+{
+  "kitsuId": "78549",
+  "title": "Dominant",
+  "updatedAt": "2026-07-10T23:55:16.721Z",
+  "matchVersion": 2,
+  "mangabakaId": 57929,
+  "mangabakaUrl": "https://mangabaka.org/57929",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1NTg4NS1SdldTN1RoSEZETjQuanBn",
+  "author": "Jun Igarashi",
+  "synopsis": "Seika Uno joined an integrated secondary school as a high schooler and felt alienated in the new environment, until one day when she met a young man in a mansion she wandered into by accident. With help from the mysterious young man and touched by his guitar, Seika's world begins to expand. \n\nA suspenseful platonic love story begins between two people connected by music! \n\n(Source: Kadokawa, translated) \n\n*Note: Includes 19 main chapters originally serialized in 22 parts and 25 extra chapters.*",
+  "status": "Completed",
+  "rating": 6.7,
+  "total": 49,
+  "type": "manga",
+  "genres": [
+    "drama",
+    "mystery",
+    "psychological",
+    "romance",
+    "slice_of_life",
+    "suspense"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Music",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Mystery",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Suspense",
+      "group": "Themes",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "155885",
+    "anime_planet": "dominant",
+    "kitsu": "78549",
+    "manga_updates": "vburzb5",
+    "my_anime_list": "193447"
+  },
+  "links": [
+    "https://comic.pixiv.net/works/8502",
+    "https://comic-walker.com/contents/detail/KDCW_AP01203052010000_68/",
+    "https://seiga.nicovideo.jp/comic/58196",
+    "https://comic-walker.com/detail/KC_004567_S",
+    "https://mangabaka.org/57929"
+  ]
+}

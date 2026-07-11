@@ -1,0 +1,183 @@
+{
+  "kitsuId": "74942",
+  "title": "Yuusha desu ga, Heroine-tachi ni Inochi wo Nerawareteimasu",
+  "updatedAt": "2026-07-11T00:01:09.587Z",
+  "matchVersion": 2,
+  "mangabakaId": 1321,
+  "mangabakaUrl": "https://mangabaka.org/1321",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kL2QvNi83LzIvMS9kLzUvMjI2ZS80ZjNlL2ExMTEvOTM4ODBjOGQ4YmJl",
+  "author": "Ma-Mo Kim, Yeon-Jin Jeong",
+  "synopsis": "Frey is the anti-hero who killed his loved ones and doomed the world. But his true goal was to open the hidden route and save the heroines from their fated deaths. Reborn in the past, Frey has a chance to change destiny... until he realizes the five heroines he once killed remember everything, and this time, they want him dead.\n\n(Source: Manta)",
+  "status": "Releasing",
+  "rating": 6.6,
+  "total": 60,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "romance",
+    "adventure",
+    "drama",
+    "harem",
+    "psychological",
+    "school_life",
+    "shounen",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Time Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "187296",
+    "anime_planet": "yuusha-desu-ga-heroine-tachi-ni-inochi-wo-nerawareteimasu",
+    "kitsu": "74942",
+    "manga_updates": "40te5q1"
+  },
+  "links": [
+    "https://manta.net/en/series/the-heroines-want-me-dead?seriesId=3712",
+    "https://page.kakao.com/content/65792991",
+    "https://piccoma.com/web/product/176458",
+    "https://webtoon.kakao.com/content/메인-히로인들이-나를-죽이려-한다/4371",
+    "https://mangabaka.org/1321"
+  ]
+}

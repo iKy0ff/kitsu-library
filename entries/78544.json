@@ -1,0 +1,58 @@
+{
+  "kitsuId": "78544",
+  "title": "Asayake no Iro",
+  "updatedAt": "2026-07-11T00:12:22.218Z",
+  "matchVersion": 2,
+  "mangabakaId": 57842,
+  "mangabakaUrl": "https://mangabaka.org/57842",
+  "match": {
+    "confidence": "medium",
+    "method": "scored",
+    "score": 56
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1ODYxOC16Nkp4ZGJxc3hvWVcucG5n",
+  "author": "Haruo Iwamune",
+  "synopsis": "A woman wakes up early and decides to take a walk and enjoy the sunrise.",
+  "status": "Completed",
+  "rating": 6.4,
+  "total": 1,
+  "type": "manga",
+  "genres": [
+    "slice_of_life",
+    "seinen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "One Shot",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "158618",
+    "anime_planet": "asayake-no-iro",
+    "manga_updates": "9421i0w",
+    "my_anime_list": "172276",
+    "shikimori": "172276"
+  },
+  "links": [
+    "https://mangabaka.org/57842"
+  ]
+}

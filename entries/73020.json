@@ -1,0 +1,152 @@
+{
+  "kitsuId": "73020",
+  "title": "The Academy's Genius Tamer",
+  "updatedAt": "2026-07-11T00:08:44.858Z",
+  "matchVersion": 2,
+  "mangabakaId": 80224,
+  "mangabakaUrl": "https://mangabaka.org/80224",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2IvMC9mL2IvZC9jL2UvYjQ4Ni80ZDY3L2JkNDMvZDc4M2Y0YTFmMjA1",
+  "author": "Seoul Kang, Tae-San Lee",
+  "synopsis": "Shunned as the weird kid at school, Han Siha wakes up one morning to find he is not quite himself anymore. Instead, a former vet intern who died from overworking has taken over Siha's body! But this story isn't like the novel he read in the \"real world.\" With status windows popping up, feisty dragon partners, and classmates meant to be his future enemies, Siha is unsure if his skills are up to snuff. Will this mage make it to graduation? Or will he find that this story has an abrupt ending?\n\n(Source: Tapas)",
+  "status": "Completed",
+  "rating": 6.7,
+  "total": 83,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "drama",
+    "romance",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Brown-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekaied Into a Novel",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Transmigrated into a Book World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "183698",
+    "anime_planet": "the-academys-genius-tamer",
+    "kitsu": "73020",
+    "manga_updates": "nahdmoa",
+    "my_anime_list": "173809",
+    "shikimori": "173809"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/175304",
+    "https://page.kakao.com/content/64897059",
+    "https://tapas.io/series/the-academys-genius-tamer/info",
+    "https://webtoon.kakao.com/content/아카데미의-천재-테이머/4192",
+    "https://mangabaka.org/80224"
+  ]
+}

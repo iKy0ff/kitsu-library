@@ -1,0 +1,264 @@
+{
+  "kitsuId": "60262",
+  "title": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+  "updatedAt": "2026-07-11T00:06:55.790Z",
+  "matchVersion": 2,
+  "mangabakaId": 5387,
+  "mangabakaUrl": "https://mangabaka.org/5387",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzcvOC9lLzcvNi82LzkvNjI4Mi80Y2U5L2E5OWQvOGY4NzEwZTc1ZTUy",
+  "author": "Kairi, Suisei",
+  "synopsis": "Youki died in a traffic accident and was reborn in a fantasy world! However, instead of being the hero of legends, he ended up reincarnating into an overpowered demon. Having no desire to become the Demon Lord, he sits around in the Demon Lord's castle as a random low rank guardian. One day, the Hero's party comes to attack and on a whim he knocks out the entire hero party. Healing up the Hero party and then preparing to send them back to town, he notices the female priest and falls in love at first sight! \n\n(Source: Manga Mirai)",
+  "status": "Releasing",
+  "rating": 6.9,
+  "total": 68,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "romance",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Chuunibyou",
+      "group": "Character Archetype",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Androgynous Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Annoying Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Popular Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Rich Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Selfish Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Demon Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Dumb Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead Falls in Love at First Sight",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Naive Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Pushover Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Inexperienced in love",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Saint/Saintess",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Multiple Couples",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slow Romance",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Love Confession",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "Manga Mirai Adds 'There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her', 3 More Manga",
+      "date": "2026-02-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-02-24/manga-mirai-adds-there-was-a-cute-girl-in-the-hero-party-so-i-tried-confessing-to-her-3-more-manga/.234420"
+    },
+    {
+      "title": "There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her Coming Exclusively to Manga Mirai",
+      "date": "2026-02-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2026-02-20/there-was-a-cute-girl-in-the-hero-party-so-i-tried-confessing-to-her-coming-exclusively-to-manga-/.234397"
+    },
+    {
+      "title": "'There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her' Anime to Stream in India",
+      "date": "2025-08-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-24/there-was-a-cute-girl-in-the-hero-party-so-i-tried-confessing-to-her-anime-to-stream-in-india/.228018"
+    },
+    {
+      "title": "'There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her' Novels, Manga Get TV Anime",
+      "date": "2025-07-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-07-04/there-was-a-cute-girl-in-the-hero-party-so-i-tried-confessing-to-her-novels-manga-get-tv-anime/.226299"
+    }
+  ],
+  "sources": {
+    "anilist": "131140",
+    "anime_planet": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhakushitemita",
+    "anime_news_network": "28419",
+    "kitsu": "60262",
+    "manga_updates": "xqgbi3s",
+    "my_anime_list": "137779",
+    "shikimori": "137779"
+  },
+  "links": [
+    "https://gaugau.futabanet.jp/list/work/5dd64c1477656154fb010000",
+    "https://mangabaka.org/5387"
+  ]
+}

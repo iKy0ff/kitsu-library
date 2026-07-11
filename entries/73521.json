@@ -1,0 +1,163 @@
+{
+  "kitsuId": "73521",
+  "title": "Do You Need Salvation?",
+  "updatedAt": "2026-07-11T00:07:23.625Z",
+  "matchVersion": 2,
+  "mangabakaId": 8122,
+  "mangabakaUrl": "https://mangabaka.org/8122",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzgvZS82L2YvMi8yL2MvMDE1My80ZjRlL2JhZGQvOWZkZWEzYzc3MzY5",
+  "author": "Roron, Ye-Hwon",
+  "synopsis": "Terminally ill Miena Sidus has the ability to enter other people's dreams. Knowing her time will be up soon, Miena decides to use her power to gather money for her loving parents as a last gesture of gratitude. But as she navigates the dreams, she finds herself involved with a mysterious boy, a young lord, and a great dragon. Moreover, they all seem to need her help and are intent on saving her as well. Will these new relationships change Miena's fate and give her a ray of hope in life?\n\n(Source: Tapas)",
+  "status": "Completed",
+  "rating": 7,
+  "total": 84,
+  "type": "manhwa",
+  "genres": [
+    "fantasy",
+    "romance",
+    "shoujo"
+  ],
+  "tags": [
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "White/Silver-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sickly Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reverse Harem",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Dreams",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "188267",
+    "anime_planet": "do-you-need-salvation",
+    "kitsu": "73521",
+    "manga_updates": "yzuw2y2",
+    "my_anime_list": "173555",
+    "shikimori": "173555"
+  },
+  "links": [
+    "https://jp.piccoma.com/web/product/173643",
+    "https://page.kakao.com/content/64198525",
+    "https://tapas.io/series/do-you-need-salvation/info",
+    "https://webtoon.kakao.com/content/구원이-필요하신가요/4120?tab=episode",
+    "https://mangabaka.org/8122"
+  ]
+}

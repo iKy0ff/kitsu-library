@@ -1,0 +1,161 @@
+{
+  "kitsuId": "66779",
+  "title": "Madojeonsaenggi",
+  "updatedAt": "2026-07-10T23:51:05.484Z",
+  "matchVersion": 2,
+  "mangabakaId": 4643,
+  "mangabakaUrl": "https://mangabaka.org/4643",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2MvMC85L2QvNC82LzAvNzM2ZC80MGE3L2I3YzEvOGVmZWMyMDQ0MDIy",
+  "author": "codezero, FORCE STUDIO",
+  "synopsis": "Tired of the yoke of the Divine Justice Alliance, master assassin Cheon Ha-Jin attempts to flee, only to be confronted by martial artists of all allegiances, both orthodox and deviant. Succumbing to the wounds of his ferocious struggle for freedom, he awakens in the body of Seo Ryang, a prince of the notorious Heavenly Demon Cult who suffers from a disorder that prohibits him from the use of qi. In order to survive in his new life, Ha-Jin must contend with the many dangers and enemies that lurk within the cult.\n\n(Source: WEBTOON, edited)",
+  "status": "Releasing",
+  "rating": 7.7,
+  "total": 178,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "comedy",
+    "drama",
+    "historical",
+    "martial_arts",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Eyepatch",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Assassins",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cultivation",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Wuxia",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "164222",
+    "anime_planet": "chronicles-of-the-demon-faction",
+    "kitsu": "66779",
+    "manga_updates": "kuw7coe",
+    "my_anime_list": "157591",
+    "shikimori": "157591"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=807777",
+    "https://series.naver.com/comic/detail.series?productNo=9525690",
+    "https://www.dongmanmanhua.cn/BOY/modaozhuanshengji/list?title_no=2393",
+    "https://www.webtoons.com/en/action/chronicles-of-the-demon-faction/list?title_no=5832",
+    "https://www.webtoons.com/fr/fantasy/chronicles-of-the-demon-faction/list?title_no=5578",
+    "https://www.webtoons.com/th/action/chronicles-of-the-demon-faction/list?title_no=5537",
+    "https://www.webtoons.com/zh-hant/martial-arts/chronicles-of-the-demon-faction/list?title_no=5378",
+    "https://namu.wiki/w/%EB%A7%88%EB%8F%84%EC%A0%84%EC%83%9D%EA%B8%B0(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/4643"
+  ]
+}

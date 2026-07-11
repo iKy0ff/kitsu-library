@@ -1,0 +1,107 @@
+{
+  "kitsuId": "78001",
+  "title": "Game Sekai de Mamono ni Tensei shiteshimatta Ore, Zense de Oshi datta Heroine wo Hirotteshimau",
+  "updatedAt": "2026-07-10T23:54:45.138Z",
+  "matchVersion": 2,
+  "mangabakaId": 410688,
+  "mangabakaUrl": "https://mangabaka.org/410688",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzEvYy84LzUvNC9jL2EvOWJjNS80M2JiL2JlZDIvMzM3OWZkZjI4Zjk0",
+  "author": "Bebe Sanbu, Neushitora",
+  "synopsis": "When I woke up, I had reincarnated into the world of a game I played in my past life. And what's more, as a monster that's hostile to humanity! It couldn't be helped, so I just lived quietly so humans wouldn't find me, but... \n\nThe heroine, Noa, who was my oshi in my past life, had collapsed near my home!! \n\nAfter I protected and nursed her, my oshi gave me the name \"Rei\", so I decided to follow and protect Noa as my oshi for life. I meet other characters from the game too, and I'm watching over Noa's growth, but... the real Noa seems to be the type who's a bit clingy and has a... \"heavy\" love? \n\nThis is the story of me, reincarnated as a monster, somehow overcoming hardships together with my beloved oshi. \n\n(Source: Kadokawa, translated)",
+  "status": "Releasing",
+  "rating": 7.1,
+  "total": 11,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "209208",
+    "anime_planet": "game-sekai-de-mamono-ni-tenseishiteshimatta-ore-zense-de-oshi-datta-heroine-wo-hirotteshimau",
+    "manga_updates": "ofxl7x7",
+    "my_anime_list": "188709",
+    "shikimori": "188709"
+  },
+  "links": [
+    "https://comic-walker.com/detail/KC_007003_S?episodeType=first",
+    "https://comic-walker.com/detail/KC_007003_S",
+    "https://mangabaka.org/410688"
+  ]
+}

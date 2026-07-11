@@ -1,0 +1,225 @@
+{
+  "kitsuId": "67764",
+  "title": "Cleric of Decay",
+  "updatedAt": "2026-07-11T00:01:05.829Z",
+  "matchVersion": 2,
+  "mangabakaId": 1488,
+  "mangabakaUrl": "https://mangabaka.org/1488",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzYvYi81LzUvOC9jLzAvMDQ2YS80NDJlL2JmNWQvOTliNWFmOTY2NTc1",
+  "author": "Bori, Sadadeum",
+  "synopsis": "Not all job classes are created equal! Marnac was pulled into a game while trying to play as one of its worst job classes, cleric of decay. Now he’s the only cleric of the Order of Decay, serving a goddess who’s been reduced to an animated hand that repeats the word “MURDER!” Will the Order’s last cleric become powerful enough before the prophecy of “the end” comes true? \n\n(Source: WEBTOON)",
+  "status": "Hiatus",
+  "rating": 7.5,
+  "total": 79,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "comedy",
+    "drama",
+    "harem",
+    "mature",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Adult Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dungeon",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Priests",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Organized Crime",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Religion",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Cult",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "167165",
+    "anime_planet": "cleric-of-decay",
+    "kitsu": "67764",
+    "manga_updates": "a9ye3t1",
+    "my_anime_list": "159904",
+    "shikimori": "159904"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=809722",
+    "https://series.naver.com/comic/detail.series?productNo=9768601",
+    "https://www.webtoons.com/en/fantasy/cleric-of-decay/list?title_no=5813",
+    "https://www.webtoons.com/zh-hant/fantasy/cleric-of-decay/list?title_no=5769",
+    "https://namu.wiki/w/%EB%B6%80%ED%8C%A8%EC%9D%98%20%EC%82%AC%EC%A0%9C(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/1488"
+  ]
+}

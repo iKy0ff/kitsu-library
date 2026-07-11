@@ -1,0 +1,178 @@
+{
+  "kitsuId": "76826",
+  "title": "Akdangdeurui Huwonjaga Doeeotda",
+  "updatedAt": "2026-07-10T23:49:38.027Z",
+  "matchVersion": 2,
+  "mangabakaId": 547234,
+  "mangabakaUrl": "https://mangabaka.org/547234",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 75
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzAvOC9kL2QvZi81LzkvYWIzYS80NjU2Lzk2ODUvYTU5OWM0NDYyYWI4",
+  "author": "Bomhanbangul, LICO",
+  "synopsis": "One day, I woke up as a noble inside the game I used to play. Unfortunately, the game ends in an apocalypse. With ten years left, I track down the future villains while they’re still kids and decide to raise them myself, hoping that a better childhood could stop them from destroying the world. Now, with criminals dropping like flies, the kingdom thinks I’m the terrifying mastermind pulling all the strings. What on earth is happening? I just wanted to enjoy the sweet noble life!\n\n(Source: WEBTOON)",
+  "status": "Releasing",
+  "rating": 7.9,
+  "total": 43,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "comedy",
+    "drama",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Misunderstood Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Stoic Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Appearance Different from Personality",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Secret Organizations",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "201009",
+    "anime_planet": "i-became-a-patron-of-villains",
+    "manga_updates": "s1mg88x",
+    "my_anime_list": "188109",
+    "shikimori": "188109"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=844063",
+    "https://series.naver.com/comic/detail.series?productNo=13285922",
+    "https://www.dongmanmanhua.cn/FANTASY/wochenglefanpaimendejinzhu/list?title_no=2860",
+    "https://www.webtoons.com/en/fantasy/the-patron-of-villains/list?title_no=9321",
+    "https://www.webtoons.com/fr/action/the-patron-of-villains/list?title_no=9328",
+    "https://www.webtoons.com/th/fantasy/the-patron-of-villains/list?title_no=9444",
+    "https://www.webtoons.com/zh-hant/fantasy/the-patron-of-villains/list?title_no=9258",
+    "https://namu.wiki/w/%EC%95%85%EB%8B%B9%EB%93%A4%EC%9D%98%20%ED%9B%84%EC%9B%90%EC%9E%90%EA%B0%80%20%EB%90%98%EC%97%88%EB%8B%A4(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/547234"
+  ]
+}

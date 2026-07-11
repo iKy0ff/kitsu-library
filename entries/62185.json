@@ -1,0 +1,177 @@
+{
+  "kitsuId": "62185",
+  "title": "All Rounder",
+  "updatedAt": "2026-07-10T23:58:56.579Z",
+  "matchVersion": 2,
+  "mangabakaId": 49233,
+  "mangabakaUrl": "https://mangabaka.org/49233",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wL2YvNi9mL2QvNi9jLzYvYTY2MC80Nzk3L2I1ZTYvMGIwYmI1OWU0ZmVl",
+  "author": "Hong-Sil, Keyboard Manse",
+  "synopsis": "A world full of zombies. But this apocalypse... is it worth trying?! Mental care, wooden construction, heavenly magic, animal communication, mechanical engineering, performance, etc... There is so much to learn! \n\nThe sprint of the prepared survivor, who is good at everything, begins! \n\n(Source: Naver, translated)",
+  "status": "Completed",
+  "rating": 6.7,
+  "total": 118,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "horror",
+    "psychological",
+    "supernatural",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Artist",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Apocalypse",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Zombies",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dreams",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cosmic Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "incidental"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Seeing Things Other Humans Can't",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "144157",
+    "anime_planet": "all-rounder",
+    "kitsu": "62185",
+    "manga_updates": "byfmo6s",
+    "my_anime_list": "164421",
+    "shikimori": "164421"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=783117",
+    "https://series.naver.com/comic/detail.series?productNo=6669424",
+    "https://www.webtoons.com/de/action/multi-skill-collector/list?title_no=4515",
+    "https://www.webtoons.com/fr/action/multi-skill-collector/list?title_no=3973",
+    "https://namu.wiki/w/%EB%A7%8C%EB%8A%A5%EC%9E%A1%EC%BA%90(%EC%9B%B9%ED%88%B0)",
+    "https://mangabaka.org/49233"
+  ]
+}

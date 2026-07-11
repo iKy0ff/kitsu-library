@@ -1,0 +1,228 @@
+{
+  "kitsuId": "73836",
+  "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Kareinaru Musouroku",
+  "updatedAt": "2026-07-10T23:54:01.602Z",
+  "matchVersion": 2,
+  "mangabakaId": 3330,
+  "mangabakaUrl": "https://mangabaka.org/3330",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83L2EvZS84LzEvNS9lLzkvZjRhNS80OTc0L2EyZmEvY2VmODc1MWJhNGQ5",
+  "author": "Kodai Kabuto, Umikaze Minamino",
+  "synopsis": "“I wanted to die in battle.”\n\nThere once was a great hero, capable of killing a god, who longed to fight even at the brink of death. What awaited her was her reincarnation as Nia Liston, a beautiful but sickly daughter of nobles in a future world. Now in her second life, she gets another chance to rampage in fights, dabble in broadcasting, and even experience academy life! Thus begin the epic battle records of a heroine who will one day be called the “The Merciless Maiden, Nia Liston”!\n\n*Source: Manga UP! Global*",
+  "status": "Releasing",
+  "rating": 7.3,
+  "total": 41,
+  "type": "manga",
+  "genres": [
+    "fantasy",
+    "action",
+    "adventure",
+    "comedy",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Acting",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Shota",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Flat Chest",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Child Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Loli Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Airship",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Actor",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transmigration",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Lolicon",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shotacon",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "incidental"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "Manga Up! Global Adds Love in the Palm of His Hand, Cuticle Detective Inaba, 2 More Manga",
+      "date": "2024-03-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-03-27/manga-up-global-adds-love-in-the-palm-of-his-hand-cuticle-detective-inaba-2-more-manga/.209244"
+    }
+  ],
+  "sources": {
+    "anilist": "174279",
+    "anime_planet": "nia-liston-the-merciless-maiden",
+    "anime_news_network": "29729",
+    "kitsu": "73836",
+    "manga_updates": "6bl9p6h",
+    "my_anime_list": "164869",
+    "shikimori": "164869"
+  },
+  "links": [
+    "https://global.manga-up.com/manga/448",
+    "https://magazine.jp.square-enix.com/mangaup/original/kyouranreijoh/",
+    "https://en.wikipedia.org/wiki/Nia_Liston:_The_Merciless_Maiden",
+    "https://ja.wikipedia.org/wiki/%E5%87%B6%E4%B9%B1%E4%BB%A4%E5%AC%A2%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%AA%E3%82%B9%E3%83%88%E3%83%B3",
+    "https://www.manga-up.com/titles/1069",
+    "https://mangabaka.org/3330"
+  ]
+}

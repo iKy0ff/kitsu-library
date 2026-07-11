@@ -1,0 +1,445 @@
+{
+  "kitsuId": "74930",
+  "title": "Amheukmyeongga Cheonjae Mangnaniga Doeeossda",
+  "updatedAt": "2026-07-10T23:51:53.974Z",
+  "matchVersion": 2,
+  "mangabakaId": 110592,
+  "mangabakaUrl": "https://mangabaka.org/110592",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzUvMC9lL2MvOS9lLzMvMjRmYy80MDYwL2E2NzQvYWJiYTFiNGJkYjgw",
+  "author": "Salbyeol, Yu-In",
+  "synopsis": "The world has ended. I was a genius hero, but my efforts were too little, too late—I couldn’t stop the Blood Demon Emperor. As I died, I prayed for a second chance... but this isn't what I meant! Of all people, I’ve become Christian, a rogue member of the House of Dark Demons. As if that wasn’t enough, the world is still ending in just five years. There's only one way to save it: I must become the emperor myself and stop the war! I know it sounds ridiculous, but I’m a genius—I can make it work!\n\n(Source: Tapas)",
+  "status": "Releasing",
+  "rating": 7,
+  "total": 58,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "adventure",
+    "drama",
+    "shounen",
+    "supernatural"
+  ],
+  "tags": [
+    {
+      "name": "Acting",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Duels",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gambling",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Training",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Red-Eyed Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Red-Eyed Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Red-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Character",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Black-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Prodigy",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Genius Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Arrogant Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Capable Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Competent Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Confident Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Genius Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Greedy Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Immature Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Noble Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Regressed Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Casino",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Library",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Prison",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Death Fate",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic Items",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "defining"
+    },
+    {
+      "name": "Butler",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demon King",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Dukes",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Knight",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster/Beast Tamer",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Servant",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Aunt-Nephew Relationship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Brother-Brother Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Brothers",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Complicated Family",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Father-Son Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Younger Brother",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Spirits",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Alcohol",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Rich Family",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    },
+    {
+      "name": "Black/Dark Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "189380",
+    "anime_planet": "i-became-the-genius-bastard-of-a-noble-dark-clan",
+    "kitsu": "74930",
+    "manga_updates": "it34ciy",
+    "my_anime_list": "180510",
+    "shikimori": "180510"
+  },
+  "links": [
+    "https://page.kakao.com/content/66350478",
+    "https://tapas.io/series/the-unorthodox-genius-of-the-house-of-darkness/info",
+    "https://webtoon.kakao.com/content/암흑명가-천재-망나니가-되었다/4448",
+    "https://mangabaka.org/110592"
+  ]
+}

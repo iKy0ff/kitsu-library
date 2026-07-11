@@ -1,0 +1,182 @@
+{
+  "kitsuId": "53937",
+  "title": "Yuusha Goikkou no Kaerimichi",
+  "updatedAt": "2026-07-11T00:12:14.500Z",
+  "matchVersion": 2,
+  "mangabakaId": 30143,
+  "mangabakaUrl": "https://mangabaka.org/30143",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vMTAzNjg3LXVMTGNmU3I5U0Z4di5wbmc",
+  "author": "Ryouji Hirano",
+  "synopsis": "After their journey to defeat the Demon Lord ends, a group of heroes can finally go back home.",
+  "status": "Completed",
+  "rating": 7.9,
+  "total": 1,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "drama",
+    "fantasy",
+    "shounen",
+    "tragedy"
+  ],
+  "tags": [
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Primarily Adult Cast",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Determined Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dead Friend",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Death of Loved One",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Plot Twist",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Witch",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "One Shot",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    },
+    {
+      "name": "Necromancy",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "103687",
+    "anime_planet": "yuusha-goikkou-no-kaerimichi",
+    "kitsu": "53937",
+    "manga_updates": "lcs87ht",
+    "my_anime_list": "114754",
+    "shikimori": "114754"
+  },
+  "links": [
+    "https://shonenjumpplus.com/episode/10834108156632706507",
+    "https://mangabaka.org/30143"
+  ]
+}

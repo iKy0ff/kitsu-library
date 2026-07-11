@@ -1,0 +1,269 @@
+{
+  "kitsuId": "62523",
+  "title": "Quest Jisangjuui",
+  "updatedAt": "2026-07-10T23:57:45.340Z",
+  "matchVersion": 2,
+  "mangabakaId": 3367,
+  "mangabakaUrl": "https://mangabaka.org/3367",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzkvNS8yL2IvMC82LzYvZjRmOC80MjIzL2E2NDgvNzlhYTY3NDM1YTI3",
+  "author": "Nu-Ni Yoo",
+  "synopsis": "Gaming geek Su-Hyeon Kim hates school, and the dislike is mutual. Every day he faces relentless bullying from his classmates, leading him to wish his life was more like the RPG quest games he plays. Su-Hyeon’s wish is granted when a quest prompt pops up in real life with an easy quest and an enticing reward. With nothing to lose he takes the chance, and one quest soon leads to another. As the stakes get higher and the rewards get bigger, Su-Hyeon soon finds he’s gone from being an ostracized nobody to the top of the school. Just how far will Su-Hyeon take his quests, and how far will he fall if he refuses to participate?\n\n(Source: WEBTOON, edited)",
+  "status": "Completed",
+  "rating": 7.3,
+  "total": 174,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "supernatural",
+    "comedy",
+    "drama",
+    "fantasy",
+    "school_life",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Bullied Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Bully",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Popular Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Voluptuous Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Bullied Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Feminine Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Perverted Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Plain-Looking Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Weak Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Weak-Willed Male Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Delinquents",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "First Kiss",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Love Confession",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Martial Arts",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gangs",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "140837",
+    "anime_planet": "questism",
+    "kitsu": "62523",
+    "manga_updates": "yik2p1s",
+    "my_anime_list": "148666",
+    "shikimori": "148666"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=783052",
+    "https://series.naver.com/comic/detail.series?productNo=6707823",
+    "https://www.webtoons.com/en/fantasy/questism/list?title_no=3767",
+    "https://www.webtoons.com/fr/action/questism/list?title_no=4195",
+    "https://www.webtoons.com/th/fantasy/questism/list?title_no=3956",
+    "https://namu.wiki/w/%ED%80%98%EC%8A%A4%ED%8A%B8%EC%A7%80%EC%83%81%EC%A3%BC%EC%9D%98",
+    "https://mangabaka.org/3367"
+  ]
+}
