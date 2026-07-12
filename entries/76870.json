@@ -1,14 +1,14 @@
 {
   "kitsuId": "76870",
   "title": "Daegongnimui Sinbuneun Jiogui Jeonsa",
-  "updatedAt": "2026-07-11T00:31:22.156Z",
+  "updatedAt": "2026-07-12T02:21:24.105Z",
   "matchVersion": 2,
   "mangabakaId": 350044,
   "mangabakaUrl": "https://mangabaka.org/350044",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 69
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzYvMS84LzcvOS9mLzMvYTNmOC80N2ViLzk5NjkvYTJkYTI3MzUyZDcy",
   "author": "Gaebashi, Moan Kim",
@@ -104,6 +104,7 @@
   "sources": {
     "anilist": "193514",
     "anime_planet": "the-archdukes-bride-is-a-hell-warrior",
+    "kitsu": "76870",
     "manga_updates": "arcokbi",
     "my_anime_list": "183057",
     "shikimori": "183057"

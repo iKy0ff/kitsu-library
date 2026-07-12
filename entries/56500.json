@@ -1,7 +1,7 @@
 {
   "kitsuId": "56500",
   "title": "Tutorial Tabui Goinmul",
-  "updatedAt": "2026-07-11T00:21:46.925Z",
+  "updatedAt": "2026-07-12T02:10:16.827Z",
   "matchVersion": 2,
   "mangabakaId": 8376,
   "mangabakaUrl": "https://mangabaka.org/8376",
@@ -35,7 +35,7 @@
     {
       "name": "Swordplay",
       "group": "Activities",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Training",
@@ -138,6 +138,11 @@
       "weight": "recurrent"
     },
     {
+      "name": "Shapeshifting",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
       "name": "Weak to Strong",
       "group": "Narrative Tropes",
       "weight": "unweighted"
@@ -195,7 +200,7 @@
     {
       "name": "Alternate Universe",
       "group": "Settings",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Fantasy",
@@ -231,6 +236,11 @@
       "name": "Monsters",
       "group": "Species & Creatures",
       "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
     },
     {
       "name": "Action",

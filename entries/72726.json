@@ -1,7 +1,7 @@
 {
   "kitsuId": "72726",
   "title": "Cheonhajeirinui Sokkupchingu",
-  "updatedAt": "2026-07-11T00:30:55.414Z",
+  "updatedAt": "2026-07-12T02:20:53.162Z",
   "matchVersion": 2,
   "mangabakaId": 7834,
   "mangabakaUrl": "https://mangabaka.org/7834",
@@ -265,7 +265,7 @@
     {
       "name": "Wuxia",
       "group": "Themes",
-      "weight": "incidental"
+      "weight": "defining"
     },
     {
       "name": "Elaborate",

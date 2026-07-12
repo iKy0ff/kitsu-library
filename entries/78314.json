@@ -1,20 +1,20 @@
 {
   "kitsuId": "78314",
   "title": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
-  "updatedAt": "2026-07-11T00:27:21.478Z",
+  "updatedAt": "2026-07-12T02:16:45.113Z",
   "matchVersion": 2,
   "mangabakaId": 109384,
   "mangabakaUrl": "https://mangabaka.org/109384",
   "match": {
-    "confidence": "medium",
-    "method": "scored",
-    "score": 56
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzgvYy9mLzEvZS83LzMvNTA0MC80NGUzL2I5M2MvMDRiYmQyYTI1YTg3",
   "author": "Ei Futatoki, Kazuha Kishimoto",
   "synopsis": "One day, Silva realized that he reincarnated into a mob soldier from the game that he was hooked on in his previous life. Even though he utilizes his game knowledge to do his utmost best to survive in this dangerous world, he opts to hide his true strength in order not to throw the scenario into disarray. However, an unexpected turn of events led him to easily defeat a powerful demon that even the hero is hard-pressed to defeat. And to make matters worse, he did that in front of his favorite heroine in the game... Upon this incident, word started getting out about his true strength...!! \n\nA heroic fantasy about the strongest soldier who will bring his full strength to bear for the sake of his favorite character is about to unfold! \n\n(Source: Futabasha, translated)",
   "status": "Releasing",
-  "rating": 6.6,
+  "rating": 6.5,
   "total": 14,
   "type": "manga",
   "genres": [
@@ -183,6 +183,7 @@
     "anilist": "189757",
     "anime_planet": "game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai",
     "anime_news_network": "35924",
+    "kitsu": "78314",
     "manga_updates": "p7r324y",
     "my_anime_list": "180556",
     "shikimori": "180556"

@@ -1,20 +1,20 @@
 {
   "kitsuId": "35880",
   "title": "The God of High School",
-  "updatedAt": "2026-07-11T00:22:37.080Z",
+  "updatedAt": "2026-07-12T02:11:15.092Z",
   "matchVersion": 2,
   "mangabakaId": 2343,
   "mangabakaUrl": "https://mangabaka.org/2343",
   "match": {
-    "confidence": "medium",
-    "method": "scored",
-    "score": 43
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hL2EvNi9iLzMvNy8xL2YvOGE4OS80ZWU4L2I1YzcvNDMzNjkwNzI1MmVm",
   "author": "Yong-Je Park",
   "synopsis": "Mori Jin is a high school student and Taekwondo specialist who enters \"The God of High School,\" a fighting tournament that promises the winner anything they want. What began as a competition to seek out the best high school fighter soon reveals itself to be part of a much greater plot that goes beyond Mori's wildest imagination. What will he give to become a true god? \n\n(Source: WEBTOON)",
   "status": "Completed",
-  "rating": 7.8,
+  "rating": 7.7,
   "total": 570,
   "type": "manhwa",
   "genres": [
@@ -364,7 +364,7 @@
   "sources": {
     "anilist": "85141",
     "anime_planet": "the-god-of-high-school",
-    "kitsu": "52286",
+    "kitsu": "35880",
     "manga_updates": "wmt1xxw",
     "my_anime_list": "111996",
     "shikimori": "111996"

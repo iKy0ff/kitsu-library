@@ -1,7 +1,7 @@
 {
   "kitsuId": "78757",
   "title": "Hissatsu Reijou Liese: Tensei Shita Saikyou no Koroshiya wa, Yami o Matou Akuyaku Reijou to naru",
-  "updatedAt": "2026-07-11T00:16:09.245Z",
+  "updatedAt": "2026-07-12T02:04:11.104Z",
   "matchVersion": 2,
   "mangabakaId": 594826,
   "mangabakaUrl": "https://mangabaka.org/594826",
@@ -19,13 +19,26 @@
   "type": "manga",
   "genres": [
     "action",
-    "fantasy"
+    "fantasy",
+    "drama",
+    "gender_bender",
+    "shounen"
   ],
   "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
     {
       "name": "Villainess",
       "group": "Character Archetype",
       "weight": "unweighted"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "defining"
     },
     {
       "name": "Fantasy",
@@ -41,11 +54,17 @@
       "name": "Action",
       "group": "Genre",
       "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
     }
   ],
   "news": [],
   "sources": {
     "anilist": "213893",
+    "manga_updates": "1wyar68",
     "my_anime_list": "194380"
   },
   "links": [

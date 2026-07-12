@@ -1,0 +1,79 @@
+{
+  "kitsuId": "78656",
+  "title": "Kaisou Toshi Danpenshuu",
+  "updatedAt": "2026-07-12T02:03:31.895Z",
+  "matchVersion": 2,
+  "mangabakaId": 594996,
+  "mangabakaUrl": "https://mangabaka.org/594996",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzcyNi1OQlF4QkRlR1hFMWsuanBn",
+  "author": "Tsukumizu",
+  "synopsis": "In a world approaching its end, humanity has built a colossal, multi-layered city that rises high into the sky through the power of advanced technology. As the city continues to expand, its inhabitants live their lives within and around the vast structure, creating new connections and leaving behind the fruits of human endeavor.\n\nSpanning different eras in this dying world, the story presents a series of snapshots that capture the lives, hopes, and everyday experiences of the people who inhabit the towering metropolis—a record of humanity and the traces it leaves behind.\n\n(Source: Shinchosha, translated)",
+  "status": "Releasing",
+  "rating": 7.5,
+  "total": 1,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "sci-fi",
+    "slice_of_life",
+    "school_life",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Shoujo",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "213726",
+    "manga_updates": "bbjeejc",
+    "my_anime_list": "194095"
+  },
+  "links": [
+    "https://kuragebunch.com/episode/12207421983890387909",
+    "https://mangabaka.org/594996"
+  ]
+}

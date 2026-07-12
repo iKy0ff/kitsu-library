@@ -1,7 +1,7 @@
 {
   "kitsuId": "38",
   "title": "One Piece",
-  "updatedAt": "2026-07-11T00:29:41.790Z",
+  "updatedAt": "2026-07-12T02:19:28.131Z",
   "matchVersion": 2,
   "mangabakaId": 377,
   "mangabakaUrl": "https://mangabaka.org/377",
@@ -1224,7 +1224,7 @@
     {
       "name": "Unrequited Love",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Secret Organizations",
@@ -1459,14 +1459,14 @@
       "url": "https://www.animenewsnetwork.com/news/2026-01-17/jujutsu-kaisen-ranks-no.1-on-bookscan-december-adult-graphic-novel-list-in-u.s/.233176"
     },
     {
-      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's November Adult Graphic Novel List in U.S.",
-      "date": "2026-01-05T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2026-01-05/jujutsu-kaisen-ranks-no.1-on-bookscan-november-adult-graphic-novel-list-in-u.s/.232782"
-    },
-    {
       "title": "Jujutsu Kaisen Manga Ranks at #6 on NYT December Bestseller List",
       "date": "2026-01-05T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/daily-briefs/2026-01-05/jujutsu-kaisen-manga-ranks-at-no.6-on-nyt-december-bestseller-list/.232783"
+    },
+    {
+      "title": "Jujutsu Kaisen Ranks #1 on Bookscan's November Adult Graphic Novel List in U.S.",
+      "date": "2026-01-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-05/jujutsu-kaisen-ranks-no.1-on-bookscan-november-adult-graphic-novel-list-in-u.s/.232782"
     },
     {
       "title": "Ao Kojima's Hon Nara Uru Hodo Tops 2025 Da Vinci Manga Ranking",
@@ -1694,14 +1694,14 @@
       "url": "https://www.animenewsnetwork.com/news/2024-03-13/north-american-anime-manga-releases-march-10-16/.208671"
     },
     {
-      "title": "KessCo to Release One Piece, Digimon Tabletop Games",
-      "date": "2024-03-02T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-03-02/kessco-to-release-one-piece-digimon-tabletop-games/.208194"
-    },
-    {
       "title": "KessCo Announces Licensing Partnership with Toei Animation",
       "date": "2024-03-02T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/press-release/2024-03-02/kessco-announces-licensing-partnership-with-toei-animation/.208201"
+    },
+    {
+      "title": "KessCo to Release One Piece, Digimon Tabletop Games",
+      "date": "2024-03-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2024-03-02/kessco-to-release-one-piece-digimon-tabletop-games/.208194"
     },
     {
       "title": "Chainsaw Man Ranks #1 on U.S. Monthly Bookscan January List",
@@ -1849,14 +1849,14 @@
       "url": "https://www.animenewsnetwork.com/news/2022-12-12/kono-manga-ga-sugoi-editors-unveil-2023-rankings/.192823"
     },
     {
-      "title": "North American Anime, Manga Releases, December 4-10",
-      "date": "2022-12-06T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2022-12-06/north-american-anime-manga-releases-december-4-10/.192650"
-    },
-    {
       "title": "Spy×Family Tops Da Vinci Manga Ranking",
       "date": "2022-12-06T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2022-12-06/spy-family-tops-da-vinci-manga-ranking/.192624"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 4-10",
+      "date": "2022-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-06/north-american-anime-manga-releases-december-4-10/.192650"
     },
     {
       "title": "Top-Selling Manga in Japan by Volume: 2022 — Jujutsu Kaisen 18 Sells 2.11 Million",
@@ -1974,14 +1974,14 @@
       "url": "https://www.animenewsnetwork.com/news/2021-12-07/north-american-anime-manga-releases-december-5-11/.180377"
     },
     {
-      "title": "Demon Slayer Tops Da Vinci Manga Ranking for 2nd Consecutive Year",
-      "date": "2021-12-06T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2021-12-06/demon-slayer-tops-da-vinci-manga-ranking-for-2nd-consecutive-year/.180340"
-    },
-    {
       "title": "Eiichiro Oda Explains Why He Doesn't Watch One Piece YouTubers",
       "date": "2021-12-06T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/interest/2021-12-06/eiichiro-oda-explains-why-he-doesnt-watch-one-piece-youtubers/.180320"
+    },
+    {
+      "title": "Demon Slayer Tops Da Vinci Manga Ranking for 2nd Consecutive Year",
+      "date": "2021-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-06/demon-slayer-tops-da-vinci-manga-ranking-for-2nd-consecutive-year/.180340"
     },
     {
       "title": "Top-Selling Manga in Japan by Volume: 2021 — Demon Slayer Finale Sells Record 5.17 Million",
@@ -2044,14 +2044,14 @@
       "url": "https://www.animenewsnetwork.com/press-release/2021-02-20/first-global-one-piece-character-popularity-contest-mid-term-ranking-announced/.169737"
     },
     {
-      "title": "One Piece Manga Has Over 480 Million Copies in Circulation Worldwide",
-      "date": "2021-02-03T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2021-02-03/one-piece-manga-has-over-480-million-copies-in-circulation-worldwide/.169111"
-    },
-    {
       "title": "11 Ribon-serialized Authors Draw One Piece Posters For Ribon X One Piece Collaboration",
       "date": "2021-02-03T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/interest/2021-02-03/11-ribon-serialized-authors-draw-one-piece-posters-for-ribon-x-one-piece-collaboration/.169081"
+    },
+    {
+      "title": "One Piece Manga Has Over 480 Million Copies in Circulation Worldwide",
+      "date": "2021-02-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-02-03/one-piece-manga-has-over-480-million-copies-in-circulation-worldwide/.169111"
     },
     {
       "title": "Shueisha's Manga Plus Service Adds 4 Manga in Indonesian",
@@ -2079,14 +2079,14 @@
       "url": "https://www.animenewsnetwork.com/news/2020-12-01/north-american-anime-manga-releases-november-29-december-5/.166910"
     },
     {
-      "title": "Top-Selling Manga in Japan by Volume: 2020",
-      "date": "2020-11-29T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2020-11-29/top-selling-manga-in-japan-by-volume-2020/.166844"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Series: 2020",
       "date": "2020-11-29T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2020-11-29/top-selling-manga-in-japan-by-series-2020/.166841"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2020",
+      "date": "2020-11-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-29/top-selling-manga-in-japan-by-volume-2020/.166844"
     },
     {
       "title": "One Piece Manga Takes Break Until October 17 Due to Eiichiro Oda's 'Sudden Illness'",
@@ -2129,14 +2129,14 @@
       "url": "https://www.animenewsnetwork.com/interest/2020-06-14/eiichiro-oda-shows-off-his-drawing-process-for-one-piece-latest-color-image/.160411"
     },
     {
-      "title": "Top-Selling Manga in Japan by Series: 2020 (First Half)",
-      "date": "2020-05-28T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2020-05-28/top-selling-manga-in-japan-by-series-2020/.159991"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Volume: 2020 (First Half)",
       "date": "2020-05-28T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2020-05-28/top-selling-manga-in-japan-by-volume-2020/.159994"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 2020 (First Half)",
+      "date": "2020-05-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-05-28/top-selling-manga-in-japan-by-series-2020/.159991"
     },
     {
       "title": "One Piece Manga Takes 1-Week Break",
@@ -2419,14 +2419,14 @@
       "url": "https://www.animenewsnetwork.com/news/2018-12-26/japanese-comic-ranking-december-17-23/.141343"
     },
     {
-      "title": "Japanese Comic Ranking, December 10-16",
-      "date": "2018-12-19T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2018-12-19/japanese-comic-ranking-december-10-16/.141050"
-    },
-    {
       "title": "Top-Selling Media Franchises in Japan: 2018",
       "date": "2018-12-19T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2018-12-19/top-selling-media-franchises-in-japan-2018/.141064"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 10-16",
+      "date": "2018-12-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-12-19/japanese-comic-ranking-december-10-16/.141050"
     },
     {
       "title": "Viz's New Shonen Jump Service Launches With 70+ Catalog Manga",
@@ -2629,14 +2629,14 @@
       "url": "https://www.animenewsnetwork.com/news/2018-06-17/one-piece-spinoff-manga-koisuru-one-piece-launches-on-jump-app/.132995"
     },
     {
-      "title": "One Piece Creator Donates US$8 Million for Kumamoto Earthquake Relief",
-      "date": "2018-06-15T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/interest/2018-06-15/one-piece-creator-donates-usd8-million-for-kumamoto-earthquake-relief/.132968"
-    },
-    {
       "title": "My Hero Academia Ranks #4 on U.S. Monthly Bookscan May List",
       "date": "2018-06-15T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2018-06-15/my-hero-academia-ranks-no.4-on-u.s-monthly-bookscan-may-list/.132974"
+    },
+    {
+      "title": "One Piece Creator Donates US$8 Million for Kumamoto Earthquake Relief",
+      "date": "2018-06-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2018-06-15/one-piece-creator-donates-usd8-million-for-kumamoto-earthquake-relief/.132968"
     },
     {
       "title": "Japanese Comic Ranking, June 4-10",
@@ -2744,14 +2744,14 @@
       "url": "https://www.animenewsnetwork.com/news/2018-03-06/north-american-anime-manga-releases-march-4-10/.128633"
     },
     {
-      "title": "ICv2 Releases List of Top 10 Manga Franchises in Fall 2017",
-      "date": "2018-03-03T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2018-03-03/icv2-releases-list-of-top-10-manga-franchises-in-fall-2017/.128509"
-    },
-    {
       "title": "One Piece Picture Book Gets Standalone Release",
       "date": "2018-03-03T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/interest/2018-03-03/one-piece-picture-book-gets-standalone-release/.128502"
+    },
+    {
+      "title": "ICv2 Releases List of Top 10 Manga Franchises in Fall 2017",
+      "date": "2018-03-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-03/icv2-releases-list-of-top-10-manga-franchises-in-fall-2017/.128509"
     },
     {
       "title": "North American Anime, Manga Releases, February 4-10",
@@ -2764,14 +2764,14 @@
       "url": "https://www.animenewsnetwork.com/news/2018-01-31/japanese-comic-ranking-january-22-28/.127187"
     },
     {
-      "title": "Japanese Comic Ranking, December 25-31",
-      "date": "2018-01-10T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2018-01-10/japanese-comic-ranking-december-25-31/.126284"
-    },
-    {
       "title": "Japanese Comic Ranking, January 1-7",
       "date": "2018-01-10T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2018-01-10/japanese-comic-ranking-january-1-7/.126287"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 25-31",
+      "date": "2018-01-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-01-10/japanese-comic-ranking-december-25-31/.126284"
     },
     {
       "title": "Japanese Comic Ranking, December 18-24",
@@ -2804,11 +2804,6 @@
       "url": "https://www.animenewsnetwork.com/news/2017-12-07/march-comes-in-like-a-lion-manga-tops-da-vinci-magazine-rankings-for-3rd-straight-year/.124899"
     },
     {
-      "title": "Top-Selling Manga in Japan by Series: 2017",
-      "date": "2017-12-06T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2017-12-06/top-selling-manga-in-japan-by-series-2017/.124894"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Volume: 2017",
       "date": "2017-12-06T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2017-12-06/top-selling-manga-in-japan-by-volume-2017/.124895"
@@ -2817,6 +2812,11 @@
       "title": "Japanese Comic Ranking, November 27-December 3",
       "date": "2017-12-06T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2017-12-06/japanese-comic-ranking-november-27-december-3/.124919"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 2017",
+      "date": "2017-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-12-06/top-selling-manga-in-japan-by-series-2017/.124894"
     },
     {
       "title": "Japanese Comic Ranking, November 20-26",
@@ -3044,14 +3044,14 @@
       "url": "https://www.animenewsnetwork.com/news/2017-06-02/japanese-comic-ranking-may-22-28/.116971"
     },
     {
-      "title": "Top-Selling Manga in Japan by Volume: 2017 (First Half)",
-      "date": "2017-06-01T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2017-06-01/top-selling-manga-in-japan-by-volume-2017/.116863"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Series: 2017 (First Half)",
       "date": "2017-06-01T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2017-06-01/top-selling-manga-in-japan-by-series-2017/.116861"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2017 (First Half)",
+      "date": "2017-06-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-06-01/top-selling-manga-in-japan-by-volume-2017/.116863"
     },
     {
       "title": "Japanese Comic Ranking, May 15-21",
@@ -3199,14 +3199,19 @@
       "url": "https://www.animenewsnetwork.com/news/2016-12-07/japanese-comic-ranking-november-28-december-4/.109623"
     },
     {
+      "title": "March comes in like a lion Tops Da Vinci Magazine's Rankings for 2nd Year",
+      "date": "2016-12-06T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-12-06/march-comes-in-like-a-lion-tops-da-vinci-magazine-rankings-for-2nd-year/.109547"
+    },
+    {
       "title": "North American Anime, Manga Releases, December 4-10",
       "date": "2016-12-06T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2016-12-06/north-american-anime-manga-releases-december-4-10/.109575"
     },
     {
-      "title": "March comes in like a lion Tops Da Vinci Magazine's Rankings for 2nd Year",
-      "date": "2016-12-06T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2016-12-06/march-comes-in-like-a-lion-tops-da-vinci-magazine-rankings-for-2nd-year/.109547"
+      "title": "Top-Selling Manga in Japan by Volume: 2016",
+      "date": "2016-11-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-11-30/top-selling-manga-in-japan-by-volume-2016/.109353"
     },
     {
       "title": "Japanese Comic Ranking, November 21-27",
@@ -3217,11 +3222,6 @@
       "title": "Top-Selling Manga in Japan by Series: 2016",
       "date": "2016-11-30T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2016-11-30/top-selling-manga-in-japan-by-series-2016/.109352"
-    },
-    {
-      "title": "Top-Selling Manga in Japan by Volume: 2016",
-      "date": "2016-11-30T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2016-11-30/top-selling-manga-in-japan-by-volume-2016/.109353"
     },
     {
       "title": "New York Times Manga Best Seller List, November 13-19",
@@ -3279,14 +3279,14 @@
       "url": "https://www.animenewsnetwork.com/news/2016-10-04/north-american-anime-manga-releases-october-2-8/.107264"
     },
     {
-      "title": "Trailer for One Piece Kabuki Play's Theatrical Screening Streamed",
-      "date": "2016-09-14T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2016-09-14/trailer-for-one-piece-kabuki-play-theatrical-screening-streamed/.106442"
-    },
-    {
       "title": "Japanese Comic Ranking, September 5-11",
       "date": "2016-09-14T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2016-09-14/japanese-comic-ranking-september-5-11/.106467"
+    },
+    {
+      "title": "Trailer for One Piece Kabuki Play's Theatrical Screening Streamed",
+      "date": "2016-09-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-09-14/trailer-for-one-piece-kabuki-play-theatrical-screening-streamed/.106442"
     },
     {
       "title": "One Piece Mugiwara Store Opens in Bangkok",
@@ -3374,14 +3374,14 @@
       "url": "https://www.animenewsnetwork.com/news/2016-07-20/japanese-comic-ranking-july-11-17/.104513"
     },
     {
-      "title": "Shueisha Publishes All of This Week's Top 10 Manga Volumes",
-      "date": "2016-07-13T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2016-07-13/shueisha-publishes-all-of-this-week-top-10-manga-volumes/.104281"
-    },
-    {
       "title": "Japanese Comic Ranking, July 4-10",
       "date": "2016-07-13T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2016-07-13/japanese-comic-ranking-july-4-10/.104276"
+    },
+    {
+      "title": "Shueisha Publishes All of This Week's Top 10 Manga Volumes",
+      "date": "2016-07-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-07-13/shueisha-publishes-all-of-this-week-top-10-manga-volumes/.104281"
     },
     {
       "title": "Publisher Denies Rumors of One Piece Going to Monthly Serialization",
@@ -3394,14 +3394,14 @@
       "url": "https://www.animenewsnetwork.com/news/2016-07-06/japanese-comic-ranking-june-27-july-3/.104033"
     },
     {
-      "title": "Chinese Company Posts Live-Action One Piece Film Announcement, Shueisha States Announcement is False (Updated)",
-      "date": "2016-06-16T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2016-06-16/chinese-company-posts-live-action-one-piece-film-announcement-shueisha-states-announcement-is-false/.103295"
-    },
-    {
       "title": "Shueisha: Chinese Company's Live-Action One Piece Film Announcement is False",
       "date": "2016-06-16T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2016-06-16/shueisha-chinese-company-live-action-one-piece-film-announcement-is-false/.103326"
+    },
+    {
+      "title": "Chinese Company Posts Live-Action One Piece Film Announcement, Shueisha States Announcement is False (Updated)",
+      "date": "2016-06-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-06-16/chinese-company-posts-live-action-one-piece-film-announcement-shueisha-states-announcement-is-false/.103295"
     },
     {
       "title": "Japanese Comic Ranking, May 30-June 5",
@@ -3419,14 +3419,14 @@
       "url": "https://www.animenewsnetwork.com/news/2016-06-01/japanese-comic-ranking-may-23-29/.102733"
     },
     {
-      "title": "Top-Selling Manga in Japan by Series: 2016 (First Half)",
-      "date": "2016-05-29T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2016-05-29/top-selling-manga-in-japan-by-series-2016/.102636"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Volume: 2016 (First Half)",
       "date": "2016-05-29T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2016-05-29/top-selling-manga-in-japan-by-volume-2016/.102637"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 2016 (First Half)",
+      "date": "2016-05-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-05-29/top-selling-manga-in-japan-by-series-2016/.102636"
     },
     {
       "title": "Japanese Comic Ranking, May 16-22",
@@ -3724,14 +3724,14 @@
       "url": "https://www.animenewsnetwork.com/news/2015-07-22/japanese-comic-ranking-july-13-19/.90776"
     },
     {
-      "title": "Japanese Comic Ranking, July 6-12",
-      "date": "2015-07-16T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2015-07-16/japanese-comic-ranking-july-6-12/.90508"
-    },
-    {
       "title": "One Piece Manga Takes 1-Week Break",
       "date": "2015-07-16T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/daily-briefs/2015-07-16/one-piece-manga-takes-1-week-break/.90506"
+    },
+    {
+      "title": "Japanese Comic Ranking, July 6-12",
+      "date": "2015-07-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2015-07-16/japanese-comic-ranking-july-6-12/.90508"
     },
     {
       "title": "Japanese Comic Ranking, June 29-July 5",
@@ -4021,17 +4021,17 @@
     {
       "title": "Japanese Comic Ranking, July 14-20",
       "date": "2014-07-23T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-07-23/japanese-comic-ranking-july-14-20/.76978"
+      "url": "https://www.animenewsnetwork.com/news/2014-07-24/japanese-comic-ranking-july-14-20/.76978"
     },
     {
       "title": "Japanese Comic Ranking, July 14-20",
       "date": "2014-07-23T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-07-24/japanese-comic-ranking-july-14-20/.76978"
+      "url": "https://www.animenewsnetwork.com/news/2014-07-23/japanese-comic-ranking-july-14-20/.76978"
     },
     {
       "title": "Attack on Titan #1 Tops U.S. Monthly BookScan June List",
       "date": "2014-07-17T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-07-17/attack-on-titan-no.1-tops-u.s-monthly-bookscan-june-list/.76756"
+      "url": "https://www.animenewsnetwork.com/news/2014-07-18/attack-on-titan-no.1-tops-u.s-monthly-bookscan-june-list/.76756"
     },
     {
       "title": "One Piece Gets 1st Official Theme Park in Tokyo Tower in Spring 2015",
@@ -4041,17 +4041,17 @@
     {
       "title": "Attack on Titan #1 Tops U.S. Monthly BookScan June List",
       "date": "2014-07-17T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-07-18/attack-on-titan-no.1-tops-u.s-monthly-bookscan-june-list/.76756"
-    },
-    {
-      "title": "Japanese Comic Ranking, July 7-13",
-      "date": "2014-07-16T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-07-16/japanese-comic-ranking-july-7-13/.76747"
+      "url": "https://www.animenewsnetwork.com/news/2014-07-17/attack-on-titan-no.1-tops-u.s-monthly-bookscan-june-list/.76756"
     },
     {
       "title": "Japanese Comic Ranking, July 7-13",
       "date": "2014-07-16T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2014-07-17/japanese-comic-ranking-july-7-13/.76747"
+    },
+    {
+      "title": "Japanese Comic Ranking, July 7-13",
+      "date": "2014-07-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-07-16/japanese-comic-ranking-july-7-13/.76747"
     },
     {
       "title": "South Korean One Piece Exhibition Cancelled Due to Japanese Flag Art",
@@ -4061,12 +4061,12 @@
     {
       "title": "Japanese Comic Ranking, June 30-July 6",
       "date": "2014-07-09T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-07-10/japanese-comic-ranking-june-30-july-6/.76501"
+      "url": "https://www.animenewsnetwork.com/news/2014-07-09/japanese-comic-ranking-june-30-july-6/.76501"
     },
     {
       "title": "Japanese Comic Ranking, June 30-July 6",
       "date": "2014-07-09T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-07-09/japanese-comic-ranking-june-30-july-6/.76501"
+      "url": "https://www.animenewsnetwork.com/news/2014-07-10/japanese-comic-ranking-june-30-july-6/.76501"
     },
     {
       "title": "Japanese Comic Ranking, June 23-29",
@@ -4096,17 +4096,12 @@
     {
       "title": "Japanese Comic Ranking, June 16-22",
       "date": "2014-06-25T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-06-26/japanese-comic-ranking-june-16-22/.75966"
+      "url": "https://www.animenewsnetwork.com/news/2014-06-25/japanese-comic-ranking-june-16-22/.75966"
     },
     {
       "title": "Japanese Comic Ranking, June 16-22",
       "date": "2014-06-25T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-06-25/japanese-comic-ranking-june-16-22/.75966"
-    },
-    {
-      "title": "New York Times Manga Best Seller List, June 8-14",
-      "date": "2014-06-21T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-06-21/new-york-times-manga-best-seller-list-june-8-14/.75786"
+      "url": "https://www.animenewsnetwork.com/news/2014-06-26/japanese-comic-ranking-june-16-22/.75966"
     },
     {
       "title": "New York Times Manga Best Seller List, June 8-14",
@@ -4114,9 +4109,9 @@
       "url": "https://www.animenewsnetwork.com/news/2014-06-22/new-york-times-manga-best-seller-list-june-8-14/.75786"
     },
     {
-      "title": "Japanese Comic Ranking, June 9-15",
-      "date": "2014-06-18T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-06-18/japanese-comic-ranking-june-9-15/.75698"
+      "title": "New York Times Manga Best Seller List, June 8-14",
+      "date": "2014-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-06-21/new-york-times-manga-best-seller-list-june-8-14/.75786"
     },
     {
       "title": "Japanese Comic Ranking, June 9-15",
@@ -4124,9 +4119,9 @@
       "url": "https://www.animenewsnetwork.com/news/2014-06-19/japanese-comic-ranking-june-9-15/.75698"
     },
     {
-      "title": "New York Times Manga Best Seller List, June 1-7",
-      "date": "2014-06-13T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-06-13/new-york-times-manga-best-seller-list-june-1-7/.75543"
+      "title": "Japanese Comic Ranking, June 9-15",
+      "date": "2014-06-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-06-18/japanese-comic-ranking-june-9-15/.75698"
     },
     {
       "title": "New York Times Manga Best Seller List, June 1-7",
@@ -4134,9 +4129,9 @@
       "url": "https://www.animenewsnetwork.com/news/2014-06-14/new-york-times-manga-best-seller-list-june-1-7/.75543"
     },
     {
-      "title": "Japanese Comic Ranking, June 2-8",
-      "date": "2014-06-11T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-06-12/japanese-comic-ranking-june-2-8/.75452"
+      "title": "New York Times Manga Best Seller List, June 1-7",
+      "date": "2014-06-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-06-13/new-york-times-manga-best-seller-list-june-1-7/.75543"
     },
     {
       "title": "Japanese Comic Ranking, June 2-8",
@@ -4144,9 +4139,9 @@
       "url": "https://www.animenewsnetwork.com/news/2014-06-11/japanese-comic-ranking-june-2-8/.75452"
     },
     {
-      "title": "Top-Selling Manga in Japan by Volume: 2014 (First Half)",
-      "date": "2014-06-03T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-06-03/top-selling-manga-in-japan-by-volume-2014/.75180"
+      "title": "Japanese Comic Ranking, June 2-8",
+      "date": "2014-06-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-06-12/japanese-comic-ranking-june-2-8/.75452"
     },
     {
       "title": "Top-Selling Manga in Japan by Volume: 2014 (First Half)",
@@ -4154,14 +4149,19 @@
       "url": "https://www.animenewsnetwork.com/news/2014-06-04/top-selling-manga-in-japan-by-volume-2014/.75180"
     },
     {
-      "title": "North American Anime, Manga Releases, June 1-7",
+      "title": "Top-Selling Manga in Japan by Volume: 2014 (First Half)",
       "date": "2014-06-03T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-06-03/north-american-anime-manga-releases-june-1-7/.75173"
+      "url": "https://www.animenewsnetwork.com/news/2014-06-03/top-selling-manga-in-japan-by-volume-2014/.75180"
     },
     {
       "title": "North American Anime, Manga Releases, June 1-7",
       "date": "2014-06-03T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2014-06-04/north-american-anime-manga-releases-june-1-7/.75173"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 1-7",
+      "date": "2014-06-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-06-03/north-american-anime-manga-releases-june-1-7/.75173"
     },
     {
       "title": "Japanese Comic Ranking, April 28-May 4",
@@ -4214,24 +4214,24 @@
       "url": "https://www.animenewsnetwork.com/news/2014-03-14/new-york-times-manga-best-seller-list-march-2-8"
     },
     {
-      "title": "Japanese Comic Ranking, March 3-9",
-      "date": "2014-03-12T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2014-03-12/japanese-comic-ranking-march-3-9"
-    },
-    {
       "title": "Namco Bandai Games America Announces One Piece Unlimited World Red to Arrive in the Americas",
       "date": "2014-03-12T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/press-release/2014-03-12/namco-bandai-games-america-announces-one-piece-unlimited-world-red-to-arrive-in-the-americas"
     },
     {
-      "title": "Adventure Awaits With VIZ Media's Fall 2014 Manga Acquisitions From the Shonen Jump and VIZ Signature Imprints",
-      "date": "2014-03-05T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/press-release/2014-03-05/adventure-awaits-with-viz-media-fall-2014-manga-acquisitions-from-the-shonen-jump-and-viz-signature-imprints"
+      "title": "Japanese Comic Ranking, March 3-9",
+      "date": "2014-03-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2014-03-12/japanese-comic-ranking-march-3-9"
     },
     {
       "title": "One Piece Manga #73 Gets 4-Million Print Run",
       "date": "2014-03-05T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2014-03-05/one-piece-manga-no.73-gets-4-million-print-run"
+    },
+    {
+      "title": "Adventure Awaits With VIZ Media's Fall 2014 Manga Acquisitions From the Shonen Jump and VIZ Signature Imprints",
+      "date": "2014-03-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2014-03-05/adventure-awaits-with-viz-media-fall-2014-manga-acquisitions-from-the-shonen-jump-and-viz-signature-imprints"
     },
     {
       "title": "Haikyu, Dr. Slump, Bobobo-bo Join J-Stars Victory Vs. Game",
@@ -4469,14 +4469,14 @@
       "url": "https://www.animenewsnetwork.com/news/2013-06-26/japanese-comic-ranking-june-16-22"
     },
     {
-      "title": "Japanese Comic Ranking, June 10-16",
-      "date": "2013-06-21T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2013-06-21/japanese-comic-ranking-june-9-15"
-    },
-    {
       "title": "New York Times Manga Best Seller List, June 9-15",
       "date": "2013-06-21T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2013-06-21/new-york-times-manga-best-seller-list-june-9-15"
+    },
+    {
+      "title": "Japanese Comic Ranking, June 10-16",
+      "date": "2013-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2013-06-21/japanese-comic-ranking-june-9-15"
     },
     {
       "title": "New York Times Manga Best Seller List, June 2-8",
@@ -4484,14 +4484,14 @@
       "url": "https://www.animenewsnetwork.com/news/2013-06-14/new-york-times-manga-best-seller-list-june-2-8"
     },
     {
-      "title": "One Piece Manga Takes 1-Week Hiatus",
-      "date": "2013-06-12T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2013-06-12/one-piece-manga-takes-1-week-hiatus"
-    },
-    {
       "title": "Japanese Comic Ranking, June 3-9",
       "date": "2013-06-12T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2013-06-12/japanese-comic-ranking-june-2-8"
+    },
+    {
+      "title": "One Piece Manga Takes 1-Week Hiatus",
+      "date": "2013-06-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2013-06-12/one-piece-manga-takes-1-week-hiatus"
     },
     {
       "title": "North American Anime, Manga Releases, June 2-8",
@@ -4499,14 +4499,14 @@
       "url": "https://www.animenewsnetwork.com/news/2013-06-04/north-american-anime-manga-releases-june-2-8"
     },
     {
-      "title": "Top-Selling Manga in Japan by Volume: 2013 (First Half)",
-      "date": "2013-06-02T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2013-06-02/top-selling-manga-in-japan-by-volume/2013-first-half"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Series: 2013 (First Half)",
       "date": "2013-06-02T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2013-06-02/top-selling-manga-in-japan-by-series/2013-first-half"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2013 (First Half)",
+      "date": "2013-06-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2013-06-02/top-selling-manga-in-japan-by-volume/2013-first-half"
     },
     {
       "title": "One Piece Manga Goes on 2-Week Hiatus Due to Illness",
@@ -4729,14 +4729,14 @@
       "url": "https://www.animenewsnetwork.com/news/2012-11-17/one-piece-film-z-full-trailer-streamed"
     },
     {
-      "title": "Hey, Answerman! - Japanese & Legalese",
-      "date": "2012-11-16T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/answerman/2012-11-16"
-    },
-    {
       "title": "New York Times Manga Best Seller List, November 4-10",
       "date": "2012-11-16T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2012-11-16/new-york-times-manga-best-seller-list-november-4-10"
+    },
+    {
+      "title": "Hey, Answerman! - Japanese & Legalese",
+      "date": "2012-11-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/answerman/2012-11-16"
     },
     {
       "title": "Japanese Comic Ranking, November 5-11",
@@ -4774,14 +4774,14 @@
       "url": "https://www.animenewsnetwork.com/news/2012-10-18/japanese-comic-ranking-october-8-14"
     },
     {
-      "title": "New York Times Manga Best Seller List, September 23-29",
-      "date": "2012-10-05T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2012-10-05/new-york-times-manga-best-seller-list-september-23-29"
-    },
-    {
       "title": "Sailor Moon Tops September Graphic Novel Sales in U.S. Bookstores",
       "date": "2012-10-05T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2012-10-05/sailor-moon-tops-september-graphic-novel-sales-in-u.s-bookstores"
+    },
+    {
+      "title": "New York Times Manga Best Seller List, September 23-29",
+      "date": "2012-10-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-10-05/new-york-times-manga-best-seller-list-september-23-29"
     },
     {
       "title": "Japanese Comic Ranking, September 24-30",
@@ -4854,14 +4854,14 @@
       "url": "https://www.animenewsnetwork.com/news/2012-07-27/new-york-times-manga-best-seller-list-july-15-21"
     },
     {
-      "title": "New York Times Manga Best Seller List, July 8-14",
-      "date": "2012-07-20T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2012-07-20/new-york-times-manga-best-seller-list-july-8-14"
-    },
-    {
       "title": "Universal Studios Japan Offers One Piece Dishes, Chopper Face Paint",
       "date": "2012-07-20T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/interest/2012-07-20/universal-studios-japan-offers-one-piece-dishes-chopper-face-paint"
+    },
+    {
+      "title": "New York Times Manga Best Seller List, July 8-14",
+      "date": "2012-07-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-07-20/new-york-times-manga-best-seller-list-july-8-14"
     },
     {
       "title": "New York Times Manga Best Seller List, July 1-7",
@@ -4914,14 +4914,14 @@
       "url": "https://www.animenewsnetwork.com/interest/2012-05-21/one-piece-manga-inspires-theme-park-plans-in-china"
     },
     {
-      "title": "New York Times Manga Best Seller List, May 6-12",
-      "date": "2012-05-18T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2012-05-18/new-york-times-manga-best-seller-list-may-6-12"
-    },
-    {
       "title": "Japanese Comic Ranking, May 7-13",
       "date": "2012-05-18T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2012-05-18/japanese-comic-ranking-may-7-13"
+    },
+    {
+      "title": "New York Times Manga Best Seller List, May 6-12",
+      "date": "2012-05-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-05-18/new-york-times-manga-best-seller-list-may-6-12"
     },
     {
       "title": "Japanese Comic Ranking, April 30-May 6",
@@ -4954,14 +4954,14 @@
       "url": "https://www.animenewsnetwork.com/news/2012-05-02/one-piece-no.66-ties-record-with-4-million-print-run"
     },
     {
-      "title": "North American Anime, Manga Releases, April 29-May 5",
-      "date": "2012-05-01T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2012-05-01/north-american-anime-manga-releases-april-29-may-5"
-    },
-    {
       "title": "Japanese Comic Ranking, March 12-18",
       "date": "2012-05-01T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2012-05-01/japanese-comic-ranking-march-12-18"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 29-May 5",
+      "date": "2012-05-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2012-05-01/north-american-anime-manga-releases-april-29-may-5"
     },
     {
       "title": "Japanese Comic Ranking, March 5-11",
@@ -5109,14 +5109,14 @@
       "url": "https://www.animenewsnetwork.com/news/2011-12-08/top-manga-ranked-by-kono-manga-ga-sugoi-2012-voters"
     },
     {
-      "title": "North American Anime, Manga Releases, December 4-10",
-      "date": "2011-12-07T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2011-12-07/north-american-anime-manga-releases-december-4-10"
-    },
-    {
       "title": "Japanese Comic Ranking, November 28-December 4",
       "date": "2011-12-07T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2011-12-07/japanese-comic-ranking-november-28-december-4"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 4-10",
+      "date": "2011-12-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-12-07/north-american-anime-manga-releases-december-4-10"
     },
     {
       "title": "One Piece Sells Record 38 Million Manga Volumes in 2011",
@@ -5194,14 +5194,14 @@
       "url": "https://www.animenewsnetwork.com/daily-cosplay/2011-09-22/one-piece-usopp"
     },
     {
-      "title": "Crunchyroll, TV Tokyo Sue YouTube Users for Unauthorized Anime Uploading",
-      "date": "2011-09-21T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2011-09-21/crunchyroll-tv-tokyo-sue-youtube-users-for-unauthorized-anime-uploading"
-    },
-    {
       "title": "Japanese Comic Ranking, September 12-18",
       "date": "2011-09-21T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2011-09-21/japanese-comic-ranking-september-12-18"
+    },
+    {
+      "title": "Crunchyroll, TV Tokyo Sue YouTube Users for Unauthorized Anime Uploading",
+      "date": "2011-09-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-09-21/crunchyroll-tv-tokyo-sue-youtube-users-for-unauthorized-anime-uploading"
     },
     {
       "title": "Japanese Comic Ranking, September 5-11",
@@ -5239,14 +5239,14 @@
       "url": "https://www.animenewsnetwork.com/news/2011-08-24/japanese-comic-ranking-august-15-21"
     },
     {
-      "title": "JManga Site Launches with Works Never Printed in U.S.",
-      "date": "2011-08-17T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2011-08-17/jmanga-manga-site-launches-with-100-new-titles"
-    },
-    {
       "title": "Japanese Comic Ranking, August 8-14",
       "date": "2011-08-17T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2011-08-17/japanese-comic-ranking-august-8-14"
+    },
+    {
+      "title": "JManga Site Launches with Works Never Printed in U.S.",
+      "date": "2011-08-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-08-17/jmanga-manga-site-launches-with-100-new-titles"
     },
     {
       "title": "Weekend Wrapup: 7/Aug - 13/Aug",
@@ -5299,14 +5299,14 @@
       "url": "https://www.animenewsnetwork.com/news/2011-06-15/japanese-comic-ranking-june-6-12"
     },
     {
-      "title": "20 One Piece Volumes Publicly Posted on Tokyo Co-op's Site",
-      "date": "2011-06-08T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2011-06-08/20-one-piece-volumes-publicly-posted-on-tokyo-co-op-site"
-    },
-    {
       "title": "Japanese Comic Ranking, May 30-June 5",
       "date": "2011-06-08T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2011-06-08/japanese-comic-ranking-may-30-june-5"
+    },
+    {
+      "title": "20 One Piece Volumes Publicly Posted on Tokyo Co-op's Site",
+      "date": "2011-06-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-06-08/20-one-piece-volumes-publicly-posted-on-tokyo-co-op-site"
     },
     {
       "title": "North American Anime, Manga Releases, June 5-11",
@@ -5324,14 +5324,14 @@
       "url": "https://www.animenewsnetwork.com/news/2011-06-01/japanese-comic-ranking-may-23-29"
     },
     {
-      "title": "Top-Selling Manga in Japan by Volume: 2011 (First Half)",
-      "date": "2011-05-31T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2011-05-31/top-selling-manga-in-japan-by-volume/2011-first-half"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Series: 2011 (First Half)",
       "date": "2011-05-31T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2011-05-31/top-selling-manga-in-japan-by-series/2011-first-half"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Volume: 2011 (First Half)",
+      "date": "2011-05-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-05-31/top-selling-manga-in-japan-by-volume/2011-first-half"
     },
     {
       "title": "Japanese Comic Ranking, May 16-22",
@@ -5354,14 +5354,14 @@
       "url": "https://www.animenewsnetwork.com/news/2011-05-18/japanese-comic-ranking-may-9-15"
     },
     {
-      "title": "One Piece Manga #62 Sells 2.37 Million",
-      "date": "2011-05-11T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2011-05-11/one-piece-manga-no.62-sells-2.37-million"
-    },
-    {
       "title": "Japanese Comic Ranking, May 2-8",
       "date": "2011-05-11T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2011-05-11/japanese-comic-ranking-may-2-8"
+    },
+    {
+      "title": "One Piece Manga #62 Sells 2.37 Million",
+      "date": "2011-05-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-05-11/one-piece-manga-no.62-sells-2.37-million"
     },
     {
       "title": "Japanese Comic Ranking, April 25-May 1",
@@ -5444,14 +5444,14 @@
       "url": "https://www.animenewsnetwork.com/interest/2011-02-14/daily-cosplay/one-piece-nami"
     },
     {
-      "title": "One Piece Manga Volume 61 Sells 2 Million+ in 3 Days",
-      "date": "2011-02-09T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2011-02-09/one-piece-manga-volume-61-sells-2-million+in-3-days"
-    },
-    {
       "title": "Japanese Comic Ranking, January 31-February 6",
       "date": "2011-02-09T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2011-02-09/japanese-comic-ranking-january-31-february-6"
+    },
+    {
+      "title": "One Piece Manga Volume 61 Sells 2 Million+ in 3 Days",
+      "date": "2011-02-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2011-02-09/one-piece-manga-volume-61-sells-2-million+in-3-days"
     },
     {
       "title": "Japanese Comic Ranking, January 24-30",
@@ -5504,14 +5504,14 @@
       "url": "https://www.animenewsnetwork.com/news/2010-12-08/japanese-comic-ranking-november-29-december-5"
     },
     {
-      "title": "Japanese Comic Ranking, November 22-28",
-      "date": "2010-12-01T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2010-12-01/japanese-comic-ranking-november-22-28"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Volume: 2010 (Part 2)",
       "date": "2010-12-01T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2010-12-01/top-selling-manga-in-japan-by-volume/2010-part-2"
+    },
+    {
+      "title": "Japanese Comic Ranking, November 22-28",
+      "date": "2010-12-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2010-12-01/japanese-comic-ranking-november-22-28"
     },
     {
       "title": "One Piece Takes Top 5 Spots in 2010 Comic Rankings",
@@ -5599,14 +5599,14 @@
       "url": "https://www.animenewsnetwork.com/news/2010-10-05/north-american-anime-manga-releases-october-3-9"
     },
     {
-      "title": "All 12 Kimi ni Todoke Books on Japan's Weekly Top 100 Manga",
-      "date": "2010-09-29T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2010-09-29/all-12-kimi-ni-todoke-books-on-japan-weekly-top-100-manga"
-    },
-    {
       "title": "Toriko, One Piece Get 3D Film Double-Billing",
       "date": "2010-09-29T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2010-09-29/toriko-one-piece-get-3d-film-double-billing"
+    },
+    {
+      "title": "All 12 Kimi ni Todoke Books on Japan's Weekly Top 100 Manga",
+      "date": "2010-09-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2010-09-29/all-12-kimi-ni-todoke-books-on-japan-weekly-top-100-manga"
     },
     {
       "title": "Japanese Comic Ranking, September 6-12",
@@ -5629,14 +5629,14 @@
       "url": "https://www.animenewsnetwork.com/news/2010-08-29/one-piece-manga-takes-1st-ever-4-week-break"
     },
     {
-      "title": "Japanese Comic Ranking, August 16-22",
-      "date": "2010-08-25T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2010-08-25/japanese-comic-ranking-august-16-22"
-    },
-    {
       "title": "One Piece Manga Sells 20 Million+ Books Just in 2010",
       "date": "2010-08-25T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2010-08-25/one-piece-manga-sells-20-million+books-just-in-2010"
+    },
+    {
+      "title": "Japanese Comic Ranking, August 16-22",
+      "date": "2010-08-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2010-08-25/japanese-comic-ranking-august-16-22"
     },
     {
       "title": "Hey, Answerman! - Personality Disorder",
@@ -5899,6 +5899,11 @@
       "url": "https://www.animenewsnetwork.com/news/2009-12-18/new-york-times-manga-best-seller-list-december-6-12"
     },
     {
+      "title": "Japanese Box Office, December 12-13",
+      "date": "2009-12-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2009-12-16/japanese-box-office-december-12-13"
+    },
+    {
       "title": "All 56 One Piece Books on Japan's Weekly Top 200 Manga",
       "date": "2009-12-16T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2009-12-16/all-56-one-piece-books-on-japan-weekly-top-200-manga"
@@ -5907,11 +5912,6 @@
       "title": "Japanese Comic Ranking, December 7-13",
       "date": "2009-12-16T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2009-12-16/japanese-comic-ranking-december-7-13"
-    },
-    {
-      "title": "Japanese Box Office, December 12-13",
-      "date": "2009-12-16T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2009-12-16/japanese-box-office-december-12-13"
     },
     {
       "title": "New York Times Manga Best Seller List, November 29-December 5",
@@ -5976,12 +5976,12 @@
     {
       "title": "Eiichiro Oda's One Piece Film Strong World Episode 0 Manga to be Animated",
       "date": "2009-11-02T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2009-11-02/eichiro-oda-one-piece-episode-0-to-be-animated"
+      "url": "https://www.animenewsnetwork.com/news/2009-11-05/eichiro-oda-one-piece-episode-0-to-be-animated"
     },
     {
       "title": "Eiichiro Oda's One Piece Film Strong World Episode 0 Manga to be Animated",
       "date": "2009-11-02T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2009-11-05/eichiro-oda-one-piece-episode-0-to-be-animated"
+      "url": "https://www.animenewsnetwork.com/news/2009-11-02/eichiro-oda-one-piece-episode-0-to-be-animated"
     },
     {
       "title": "New York Times Manga Best Seller List, October 11-17",
@@ -6099,14 +6099,14 @@
       "url": "https://www.animenewsnetwork.com/news/2009-06-17/japanese-comic-ranking-june-8-14"
     },
     {
-      "title": "Top-Selling Manga in Japan by Series: 1st Half of 2009",
-      "date": "2009-06-15T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2009-06-15/top-selling-manga-in-japan-by-series/1st-half-of-2009"
-    },
-    {
       "title": "Top-Selling Manga in Japan by Volume: 1st Half of 2009",
       "date": "2009-06-15T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2009-06-15/top-selling-manga-in-japan-by-volume/1st-half-of-2009"
+    },
+    {
+      "title": "Top-Selling Manga in Japan by Series: 1st Half of 2009",
+      "date": "2009-06-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2009-06-15/top-selling-manga-in-japan-by-series/1st-half-of-2009"
     },
     {
       "title": "New York Times Manga Best Seller List, May 31-June 6",
@@ -6179,14 +6179,14 @@
       "url": "https://www.animenewsnetwork.com/news/2009-03-25/japanese-comic-ranking-march-17-23"
     },
     {
-      "title": "Japanese Comic Ranking, March 10-16",
-      "date": "2009-03-18T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2009-03-18/japanese-comic-ranking-march-10-16"
-    },
-    {
       "title": "Japanese Comic Ranking, March 3-9",
       "date": "2009-03-18T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2009-03-18/japanese-comic-ranking-march-3-9"
+    },
+    {
+      "title": "Japanese Comic Ranking, March 10-16",
+      "date": "2009-03-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2009-03-18/japanese-comic-ranking-march-10-16"
     },
     {
       "title": "Naruto, Rosario, Tsubasa on Bookscan's February Chart",

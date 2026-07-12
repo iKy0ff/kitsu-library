@@ -780,6 +780,12 @@
       "mbId": 49377,
       "newsCount": 0
     },
+    "61049": {
+      "title": "Nae Namja Juingongui Anaega Doeeotda",
+      "pub": "Releasing",
+      "mbId": 48401,
+      "newsCount": 0
+    },
     "61302": {
       "title": "Wo Zhen Bushi Xie Shen Zougou",
       "pub": "Releasing",
@@ -1112,7 +1118,7 @@
     },
     "64755": {
       "title": "Dungeon Odyssey",
-      "pub": "Hiatus",
+      "pub": "Releasing",
       "mbId": 1276,
       "newsCount": 0
     },
@@ -2298,6 +2304,12 @@
       "mbId": 585466,
       "newsCount": 0
     },
+    "78656": {
+      "title": "Kaisou Toshi Danpenshuu",
+      "pub": "Releasing",
+      "mbId": 594996,
+      "newsCount": 0
+    },
     "78757": {
       "title": "Hissatsu Reijou Liese: Tensei Shita Saikyou no Koroshiya wa, Yami o Matou Akuyaku Reijou to naru",
       "pub": "Releasing",
@@ -2317,5 +2329,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-11T00:37:20.502Z"
+  "updatedAt": "2026-07-12T02:28:18.824Z"
 }
