@@ -1,7 +1,7 @@
 {
   "kitsuId": "38021",
   "title": "Maoujou de Oyasumi",
-  "updatedAt": "2026-07-12T04:16:02.170Z",
+  "updatedAt": "2026-07-12T22:18:58.682Z",
   "matchVersion": 2,
   "mangabakaId": 3083,
   "mangabakaUrl": "https://mangabaka.org/3083",
@@ -124,7 +124,7 @@
     {
       "name": "Gender Bender",
       "group": "Narrative Tropes",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Misunderstandings",
@@ -184,12 +184,12 @@
     {
       "name": "Youkai",
       "group": "Species & Creatures",
-      "weight": "incidental"
+      "weight": "defining"
     },
     {
       "name": "Dragons",
       "group": "Species & Creatures",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Demons",

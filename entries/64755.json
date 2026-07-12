@@ -1,7 +1,7 @@
 {
   "kitsuId": "64755",
   "title": "Dungeon Odyssey",
-  "updatedAt": "2026-07-12T04:17:05.635Z",
+  "updatedAt": "2026-07-12T22:19:59.426Z",
   "matchVersion": 2,
   "mangabakaId": 1276,
   "mangabakaUrl": "https://mangabaka.org/1276",
@@ -19,9 +19,9 @@
   "type": "manhwa",
   "genres": [
     "action",
+    "fantasy",
     "adventure",
     "drama",
-    "fantasy",
     "horror",
     "psychological",
     "sci-fi",
