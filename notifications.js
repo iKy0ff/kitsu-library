@@ -8,6 +8,6 @@ window.notificationsData = [
     "text": "Resumed — back to Releasing.",
     "unread": true,
     "at": "2026-07-12T02:28:18.823Z",
-    "time": "just now"
+    "time": "1h ago"
   }
 ];
