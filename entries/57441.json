@@ -1,20 +1,20 @@
 {
   "kitsuId": "57441",
   "title": "Quanzhi Gaoshou",
-  "updatedAt": "2026-07-13T00:56:37.964Z",
+  "updatedAt": "2026-07-14T21:25:28.861Z",
   "matchVersion": 2,
   "mangabakaId": 42289,
   "mangabakaUrl": "https://mangabaka.org/42289",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 75
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyNDYxOC1YVDltbE5wT2hIVGYuanBn",
   "author": "Hudie Lan, Yuewen Manhua",
   "synopsis": "No one could ever come close to “Battle God” Ye Qiu’s skills in Glory, a popular game that took the world by storm. His professional team, however, replaced him with another captain, and even seized his account. He was left to start anew at an internet cafe as a manager. When a new District 10 opened up in Glory, he dives back, armed with a decade of experience and an unfinished custom weapon. His path to redemption, filled with strategy and memories, marks his thrilling return to the summit. \n\n(Source: Tapas)",
   "status": "Releasing",
-  "rating": 7.5,
+  "rating": 7.6,
   "total": 261,
   "type": "manhua",
   "genres": [
@@ -295,6 +295,7 @@
   "sources": {
     "anilist": "124618",
     "anime_planet": "the-kings-avatar-2020",
+    "kitsu": "57441",
     "manga_updates": "gjvog84"
   },
   "links": [

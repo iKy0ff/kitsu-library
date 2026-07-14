@@ -1,20 +1,20 @@
 {
   "kitsuId": "77458",
   "title": "Agui Ssiaseul Kiwo Beoryeotda",
-  "updatedAt": "2026-07-13T00:56:56.031Z",
+  "updatedAt": "2026-07-14T21:25:47.794Z",
   "matchVersion": 2,
   "mangabakaId": 90570,
   "mangabakaUrl": "https://mangabaka.org/90570",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzIvNi82L2YvNC82LzIvMzg5Zi80YmVhL2E4OGMvYTVkOTUyNzk2NTIz",
   "author": "Hee-Su Hong, Hyeon Yeong, Ji-Seon Yun, Mandal",
   "synopsis": "Astraea, the strongest swordswoman in the world. One day, she realizes that she has reincarnated as a character inside a novel. And that role is the one who gets killed by the Evil God, the final boss...\n\nDuring a mountain hike, she saves a child from assailants, only to learn that this very child is destined to become the Evil God.\n\n *\"Well then, since it’s come to this, how about I raise him properly and reform him?\"*\n\nSo she takes the child in and begins to raise him. But then... \n\n *\"Rea. Where are you going? Are you meeting that guy again?\"* \n\nThe boy has grown into an obsessive man who follows her everywhere, watching her every move. Somehow... it feels like she raised him the wrong way. \n\n(Source: Kakaopage, translated)",
   "status": "Releasing",
-  "rating": 6.8,
+  "rating": 6.7,
   "total": 50,
   "type": "manhwa",
   "genres": [
@@ -89,6 +89,7 @@
   "sources": {
     "anilist": "198223",
     "anime_planet": "i-have-grown-the-seeds-of-evil",
+    "kitsu": "77458",
     "manga_updates": "z6079pb"
   },
   "links": [

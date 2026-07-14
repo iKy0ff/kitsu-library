@@ -1,14 +1,14 @@
 {
   "kitsuId": "77119",
   "title": "Level 999 Goblin",
-  "updatedAt": "2026-07-13T01:00:01.724Z",
+  "updatedAt": "2026-07-14T21:28:56.721Z",
   "matchVersion": 2,
   "mangabakaId": 203076,
   "mangabakaUrl": "https://mangabaka.org/203076",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 90
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81L2IvMS9mL2QvNS8xLzQvYjRlNi80MWQ1L2EwYjcvOTFmNTFiNTE4Y2Zi",
   "author": "Dapi",
@@ -112,6 +112,7 @@
   "sources": {
     "anilist": "192813",
     "anime_planet": "level-999-goblin",
+    "kitsu": "77119",
     "manga_updates": "nfyob5y",
     "my_anime_list": "181842",
     "shikimori": "181842"

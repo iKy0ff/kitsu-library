@@ -1,7 +1,7 @@
 {
   "kitsuId": "56500",
   "title": "Tutorial Tabui Goinmul",
-  "updatedAt": "2026-07-13T00:46:18.784Z",
+  "updatedAt": "2026-07-14T21:14:43.135Z",
   "matchVersion": 2,
   "mangabakaId": 8376,
   "mangabakaUrl": "https://mangabaka.org/8376",
@@ -140,7 +140,7 @@
     {
       "name": "Shapeshifting",
       "group": "Narrative Tropes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Weak to Strong",

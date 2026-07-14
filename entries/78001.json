@@ -1,20 +1,20 @@
 {
   "kitsuId": "78001",
   "title": "Game Sekai de Mamono ni Tensei shiteshimatta Ore, Zense de Oshi datta Heroine wo Hirotteshimau",
-  "updatedAt": "2026-07-13T00:45:09.684Z",
+  "updatedAt": "2026-07-14T21:13:31.013Z",
   "matchVersion": 2,
   "mangabakaId": 410688,
   "mangabakaUrl": "https://mangabaka.org/410688",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzEvYy84LzUvNC9jL2EvOWJjNS80M2JiL2JlZDIvMzM3OWZkZjI4Zjk0",
   "author": "Bebe Sanbu, Neushitora",
   "synopsis": "When I woke up, I had reincarnated into the world of a game I played in my past life. And what's more, as a monster that's hostile to humanity! It couldn't be helped, so I just lived quietly so humans wouldn't find me, but... \n\nThe heroine, Noa, who was my oshi in my past life, had collapsed near my home!! \n\nAfter I protected and nursed her, my oshi gave me the name \"Rei\", so I decided to follow and protect Noa as my oshi for life. I meet other characters from the game too, and I'm watching over Noa's growth, but... the real Noa seems to be the type who's a bit clingy and has a... \"heavy\" love? \n\nThis is the story of me, reincarnated as a monster, somehow overcoming hardships together with my beloved oshi. \n\n(Source: Kadokawa, translated)",
   "status": "Releasing",
-  "rating": 7.1,
+  "rating": 7.2,
   "total": 11,
   "type": "manga",
   "genres": [
@@ -95,6 +95,7 @@
   "sources": {
     "anilist": "209208",
     "anime_planet": "game-sekai-de-mamono-ni-tenseishiteshimatta-ore-zense-de-oshi-datta-heroine-wo-hirotteshimau",
+    "kitsu": "78001",
     "manga_updates": "ofxl7x7",
     "my_anime_list": "188709",
     "shikimori": "188709"

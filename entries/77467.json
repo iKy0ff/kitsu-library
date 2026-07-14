@@ -1,14 +1,14 @@
 {
   "kitsuId": "77467",
   "title": "The Monster Dame Requests Maternity Leave",
-  "updatedAt": "2026-07-13T00:54:59.782Z",
+  "updatedAt": "2026-07-14T21:23:46.755Z",
   "matchVersion": 2,
   "mangabakaId": 117000,
   "mangabakaUrl": "https://mangabaka.org/117000",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzEvMi9lL2QvMy81L2YvZTk0ZS80MjQ0LzkyZWUvZDVhNGFiOGE0MTI0",
   "author": "Cosmology, Seong-Yeong Oh",
@@ -219,6 +219,7 @@
   "sources": {
     "anilist": "189263",
     "anime_planet": "the-monster-dame-requests-maternity-leave",
+    "kitsu": "77467",
     "manga_updates": "ws31fir",
     "my_anime_list": "180913",
     "shikimori": "180913"

@@ -1,14 +1,14 @@
 {
   "kitsuId": "78161",
   "title": "Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu ni Ai ni Gendai ni Iku",
-  "updatedAt": "2026-07-13T00:54:22.898Z",
+  "updatedAt": "2026-07-14T21:23:08.631Z",
   "matchVersion": 2,
   "mangabakaId": 188,
   "mangabakaUrl": "https://mangabaka.org/188",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 91
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4MDU4My13d0xOdnpqTWVKMjEuanBn",
   "author": "Kiraku Kishima",
@@ -115,6 +115,7 @@
   "sources": {
     "anilist": "180583",
     "anime_planet": "last-boss-shoujo-akari-watashi-yori-tsuyoi-yatsu-ni-ai-ni-gendai-ni-iku",
+    "kitsu": "78161",
     "manga_updates": "qrx0whe",
     "my_anime_list": "174292",
     "shikimori": "174292"

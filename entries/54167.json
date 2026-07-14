@@ -1,7 +1,7 @@
 {
   "kitsuId": "54167",
   "title": "Tono no Kanri o Shite Miyou",
-  "updatedAt": "2026-07-13T00:40:12.747Z",
+  "updatedAt": "2026-07-14T21:08:50.298Z",
   "matchVersion": 2,
   "mangabakaId": 562,
   "mangabakaUrl": "https://mangabaka.org/562",
@@ -14,7 +14,7 @@
   "author": "Guyo, Rune, Sousyu",
   "synopsis": "Kosuke is killed by a truck, his soul is lost in a garden with two beautiful girls. The owner of the place will let him choose whether he will be reborn or summoned to another world, and he maintains the summons. In this new world, the main two girls who were created by the owner of the garden to help him find the mystery behind the world - a Dungeon tower. Will he be able to become the owner of this tower and manage it?",
   "status": "Releasing",
-  "rating": 7.3,
+  "rating": 7.2,
   "total": 98,
   "type": "manga",
   "genres": [
@@ -146,7 +146,7 @@
     {
       "name": "God-Human Relationship",
       "group": "Relationship",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Harem",
@@ -162,6 +162,11 @@
       "name": "Master-Servant Relationship",
       "group": "Relationship",
       "weight": "recurrent"
+    },
+    {
+      "name": "Polygamy",
+      "group": "Relationship",
+      "weight": "incidental"
     },
     {
       "name": "European Ambience",
@@ -296,7 +301,7 @@
     {
       "name": "Spirits",
       "group": "Species & Creatures",
-      "weight": "defining"
+      "weight": "recurrent"
     },
     {
       "name": "Action",

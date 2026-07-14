@@ -1,14 +1,14 @@
 {
   "kitsuId": "76890",
   "title": "Cheonui Eolgul",
-  "updatedAt": "2026-07-13T00:58:08.987Z",
+  "updatedAt": "2026-07-14T21:26:59.619Z",
   "matchVersion": 2,
   "mangabakaId": 204542,
   "mangabakaUrl": "https://mangabaka.org/204542",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 90
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzMvMi9hLzIvNS82LzQvODZiNy80ZTQyL2EyYjcvMDc4MWVkOTljNmYy",
   "author": "Gamja Kim, Kaji, Sosan",
@@ -124,6 +124,7 @@
   "sources": {
     "anilist": "193298",
     "anime_planet": "a-thousand-faces",
+    "kitsu": "76890",
     "manga_updates": "i5gi4h8",
     "my_anime_list": "182242",
     "shikimori": "182242"

@@ -1,21 +1,21 @@
 {
   "kitsuId": "78137",
   "title": "Bad Business",
-  "updatedAt": "2026-07-13T00:41:50.022Z",
+  "updatedAt": "2026-07-14T21:07:42.315Z",
   "matchVersion": 2,
   "mangabakaId": 571685,
   "mangabakaUrl": "https://mangabaka.org/571685",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83L2IvNy83L2EvYS9hL2UvNDJkZi80MzM1LzhhYzgvZTQ3MDg1ZmQ4MTBj",
   "author": "Won-Sik Lee",
   "synopsis": "Jay, a legendary hitman in America's underworld, is hired by Union, North America's largest assassin corporation, to destroy the assassin company founded by his friend Johnny with his own hands. The condition for accepting the job was sparing Johnny's life, but due to Union's betrayal, both Johnny and Jay are killed. However, resurrected by a mysterious power into the body of an ordinary young man in Korea, Jay meets Johnny, who has been resurrected in the body of a young woman. The two decide to join forces once more to create a powerful ‘company’ and exact revenge on Union, the organization that killed them.\n\n(Source: KakaoPage, translated)",
   "status": "Releasing",
   "rating": 6.9,
-  "total": 30,
+  "total": 31,
   "type": "manhwa",
   "genres": [
     "action",
@@ -81,6 +81,7 @@
   "sources": {
     "anilist": "205504",
     "anime_planet": "bad-business",
+    "kitsu": "78137",
     "manga_updates": "vwog2s3"
   },
   "links": [

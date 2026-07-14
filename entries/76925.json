@@ -1,14 +1,14 @@
 {
   "kitsuId": "76925",
   "title": "Haimiya Senpai wa Kowakute Kawaii",
-  "updatedAt": "2026-07-13T00:42:59.200Z",
+  "updatedAt": "2026-07-14T21:11:22.199Z",
   "matchVersion": 2,
   "mangabakaId": 564580,
   "mangabakaUrl": "https://mangabaka.org/564580",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 71
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzMvZS84LzEvMC84LzIvMTRiNS80OTJkL2FmZTcvYzY2MDg3MjU2NmRi",
   "author": "Sumu Kamiyama",
@@ -165,6 +165,7 @@
   "sources": {
     "anilist": "201773",
     "anime_planet": "haimiya-senpai-wa-kowakute-kawaii",
+    "kitsu": "76925",
     "manga_updates": "i870muo",
     "my_anime_list": "188409",
     "shikimori": "188409"

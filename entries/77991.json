@@ -1,21 +1,21 @@
 {
   "kitsuId": "77991",
   "title": "Bullobulsaro Sandaneun Geoseun",
-  "updatedAt": "2026-07-13T00:42:51.752Z",
+  "updatedAt": "2026-07-14T21:11:14.626Z",
   "matchVersion": 2,
   "mangabakaId": 583840,
   "mangabakaUrl": "https://mangabaka.org/583840",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hL2EvOS8yLzYvNi9iLzIvYjZmOS80MmVkL2FiNzcvNmY3NjUyMjVlZjg1",
   "author": "Chawon, Gyeoureeo",
   "synopsis": "Roberta, a priestess of the church, is designated as the head priestess of a remote region in the northern edge—Dithmar. As the appointment came immediately after the disappearance of her predecessor, Roberta remained on guard and began to investigate Duke Ulrich of Dithmarschen. According to rumors, he has ruled over the region's lord for over 300 years, and even claimed to be an immortal... one who lives a life no human should be capable of possessing. Determined to uncover the truth, Roberta decides to trace his steps.\n\n(Source: Naver, translated)",
   "status": "Releasing",
   "rating": 7.4,
-  "total": 20,
+  "total": 21,
   "type": "manhwa",
   "genres": [
     "action",
@@ -86,6 +86,7 @@
   "sources": {
     "anilist": "210074",
     "anime_planet": "eternal-youth",
+    "kitsu": "77991",
     "manga_updates": "7m0tk8t"
   },
   "links": [

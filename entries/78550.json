@@ -1,14 +1,14 @@
 {
   "kitsuId": "78550",
   "title": "Konyakusha ni Kirawareteiru You na node Hanaretemitara, Nazeka Kougi Saremashita",
-  "updatedAt": "2026-07-13T00:45:02.512Z",
+  "updatedAt": "2026-07-14T21:13:23.490Z",
   "matchVersion": 2,
   "mangabakaId": 568010,
   "mangabakaUrl": "https://mangabaka.org/568010",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMzI3NC1YTWJvanBDTUFMM2kuanBn",
   "author": "Hanaba, Neneko Kobato",
@@ -78,6 +78,7 @@
   "news": [],
   "sources": {
     "anilist": "203274",
+    "kitsu": "78550",
     "manga_updates": "5bumfa4",
     "my_anime_list": "191038"
   },

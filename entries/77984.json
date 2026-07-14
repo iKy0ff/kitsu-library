@@ -1,14 +1,14 @@
 {
   "kitsuId": "77984",
   "title": "Tensei Shitara Seikaiju Datta Ken",
-  "updatedAt": "2026-07-13T01:01:10.439Z",
+  "updatedAt": "2026-07-14T21:30:08.932Z",
   "matchVersion": 2,
   "mangabakaId": 82575,
   "mangabakaUrl": "https://mangabaka.org/82575",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 102
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4OTIxMy1SUk9oQkR2SDNoczEuanBn",
   "author": "Shin Yogi, Tsukino Mint",
@@ -96,6 +96,7 @@
     "anilist": "189213",
     "anime_planet": "tenseishitara-sekaiju-datta-ken",
     "anime_news_network": "33951",
+    "kitsu": "77984",
     "manga_updates": "r6j1j84",
     "my_anime_list": "184114",
     "shikimori": "184114"

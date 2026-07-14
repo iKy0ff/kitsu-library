@@ -1,14 +1,14 @@
 {
   "kitsuId": "78759",
   "title": "Murim Sachaewang",
-  "updatedAt": "2026-07-13T00:39:49.808Z",
+  "updatedAt": "2026-07-14T21:08:31.494Z",
   "matchVersion": 2,
   "mangabakaId": 590195,
   "mangabakaUrl": "https://mangabaka.org/590195",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 82
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2IvOS8xL2YvNi9lLzAvNDk0Yi80MThlLzllNWYvMjhjMDc0YWY0MjJk",
   "author": "Hong-Sil, Sallyeojuseyo",
@@ -75,6 +75,7 @@
   "sources": {
     "anilist": "213118",
     "anime_planet": "murim-loan-shark-king",
+    "kitsu": "78759",
     "manga_updates": "1j7qzna"
   },
   "links": [

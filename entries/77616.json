@@ -1,14 +1,14 @@
 {
   "kitsuId": "77616",
   "title": "Imouto no Haishin ni Hairikondara VTuber Atsukai Sareta Ken",
-  "updatedAt": "2026-07-13T00:44:33.556Z",
+  "updatedAt": "2026-07-14T21:12:57.008Z",
   "matchVersion": 2,
   "mangabakaId": 576078,
   "mangabakaUrl": "https://mangabaka.org/576078",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 71
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwNjc1Mi1oaGZYRHVMU2dhbkUuanBn",
   "author": "Ao Umito, Kaiji Eba",
@@ -93,6 +93,7 @@
   "sources": {
     "anilist": "206752",
     "anime_planet": "imouto-no-haishin-ni-hairikondara-vtuber-atsukai-sareta-ken",
+    "kitsu": "77616",
     "manga_updates": "46uvr83",
     "my_anime_list": "190378"
   },

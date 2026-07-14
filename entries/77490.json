@@ -1,14 +1,14 @@
 {
   "kitsuId": "77490",
   "title": "Lv. 99 Princess of Black Flame",
-  "updatedAt": "2026-07-13T00:56:30.814Z",
+  "updatedAt": "2026-07-14T21:25:21.319Z",
   "matchVersion": 2,
   "mangabakaId": 202866,
   "mangabakaUrl": "https://mangabaka.org/202866",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 74
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jLzAvNy81LzcvNi9jL2YvN2U0YS80OWIwL2JjYTIvZjFhMTVkZGRiNjFl",
   "author": "Jinggae, Rinji",
@@ -142,6 +142,7 @@
   "sources": {
     "anilist": "192741",
     "anime_planet": "lv-99-princess-of-black-flame",
+    "kitsu": "77490",
     "manga_updates": "x88sn44",
     "my_anime_list": "181905",
     "shikimori": "181905"

@@ -1,14 +1,14 @@
 {
   "kitsuId": "78312",
   "title": "Get Married So I Can Curse Your Firstborn and Finally Be Free!",
-  "updatedAt": "2026-07-13T00:52:20.474Z",
+  "updatedAt": "2026-07-14T21:20:59.420Z",
   "matchVersion": 2,
   "mangabakaId": 75574,
   "mangabakaUrl": "https://mangabaka.org/75574",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 104
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzEvZi85LzAvZS9jL2QvNTRjNS80YmViL2I4OWEvMzE5ODkyYWEzM2Rk",
   "author": "Shinobu Inokuma",
@@ -165,6 +165,7 @@
     "anilist": "189860",
     "anime_planet": "7-dai-tatarimasu-node-hayaku-kekkonshite-kudasai",
     "anime_news_network": "34921",
+    "kitsu": "78312",
     "manga_updates": "8185bln",
     "my_anime_list": "164810",
     "shikimori": "164810"

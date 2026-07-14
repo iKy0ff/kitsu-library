@@ -1,14 +1,14 @@
 {
   "kitsuId": "77448",
   "title": "Agiyongi Gongjakgareul Sallim",
-  "updatedAt": "2026-07-13T00:53:54.349Z",
+  "updatedAt": "2026-07-14T21:22:38.335Z",
   "matchVersion": 2,
   "mangabakaId": 357172,
   "mangabakaUrl": "https://mangabaka.org/357172",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xLzgvYi81L2IvNy81LzEvZmJhNi80YjA1Lzk3YzMvZGM3NjhlMjJlMDNk",
   "author": "I-Rin Seol, Pu-Rik, Yumin",
@@ -140,6 +140,7 @@
   "sources": {
     "anilist": "199675",
     "anime_planet": "baby-dragon-to-the-dukes-rescue",
+    "kitsu": "77448",
     "manga_updates": "o07jfp5",
     "my_anime_list": "187547",
     "shikimori": "187547"

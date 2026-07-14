@@ -1,14 +1,14 @@
 {
   "kitsuId": "77174",
   "title": "Yotaka Futatabi",
-  "updatedAt": "2026-07-13T00:46:33.304Z",
+  "updatedAt": "2026-07-14T21:14:58.180Z",
   "matchVersion": 2,
   "mangabakaId": 566078,
   "mangabakaUrl": "https://mangabaka.org/566078",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 74
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzUvNC9mL2MvYy8zL2UvYTBjOC80OWE0LzlhNDkvMDI0NTk0MjVmZDZl",
   "author": "Fuyuki Izumida",
@@ -151,6 +151,7 @@
   "sources": {
     "anilist": "202332",
     "anime_planet": "yotaka-futatabi",
+    "kitsu": "77174",
     "manga_updates": "4tfr1of",
     "my_anime_list": "188659",
     "shikimori": "188659"

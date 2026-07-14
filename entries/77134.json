@@ -1,20 +1,20 @@
 {
   "kitsuId": "77134",
   "title": "The Demon King Has Too Many Heroes",
-  "updatedAt": "2026-07-13T00:40:19.996Z",
+  "updatedAt": "2026-07-14T21:08:57.925Z",
   "matchVersion": 2,
   "mangabakaId": 567481,
   "mangabakaUrl": "https://mangabaka.org/567481",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 76
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hL2YvZS8wL2EvYS8yL2QvYmI1NC80NTdiL2I2N2EvMzE5OGM4YmE2YTA2",
   "author": "Mirip, Seon-Ung Yun",
   "synopsis": "Berje Deias was once a by-the-book Demon King, but after being reborn, he is determined to break every rule there is. His second attempt at life, however, takes a chaotic turn when a kidnapping of a princess doesn’t quite go to plan! Can he defeat an entire continent of heroes with his wild, untested methods?!\n\n(Source: WEBTOON)",
   "status": "Releasing",
-  "rating": 7.8,
+  "rating": 7.7,
   "total": 40,
   "type": "manhwa",
   "genres": [
@@ -85,6 +85,11 @@
       "weight": "defining"
     },
     {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
       "name": "Longstrip",
       "group": "Work Info",
       "weight": "unweighted"
@@ -109,6 +114,7 @@
   "sources": {
     "anilist": "202986",
     "anime_planet": "the-demon-king-has-too-many-heroes",
+    "kitsu": "77134",
     "manga_updates": "6h1mhsx",
     "my_anime_list": "189030",
     "shikimori": "189030"

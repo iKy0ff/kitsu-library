@@ -1,14 +1,14 @@
 {
   "kitsuId": "78548",
   "title": "Moreuneun Manhwae Binguihaetda",
-  "updatedAt": "2026-07-13T00:44:15.561Z",
+  "updatedAt": "2026-07-14T21:12:38.076Z",
   "matchVersion": 2,
   "mangabakaId": 588435,
   "mangabakaUrl": "https://mangabaka.org/588435",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzYvOC83LzkvMi9mLzEvMTFmMy80NmEzLzllOTEvYTUzMWRjNjQxNTA4",
   "author": "INO, Teach",
@@ -177,6 +177,7 @@
   "sources": {
     "anilist": "212423",
     "anime_planet": "i-was-thrown-into-an-unknown-manga",
+    "kitsu": "78548",
     "manga_updates": "ulpv081"
   },
   "links": [

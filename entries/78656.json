@@ -1,14 +1,14 @@
 {
   "kitsuId": "78656",
   "title": "Kaisou Toshi Danpenshuu",
-  "updatedAt": "2026-07-13T00:40:16.318Z",
+  "updatedAt": "2026-07-14T21:08:54.113Z",
   "matchVersion": 2,
   "mangabakaId": 594996,
   "mangabakaUrl": "https://mangabaka.org/594996",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzcyNi1OQlF4QkRlR1hFMWsuanBn",
   "author": "Tsukumizu",
@@ -69,6 +69,8 @@
   "news": [],
   "sources": {
     "anilist": "213726",
+    "anime_planet": "kaisou-toshi-danpenshuu",
+    "kitsu": "78656",
     "manga_updates": "bbjeejc",
     "my_anime_list": "194095"
   },

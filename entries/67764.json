@@ -1,7 +1,7 @@
 {
   "kitsuId": "67764",
   "title": "Cleric of Decay",
-  "updatedAt": "2026-07-13T00:50:54.139Z",
+  "updatedAt": "2026-07-14T21:19:27.783Z",
   "matchVersion": 2,
   "mangabakaId": 1488,
   "mangabakaUrl": "https://mangabaka.org/1488",
@@ -60,6 +60,11 @@
       "weight": "core"
     },
     {
+      "name": "Pragmatic Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
       "name": "Based on a Novel",
       "group": "Derivative Work",
       "weight": "recurrent"
@@ -103,6 +108,11 @@
       "name": "Female Harem",
       "group": "Relationship",
       "weight": "incidental"
+    },
+    {
+      "name": "Master-Disciple Relationship",
+      "group": "Relationship",
+      "weight": "recurrent"
     },
     {
       "name": "Fantasy",

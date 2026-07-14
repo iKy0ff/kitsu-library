@@ -8,7 +8,7 @@ window.notificationsData = [
     "text": "Resumed — back to Releasing.",
     "unread": true,
     "at": "2026-07-12T22:22:44.296Z",
-    "time": "2h ago"
+    "time": "1d ago"
   },
   {
     "id": "nmrh6c2dj1hd1e",
@@ -18,6 +18,6 @@ window.notificationsData = [
     "text": "Resumed — back to Releasing.",
     "unread": true,
     "at": "2026-07-12T02:28:18.823Z",
-    "time": "22h ago"
+    "time": "2d ago"
   }
 ];

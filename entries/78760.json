@@ -1,14 +1,14 @@
 {
   "kitsuId": "78760",
   "title": "Classmates wa Isekai Ten'i nanoni Watashi wa Isekai Tensei",
-  "updatedAt": "2026-07-13T00:40:48.699Z",
+  "updatedAt": "2026-07-14T21:09:24.540Z",
   "matchVersion": 2,
   "mangabakaId": 369581,
   "mangabakaUrl": "https://mangabaka.org/369581",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 83
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8yLzM0NDU4OWwuanBn",
   "author": "Yamada Mojibi",
@@ -93,6 +93,7 @@
   "news": [],
   "sources": {
     "anime_planet": "classmate-wa-isekai-teni-nano-ni-watashi-wa-isekai-tensei",
+    "kitsu": "78760",
     "manga_updates": "sg2lgpz",
     "my_anime_list": "186282",
     "shikimori": "186282"

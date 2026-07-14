@@ -1,21 +1,21 @@
 {
   "kitsuId": "69516",
   "title": "Star-Embracing Swordmaster",
-  "updatedAt": "2026-07-13T00:49:27.159Z",
+  "updatedAt": "2026-07-14T21:18:00.372Z",
   "matchVersion": 2,
   "mangabakaId": 588,
   "mangabakaUrl": "https://mangabaka.org/588",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 73
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzYvNy8yLzQvYS8yLzgvMDY3Yi80MDNkL2EwNmEvYTRiZTU0YjM0MDdl",
   "author": "Dae-Ui Hong, Q10",
   "synopsis": "The so-called “Lighthouse of the North,” the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses. When streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. Blessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.\n\n(Source: WEBTOON)",
   "status": "Releasing",
   "rating": 8.3,
-  "total": 126,
+  "total": 128,
   "type": "manhwa",
   "genres": [
     "action",
@@ -332,6 +332,7 @@
   "sources": {
     "anilist": "170400",
     "anime_planet": "the-stellar-swordmaster",
+    "kitsu": "69516",
     "manga_updates": "cnro3u3",
     "my_anime_list": "163116",
     "shikimori": "163116"

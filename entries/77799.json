@@ -1,14 +1,14 @@
 {
   "kitsuId": "77799",
   "title": "Yuusha Party wo Kubi ni Natta node Kokyou ni Kaettara, Member Zenin ga Tsuite Kitan da ga",
-  "updatedAt": "2026-07-13T00:42:26.459Z",
+  "updatedAt": "2026-07-14T21:10:47.848Z",
   "matchVersion": 2,
   "mangabakaId": 349452,
   "mangabakaUrl": "https://mangabaka.org/349452",
   "match": {
-    "confidence": "high",
-    "method": "scored",
-    "score": 96
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
   },
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzcvOC9mLzYvMi82L2UvOTViNS80NzgyLzg4NjEvMjU5NjVkOTk1NTNj",
   "author": "Kinome, Sekkyou Ice.",
@@ -188,6 +188,7 @@
   "sources": {
     "anilist": "193380",
     "anime_planet": "yuusha-party-wo-kubi-ni-natta-node-kokyou-ni-kaettara-member-zenin-ga-tsuitekita-n-daga",
+    "kitsu": "77799",
     "manga_updates": "udrh8gq",
     "my_anime_list": "182946",
     "shikimori": "182946"
