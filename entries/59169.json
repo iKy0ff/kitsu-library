@@ -1,7 +1,7 @@
 {
   "kitsuId": "59169",
   "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-  "updatedAt": "2026-07-14T21:10:06.211Z",
+  "updatedAt": "2026-07-16T22:02:28.955Z",
   "matchVersion": 2,
   "mangabakaId": 139,
   "mangabakaUrl": "https://mangabaka.org/139",
@@ -15,7 +15,7 @@
   "synopsis": "Second-year high school student Rakuro Hizutome loves nothing more than finding so-called “trash games” and beating the crap out of them. When he decides to change things up by playing a new, “god-tier” VR game known as Shangri-La Frontier (a.k.a. SLF), he does what he does best: min-maxes, skips the prologue, and jumps straight into action! Rakuro may be a seasoned gamer, but a meeting with an old rival will change the fate of every SLF player forever.\n\nClad in nothing but shorts and a bird mask, Rakuro (player name: Sunraku) launches into the world of SLF. Things are going well at first as he takes down a goblin, a bunny, and even a python. But then Sunraku comes up against a huge, hard-hitting wolf known as Lycagon the Nightslayer. Will Sunraku’s years of “trash game” experience be enough, or is he about to suffer a rude awakening just a few hours into his SLF adventure?\n\n*Source: Kodansha USA*",
   "status": "Releasing",
   "rating": 8.2,
-  "total": 272,
+  "total": 273,
   "type": "manga",
   "genres": [
     "action",
@@ -146,7 +146,7 @@
     {
       "name": "Anthropomorphic",
       "group": "Species & Creatures",
-      "weight": "defining"
+      "weight": "core"
     },
     {
       "name": "Action",
@@ -406,6 +406,11 @@
       "url": "https://www.animenewsnetwork.com/feature/2022-09-21/the-fall-2022-manga-guide/shangri-la-frontier/.189871"
     },
     {
+      "title": "North American Anime, Manga Releases, May 1-7",
+      "date": "2022-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-03/north-american-anime-manga-releases-may-1-7/.185294"
+    },
+    {
       "title": "INKR Releases Kodansha Simulpub Content",
       "date": "2022-05-03T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/press-release/2022-05-03/inkr-releases-kodansha-simulpub-content/.185287"
@@ -414,11 +419,6 @@
       "title": "Exclusive: INKR Adds 14 Simulpub Manga from Kodansha USA",
       "date": "2022-05-03T00:00:00.000Z",
       "url": "https://www.animenewsnetwork.com/news/2022-05-03/exclusive-inkr-adds-14-simulpub-manga-from-kodansha-usa/.185286"
-    },
-    {
-      "title": "North American Anime, Manga Releases, May 1-7",
-      "date": "2022-05-03T00:00:00.000Z",
-      "url": "https://www.animenewsnetwork.com/news/2022-05-03/north-american-anime-manga-releases-may-1-7/.185294"
     },
     {
       "title": "46th Annual Kodansha Manga Awards' Nominees Announced",

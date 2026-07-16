@@ -1,7 +1,7 @@
 {
   "kitsuId": "76925",
   "title": "Haimiya Senpai wa Kowakute Kawaii",
-  "updatedAt": "2026-07-14T21:11:22.199Z",
+  "updatedAt": "2026-07-16T22:02:17.055Z",
   "matchVersion": 2,
   "mangabakaId": 564580,
   "mangabakaUrl": "https://mangabaka.org/564580",
@@ -14,7 +14,7 @@
   "author": "Sumu Kamiyama",
   "synopsis": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason…this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!\n\n*Source: Manga UP! Global*",
   "status": "Releasing",
-  "rating": 7.6,
+  "rating": 7.7,
   "total": 35,
   "type": "manga",
   "genres": [
@@ -33,7 +33,7 @@
     {
       "name": "Yandere",
       "group": "Character Archetype",
-      "weight": "defining"
+      "weight": "recurrent"
     },
     {
       "name": "Gyaru",

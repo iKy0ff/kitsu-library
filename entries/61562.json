@@ -1,7 +1,7 @@
 {
   "kitsuId": "61562",
   "title": "Reality Quest",
-  "updatedAt": "2026-07-14T21:16:14.131Z",
+  "updatedAt": "2026-07-16T22:11:00.034Z",
   "matchVersion": 2,
   "mangabakaId": 1524,
   "mangabakaUrl": "https://mangabaka.org/1524",
@@ -15,7 +15,7 @@
   "synopsis": "Dowan Ha is a bullied gamer, whose bullies force him to grind to obtain in-game items for them. After one such bully demands that Dowan obtain an impossibly rare item for him or be beaten in front of the prettiest girl in school, Dowan games day and night for a week until he drops dead from exhaustion. However, as soon as he dies, he respawns back in his classroom one week before his death. Everything is the same as it was before, except now he has all the skills he’s acquired from the games he’s played in real life! Will Dowan be able to use his newfound abilities and gamified existence to defeat his bullies? \n\n(Source: WEBTOON)",
   "status": "Releasing",
   "rating": 7.4,
-  "total": 211,
+  "total": 214,
   "type": "manhwa",
   "genres": [
     "action",
@@ -23,8 +23,9 @@
     "comedy",
     "drama",
     "fantasy",
+    "mature",
     "school_life",
-    "shounen"
+    "seinen"
   ],
   "tags": [
     {
@@ -33,9 +34,14 @@
       "weight": "recurrent"
     },
     {
-      "name": "Shounen",
+      "name": "Seinen",
       "group": "Audience Demographics",
       "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
     },
     {
       "name": "Strong Protagonist",
@@ -143,9 +149,14 @@
       "weight": "defining"
     },
     {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
       "name": "Attempted Rape",
       "group": "Sexual Content",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Action",
@@ -220,6 +231,11 @@
     {
       "name": "Violence",
       "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
       "weight": "recurrent"
     },
     {

@@ -1,7 +1,7 @@
 {
   "kitsuId": "37173",
   "title": "Kumo desu ga, Nani ka?",
-  "updatedAt": "2026-07-14T21:12:26.704Z",
+  "updatedAt": "2026-07-16T22:07:08.312Z",
   "matchVersion": 2,
   "mangabakaId": 2992,
   "mangabakaUrl": "https://mangabaka.org/2992",
@@ -256,6 +256,11 @@
       "name": "Kill or Be Killed Situation",
       "group": "Narrative Tropes",
       "weight": "core"
+    },
+    {
+      "name": "Memory Manipulation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
     },
     {
       "name": "Time Rewind",

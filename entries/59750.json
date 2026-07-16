@@ -1,7 +1,7 @@
 {
   "kitsuId": "59750",
   "title": "Reformation of the Deadbeat Noble",
-  "updatedAt": "2026-07-14T21:08:39.054Z",
+  "updatedAt": "2026-07-16T22:03:40.308Z",
   "matchVersion": 2,
   "mangabakaId": 6459,
   "mangabakaUrl": "https://mangabaka.org/6459",
@@ -56,14 +56,24 @@
       "weight": "defining"
     },
     {
-      "name": "Famous Female Lead",
+      "name": "Determined Protagonist",
       "group": "Character Types",
       "weight": "recurrent"
     },
     {
-      "name": "Strong Female Lead",
+      "name": "Female Fighters",
       "group": "Character Types",
       "weight": "recurrent"
+    },
+    {
+      "name": "Famous Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
     },
     {
       "name": "Hard-Working Protagonist",
@@ -76,12 +86,22 @@
       "weight": "defining"
     },
     {
+      "name": "Determined Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
       "name": "Mature Male Lead",
       "group": "Character Types",
       "weight": "recurrent"
     },
     {
       "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Rival",
       "group": "Character Types",
       "weight": "recurrent"
     },
@@ -99,6 +119,11 @@
       "name": "Europe",
       "group": "Locations",
       "weight": "unweighted"
+    },
+    {
+      "name": "Academy",
+      "group": "Locations",
+      "weight": "recurrent"
     },
     {
       "name": "Character Growth",
@@ -146,9 +171,19 @@
       "weight": "recurrent"
     },
     {
+      "name": "Swordsman",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
       "name": "Brother Complex",
       "group": "Relationship",
       "weight": "defining"
+    },
+    {
+      "name": "Half-Siblings",
+      "group": "Relationship",
+      "weight": "recurrent"
     },
     {
       "name": "Multiple Couples",
@@ -168,7 +203,7 @@
     {
       "name": "European Ambience",
       "group": "Settings",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Fantasy",
@@ -216,9 +251,19 @@
       "weight": "defining"
     },
     {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
       "name": "Drama",
       "group": "Genre",
       "weight": "defining"
+    },
+    {
+      "name": "Dreams",
+      "group": "Themes",
+      "weight": "recurrent"
     },
     {
       "name": "Female Empowerment",
@@ -228,7 +273,7 @@
     {
       "name": "Love Confession",
       "group": "Themes",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Royalty",
@@ -243,7 +288,7 @@
     {
       "name": "Romantic Subplot",
       "group": "Themes",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Special Ability",

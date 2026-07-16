@@ -1,7 +1,7 @@
 {
   "kitsuId": "77134",
   "title": "The Demon King Has Too Many Heroes",
-  "updatedAt": "2026-07-14T21:08:57.925Z",
+  "updatedAt": "2026-07-16T22:01:56.993Z",
   "matchVersion": 2,
   "mangabakaId": 567481,
   "mangabakaUrl": "https://mangabaka.org/567481",
@@ -87,7 +87,7 @@
     {
       "name": "Medieval",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Longstrip",
