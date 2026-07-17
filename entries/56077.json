@@ -1,7 +1,7 @@
 {
   "kitsuId": "56077",
   "title": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
-  "updatedAt": "2026-07-16T22:07:12.301Z",
+  "updatedAt": "2026-07-17T22:06:22.607Z",
   "matchVersion": 2,
   "mangabakaId": 1958,
   "mangabakaUrl": "https://mangabaka.org/1958",
@@ -145,12 +145,12 @@
     {
       "name": "Failed Relationship",
       "group": "Narrative Tropes",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Female Lead Falls in Love First",
       "group": "Narrative Tropes",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Past Plays a Big Role",
@@ -175,7 +175,7 @@
     {
       "name": "Class President",
       "group": "Occupations",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Demon King",
@@ -205,7 +205,7 @@
     {
       "name": "Slow Romance",
       "group": "Relationship",
-      "weight": "recurrent"
+      "weight": "unweighted"
     },
     {
       "name": "Fantasy",
@@ -295,7 +295,7 @@
     {
       "name": "Ghosts",
       "group": "Species & Creatures",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Abandonment",
@@ -350,7 +350,7 @@
     {
       "name": "Romantic Subplot",
       "group": "Themes",
-      "weight": "recurrent"
+      "weight": "unweighted"
     },
     {
       "name": "Special Ability",

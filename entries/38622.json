@@ -1,0 +1,737 @@
+{
+  "kitsuId": "38622",
+  "title": "Fumetsu no Anata e",
+  "updatedAt": "2026-07-17T22:01:02.896Z",
+  "matchVersion": 2,
+  "mangabakaId": 2100,
+  "mangabakaUrl": "https://mangabaka.org/2100",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xLzgvNy9jLzQvZS8zL2MvN2NjNy80MjZiLzg0OTgvNGJmYTNkYjEwYmQ1",
+  "author": "Yoshitoki Ooima",
+  "synopsis": "A lonely boy wandering the Arctic regions of North America meets a wolf, and the two become fast friends, depending on each other to survive the harsh environment. But the boy has a history, and the wolf is more than meets the eye as well … \n\n(Source: Kodansha USA) \n\n*Note: Includes one extra chapter.*",
+  "status": "Completed",
+  "rating": 8.1,
+  "total": 204,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "drama",
+    "fantasy",
+    "psychological",
+    "supernatural",
+    "action",
+    "school_life",
+    "shounen",
+    "award_winning"
+  ],
+  "tags": [
+    {
+      "name": "Outdoor Activities",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Travel",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Demographic with Female Author",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Yandere",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "White/Silver-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Masked Character",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Determined Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ensemble Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Middle School",
+      "group": "Locations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shapeshifting",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Split Personality",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Transformation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Animal Transformation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dead Friend",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Death of Leading Characters",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Death of Loved One",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Dissociative Identities",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Kill or Be Killed Situation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Anachronism",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Time Skip",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Searching for Someone",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Secret Identity",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Cyberpunk",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dystopian",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban Fantasy",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Urban",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ghosts",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Bullying",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Death",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Depression",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Cosmic Horror",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Obsessive Love",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Philosophy",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Psychological",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Suicide",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Historical",
+      "group": "Genre",
+      "weight": "incidental"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "core"
+    },
+    {
+      "name": "Violence",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Award-Nominated Work",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Award Winning",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, April 12-18",
+      "date": "2026-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-17/north-american-anime-manga-releases-april-12-18/.236358"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 19-25",
+      "date": "2025-10-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-10-24/north-american-anime-manga-releases-october-19-25/.230143"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 20-26",
+      "date": "2025-04-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-04-25/north-american-anime-manga-releases-april-20-26/.223805"
+    },
+    {
+      "title": "To Your Eternity Manga to End in Next Volume",
+      "date": "2025-04-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-04-15/to-your-eternity-manga-to-end-in-next-volume/.223595"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 17-23",
+      "date": "2024-11-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-11-22/north-american-anime-manga-releases-november-17-23/.218046"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 30-July 6",
+      "date": "2024-07-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-07-02/north-american-anime-manga-releases-june-30-july-6/.212693"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 3-9",
+      "date": "2023-12-07T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-07/north-american-anime-manga-releases-december-3-9/.205142"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 9-15",
+      "date": "2023-04-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-04-11/north-american-anime-manga-releases-april-9-15/.196998"
+    },
+    {
+      "title": "Kodansha Removes 16 Manga Titles From Crunchyroll on January 31 (Updated)",
+      "date": "2023-01-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-01-12/kodansha-removes-16-manga-titles-from-crunchyroll-on-january-31/.193754"
+    },
+    {
+      "title": "To Your Eternity Manga Ends 2nd Arc, 3rd Arc Begins on January 25",
+      "date": "2022-10-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-10-21/to-your-eternity-manga-ends-2nd-arc-3rd-arc-begins-on-january-25/.190986"
+    },
+    {
+      "title": "To Your Eternity Manga Goes on 1-Week Hiatus Due to Creator's Health",
+      "date": "2022-09-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-09-08/to-your-eternity-manga-goes-on-1-week-hiatus-due-to-creator-health/.189446"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 24-30",
+      "date": "2022-07-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-26/north-american-anime-manga-releases-july-24-30/.188059"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 3-9",
+      "date": "2022-07-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-05/north-american-anime-manga-releases-july-3-9/.187423"
+    },
+    {
+      "title": "INKR Releases Kodansha Simulpub Content",
+      "date": "2022-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2022-05-03/inkr-releases-kodansha-simulpub-content/.185287"
+    },
+    {
+      "title": "Exclusive: INKR Adds 14 Simulpub Manga from Kodansha USA",
+      "date": "2022-05-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-03/exclusive-inkr-adds-14-simulpub-manga-from-kodansha-usa/.185286"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 20-26",
+      "date": "2022-02-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-22/north-american-anime-manga-releases-february-20-26/.182914"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 23-29",
+      "date": "2022-01-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-01-25/north-american-anime-manga-releases-january-23-29/.181892"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 26-October 2",
+      "date": "2021-09-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-09-28/north-american-anime-manga-releases-september-26-october-2/.177933"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 18-24",
+      "date": "2021-07-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-07-20/north-american-anime-manga-releases-july-18-24/.175366"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 20-26",
+      "date": "2021-06-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-06-22/north-american-anime-manga-releases-june-20-26/.174310"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 6-12",
+      "date": "2020-12-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-09/north-american-anime-manga-releases-december-6-12/.167210"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 30-September 5",
+      "date": "2020-09-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-09-03/north-american-anime-manga-releases-august-30-september-5/.163548"
+    },
+    {
+      "title": "To Your Eternity TV Anime Unveils Main Cast Members",
+      "date": "2020-07-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-07-12/to-your-eternity-tv-anime-unveils-main-cast-members/.161745"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 31-June 6",
+      "date": "2020-06-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-06-03/north-american-anime-manga-releases-may-31-june-6/.160199"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 24-30",
+      "date": "2020-05-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-05-26/north-american-anime-manga-releases-may-24-30/.159934"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 17-23",
+      "date": "2020-05-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-05-19/north-american-anime-manga-releases-may-17-23/.159698"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 3-9",
+      "date": "2020-05-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-05-05/north-american-anime-manga-releases-may-3-9/.159277"
+    },
+    {
+      "title": "To Your Eternity TV Anime Reveals 1st Promo Video, Staff",
+      "date": "2020-03-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-03-31/to-your-eternity-tv-anime-reveals-1st-promo-video-staff/.158147"
+    },
+    {
+      "title": "Yoshitoki Oima's To Your Eternity Fantasy Manga Gets TV Anime in October",
+      "date": "2020-01-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-01-08/yoshitoki-oima-to-your-eternity-fantasy-manga-gets-tv-anime-in-october/.155165"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 15-21",
+      "date": "2019-12-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-12-19/north-american-anime-manga-releases-december-15-21/.154511"
+    },
+    {
+      "title": "To Your Eternity Manga's 2nd Arc Launches on January 22",
+      "date": "2019-12-04T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-12-04/to-your-eternity-manga-2nd-arc-launches-on-january-22/.153950"
+    },
+    {
+      "title": "To Your Eternity Manga's 1st Arc Ends",
+      "date": "2019-11-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-11-29/to-your-eternity-manga-1st-arc-ends/.153807"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 21-27",
+      "date": "2019-07-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-07-24/north-american-anime-manga-releases-july-21-27/.149265"
+    },
+    {
+      "title": "Best and Worst Manga of 2019 Results - Comic-Con International",
+      "date": "2019-07-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2019-07-22/best-and-worst-manga-of-2019-results-comic-con-international/.149230"
+    },
+    {
+      "title": "43rd Annual Kodansha Manga Awards' Winners Announced",
+      "date": "2019-05-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-05-10/43rd-annual-kodansha-manga-awards-winners-announced/.146582"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 21-27",
+      "date": "2019-04-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-04-25/north-american-anime-manga-releases-april-21-27/.146137"
+    },
+    {
+      "title": "43rd Annual Kodansha Manga Awards' Nominees Announced",
+      "date": "2019-04-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-04-03/43rd-annual-kodansha-manga-awards-nominees-announced/.145348"
+    },
+    {
+      "title": "M&C! Licenses Untukmu yang Abadi, Ship of Theseus Manga",
+      "date": "2019-02-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-02-05/m-c-licenses-untukmu-yang-abadi-ship-of-theseus-manga/.143015"
+    },
+    {
+      "title": "Silver Spoon, My Brother's Husband Rank in YALSA's Top 10 Graphic Novels for Teens",
+      "date": "2019-01-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-01-29/silver-spoon-my-brother-husband-rank-in-yalsa-top-10-graphic-novels-for-teens/.142712"
+    },
+    {
+      "title": "Japanese Comic Ranking, December 17-23",
+      "date": "2018-12-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-12-26/japanese-comic-ranking-december-17-23/.141343"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 16-22",
+      "date": "2018-12-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-12-18/north-american-anime-manga-releases-december-16-22/.140994"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 14-20",
+      "date": "2018-10-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-10-16/north-american-anime-manga-releases-october-14-20/.138250"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 7-13",
+      "date": "2018-10-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-10-09/north-american-anime-manga-releases-october-7-13/.137928"
+    },
+    {
+      "title": "Japanese Comic Ranking, September 17-23",
+      "date": "2018-09-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-09-26/japanese-comic-ranking-september-17-23/.137339"
+    },
+    {
+      "title": "Japanese Comic Ranking, September 10-16",
+      "date": "2018-09-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-09-19/japanese-comic-ranking-september-10-16/.137006"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 19-25",
+      "date": "2018-08-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-08-21/north-american-anime-manga-releases-august-19-25/.135743"
+    },
+    {
+      "title": "Best and Worst Manga of 2018 Results - Comic-Con International",
+      "date": "2018-07-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/interest/2018-07-24/best-and-worst-manga-of-2018-results-comic-con-international/.134599"
+    },
+    {
+      "title": "Japanese Comic Ranking, June 18-24",
+      "date": "2018-06-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-06-27/japanese-comic-ranking-june-18-24/.133482"
+    },
+    {
+      "title": "Japanese Comic Ranking, June 11-17",
+      "date": "2018-06-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-06-20/japanese-comic-ranking-june-11-17/.133154"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 10-16",
+      "date": "2018-06-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-06-12/north-american-anime-manga-releases-june-10-16/.132820"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 22-28",
+      "date": "2018-04-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-04-24/north-american-anime-manga-releases-april-22-28/.130792"
+    },
+    {
+      "title": "Paru Itagaki's BEASTARS Wins 11th Manga Taisho Awards",
+      "date": "2018-03-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-22/paru-itagaki-beastars-wins-11th-manga-taisho-awards/.129344"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 11-17",
+      "date": "2018-03-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-13/north-american-anime-manga-releases-march-11-17/.128935"
+    },
+    {
+      "title": "Crunchyroll Manga Adds Grand Blue Dreaming, APOSIMZ, To Your Eternity Simulpubs",
+      "date": "2018-03-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-03-01/crunchyroll-manga-adds-grand-blue-dreaming-aposimz-to-your-eternity-simulpubs/.128431"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 19-25",
+      "date": "2018-02-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-02-28/japanese-comic-ranking-february-19-25/.128388"
+    },
+    {
+      "title": "Japanese Comic Ranking, February 12-18",
+      "date": "2018-02-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-02-21/japanese-comic-ranking-february-12-18/.128094"
+    },
+    {
+      "title": "11th Manga Taisho Awards Nominates 12 Titles",
+      "date": "2018-01-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-01-22/11th-manga-taisho-awards-nominates-12-titles/.126756"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 17-23",
+      "date": "2017-12-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-12-19/north-american-anime-manga-releases-december-17-23/.125512"
+    },
+    {
+      "title": "Kono Manga ga Sugoi! Reveals 2018's Series Ranking for Male Readers",
+      "date": "2017-12-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-12-08/kono-manga-ga-sugoi-reveals-2018-series-ranking-for-male-readers/.125015"
+    },
+    {
+      "title": "Japanese Comic Ranking, November 13-19",
+      "date": "2017-11-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-11-22/japanese-comic-ranking-november-13-19/.124392"
+    },
+    {
+      "title": "The Fall 2017 Manga Guide - To Your Eternity",
+      "date": "2017-11-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2017-11-08/the-fall-2017-manga-guide/to-your-eternity/.123761"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 29-November 4",
+      "date": "2017-10-31T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-10-31/north-american-anime-manga-releases-october-29-november-4/.123447"
+    },
+    {
+      "title": "Japanese Comic Ranking, September 18-24",
+      "date": "2017-09-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-09-27/japanese-comic-ranking-september-18-24/.121948"
+    },
+    {
+      "title": "Japanese Comic Ranking, September 11-17",
+      "date": "2017-09-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-09-20/japanese-comic-ranking-september-11-17/.121637"
+    },
+    {
+      "title": "Japanese Comic Ranking, June 19-25",
+      "date": "2017-06-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-06-28/japanese-comic-ranking-june-19-25/.118150"
+    },
+    {
+      "title": "Japanese Comic Ranking, June 12-18",
+      "date": "2017-06-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-06-21/japanese-comic-ranking-june-12-18/.117811"
+    },
+    {
+      "title": "Japanese Comic Ranking, March 13-19",
+      "date": "2017-03-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-03-22/japanese-comic-ranking-march-13-19/.113769"
+    },
+    {
+      "title": "Japanese Comic Ranking, January 23-29",
+      "date": "2017-02-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-02-01/japanese-comic-ranking-january-23-29/.111749"
+    },
+    {
+      "title": "Japanese Comic Ranking, January 16-22",
+      "date": "2017-01-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-01-25/japanese-comic-ranking-january-16-22/.111475"
+    },
+    {
+      "title": "Kodansha USA Licenses Yoshitoki Ōima's To Your Eternity Manga",
+      "date": "2017-01-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2017-01-20/kodansha-usa-licenses-yoshitoki-oima-to-your-eternity-manga/.111248"
+    },
+    {
+      "title": "A Silent Voice's Ōima Launches Fumetsu no Anata e  Fantasy Manga on November 9",
+      "date": "2016-11-02T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2016-11-02/a-silent-voice-oima-launches-fumetsu-no-anata-e-fantasy-manga-on-november-9/.108367"
+    }
+  ],
+  "sources": {
+    "anilist": "97830",
+    "anime_planet": "to-your-eternity",
+    "anime_news_network": "20343",
+    "kitsu": "38622",
+    "manga_updates": "mpx1s7l",
+    "my_anime_list": "102343",
+    "shikimori": "102343"
+  },
+  "links": [
+    "https://kmanga.kodansha.com/title/10076/episode/319887",
+    "https://kodansha.us/series/to-your-eternity/",
+    "https://mangaplaza.com/title/0303001585/?content_id=103030015850001",
+    "https://pocket.shonenmagazine.com/episode/13932016480029113164",
+    "https://www.azuki.co/series/to-your-eternity",
+    "https://www.kodansha.co.jp/titles/1000028914",
+    "https://en.wikipedia.org/wiki/To_Your_Eternity",
+    "https://ja.wikipedia.org/wiki/%E4%B8%8D%E6%BB%85%E3%81%AE%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8",
+    "https://shonenmagazine.com/special_page/fumetsu/",
+    "https://twitter.com/fumetsunoanatae",
+    "https://mangabaka.org/2100"
+  ]
+}

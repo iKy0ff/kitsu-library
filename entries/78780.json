@@ -1,0 +1,266 @@
+{
+  "kitsuId": "78780",
+  "title": "Naega Jugin Dragon-gwa Gyeolhonhaetda",
+  "updatedAt": "2026-07-17T22:01:14.294Z",
+  "matchVersion": 2,
+  "mangabakaId": 596433,
+  "mangabakaUrl": "https://mangabaka.org/596433",
+  "match": {
+    "confidence": "high",
+    "method": "scored",
+    "score": 96
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDA1MC04d28yYW9xdDJvQzQuanBn",
+  "author": "Bunjaenamu, Mandutbul",
+  "synopsis": "The pinnacle of magic was the 9th Circle, a realm said to be that of a demigod. The final key to reaching it was the heart of the Crimson Dragon, Valdrova.\n\n*“I never imagined my own fiancé would come to kill me.”*\n\nYet for some reason, Valdrova offered up her heart without putting up any resistance.\n\n*“…What is this feeling? Why does this leave such a bitter taste?”*\n\nThen I faced it—a despair far older and deeper than the hatred I had carried.\n\n(Source: Naver, translated)",
+  "status": "Releasing",
+  "rating": 7.3,
+  "total": 6,
+  "type": "manhwa",
+  "genres": [
+    "action",
+    "fantasy",
+    "comedy",
+    "harem",
+    "romance",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kingdom",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Character Growth",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Misunderstandings",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Time Travel",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Multiple POVs",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Tragic Past",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Butler",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Knight",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Maids",
+      "group": "Occupations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Merchants",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Age Gap",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Human-Nonhuman Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slow Romance",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Marriage",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Second Chance",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Full Color",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "214050",
+    "manga_updates": "roci33b",
+    "my_anime_list": "194872"
+  },
+  "links": [
+    "https://comic.naver.com/webtoon/list?titleId=852628",
+    "https://series.naver.com/comic/detail.series?productNo=14451876",
+    "https://mangabaka.org/596433"
+  ]
+}

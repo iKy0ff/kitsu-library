@@ -1,7 +1,7 @@
 {
   "kitsuId": "38021",
   "title": "Maoujou de Oyasumi",
-  "updatedAt": "2026-07-16T22:23:20.740Z",
+  "updatedAt": "2026-07-17T22:21:25.595Z",
   "matchVersion": 2,
   "mangabakaId": 3083,
   "mangabakaUrl": "https://mangabaka.org/3083",
@@ -264,7 +264,7 @@
     {
       "name": "Magic",
       "group": "World Building",
-      "weight": "core"
+      "weight": "defining"
     }
   ],
   "news": [

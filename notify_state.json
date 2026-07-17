@@ -102,6 +102,12 @@
       "mbId": 8805,
       "newsCount": 0
     },
+    "38622": {
+      "title": "Fumetsu no Anata e",
+      "pub": "Completed",
+      "mbId": 2100,
+      "newsCount": 71
+    },
     "38865": {
       "title": "Tongari Boushi no Atelier",
       "pub": "Releasing",
@@ -2327,7 +2333,13 @@
       "pub": "Releasing",
       "mbId": 369581,
       "newsCount": 0
+    },
+    "78780": {
+      "title": "Naega Jugin Dragon-gwa Gyeolhonhaetda",
+      "pub": "Releasing",
+      "mbId": 596433,
+      "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-16T22:27:34.995Z"
+  "updatedAt": "2026-07-17T22:25:25.475Z"
 }
