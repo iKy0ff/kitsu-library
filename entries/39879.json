@@ -1,7 +1,7 @@
 {
   "kitsuId": "39879",
   "title": "Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou",
-  "updatedAt": "2026-07-17T22:05:52.585Z",
+  "updatedAt": "2026-07-18T22:06:17.337Z",
   "matchVersion": 2,
   "mangabakaId": 385,
   "mangabakaUrl": "https://mangabaka.org/385",
@@ -184,7 +184,7 @@
     {
       "name": "Elves",
       "group": "Species & Creatures",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Robots",
@@ -244,7 +244,7 @@
     {
       "name": "War",
       "group": "Themes",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Elaborate",

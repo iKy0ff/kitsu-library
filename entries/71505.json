@@ -1,7 +1,7 @@
 {
   "kitsuId": "71505",
   "title": "The Indomitable Martial King",
-  "updatedAt": "2026-07-17T22:17:00.059Z",
+  "updatedAt": "2026-07-18T22:18:14.663Z",
   "matchVersion": 2,
   "mangabakaId": 322,
   "mangabakaUrl": "https://mangabaka.org/322",
@@ -92,7 +92,7 @@
     {
       "name": "Rapist",
       "group": "Character Types",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Based on a Novel",
@@ -202,7 +202,7 @@
     {
       "name": "Rape",
       "group": "Sexual Content",
-      "weight": "recurrent"
+      "weight": "incidental"
     },
     {
       "name": "Sexual Violence",

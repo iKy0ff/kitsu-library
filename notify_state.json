@@ -184,7 +184,7 @@
       "title": "Potion-danomi de Ikinobimasu!",
       "pub": "Completed",
       "mbId": 5353,
-      "newsCount": 25
+      "newsCount": 26
     },
     "40806": {
       "title": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
@@ -1326,6 +1326,12 @@
       "mbId": 436,
       "newsCount": 0
     },
+    "67590": {
+      "title": "Monogatari no Kuromaku ni Tensei Shite",
+      "pub": "Releasing",
+      "mbId": 210,
+      "newsCount": 2
+    },
     "67611": {
       "title": "Player-ga Gwageoreul Sumgim",
       "pub": "Releasing",
@@ -1600,7 +1606,7 @@
       "title": "Potion-danomi de Ikinobimasu! Zoku",
       "pub": "Releasing",
       "mbId": 69513,
-      "newsCount": 25
+      "newsCount": 26
     },
     "71781": {
       "title": "How to Survive as a Time-Limited Dragon",
@@ -1651,7 +1657,7 @@
       "newsCount": 0
     },
     "72413": {
-      "title": "The Hero Became the Duke's Eldest Son",
+      "title": "Yeongung, Gongjakga Jangnam Doeda",
       "pub": "Completed",
       "mbId": 3799,
       "newsCount": 0
@@ -2341,5 +2347,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-17T22:25:25.475Z"
+  "updatedAt": "2026-07-18T22:27:16.563Z"
 }

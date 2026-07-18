@@ -1,7 +1,7 @@
 {
   "kitsuId": "78780",
   "title": "Naega Jugin Dragon-gwa Gyeolhonhaetda",
-  "updatedAt": "2026-07-17T22:01:14.294Z",
+  "updatedAt": "2026-07-18T22:01:35.118Z",
   "matchVersion": 2,
   "mangabakaId": 596433,
   "mangabakaUrl": "https://mangabaka.org/596433",
@@ -69,7 +69,7 @@
     {
       "name": "Weak to Strong",
       "group": "Narrative Tropes",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Flashbacks",
@@ -79,12 +79,12 @@
     {
       "name": "Misunderstandings",
       "group": "Narrative Tropes",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Past Plays a Big Role",
       "group": "Narrative Tropes",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Time Travel",
@@ -94,12 +94,12 @@
     {
       "name": "Multiple POVs",
       "group": "Narrative Tropes",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Tragic Past",
       "group": "Narrative Tropes",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Butler",
@@ -109,7 +109,7 @@
     {
       "name": "Knight",
       "group": "Occupations",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Maids",
@@ -119,7 +119,7 @@
     {
       "name": "Merchants",
       "group": "Occupations",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Age Gap",
@@ -174,7 +174,7 @@
     {
       "name": "Gods",
       "group": "Species & Creatures",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Monster Girls",
@@ -219,7 +219,7 @@
     {
       "name": "Revenge",
       "group": "Themes",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Romance",

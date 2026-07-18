@@ -1,7 +1,7 @@
 {
   "kitsuId": "55057",
   "title": "Ryoumin 0-nin Start no Henkyou Ryoushusama",
-  "updatedAt": "2026-07-17T22:07:52.808Z",
+  "updatedAt": "2026-07-18T22:08:26.891Z",
   "matchVersion": 2,
   "mangabakaId": 8617,
   "mangabakaUrl": "https://mangabaka.org/8617",
@@ -146,7 +146,7 @@
     {
       "name": "Rapist",
       "group": "Character Types",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Adapted to Anime",

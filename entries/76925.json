@@ -1,7 +1,7 @@
 {
   "kitsuId": "76925",
   "title": "Haimiya Senpai wa Kowakute Kawaii",
-  "updatedAt": "2026-07-17T22:01:59.315Z",
+  "updatedAt": "2026-07-18T22:02:19.397Z",
   "matchVersion": 2,
   "mangabakaId": 564580,
   "mangabakaUrl": "https://mangabaka.org/564580",
@@ -43,12 +43,12 @@
     {
       "name": "White/Silver-Haired Female Lead",
       "group": "Character Traits",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Beautiful Female Lead",
       "group": "Character Traits",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Primarily Teen Cast",
@@ -63,17 +63,17 @@
     {
       "name": "Delinquent Female Lead",
       "group": "Character Types",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "High School Student Female Lead",
       "group": "Character Types",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Scary Female Lead",
       "group": "Character Types",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Male Lead",
@@ -83,12 +83,12 @@
     {
       "name": "High School Student Male Lead",
       "group": "Character Types",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Pushover Male Lead",
       "group": "Character Types",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Japan",
@@ -108,12 +108,12 @@
     {
       "name": "Piercings",
       "group": "Objects",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Older Female Younger Male",
       "group": "Relationship",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Heterosexual",
@@ -123,12 +123,12 @@
     {
       "name": "Senpai-Kouhai Relationship",
       "group": "Relationship",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Student-Student Relationship",
       "group": "Relationship",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Comedy",
@@ -158,7 +158,7 @@
     {
       "name": "21st century",
       "group": "Themes",
-      "weight": "core"
+      "weight": "defining"
     }
   ],
   "news": [],

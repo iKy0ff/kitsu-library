@@ -1,7 +1,7 @@
 {
   "kitsuId": "68568",
   "title": "Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi",
-  "updatedAt": "2026-07-17T22:15:00.412Z",
+  "updatedAt": "2026-07-18T22:16:05.612Z",
   "matchVersion": 2,
   "mangabakaId": 9414,
   "mangabakaUrl": "https://mangabaka.org/9414",
@@ -71,7 +71,7 @@
     {
       "name": "Rapist",
       "group": "Character Types",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Rapist Protagonist",
@@ -131,7 +131,7 @@
     {
       "name": "Rape",
       "group": "Sexual Content",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Action",

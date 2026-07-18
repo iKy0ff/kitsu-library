@@ -1,7 +1,7 @@
 {
   "kitsuId": "74506",
   "title": "Cong Goblin Dao Goblin Shen",
-  "updatedAt": "2026-07-17T22:20:44.232Z",
+  "updatedAt": "2026-07-18T22:22:15.645Z",
   "matchVersion": 2,
   "mangabakaId": 9422,
   "mangabakaUrl": "https://mangabaka.org/9422",
@@ -15,7 +15,7 @@
   "synopsis": "After waking up in a goblin's body and getting brutally killed by humans, Jace Hurley triggers a life simulation game system. By continuously evolving, the blessed goblin crawls all the way up to become the world's strongest fighter. The Saint of Swords, the dragon mother Fryrmiel, angels, and goddesses have all succumbed to his charms. \n\n(Source: WebComics)",
   "status": "Releasing",
   "rating": 6.8,
-  "total": 112,
+  "total": 117,
   "type": "manhua",
   "genres": [
     "action",
@@ -163,7 +163,7 @@
     {
       "name": "Rapist",
       "group": "Character Types",
-      "weight": "core"
+      "weight": "unweighted"
     },
     {
       "name": "Rapist Protagonist",
@@ -294,6 +294,11 @@
       "name": "Oral Intercourse",
       "group": "Sexual Content",
       "weight": "recurrent"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "core"
     },
     {
       "name": "Sexual Violence",

@@ -1,7 +1,7 @@
 {
   "kitsuId": "38021",
   "title": "Maoujou de Oyasumi",
-  "updatedAt": "2026-07-17T22:21:25.595Z",
+  "updatedAt": "2026-07-18T22:22:59.630Z",
   "matchVersion": 2,
   "mangabakaId": 3083,
   "mangabakaUrl": "https://mangabaka.org/3083",
@@ -240,6 +240,11 @@
       "name": "Japanese Folklore",
       "group": "Themes",
       "weight": "unweighted"
+    },
+    {
+      "name": "Yuri",
+      "group": "Themes",
+      "weight": "defining"
     },
     {
       "name": "Royalty",
