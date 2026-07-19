@@ -1,7 +1,7 @@
 {
   "kitsuId": "69555",
   "title": "Isekai Samurai",
-  "updatedAt": "2026-07-18T22:19:47.152Z",
+  "updatedAt": "2026-07-19T22:19:37.821Z",
   "matchVersion": 2,
   "mangabakaId": 807,
   "mangabakaUrl": "https://mangabaka.org/807",
@@ -135,6 +135,11 @@
       "weight": "defining"
     },
     {
+      "name": "Curses",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
       "name": "Tragic Past",
       "group": "Narrative Tropes",
       "weight": "unweighted"
@@ -185,6 +190,11 @@
       "weight": "defining"
     },
     {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
       "name": "Partial Nudity",
       "group": "Sexual Content",
       "weight": "recurrent"
@@ -208,6 +218,11 @@
       "name": "Goblin",
       "group": "Species & Creatures",
       "weight": "recurrent"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
     },
     {
       "name": "Action",

@@ -28,7 +28,7 @@
       "title": "One Punch-Man",
       "pub": "Releasing",
       "mbId": 725,
-      "newsCount": 438
+      "newsCount": 439
     },
     "25426": {
       "title": "Re:Monster",
@@ -262,7 +262,7 @@
       "title": "Solo Leveling",
       "pub": "Completed",
       "mbId": 3397,
-      "newsCount": 45
+      "newsCount": 47
     },
     "54167": {
       "title": "Tono no Kanri o Shite Miyou",
@@ -466,7 +466,7 @@
       "title": "Omniscient Reader's Point of View",
       "pub": "Hiatus",
       "mbId": 2060,
-      "newsCount": 3
+      "newsCount": 5
     },
     "56500": {
       "title": "Tutorial Tabui Goinmul",
@@ -834,6 +834,12 @@
       "mbId": 49861,
       "newsCount": 0
     },
+    "61742": {
+      "title": "Shokubutsu Monster Musume Nikki: Seijo Datta Watashi ga Uragirareta Hate ni Alraune ni Tensei shiteshimatta node, Korekara wa Kougousei wo Shinagara Shizukani Shokubutsu Life wo Sugoshimasu",
+      "pub": "Releasing",
+      "mbId": 8392,
+      "newsCount": 0
+    },
     "61782": {
       "title": "Choinui Sidae",
       "pub": "Releasing",
@@ -958,7 +964,7 @@
       "title": "Kininatteru Hito ga Otoko ja Nakatta",
       "pub": "Releasing",
       "mbId": 944,
-      "newsCount": 28
+      "newsCount": 29
     },
     "63346": {
       "title": "Savage Fang Ojou-sama Shijou Saikyou no Youhei wa Shijou Saikyou no Bougyaku Reijou to Natte Nidome no Sekai wo Musou Suru",
@@ -2347,5 +2353,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-18T22:27:16.563Z"
+  "updatedAt": "2026-07-19T22:26:56.107Z"
 }

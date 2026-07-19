@@ -1,0 +1,169 @@
+{
+  "kitsuId": "61742",
+  "title": "Shokubutsu Monster Musume Nikki: Seijo Datta Watashi ga Uragirareta Hate ni Alraune ni Tensei shiteshimatta node, Korekara wa Kougousei wo Shinagara Shizukani Shokubutsu Life wo Sugoshimasu",
+  "updatedAt": "2026-07-19T22:01:27.894Z",
+  "matchVersion": 2,
+  "mangabakaId": 8392,
+  "mangabakaUrl": "https://mangabaka.org/8392",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzcvNy8yLzYvYS9lLzkvMmMwNy80YzMzL2E2YzUvOTFmZWMzNTEzNzU0",
+  "author": "Guu, Minase",
+  "synopsis": "Who knew that even a stationary plant could be surprisingly capable?! \n\nOur protagonist is a saint—or was, until she was betrayed by one of her fellow saint apprentices as well as her fiancé, a hero.\nIn her final moments, she recalls her previous life, when she was just a normal Japanese high school girl, but that doesn't help the fact that she's being eaten alive by a massive plant monster. \n\nAnd yet, by a stroke of luck, she doesn't die for good, but instead reincarnates as said plant monster. With the upper half of a human and the lower half of a plant, she must now spend her life as an Alraune. \n\nAnd so, she tries to live the peaceful life of a plant, photosynthesizing all day!\nWelcome to the diary of a plant girl who just wants some peace and quiet, but something always gets in her way!",
+  "status": "Releasing",
+  "rating": 7.2,
+  "total": 28,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "fantasy",
+    "supernatural",
+    "seinen",
+    "slice_of_life",
+    "action"
+  ],
+  "tags": [
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Girls Doing Cute Things",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Saints",
+      "group": "Occupations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Saint/Saintess",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Innuendo",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Betrayal",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Religion",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [],
+  "sources": {
+    "anilist": "143874",
+    "anime_planet": "shokubutsu-monster-musume-nikki-seijo-datta-watashi-ga-uragirareta-hate-ni-alraune-ni-tensei-shite-shimatta-node-kore-kara-wa-kougousei-wo-shinagara-shizuka-ni-shokubutsu-life-wo-sugoshimasu",
+    "kitsu": "61742",
+    "manga_updates": "co9iljx",
+    "my_anime_list": "141387",
+    "shikimori": "141387"
+  },
+  "links": [
+    "https://comic-walker.com/contents/detail/KDCW_CW01202578010000_68/",
+    "https://seiga.nicovideo.jp/comic/55266",
+    "https://mangabaka.org/8392"
+  ]
+}

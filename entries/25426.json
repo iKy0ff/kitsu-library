@@ -1,7 +1,7 @@
 {
   "kitsuId": "25426",
   "title": "Re:Monster",
-  "updatedAt": "2026-07-18T22:04:15.846Z",
+  "updatedAt": "2026-07-19T22:04:27.549Z",
   "matchVersion": 2,
   "mangabakaId": 1955,
   "mangabakaUrl": "https://mangabaka.org/1955",
@@ -231,7 +231,7 @@
     {
       "name": "Rapist",
       "group": "Character Types",
-      "weight": "recurrent"
+      "weight": "unweighted"
     },
     {
       "name": "Rapist Protagonist",
