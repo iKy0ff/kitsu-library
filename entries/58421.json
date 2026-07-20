@@ -1,0 +1,197 @@
+{
+  "kitsuId": "58421",
+  "title": "Virus Tensei kara Isekai Kansen Monogatari",
+  "updatedAt": "2026-07-20T22:01:05.032Z",
+  "matchVersion": 2,
+  "mangabakaId": 44485,
+  "mangabakaUrl": "https://mangabaka.org/44485",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyNTYxOS1CazlGSm5TaE04WEcuanBn",
+  "author": "Karaku Yuuki, Pirota",
+  "synopsis": "A virus researcher was reincarnated into another world...as the virus itself? The virus holds incredible power, but it's transmission may just be a matter of life or death!\n\n(Source: Kodansha USA)",
+  "status": "Releasing",
+  "rating": 7,
+  "total": 18,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Accidental Death",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Scientist",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Goddess",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goblin",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Illness",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "incidental"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, November 27-December 3",
+      "date": "2022-11-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-30/north-american-anime-manga-releases-november-27-december-3/.192388"
+    },
+    {
+      "title": "It's That Reincarnated-as-a-Virus Story GN 1",
+      "date": "2022-03-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/its-that-reincarnated-as-a-virus-story/gn-1/.183718"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 6-12",
+      "date": "2022-02-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-02-08/north-american-anime-manga-releases-february-6-12/.182407"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 9-15",
+      "date": "2022-01-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-01-11/north-american-anime-manga-releases-january-9-15/.181416"
+    },
+    {
+      "title": "Kodansha Comics Licenses My Idol Sits the Next Desk Over!, The Lines that Define Me, Zatsuki: Make Me a Star, More Manga",
+      "date": "2021-12-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-22/kodansha-comics-licenses-my-idol-sits-the-next-desk-over-the-lines-that-define-me-zatsuki-make-me-a-/.180909"
+    }
+  ],
+  "sources": {
+    "anilist": "125619",
+    "anime_planet": "its-that-reincarnated-as-a-virus-story",
+    "anime_news_network": "25197",
+    "kitsu": "58421",
+    "manga_updates": "r4mim23",
+    "my_anime_list": "131070",
+    "shikimori": "131070"
+  },
+  "links": [
+    "https://magazine-edge.jp/contents/isekaikansen.html",
+    "https://seiga.nicovideo.jp/comic/49920",
+    "https://kodansha.us/series/its-that-reincarnated-as-a-virus-story/",
+    "https://manga.nicovideo.jp/comic/49920",
+    "https://mangabaka.org/44485"
+  ]
+}

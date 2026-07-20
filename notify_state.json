@@ -4,7 +4,7 @@
       "title": "One Piece",
       "pub": "Releasing",
       "mbId": 377,
-      "newsCount": 1017
+      "newsCount": 1018
     },
     "9964": {
       "title": "Oyasumi Punpun",
@@ -156,6 +156,12 @@
       "mbId": 385,
       "newsCount": 0
     },
+    "40137": {
+      "title": "Shirokuma Tensei: Mori no Shugoshin ni Natta zo Densetsu",
+      "pub": "Releasing",
+      "mbId": 26219,
+      "newsCount": 11
+    },
     "40179": {
       "title": "Winter Moon",
       "pub": "Completed",
@@ -184,7 +190,7 @@
       "title": "Potion-danomi de Ikinobimasu!",
       "pub": "Completed",
       "mbId": 5353,
-      "newsCount": 26
+      "newsCount": 16
     },
     "40806": {
       "title": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
@@ -196,7 +202,7 @@
       "title": "Jujutsu Kaisen",
       "pub": "Completed",
       "mbId": 6199,
-      "newsCount": 220
+      "newsCount": 221
     },
     "40840": {
       "title": "Kuma Kuma Kuma Bear",
@@ -384,6 +390,12 @@
       "mbId": 1216,
       "newsCount": 0
     },
+    "55356": {
+      "title": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Tsurugi wo Mune ni Idaku",
+      "pub": "Releasing",
+      "mbId": 5955,
+      "newsCount": 11
+    },
     "55550": {
       "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
       "pub": "Releasing",
@@ -534,6 +546,12 @@
       "mbId": 42289,
       "newsCount": 0
     },
+    "57592": {
+      "title": "Joou Heika no Isekai Senryaku",
+      "pub": "Completed",
+      "mbId": 9695,
+      "newsCount": 2
+    },
     "57618": {
       "title": "Nano Mashin",
       "pub": "Releasing",
@@ -587,6 +605,12 @@
       "pub": "Completed",
       "mbId": 2346,
       "newsCount": 0
+    },
+    "58421": {
+      "title": "Virus Tensei kara Isekai Kansen Monogatari",
+      "pub": "Releasing",
+      "mbId": 44485,
+      "newsCount": 5
     },
     "58485": {
       "title": "SSS-Class Revival Hunter",
@@ -659,6 +683,12 @@
       "pub": "Releasing",
       "mbId": 7973,
       "newsCount": 0
+    },
+    "59347": {
+      "title": "Tensei Goblin Dakedo Shitsumon Aru?",
+      "pub": "Releasing",
+      "mbId": 39424,
+      "newsCount": 12
     },
     "59357": {
       "title": "Villain to Kill",
@@ -1612,7 +1642,7 @@
       "title": "Potion-danomi de Ikinobimasu! Zoku",
       "pub": "Releasing",
       "mbId": 69513,
-      "newsCount": 26
+      "newsCount": 0
     },
     "71781": {
       "title": "How to Survive as a Time-Limited Dragon",
@@ -1876,6 +1906,12 @@
       "title": "Jeonseolgeup Yeongungeun Academy Udeungsaeng",
       "pub": "Releasing",
       "mbId": 1436,
+      "newsCount": 0
+    },
+    "73963": {
+      "title": "Ato wa Gojiyuu ni Douzo! Tutorial de Kami-sama ga Last Boss wo Taoshi Chatta node Watashi wa Suki Houdai Ikiteiku",
+      "pub": "Releasing",
+      "mbId": 6594,
       "newsCount": 0
     },
     "74066": {
@@ -2353,5 +2389,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-19T22:26:56.107Z"
+  "updatedAt": "2026-07-20T22:29:36.569Z"
 }

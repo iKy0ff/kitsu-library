@@ -1,7 +1,7 @@
 {
   "kitsuId": "69555",
   "title": "Isekai Samurai",
-  "updatedAt": "2026-07-19T22:19:37.821Z",
+  "updatedAt": "2026-07-20T22:21:29.497Z",
   "matchVersion": 2,
   "mangabakaId": 807,
   "mangabakaUrl": "https://mangabaka.org/807",
@@ -137,7 +137,7 @@
     {
       "name": "Curses",
       "group": "Narrative Tropes",
-      "weight": "unweighted"
+      "weight": "defining"
     },
     {
       "name": "Tragic Past",
@@ -222,7 +222,7 @@
     {
       "name": "Demons",
       "group": "Species & Creatures",
-      "weight": "unweighted"
+      "weight": "defining"
     },
     {
       "name": "Action",

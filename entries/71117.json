@@ -1,7 +1,7 @@
 {
   "kitsuId": "71117",
   "title": "Wo You Jiuqianwan-yi Tian Gou Jin",
-  "updatedAt": "2026-07-19T22:26:36.042Z",
+  "updatedAt": "2026-07-20T22:29:14.916Z",
   "matchVersion": 2,
   "mangabakaId": 74304,
   "mangabakaUrl": "https://mangabaka.org/74304",
@@ -48,6 +48,16 @@
       "weight": "unweighted"
     },
     {
+      "name": "Sexually Active Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sexually Active Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
       "name": "Based on a Web Novel",
       "group": "Derivative Work",
       "weight": "unweighted"
@@ -85,7 +95,7 @@
     {
       "name": "Revenge",
       "group": "Themes",
-      "weight": "defining"
+      "weight": "core"
     },
     {
       "name": "Romance",

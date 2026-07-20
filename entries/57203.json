@@ -1,7 +1,7 @@
 {
   "kitsuId": "57203",
   "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
-  "updatedAt": "2026-07-19T22:22:35.388Z",
+  "updatedAt": "2026-07-20T22:24:34.997Z",
   "matchVersion": 2,
   "mangabakaId": 949,
   "mangabakaUrl": "https://mangabaka.org/949",
@@ -27,6 +27,16 @@
     "seinen"
   ],
   "tags": [
+    {
+      "name": "Cannibalism",
+      "group": "Activities",
+      "weight": "incidental"
+    },
+    {
+      "name": "Agriculture",
+      "group": "Activities",
+      "weight": "incidental"
+    },
     {
       "name": "Seinen",
       "group": "Audience Demographics",
@@ -108,6 +118,11 @@
       "weight": "unweighted"
     },
     {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
       "name": "Europe",
       "group": "Locations",
       "weight": "unweighted"
@@ -120,7 +135,7 @@
     {
       "name": "Kingdom Management",
       "group": "Narrative Tropes",
-      "weight": "incidental"
+      "weight": "defining"
     },
     {
       "name": "Reincarnation",
@@ -166,6 +181,11 @@
       "name": "Game Elements",
       "group": "Settings",
       "weight": "core"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
     },
     {
       "name": "Game World",
@@ -221,6 +241,11 @@
       "name": "Female Empowerment",
       "group": "Themes",
       "weight": "unweighted"
+    },
+    {
+      "name": "Found Family",
+      "group": "Themes",
+      "weight": "incidental"
     },
     {
       "name": "Horror",

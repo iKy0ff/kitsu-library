@@ -1,7 +1,7 @@
 {
   "kitsuId": "73931",
   "title": "Jeonseolgeup Yeongungeun Academy Udeungsaeng",
-  "updatedAt": "2026-07-19T22:01:48.039Z",
+  "updatedAt": "2026-07-20T22:02:26.943Z",
   "matchVersion": 2,
   "mangabakaId": 1436,
   "mangabakaUrl": "https://mangabaka.org/1436",
@@ -15,7 +15,7 @@
   "synopsis": "In the Age of Catastrophe, five heroes saved the world from a primordial evil. One of the heroes, now reborn as Leo Plove, is excited to revisit his glorious past—only to find his name erased from history. Determined to uncover the truth, he joins Lumerne, a hero military academy, unaware he's about to discover dark secrets surrounding his reincarnation. Why are his past records hidden, and who wants to keep them that way? Will Leo be able to set things right and reclaim the credit he deserves?\n\n(Source: Tapas)",
   "status": "Releasing",
   "rating": 7.2,
-  "total": 92,
+  "total": 91,
   "type": "manhwa",
   "genres": [
     "action",
@@ -24,9 +24,34 @@
   ],
   "tags": [
     {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
       "name": "Shounen",
       "group": "Audience Demographics",
       "weight": "defining"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "incidental"
+    },
+    {
+      "name": "Red-Eyed Protagonist",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "White/Silver-Haired Protagonist",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Strong Protagonist",
+      "group": "Character Traits",
+      "weight": "incidental"
     },
     {
       "name": "Male Lead",
@@ -39,8 +64,23 @@
       "weight": "unweighted"
     },
     {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
       "name": "School",
       "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic School",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
       "weight": "unweighted"
     },
     {
@@ -54,9 +94,54 @@
       "weight": "unweighted"
     },
     {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "incidental"
+    },
+    {
       "name": "Fantasy",
       "group": "Genre",
       "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fairy",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Mythical Beast",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Spirits",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
     },
     {
       "name": "Action",
@@ -72,6 +157,11 @@
       "name": "Comedy",
       "group": "Genre",
       "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "incidental"
     },
     {
       "name": "School Life",
@@ -91,6 +181,11 @@
     {
       "name": "Web Comic",
       "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
       "weight": "unweighted"
     }
   ],

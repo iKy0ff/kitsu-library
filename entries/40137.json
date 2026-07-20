@@ -1,0 +1,296 @@
+{
+  "kitsuId": "40137",
+  "title": "Shirokuma Tensei: Mori no Shugoshin ni Natta zo Densetsu",
+  "updatedAt": "2026-07-20T22:26:25.894Z",
+  "matchVersion": 2,
+  "mangabakaId": 26219,
+  "mangabakaUrl": "https://mangabaka.org/26219",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ueDEwMDEzNi1zSnJka0czMXFWRFMuanBn",
+  "author": "Chihiro Mishima, Houki Kusano",
+  "synopsis": "After devoted mountain climber Kumakichi Kumada falls into a ravine, he wakes up in the middle of a forest in another world...as a polar bear! Now this tough Ursus maritimus is looking after six werewolf sisters on the run from the humans tyrannizing their clan. Keeping his wits about him and using his knowledge from his past life, the next \"mountain\" for him to climb will be making a comfortable life in the forest for everyone! \n\n(Source: Yen Press)",
+  "status": "Releasing",
+  "rating": 6.6,
+  "total": 31,
+  "type": "manga",
+  "genres": [
+    "action",
+    "comedy",
+    "fantasy",
+    "adventure",
+    "drama",
+    "harem",
+    "shounen",
+    "slice_of_life"
+  ],
+  "tags": [
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Animal Characteristics",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "incidental"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Animal Protagonists",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Forest",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Siblings",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sisters",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Animals",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Anthropomorphic",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Werewolves",
+      "group": "Species & Creatures",
+      "weight": "incidental"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, November 28-December 4",
+      "date": "2021-12-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-01/north-american-anime-manga-releases-november-28-december-4/.180142"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 28-April 3",
+      "date": "2021-03-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-30/north-american-anime-manga-releases-march-28-april-3/.171305"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 21-27",
+      "date": "2021-03-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-23/north-american-anime-manga-releases-march-21-27/.170986"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 13-19",
+      "date": "2020-12-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-12-17/north-american-anime-manga-releases-december-13-19/.167486"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 19-25",
+      "date": "2020-04-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-04-22/north-american-anime-manga-releases-april-19-25/.158823"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 12-18",
+      "date": "2020-04-14T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-04-14/north-american-anime-manga-releases-april-12-18/.158577"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 19-25",
+      "date": "2020-01-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-01-23/north-american-anime-manga-releases-january-19-25/.155623"
+    },
+    {
+      "title": "The Fall 2019 Manga Guide - Reborn as a Polar Bear: The Legend of How I Became a Forest Guardian",
+      "date": "2019-10-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/feature/2019-10-28/the-fall-2019-manga-guide/reborn-as-a-polar-bear-the-legend-of-how-i-became-a-forest-guardian/.152728"
+    },
+    {
+      "title": "Reborn as a Polar Bear: The Legend of How I Became a Forest Guardian GN 1",
+      "date": "2019-09-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/reborn-as-a-polar-bear/the-legend-of-how-i-became-a-forest-guardian/gn-1/.150765"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 1-7",
+      "date": "2019-09-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-09-05/north-american-anime-manga-releases-september-1-7/.150693"
+    },
+    {
+      "title": "Yen Press Licenses 6 Manga, 3 Novels, Art Book",
+      "date": "2019-02-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-02-01/yen-press-licenses-6-manga-3-novels-art-book/.142893"
+    }
+  ],
+  "sources": {
+    "anilist": "100136",
+    "anime_planet": "reborn-as-a-polar-bear-the-legend-of-how-i-became-a-forest-guardian",
+    "anime_news_network": "22497",
+    "kitsu": "40137",
+    "manga_updates": "w4xptz9",
+    "my_anime_list": "109770",
+    "shikimori": "109770"
+  },
+  "links": [
+    "https://bookwalker.jp/series/150081/",
+    "https://comic-walker.com/contents/detail/KDCW_MF00000051010000_68/",
+    "https://seiga.nicovideo.jp/comic/29457",
+    "https://www.kadokawa.co.jp/series/150081/",
+    "https://yenpress.com/series/reborn-as-a-polar-bear",
+    "https://mangabaka.org/26219"
+  ]
+}

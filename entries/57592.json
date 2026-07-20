@@ -1,0 +1,364 @@
+{
+  "kitsuId": "57592",
+  "title": "Joou Heika no Isekai Senryaku",
+  "updatedAt": "2026-07-20T22:26:09.011Z",
+  "matchVersion": 2,
+  "mangabakaId": 9695,
+  "mangabakaUrl": "https://mangabaka.org/9695",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzAvNi84LzEvYS9kL2YvNGQyYi80ZDM3Lzk1NGQvOWZkYmM0ZjE5Yzkz",
+  "author": "Akira Minamoto, Dai 616 Tokubetsu Jouhou Daitai",
+  "synopsis": "A young woman, net nickname “Mushi-nee,” finds herself sucked into a world not unlike the online real-time strategy game that was her only escape. She had captained the “Arachnea” faction…but it’s one thing to do on a computer, and another to find herself face-to-face with giant arachnids who hail her as queen! But rather than shrink from her fate, she steps up…to become the conquering queen she knows she can be! \n\n(Source: Kodansha USA)",
+  "status": "Completed",
+  "rating": 7,
+  "total": 43,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "drama",
+    "sci-fi",
+    "action",
+    "fantasy",
+    "horror"
+  ],
+  "tags": [
+    {
+      "name": "Murder",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mass Murder",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "core"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Villainess",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Villain Protagonist",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Golden/Yellow-Eyed Female Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Black-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dark-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Evil Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Adult Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Crazy Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Empress/Queen Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Evil Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Ruthless Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strategic Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Rapist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Age Regression",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Personality Change",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Kingdom Management",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Mind control",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Monster/Beast Tamer",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Dark Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Transported to a Game World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sci-Fi",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Game World",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Angels",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Body Horror",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Religion",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Revenge",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Medieval",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Torture",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Video Games",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Short Chapters",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, November 10-16",
+      "date": "2024-11-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-11-15/north-american-anime-manga-releases-november-10-16/.217788"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 24-30",
+      "date": "2022-07-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-26/north-american-anime-manga-releases-july-24-30/.188059"
+    }
+  ],
+  "sources": {
+    "anilist": "123261",
+    "anime_planet": "her-majestys-swarm",
+    "anime_news_network": "25186",
+    "kitsu": "57592",
+    "manga_updates": "uj862jl",
+    "my_anime_list": "130798",
+    "shikimori": "130798"
+  },
+  "links": [
+    "https://comic-days.com/episode/13933686331809208444",
+    "https://kodansha.us/series/her-majestys-swarm/",
+    "https://pocket.shonenmagazine.com/episode/13933686331696586456",
+    "https://seiga.nicovideo.jp/comic/48555",
+    "https://shonen-sirius.com/series/w_sirius/joouheika/",
+    "https://mangabaka.org/9695"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "kitsuId": "65541",
   "title": "Jeo Geureon Injae Animnida",
-  "updatedAt": "2026-07-19T22:11:56.375Z",
+  "updatedAt": "2026-07-20T22:13:03.997Z",
   "matchVersion": 2,
   "mangabakaId": 3070,
   "mangabakaUrl": "https://mangabaka.org/3070",
@@ -23,7 +23,7 @@
     "comedy",
     "drama",
     "mature",
-    "shounen",
+    "seinen",
     "tragedy"
   ],
   "tags": [
@@ -33,9 +33,14 @@
       "weight": "defining"
     },
     {
-      "name": "Shounen",
+      "name": "Seinen",
       "group": "Audience Demographics",
       "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
     },
     {
       "name": "Hero",
@@ -65,7 +70,7 @@
     {
       "name": "Based on a Novel",
       "group": "Derivative Work",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Based on a Web Novel",
@@ -120,7 +125,7 @@
     {
       "name": "Monsters",
       "group": "Species & Creatures",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Demons",

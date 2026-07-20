@@ -1,0 +1,273 @@
+{
+  "kitsuId": "55356",
+  "title": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Tsurugi wo Mune ni Idaku",
+  "updatedAt": "2026-07-20T22:26:21.672Z",
+  "matchVersion": 2,
+  "mangabakaId": 5955,
+  "mangabakaUrl": "https://mangabaka.org/5955",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzQvOS9hLzUvNi81LzkvZGQ2Yy80YzQxLzgxMjAvMzE0MTU5OGNmYTk5",
+  "author": "Maito Ayamine",
+  "synopsis": "Once upon a time, in a forgotten temple in the middle of a deep, dark forest, a god of death stumbles across a baby girl called Olivia and takes her in to raise as its own. Under the death god's tutelage, little Olivia spends her days studying to become a brilliant tactician and master of the blade. But her destiny changes irreversibly upon her fifteenth birthday. When the death god suddenly vanishes, Olivia must leave the forest and make for the battlefield! \n\nBut none of her books or drills have prepared her for other people—nor for the fearsome war between a mighty empire hellbent on uniting the continent and a kingdom struggling to maintain its autonomy as the last remaining holdout against the imperial conquest. What Olivia lacks in social skills she makes up for with martial prowess, and when she arrives on the scene, no one on either side will know what hit them. \n\nAs she searches for her missing teacher and fends off the empire, the epic tale of Olivia and her ebony blade begins! \n\n(Source: J-Novel Club)",
+  "status": "Releasing",
+  "rating": 7.5,
+  "total": 58,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "romance",
+    "shounen"
+  ],
+  "tags": [
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Anti-Hero",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Girls Doing Cute Things",
+      "group": "Character Archetype",
+      "weight": "defining"
+    },
+    {
+      "name": "Beautiful Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Ruthless Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Blood-Thirsty Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Cheerful Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Ruthless Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Young Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "defining"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Foreign",
+      "group": "Locations",
+      "weight": "defining"
+    },
+    {
+      "name": "Protagonist Strong from the Start",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Male Lead Falls in Love First",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gods",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Military",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, April 12-18",
+      "date": "2026-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-04-17/north-american-anime-manga-releases-april-12-18/.236358"
+    },
+    {
+      "title": "Crunchyroll Manga Adds 30 New Titles from J-Novel Club",
+      "date": "2026-02-09T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-02-09/crunchyroll-manga-adds-30-new-titles-from-j-novel-club/.233973"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 18-24",
+      "date": "2026-01-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-01-22/north-american-anime-manga-releases-january-18-24/.233251"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 28-October 4",
+      "date": "2025-10-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-10-03/north-american-anime-manga-releases-september-28-october-4/.229442"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 22-28",
+      "date": "2025-06-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-27/north-american-anime-manga-releases-june-22-28/.225930"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 16-22",
+      "date": "2025-03-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-03-20/north-american-anime-manga-releases-march-16-22/.222536"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 8-14",
+      "date": "2024-12-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-12/north-american-anime-manga-releases-december-8-14/.218853"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 14-20",
+      "date": "2024-07-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-07-18/north-american-anime-manga-releases-july-14-20/.213297"
+    },
+    {
+      "title": "The Spring 2024 Manga Guide - Death's Daughter and the Ebony Blade",
+      "date": "2024-05-01T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/seasonal/2024/spring/death-daughter-and-the-ebony-blade/.209600"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 7-13",
+      "date": "2024-04-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-10/north-american-anime-manga-releases-april-7-13/.209689"
+    },
+    {
+      "title": "J-Novel Club Licenses 6 Novels, 7 Manga Titles",
+      "date": "2024-01-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-19/j-novel-club-licenses-6-novels-7-manga-titles/.206639"
+    }
+  ],
+  "sources": {
+    "anilist": "111159",
+    "anime_planet": "deaths-daughter-and-the-ebony-blade",
+    "anime_news_network": "25968",
+    "kitsu": "55356",
+    "manga_updates": "u0rwcqr",
+    "my_anime_list": "121165",
+    "shikimori": "121165"
+  },
+  "links": [
+    "https://comic.pixiv.net/works/7928",
+    "https://comic-walker.com/contents/detail/KDCW_AM05201040010000_68/",
+    "https://dengekidaioh.jp/product/shinigami_syoujo_shikkoku/",
+    "https://seiga.nicovideo.jp/comic/43071",
+    "https://j-novel.club/series/death-s-daughter-and-the-ebony-blade-manga",
+    "https://mangabaka.org/5955"
+  ]
+}

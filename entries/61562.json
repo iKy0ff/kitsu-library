@@ -1,7 +1,7 @@
 {
   "kitsuId": "61562",
   "title": "Reality Quest",
-  "updatedAt": "2026-07-19T22:10:31.582Z",
+  "updatedAt": "2026-07-20T22:11:33.067Z",
   "matchVersion": 2,
   "mangabakaId": 1524,
   "mangabakaUrl": "https://mangabaka.org/1524",
@@ -71,7 +71,7 @@
     {
       "name": "Strategic Male Lead",
       "group": "Character Types",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Strong Male Lead",

@@ -1,7 +1,7 @@
 {
   "kitsuId": "25931",
   "title": "Shoujo Shuumatsu Ryokou",
-  "updatedAt": "2026-07-19T22:26:32.101Z",
+  "updatedAt": "2026-07-20T22:29:10.734Z",
   "matchVersion": 2,
   "mangabakaId": 6805,
   "mangabakaUrl": "https://mangabaka.org/6805",
@@ -32,6 +32,11 @@
       "name": "Travel",
       "group": "Activities",
       "weight": "defining"
+    },
+    {
+      "name": "Aviation",
+      "group": "Activities",
+      "weight": "unweighted"
     },
     {
       "name": "Seinen",
@@ -102,6 +107,11 @@
       "name": "Sci-Fi",
       "group": "Genre",
       "weight": "defining"
+    },
+    {
+      "name": "Aliens",
+      "group": "Settings",
+      "weight": "unweighted"
     },
     {
       "name": "Urban",

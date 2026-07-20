@@ -1,0 +1,305 @@
+{
+  "kitsuId": "59347",
+  "title": "Tensei Goblin Dakedo Shitsumon Aru?",
+  "updatedAt": "2026-07-20T22:26:13.215Z",
+  "matchVersion": 2,
+  "mangabakaId": 39424,
+  "mangabakaUrl": "https://mangabaka.org/39424",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzAvZC9jL2YvZS9iL2MvOTk3Ni80MGM0L2I4MWEvMTRkZGIzYzc1MjIz",
+  "author": "Nazuna Miki",
+  "synopsis": "Nice guys finish last—no one knows that better than office worker Akira Yagami, who loses his life after jumping into oncoming traffic to save a child. But death is not the end for our selfless hero, as he is reincarnated in another world—not as a human, but as a goblin! Normally, goblins only live for seven days, but thanks to Akira’s unique skill, he’s got eighty years to leave his mark on the world! Eager to make the most of his time, he starts stocking up on skills left and right, and one fateful day, he comes upon the Archfiend himself, who offers him the power to make anyone he defeats eternally loyal to him! With the world in the palm of his hand, how will he choose to use his newfound powers…?\n \n*Source: Yen Press, Vol. 1*",
+  "status": "Releasing",
+  "rating": 6.9,
+  "total": 113,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "romance",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Strategic Battles",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Glasses-Wearing Male Lead",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Calm Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hard-Working Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Polite Male Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strategic Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Unique Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Appearance Different from Personality",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Weak to Strong",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Level System",
+      "group": "Settings",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monsters",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Monster Girls",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Goblin",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Demons",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "European Folklore",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "defining"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, May 24-30",
+      "date": "2026-05-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-29/north-american-anime-manga-releases-may-24-30/.237843"
+    },
+    {
+      "title": "So What's Wrong with Getting Reborn as a Goblin? Manga Gets TV Anime",
+      "date": "2026-03-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-03-11/so-what-wrong-with-getting-reborn-as-a-goblin-manga-gets-tv-anime/.235175"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 19-25",
+      "date": "2025-01-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-01-23/north-american-anime-manga-releases-january-19-25/.220262"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 25-31",
+      "date": "2024-08-30T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-08-30/north-american-anime-manga-releases-august-25-31/.214789"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 14-20",
+      "date": "2024-04-17T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-04-17/north-american-anime-manga-releases-april-14-20/.209914"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 10-16",
+      "date": "2023-12-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-13/north-american-anime-manga-releases-december-10-16/.205391"
+    },
+    {
+      "title": "North American Anime, Manga Releases, September 17-23",
+      "date": "2023-09-21T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-09-21/north-american-anime-manga-releases-september-17-23/.202532"
+    },
+    {
+      "title": "North American Anime, Manga Releases, March 19-25",
+      "date": "2023-03-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-03-23/north-american-anime-manga-releases-march-19-25/.196223"
+    },
+    {
+      "title": "So What's Wrong with Getting Reborn as a Goblin? GN 1",
+      "date": "2022-12-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/review/so-what-wrong-with-getting-reborn-as-a-goblin/gn-1/.193127"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 20-26",
+      "date": "2022-11-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-23/north-american-anime-manga-releases-november-20-26/.192197"
+    },
+    {
+      "title": "Acquisitions Announcement—  Yen Press Announces New Titles for Future Publication",
+      "date": "2022-03-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/press-release/2022-03-27/acquisitions-announcement-yen-press-announces-new-titles-for-future-publication/.184059"
+    },
+    {
+      "title": "Yen Press Licenses The Executioner and Her Way of Life Manga, Sugar Apple Fairy Tale, Belle Novels",
+      "date": "2022-03-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-03-25/yen-press-licenses-the-executioner-and-her-way-of-life-manga-sugar-apple-fairy-tale-belle-novels/.184004"
+    }
+  ],
+  "sources": {
+    "anilist": "120236",
+    "anime_planet": "so-whats-wrong-with-getting-reborn-as-a-goblin",
+    "anime_news_network": "25797",
+    "kitsu": "59347",
+    "manga_updates": "l58mj3s",
+    "my_anime_list": "126524",
+    "shikimori": "126524"
+  },
+  "links": [
+    "https://seiga.nicovideo.jp/comic/46452",
+    "https://shonenjumpplus.com/episode/4856001361158488414",
+    "https://tonarinoyj.jp/episode/10834108156765668108",
+    "https://yenpress.com/series/so-what-s-wrong-with-getting-reborn-as-a-goblin",
+    "https://en.wikipedia.org/wiki/So_What's_Wrong_with_Getting_Reborn_as_a_Goblin%3F",
+    "https://mangabaka.org/39424"
+  ]
+}
