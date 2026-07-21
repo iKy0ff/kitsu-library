@@ -1,7 +1,7 @@
 {
   "kitsuId": "59455",
   "title": "Hwasangwihwan",
-  "updatedAt": "2026-07-20T22:15:31.767Z",
+  "updatedAt": "2026-07-21T22:16:32.252Z",
   "matchVersion": 2,
   "mangabakaId": 1746,
   "mangabakaUrl": "https://mangabaka.org/1746",
@@ -165,7 +165,7 @@
     {
       "name": "Famous Male Lead",
       "group": "Character Types",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Fearless Male Lead",

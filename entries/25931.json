@@ -1,7 +1,7 @@
 {
   "kitsuId": "25931",
   "title": "Shoujo Shuumatsu Ryokou",
-  "updatedAt": "2026-07-20T22:29:10.734Z",
+  "updatedAt": "2026-07-21T22:31:17.604Z",
   "matchVersion": 2,
   "mangabakaId": 6805,
   "mangabakaUrl": "https://mangabaka.org/6805",
@@ -36,7 +36,7 @@
     {
       "name": "Aviation",
       "group": "Activities",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Seinen",
@@ -111,7 +111,7 @@
     {
       "name": "Aliens",
       "group": "Settings",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Urban",

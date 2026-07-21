@@ -8,7 +8,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-20T22:29:36.567Z",
-    "time": "just now"
+    "time": "1d ago"
   },
   {
     "id": "nmrtsrr93dhzpj",
@@ -18,7 +18,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-20T22:29:36.567Z",
-    "time": "just now"
+    "time": "1d ago"
   },
   {
     "id": "nmrsd8grs9bhgb",
@@ -28,7 +28,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-19T22:26:56.105Z",
-    "time": "1d ago"
+    "time": "2d ago"
   },
   {
     "id": "nmrsd8grt1l5kl",
@@ -38,7 +38,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-19T22:26:56.105Z",
-    "time": "1d ago"
+    "time": "2d ago"
   },
   {
     "id": "nmrsd8grteqopj",
@@ -48,7 +48,7 @@ window.notificationsData = [
     "text": "2 new news posts.",
     "unread": true,
     "at": "2026-07-19T22:26:56.105Z",
-    "time": "1d ago"
+    "time": "2d ago"
   },
   {
     "id": "nmrsd8grt2nbmm",
@@ -58,7 +58,7 @@ window.notificationsData = [
     "text": "2 new news posts.",
     "unread": true,
     "at": "2026-07-19T22:26:56.105Z",
-    "time": "1d ago"
+    "time": "2d ago"
   },
   {
     "id": "nmrqxt1w25pj8h",
@@ -68,7 +68,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-18T22:27:16.562Z",
-    "time": "2d ago"
+    "time": "3d ago"
   },
   {
     "id": "nmrqxt1w2t320b",
@@ -78,7 +78,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-18T22:27:16.562Z",
-    "time": "2d ago"
+    "time": "3d ago"
   },
   {
     "id": "nmro2xqs2gi1vb",
@@ -88,7 +88,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-16T22:27:34.994Z",
-    "time": "4d ago"
+    "time": "5d ago"
   },
   {
     "id": "nmro2xqs13jqi7",
@@ -98,7 +98,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-16T22:27:34.993Z",
-    "time": "4d ago"
+    "time": "5d ago"
   },
   {
     "id": "nmrid03t446erv",

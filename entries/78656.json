@@ -1,7 +1,7 @@
 {
   "kitsuId": "78656",
   "title": "Kaisou Toshi Danpenshuu",
-  "updatedAt": "2026-07-20T22:04:37.151Z",
+  "updatedAt": "2026-07-21T22:04:54.727Z",
   "matchVersion": 2,
   "mangabakaId": 594996,
   "mangabakaUrl": "https://mangabaka.org/594996",
@@ -38,7 +38,7 @@
     {
       "name": "Female Lead",
       "group": "Character Types",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "School",
@@ -48,7 +48,7 @@
     {
       "name": "Ship",
       "group": "Objects",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Post-Apocalyptic",
@@ -68,12 +68,12 @@
     {
       "name": "Guns",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Military",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Slice of Life",

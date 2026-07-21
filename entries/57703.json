@@ -1,7 +1,7 @@
 {
   "kitsuId": "57703",
   "title": "Craft Game no Nouryoku de Isekai Kouryaku!!",
-  "updatedAt": "2026-07-20T22:04:58.739Z",
+  "updatedAt": "2026-07-21T22:05:17.600Z",
   "matchVersion": 2,
   "mangabakaId": 5926,
   "mangabakaUrl": "https://mangabaka.org/5926",
@@ -143,6 +143,11 @@
     {
       "name": "Based on a Web Novel",
       "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Kingdom Management",
+      "group": "Narrative Tropes",
       "weight": "unweighted"
     },
     {
@@ -302,6 +307,16 @@
     },
     {
       "name": "Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Politics Involving Royalty",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Religion",
       "group": "Themes",
       "weight": "unweighted"
     },
