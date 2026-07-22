@@ -1,7 +1,7 @@
 {
   "kitsuId": "57703",
   "title": "Craft Game no Nouryoku de Isekai Kouryaku!!",
-  "updatedAt": "2026-07-21T22:05:17.600Z",
+  "updatedAt": "2026-07-22T22:06:04.363Z",
   "matchVersion": 2,
   "mangabakaId": 5926,
   "mangabakaUrl": "https://mangabaka.org/5926",
@@ -88,7 +88,7 @@
     {
       "name": "Dark/Tan Skin",
       "group": "Character Traits",
-      "weight": "core"
+      "weight": "unweighted"
     },
     {
       "name": "Female Lead",
@@ -148,7 +148,7 @@
     {
       "name": "Kingdom Management",
       "group": "Narrative Tropes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Craftsman",
@@ -318,7 +318,7 @@
     {
       "name": "Religion",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Romance",

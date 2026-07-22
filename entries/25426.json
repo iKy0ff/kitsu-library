@@ -1,7 +1,7 @@
 {
   "kitsuId": "25426",
   "title": "Re:Monster",
-  "updatedAt": "2026-07-21T22:05:26.748Z",
+  "updatedAt": "2026-07-22T22:06:13.760Z",
   "matchVersion": 2,
   "mangabakaId": 1955,
   "mangabakaUrl": "https://mangabaka.org/1955",
@@ -111,7 +111,7 @@
     {
       "name": "Dark/Tan Skin",
       "group": "Character Traits",
-      "weight": "recurrent"
+      "weight": "unweighted"
     },
     {
       "name": "Calm Protagonist",

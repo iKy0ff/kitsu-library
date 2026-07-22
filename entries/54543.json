@@ -1,7 +1,7 @@
 {
   "kitsuId": "54543",
   "title": "Jitsu wa Ore, Saikyou deshita?",
-  "updatedAt": "2026-07-21T22:21:32.679Z",
+  "updatedAt": "2026-07-22T22:22:01.219Z",
   "matchVersion": 2,
   "mangabakaId": 3401,
   "mangabakaUrl": "https://mangabaka.org/3401",
@@ -75,7 +75,7 @@
     {
       "name": "Dark/Tan Skin",
       "group": "Character Traits",
-      "weight": "incidental"
+      "weight": "unweighted"
     },
     {
       "name": "Adopted Protagonist",

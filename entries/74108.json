@@ -1,7 +1,7 @@
 {
   "kitsuId": "74108",
   "title": "Senki Survival Saga: Isekai no Unmei wo Kaketa Mujintou Fujun Isei Kouyuu",
-  "updatedAt": "2026-07-21T22:19:45.653Z",
+  "updatedAt": "2026-07-22T22:20:10.945Z",
   "matchVersion": 2,
   "mangabakaId": 941,
   "mangabakaUrl": "https://mangabaka.org/941",
@@ -74,7 +74,7 @@
     {
       "name": "Dark/Tan Skin",
       "group": "Character Traits",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Primarily Female Cast",

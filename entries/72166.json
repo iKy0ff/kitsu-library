@@ -1,7 +1,7 @@
 {
   "kitsuId": "72166",
   "title": "Quick Teleporting Genius from Magic School",
-  "updatedAt": "2026-07-21T22:09:17.964Z",
+  "updatedAt": "2026-07-22T22:09:45.718Z",
   "matchVersion": 2,
   "mangabakaId": 7893,
   "mangabakaUrl": "https://mangabaka.org/7893",
@@ -250,6 +250,11 @@
     },
     {
       "name": "Longstrip",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hiatus",
       "group": "Work Info",
       "weight": "unweighted"
     },
