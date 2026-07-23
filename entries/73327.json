@@ -1,7 +1,7 @@
 {
   "kitsuId": "73327",
   "title": "Watashi no Kokoro wa Ojisan de Aru",
-  "updatedAt": "2026-07-22T22:01:40.993Z",
+  "updatedAt": "2026-07-23T22:01:17.288Z",
   "matchVersion": 2,
   "mangabakaId": 1398,
   "mangabakaUrl": "https://mangabaka.org/1398",
@@ -15,7 +15,7 @@
   "synopsis": "With no friends, family, or romance to speak of, Haruka has lived his life just going through the motions—until the day he awakens in the body of a beautiful, and womanly, dark elf! Suddenly, a world beyond his wildest imagination awaits, and uncontainable excitement races through him. There’s just one problem: He gave up on putting himself out there a long time ago and has no idea how to strike up a conversation with other people. Teenagers and (other) women are certainly no exception. But with a bottomless well of mana and a ridiculously tough body to boot, Haruka won’t let any overthinking get in the way this time. Little by little, the dark elf works past his (her) fears and self-doubt, forging deep bonds with precious new friends and growing together with them. So begins a heartwarming story of an old man determined to make the most of this new fantastical lease on life!\n\n*Source: J-Novel Club, Vol. 1*",
   "status": "Releasing",
   "rating": 7.2,
-  "total": 39,
+  "total": 40,
   "type": "manga",
   "genres": [
     "adventure",
@@ -48,7 +48,7 @@
     {
       "name": "Dark/Tan Skin Female Lead",
       "group": "Character Types",
-      "weight": "recurrent"
+      "weight": "unweighted"
     },
     {
       "name": "Elf Female Lead",

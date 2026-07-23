@@ -1,7 +1,7 @@
 {
   "kitsuId": "59455",
   "title": "Hwasangwihwan",
-  "updatedAt": "2026-07-22T22:16:53.875Z",
+  "updatedAt": "2026-07-23T22:18:04.901Z",
   "matchVersion": 2,
   "mangabakaId": 1746,
   "mangabakaUrl": "https://mangabaka.org/1746",
@@ -90,7 +90,7 @@
     {
       "name": "Tanned Skin",
       "group": "Character Traits",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Strong Protagonist",

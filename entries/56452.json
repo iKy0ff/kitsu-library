@@ -1,7 +1,7 @@
 {
   "kitsuId": "56452",
   "title": "Omniscient Reader's Point of View",
-  "updatedAt": "2026-07-22T22:27:39.302Z",
+  "updatedAt": "2026-07-23T22:29:31.044Z",
   "matchVersion": 2,
   "mangabakaId": 2060,
   "mangabakaUrl": "https://mangabaka.org/2060",
@@ -325,7 +325,7 @@
     {
       "name": "Parody",
       "group": "Themes",
-      "weight": "defining"
+      "weight": "recurrent"
     },
     {
       "name": "Depression",

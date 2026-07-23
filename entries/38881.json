@@ -1,0 +1,325 @@
+{
+  "kitsuId": "38881",
+  "title": "Akebi-chan no Sailor-fuku",
+  "updatedAt": "2026-07-23T22:01:07.462Z",
+  "matchVersion": 2,
+  "mangabakaId": 2008,
+  "mangabakaUrl": "https://mangabaka.org/2008",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzAvMy85LzQvNS8yLzkvYzMwNi80YmQ1L2E5YmYvMzVhNzQ3ZmRlYjU5",
+  "author": "Hiro",
+  "synopsis": "Komichi Akebi lives out in the countryside with her family. She's won entrance to the prestigious Roubai Academy middle-school for girls and now she wants only two things -- to wear the school's sailor uniform and to make a hundred friends!",
+  "status": "Releasing",
+  "rating": 7.7,
+  "total": 89,
+  "type": "manga",
+  "genres": [
+    "slice_of_life",
+    "comedy",
+    "school_life",
+    "seinen",
+    "shoujo_ai",
+    "yuri"
+  ],
+  "tags": [
+    {
+      "name": "Acting",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Dancing",
+      "group": "Activities",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Demographic with Female Lead",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Cute Girls Doing Cute Things",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Primarily Female Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Athletic Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Expressive Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Innocent Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Naive Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Younger Sister",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "All-Girls School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Middle School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Private School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "School Uniform",
+      "group": "Objects",
+      "weight": "core"
+    },
+    {
+      "name": "Idols",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Teachers",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Family",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Father and Daughter",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mother and Daughter",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sisters",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Friendship",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Important Non-Romantic Relationship",
+      "group": "Relationship",
+      "weight": "core"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Coming of Age",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Girls Love",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Girls Love as a Subplot",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shoujo Ai",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Yuri",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "LGBTQ+",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Music",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Iyashikei",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "School Life",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Athletics",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "21st century",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Tragedy",
+      "group": "Genre",
+      "weight": "incidental"
+    },
+    {
+      "name": "Elaborate",
+      "group": "Work Info",
+      "weight": "defining"
+    },
+    {
+      "name": "Episodic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Partially Colored",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Web Comic",
+      "group": "Work Info",
+      "weight": "unweighted"
+    }
+  ],
+  "news": [
+    {
+      "title": "Young Jump Magazine Gets Special Issue Focused on Heroines",
+      "date": "2021-12-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-12-13/young-jump-magazine-gets-special-issue-focused-on-heroines/.180564"
+    },
+    {
+      "title": "HIRO's Akebi's Sailor Uniform Manga Gets TV Anime by Cloverworks",
+      "date": "2021-03-26T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-03-26/hiro-akebi-sailor-uniform-manga-gets-tv-anime-by-cloverworks/.171117"
+    },
+    {
+      "title": "Japanese Comic Ranking, November 19-25",
+      "date": "2018-11-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2018-11-28/japanese-comic-ranking-november-19-25/.140085"
+    }
+  ],
+  "sources": {
+    "anilist": "98305",
+    "anime_planet": "akebi-chan-no-sailor-fuku",
+    "anime_news_network": "24188",
+    "kitsu": "38881",
+    "manga_updates": "ititr6n",
+    "my_anime_list": "101851",
+    "shikimori": "101851"
+  },
+  "links": [
+    "https://shonenjumpplus.com/episode/3269754496650205723",
+    "https://tonarinoyj.jp/episode/13932016480028986061",
+    "https://ynjn.jp/title/105",
+    "https://en.wikipedia.org/wiki/Akebi%27s_Sailor_Uniform",
+    "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E6%9C%8D",
+    "https://www.tonarinoyj.jp/manga/akebi/",
+    "https://mangabaka.org/2008"
+  ]
+}

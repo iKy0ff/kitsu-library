@@ -1,7 +1,7 @@
 {
   "kitsuId": "78780",
   "title": "Naega Jugin Dragon-gwa Gyeolhonhaetda",
-  "updatedAt": "2026-07-22T22:02:18.485Z",
+  "updatedAt": "2026-07-23T22:02:42.045Z",
   "matchVersion": 2,
   "mangabakaId": 596433,
   "mangabakaUrl": "https://mangabaka.org/596433",
@@ -14,7 +14,7 @@
   "author": "Bunjaenamu, Mandutbul",
   "synopsis": "The pinnacle of magic was the 9th Circle, a realm said to be that of a demigod. The final key to reaching it was the heart of the Crimson Dragon, Valdrova.\n\n*“I never imagined my own fiancé would come to kill me.”*\n\nYet for some reason, Valdrova offered up her heart without putting up any resistance.\n\n*“…What is this feeling? Why does this leave such a bitter taste?”*\n\nThen I faced it—a despair far older and deeper than the hatred I had carried.\n\n(Source: Naver, translated)",
   "status": "Releasing",
-  "rating": 7.4,
+  "rating": 7.6,
   "total": 7,
   "type": "manhwa",
   "genres": [
@@ -45,6 +45,11 @@
       "name": "Male Lead",
       "group": "Character Types",
       "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
     },
     {
       "name": "Europe",
@@ -162,6 +167,11 @@
       "weight": "defining"
     },
     {
+      "name": "Dark Fantasy",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
       "name": "Fantasy World",
       "group": "Settings",
       "weight": "core"
@@ -204,6 +214,11 @@
     {
       "name": "Coming of Age",
       "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Horror",
+      "group": "Genre",
       "weight": "unweighted"
     },
     {
@@ -255,6 +270,7 @@
   "news": [],
   "sources": {
     "anilist": "214050",
+    "anime_planet": "i-married-the-dragon-i-killed",
     "manga_updates": "roci33b",
     "my_anime_list": "194872"
   },

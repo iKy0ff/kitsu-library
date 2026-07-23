@@ -1,7 +1,7 @@
 {
   "kitsuId": "78549",
   "title": "Dominant",
-  "updatedAt": "2026-07-22T22:05:21.821Z",
+  "updatedAt": "2026-07-23T22:05:47.152Z",
   "matchVersion": 2,
   "mangabakaId": 57929,
   "mangabakaUrl": "https://mangabaka.org/57929",
@@ -37,6 +37,11 @@
       "weight": "recurrent"
     },
     {
+      "name": "Long-Haired Male Lead",
+      "group": "Character Traits",
+      "weight": "unweighted"
+    },
+    {
       "name": "Female Lead",
       "group": "Character Types",
       "weight": "defining"
@@ -47,6 +52,11 @@
       "weight": "defining"
     },
     {
+      "name": "Mansion",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
       "name": "School",
       "group": "Locations",
       "weight": "recurrent"
@@ -55,6 +65,11 @@
       "name": "Love Triangle",
       "group": "Narrative Tropes",
       "weight": "defining"
+    },
+    {
+      "name": "Older Male Younger Female",
+      "group": "Relationship",
+      "weight": "unweighted"
     },
     {
       "name": "Heterosexual",
@@ -69,7 +84,7 @@
     {
       "name": "Music",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Mystery",
@@ -99,7 +114,7 @@
     {
       "name": "Suspense",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "incidental"
     }
   ],
   "news": [],

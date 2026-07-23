@@ -1,7 +1,7 @@
 {
   "kitsuId": "61963",
   "title": "Wo! Tian Mìng Da Fanpai",
-  "updatedAt": "2026-07-22T22:22:48.222Z",
+  "updatedAt": "2026-07-23T22:24:20.575Z",
   "matchVersion": 2,
   "mangabakaId": 704,
   "mangabakaUrl": "https://mangabaka.org/704",
@@ -77,6 +77,11 @@
       "name": "Big Breasts",
       "group": "Character Traits",
       "weight": "recurrent"
+    },
+    {
+      "name": "Feet",
+      "group": "Character Traits",
+      "weight": "unweighted"
     },
     {
       "name": "Primarily Adult Cast",
@@ -176,7 +181,7 @@
     {
       "name": "Female Lead Falls in Love First",
       "group": "Narrative Tropes",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Love Polygon",

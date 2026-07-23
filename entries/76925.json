@@ -1,7 +1,7 @@
 {
   "kitsuId": "76925",
   "title": "Haimiya Senpai wa Kowakute Kawaii",
-  "updatedAt": "2026-07-22T22:04:48.812Z",
+  "updatedAt": "2026-07-23T22:05:12.107Z",
   "matchVersion": 2,
   "mangabakaId": 564580,
   "mangabakaUrl": "https://mangabaka.org/564580",
@@ -33,12 +33,12 @@
     {
       "name": "Yandere",
       "group": "Character Archetype",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Gyaru",
       "group": "Character Archetype",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "White/Silver-Haired Female Lead",

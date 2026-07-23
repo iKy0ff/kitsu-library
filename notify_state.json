@@ -114,6 +114,12 @@
       "mbId": 2409,
       "newsCount": 83
     },
+    "38881": {
+      "title": "Akebi-chan no Sailor-fuku",
+      "pub": "Releasing",
+      "mbId": 2008,
+      "newsCount": 3
+    },
     "39044": {
       "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
       "pub": "Releasing",
@@ -2395,5 +2401,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-22T22:32:17.018Z"
+  "updatedAt": "2026-07-23T22:34:53.404Z"
 }

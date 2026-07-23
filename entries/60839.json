@@ -1,7 +1,7 @@
 {
   "kitsuId": "60839",
   "title": "Namjuui Ibyangttari Doeeotseumnida",
-  "updatedAt": "2026-07-22T22:04:20.633Z",
+  "updatedAt": "2026-07-23T22:04:42.008Z",
   "matchVersion": 2,
   "mangabakaId": 6759,
   "mangabakaUrl": "https://mangabaka.org/6759",
@@ -128,7 +128,7 @@
     {
       "name": "Maids",
       "group": "Occupations",
-      "weight": "incidental"
+      "weight": "recurrent"
     },
     {
       "name": "Servant",
@@ -231,6 +231,11 @@
       "weight": "defining"
     },
     {
+      "name": "Parody",
+      "group": "Themes",
+      "weight": "incidental"
+    },
+    {
       "name": "Drama",
       "group": "Genre",
       "weight": "defining"
@@ -259,6 +264,11 @@
       "name": "Orphans",
       "group": "Themes",
       "weight": "core"
+    },
+    {
+      "name": "Parenthood",
+      "group": "Themes",
+      "weight": "defining"
     },
     {
       "name": "Politics Involving Royalty",

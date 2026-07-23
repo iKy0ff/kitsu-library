@@ -1,7 +1,7 @@
 {
   "kitsuId": "67137",
   "title": "Sihanbu Cheonjae Amheukgisa",
-  "updatedAt": "2026-07-22T22:26:19.400Z",
+  "updatedAt": "2026-07-23T22:28:05.900Z",
   "matchVersion": 2,
   "mangabakaId": 7044,
   "mangabakaUrl": "https://mangabaka.org/7044",
@@ -59,6 +59,11 @@
       "name": "Calm Protagonist",
       "group": "Character Types",
       "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
     },
     {
       "name": "Male Lead",
@@ -151,7 +156,17 @@
       "weight": "unweighted"
     },
     {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
       "name": "Master-Servant Relationship",
+      "group": "Relationship",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Heterosexual",
       "group": "Relationship",
       "weight": "unweighted"
     },
@@ -179,6 +194,16 @@
       "name": "Game Elements",
       "group": "Settings",
       "weight": "core"
+    },
+    {
+      "name": "Supernatural",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Angels",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
     },
     {
       "name": "Monsters",
@@ -216,6 +241,11 @@
       "weight": "unweighted"
     },
     {
+      "name": "Arranged Marriage",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
       "name": "Military",
       "group": "Themes",
       "weight": "unweighted"
@@ -224,6 +254,11 @@
       "name": "Nobility",
       "group": "Themes",
       "weight": "defining"
+    },
+    {
+      "name": "Unrequited Love",
+      "group": "Themes",
+      "weight": "unweighted"
     },
     {
       "name": "Romantic Subplot",
@@ -253,7 +288,7 @@
     {
       "name": "Necromancy",
       "group": "World Building",
-      "weight": "unweighted"
+      "weight": "incidental"
     }
   ],
   "news": [],
