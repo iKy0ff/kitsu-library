@@ -22,7 +22,7 @@
       "title": "Horimiya",
       "pub": "Completed",
       "mbId": 6029,
-      "newsCount": 14
+      "newsCount": 60
     },
     "24147": {
       "title": "One Punch-Man",
@@ -143,6 +143,12 @@
       "pub": "Releasing",
       "mbId": 3832,
       "newsCount": 11
+    },
+    "39122": {
+      "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+      "pub": "Completed",
+      "mbId": 24978,
+      "newsCount": 10
     },
     "39537": {
       "title": "I Love Yoo",
@@ -509,6 +515,12 @@
       "pub": "Completed",
       "mbId": 39468,
       "newsCount": 0
+    },
+    "56822": {
+      "title": "Yoku Wakaranai keredo Isekai ni Tensei Shiteita You Desu",
+      "pub": "Releasing",
+      "mbId": 2320,
+      "newsCount": 17
     },
     "57203": {
       "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
@@ -1986,6 +1998,12 @@
       "mbId": 81013,
       "newsCount": 0
     },
+    "74555": {
+      "title": "Shiou no Kikan",
+      "pub": "Releasing",
+      "mbId": 98127,
+      "newsCount": 0
+    },
     "74725": {
       "title": "Makai Youjo ni Tensei Shita Oji-san wa Heiwa no Tame ni Maou ni Naritai",
       "pub": "Completed",
@@ -2401,5 +2419,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-23T22:34:53.404Z"
+  "updatedAt": "2026-07-24T22:36:36.276Z"
 }

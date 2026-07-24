@@ -1,7 +1,7 @@
 {
   "kitsuId": "76907",
   "title": "WITCHRIV",
-  "updatedAt": "2026-07-23T22:23:40.731Z",
+  "updatedAt": "2026-07-24T22:25:13.696Z",
   "matchVersion": 2,
   "mangabakaId": 521389,
   "mangabakaUrl": "https://mangabaka.org/521389",
@@ -126,7 +126,7 @@
     {
       "name": "Demons",
       "group": "Species & Creatures",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Action",

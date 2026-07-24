@@ -1,0 +1,465 @@
+{
+  "kitsuId": "39122",
+  "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+  "updatedAt": "2026-07-24T22:00:57.386Z",
+  "matchVersion": 2,
+  "mangabakaId": 24978,
+  "mangabakaUrl": "https://mangabaka.org/24978",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzYvMS82L2UvOS8yL2MvYzE3YS80ZTBlL2EzODIvOWIwZDJlZTgyMTU2",
+  "author": "Koutarou Yamada, Riku Misora",
+  "synopsis": "In Japan, there are seven superhuman highschoolers who are world-class geniuses in various fields ranging from governance to economics and beyond. On one fateful day, these seven wind up in a plane accident and wake up only to find themselves in another world. Finding themselves in a foreign place where magic and beast-people are real, they immediately proceed to panic-or at least that’s what would’ve happened if they were some run of the mill students!! If anything, these seven are actually using their talents to do absolutely ludicrous things so they can go home…’Let’s take it easy, because if we really let loose, I’m pretty sure we’ll end up destroying this world.\n\n*Source: Yen Press, Vol. 1*",
+  "status": "Completed",
+  "rating": 6.7,
+  "total": 104,
+  "type": "manga",
+  "genres": [
+    "action",
+    "adventure",
+    "drama",
+    "ecchi",
+    "fantasy",
+    "comedy",
+    "harem",
+    "romance",
+    "seinen"
+  ],
+  "tags": [
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Hero",
+      "group": "Character Archetype",
+      "weight": "core"
+    },
+    {
+      "name": "Kemonomimi",
+      "group": "Character Traits",
+      "weight": "defining"
+    },
+    {
+      "name": "Nekomimi",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Ensemble Cast",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Emotionally Strong Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Lead with Sexual Experience",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Shameless Female Lead",
+      "group": "Character Types",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Strong Female Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Talented Female lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Genius",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Prodigy",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Male Lead",
+      "group": "Character Types",
+      "weight": "incidental"
+    },
+    {
+      "name": "Emotionally Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Smart Male Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Strong Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Talented Male Lead",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Adapted to Anime",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Japan",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Company",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Countryside",
+      "group": "Locations",
+      "weight": "incidental"
+    },
+    {
+      "name": "Hospital",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "High School",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Advanced Knowledge Meets Archaic World",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Love Triangle",
+      "group": "Narrative Tropes",
+      "weight": "incidental"
+    },
+    {
+      "name": "Saving the World",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Businessman/Businesswoman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Doctors",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Journalist",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Mages",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Merchants",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Ninja",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Politicians",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Swordswoman",
+      "group": "Occupations",
+      "weight": "defining"
+    },
+    {
+      "name": "Childhood Friends",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Harem",
+      "group": "Relationship",
+      "weight": "defining"
+    },
+    {
+      "name": "Female Harem",
+      "group": "Relationship",
+      "weight": "incidental"
+    },
+    {
+      "name": "Feudal Japan",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "defining"
+    },
+    {
+      "name": "Transported to Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Rural",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Seduction",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Boobjob",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Paizuri",
+      "group": "Sexual Content",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Dragons",
+      "group": "Species & Creatures",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Elves",
+      "group": "Species & Creatures",
+      "weight": "defining"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Corruption",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Economics",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Female Empowerment",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Medical",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Nobility",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Politics",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Romance",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Romantic Subplot",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "War",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Open Ending",
+      "group": "Work Info",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, March 24-30",
+      "date": "2024-03-27T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-03-27/north-american-anime-manga-releases-march-24-30/.209261"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 15-21",
+      "date": "2023-10-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-10-18/north-american-anime-manga-releases-october-15-21/.203536"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 21-27",
+      "date": "2023-05-25T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-05-25/north-american-anime-manga-releases-may-21-27/.198359"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 11-17",
+      "date": "2022-12-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-12-15/north-american-anime-manga-releases-december-11-17/.192892"
+    },
+    {
+      "title": "North American Anime, Manga Releases, May 22-28",
+      "date": "2022-05-24T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-05-24/north-american-anime-manga-releases-may-22-28/.185985"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 3-9",
+      "date": "2021-10-05T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-10-05/north-american-anime-manga-releases-october-3-9/.178176"
+    },
+    {
+      "title": "North American Anime, Manga Releases, January 17-23",
+      "date": "2021-01-19T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-01-19/north-american-anime-manga-releases-january-17-23/.168562"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 18-24",
+      "date": "2020-10-22T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-10-22/north-american-anime-manga-releases-october-18-24/.165408"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 19-25",
+      "date": "2020-07-23T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2020-07-23/north-american-anime-manga-releases-july-19-25/.162122"
+    },
+    {
+      "title": "Yen Press Adds Bestia, Carole & Tuesday, 11 More Manga/Novels",
+      "date": "2019-11-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2019-11-16/yen-press-adds-bestia-carole-and-tuesday-11-more-manga-novels/.153352"
+    }
+  ],
+  "sources": {
+    "anilist": "98043",
+    "anime_planet": "high-school-prodigies-have-it-easy-even-in-another-world",
+    "anime_news_network": "22499",
+    "kitsu": "39122",
+    "manga_updates": "p083689",
+    "my_anime_list": "99313",
+    "shikimori": "99313"
+  },
+  "links": [
+    "https://yenpress.com/series/high-school-prodigies-have-it-easy-even-in-another-world-manga",
+    "https://www.ganganonline.com/contents/choujin/",
+    "https://ja.wikipedia.org/wiki/%E8%B6%85%E4%BA%BA%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%9F%E3%81%A1%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%A7%E3%82%82%E4%BD%99%E8%A3%95%E3%81%A7%E7%94%9F%E3%81%8D%E6%8A%9C%E3%81%8F%E3%82%88%E3%81%86%E3%81%A7%E3%81%99!",
+    "https://mangabaka.org/24978"
+  ]
+}

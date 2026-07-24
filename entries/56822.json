@@ -1,0 +1,512 @@
+{
+  "kitsuId": "56822",
+  "title": "Yoku Wakaranai keredo Isekai ni Tensei Shiteita You Desu",
+  "updatedAt": "2026-07-24T22:32:22.121Z",
+  "matchVersion": 2,
+  "mangabakaId": 2320,
+  "mangabakaUrl": "https://mangabaka.org/2320",
+  "match": {
+    "confidence": "verified",
+    "method": "kitsu-link",
+    "score": 100
+  },
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@2/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mL2UvNi9kLzUvNC9lL2MvYjlmYy80M2RhL2JhZWUvNzY4ZTk2ZGQzMDE1",
+  "author": "Ashi, Keyaki Uchiuchi",
+  "synopsis": "Ren, a young orphan girl, has been sold off to a merchant with sinister plans for her. Suddenly, memories of her past life on a world called Earth come flooding back, and Ren remembers that she used to be a research scientist–and a grown man! As Ren escapes into the Dark Forest, magical powers awaken within her. In order to survive the harsh realities of this world, she must use her rekindled knowledge of Earth’s science as well as her newfound powers! Will her magical cheat powers and past-life knowledge be enough to keep her freedom, or is she doomed to a life of servitude? \n\n(Source: Seven Seas Entertainment)",
+  "status": "Releasing",
+  "rating": 6.7,
+  "total": 139,
+  "type": "manga",
+  "genres": [
+    "adventure",
+    "ecchi",
+    "fantasy",
+    "slice_of_life",
+    "action",
+    "comedy",
+    "gender_bender",
+    "mature",
+    "seinen",
+    "yuri"
+  ],
+  "tags": [
+    {
+      "name": "Sexual Assault",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Slavery",
+      "group": "Activities",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Cooking",
+      "group": "Activities",
+      "weight": "core"
+    },
+    {
+      "name": "Swordplay",
+      "group": "Activities",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Seinen",
+      "group": "Audience Demographics",
+      "weight": "defining"
+    },
+    {
+      "name": "Shounen",
+      "group": "Audience Demographics",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Perverts",
+      "group": "Character Archetype",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Black-Haired Female Lead",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Perverted Protagonist",
+      "group": "Character Traits",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Big Breasts",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Glasses-Wearing Female Lead",
+      "group": "Character Traits",
+      "weight": "core"
+    },
+    {
+      "name": "Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Curious Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Female Lead",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Non-Human Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Overpowered Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Rapist",
+      "group": "Character Types",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Sex Slave",
+      "group": "Character Types",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexually Active Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Smart Protagonist",
+      "group": "Character Types",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Light Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Based on a Novel",
+      "group": "Derivative Work",
+      "weight": "core"
+    },
+    {
+      "name": "Based on a Web Novel",
+      "group": "Derivative Work",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Europe",
+      "group": "Locations",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Guilds",
+      "group": "Locations",
+      "weight": "core"
+    },
+    {
+      "name": "Advanced Knowledge Meets Archaic World",
+      "group": "Narrative Tropes",
+      "weight": "core"
+    },
+    {
+      "name": "Gender Bender",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Drama",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Flashbacks",
+      "group": "Narrative Tropes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Mind Break",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Past Plays a Big Role",
+      "group": "Narrative Tropes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Reincarnation",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Survival",
+      "group": "Narrative Tropes",
+      "weight": "defining"
+    },
+    {
+      "name": "Swords",
+      "group": "Objects",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Adventurers",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Blacksmiths",
+      "group": "Occupations",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Monster/Beast Tamer",
+      "group": "Occupations",
+      "weight": "core"
+    },
+    {
+      "name": "Best Friends",
+      "group": "Relationship",
+      "weight": "recurrent"
+    },
+    {
+      "name": "European Ambience",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Fantasy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Fantasy World",
+      "group": "Settings",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Isekai",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Reincarnated in Another World",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Game Elements",
+      "group": "Settings",
+      "weight": "core"
+    },
+    {
+      "name": "Ecchi",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Mature",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Lust",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Nudity",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Partial Nudity",
+      "group": "Sexual Content",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Sex Toys",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Attempted Rape",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Masturbation",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Rape",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Harassment",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Violence",
+      "group": "Sexual Content",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Innuendo",
+      "group": "Sexual Content",
+      "weight": "core"
+    },
+    {
+      "name": "Non-human",
+      "group": "Species & Creatures",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Action",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Adventure",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Comedy",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Near-Death Experience",
+      "group": "Themes",
+      "weight": "recurrent"
+    },
+    {
+      "name": "Drama",
+      "group": "Genre",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Shoujo Ai",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Yuri",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Gourmet",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Orphans",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Sexual Abuse",
+      "group": "Themes",
+      "weight": "defining"
+    },
+    {
+      "name": "Sexual Curiosity",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Slice of Life",
+      "group": "Genre",
+      "weight": "defining"
+    },
+    {
+      "name": "Family Life",
+      "group": "Themes",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Gore",
+      "group": "Themes",
+      "weight": "core"
+    },
+    {
+      "name": "Drawn by Hentai Artist",
+      "group": "Work Info",
+      "weight": "unweighted"
+    },
+    {
+      "name": "Magic",
+      "group": "World Building",
+      "weight": "core"
+    }
+  ],
+  "news": [
+    {
+      "title": "North American Anime, Manga Releases, June 14-20",
+      "date": "2026-06-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/north-american-anime-manga-releases-june-14-20/.238556"
+    },
+    {
+      "title": "BookWalker Global Store Unveils 2025 Rankings",
+      "date": "2025-12-18T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-12-18/bookwalker-global-store-unveils-2025-rankings/.232203"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 5-11",
+      "date": "2025-10-10T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-10-10/north-american-anime-manga-releases-october-5-11/.229684"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 8-14",
+      "date": "2025-06-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2025-06-12/north-american-anime-manga-releases-june-8-14/.225421"
+    },
+    {
+      "title": "Bookwalker Global Store Unveils 2024 Rankings",
+      "date": "2024-12-16T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-16/bookwalker-global-store-unveils-2024-rankings/.219152"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 8-14",
+      "date": "2024-12-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-12-12/north-american-anime-manga-releases-december-8-14/.218853"
+    },
+    {
+      "title": "North American Anime, Manga Releases, December 31-January 6",
+      "date": "2024-01-03T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2024-01-03/north-american-anime-manga-releases-december-31-january-6/.206120"
+    },
+    {
+      "title": "Bookwalker Global Store Unveils 2023 Rankings",
+      "date": "2023-12-12T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-12-12/bookwalker-global-store-unveils-2023-rankings/.205373"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 5-11",
+      "date": "2023-11-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-11-08/north-american-anime-manga-releases-november-5-11/.204209"
+    },
+    {
+      "title": "North American Anime, Manga Releases, August 27-September 2",
+      "date": "2023-08-29T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-08-29/north-american-anime-manga-releases-august-27-september-2/.201762"
+    },
+    {
+      "title": "North American Anime, Manga Releases, April 9-15",
+      "date": "2023-04-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-04-11/north-american-anime-manga-releases-april-9-15/.196998"
+    },
+    {
+      "title": "North American Anime, Manga Releases, February 26-March 4",
+      "date": "2023-02-28T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2023-02-28/north-american-anime-manga-releases-february-26-march-4/.195437"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 13-19",
+      "date": "2022-11-15T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-11-15/north-american-anime-manga-releases-november-13-19/.191949"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 9-15",
+      "date": "2022-10-11T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-10-11/north-american-anime-manga-releases-october-9-15/.190721"
+    },
+    {
+      "title": "North American Anime, Manga Releases, July 10-16",
+      "date": "2022-07-13T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-07-13/north-american-anime-manga-releases-july-10-16/.187616"
+    },
+    {
+      "title": "North American Anime, Manga Releases, June 5-11",
+      "date": "2022-06-08T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2022-06-08/north-american-anime-manga-releases-june-5-11/.186430"
+    },
+    {
+      "title": "Seven Seas Licenses The Idaten Deities Know Only Peace, Namekawa-san Won't Take a Licking! Manga",
+      "date": "2021-10-20T00:00:00.000Z",
+      "url": "https://www.animenewsnetwork.com/news/2021-10-20/seven-seas-licenses-the-idaten-deities-know-only-peace-namekawa-san-wont-take-a-licking-manga/.178669"
+    }
+  ],
+  "sources": {
+    "anilist": "114903",
+    "anime_planet": "this-is-screwed-up-but-i-was-reincarnated-as-a-girl-in-another-world",
+    "anime_news_network": "26827",
+    "kitsu": "56822",
+    "manga_updates": "f8k0cvp",
+    "my_anime_list": "122782",
+    "shikimori": "122782"
+  },
+  "links": [
+    "https://comic-days.com/episode/13933686331614889330",
+    "https://comic.pixiv.net/store/products/742739",
+    "https://manga.nicovideo.jp/comic/43977",
+    "https://pocket.shonenmagazine.com/episode/10834108156721092932",
+    "https://seiga.nicovideo.jp/comic/43977",
+    "https://sevenseasentertainment.com/series/this-is-screwed-up-but-i-was-reincarnated-as-a-girl-in-another-world-manga/",
+    "https://shonen-sirius.com/c/yokuwaka.html",
+    "https://www.amazon.co.jp/dp/B08KWNS5KR",
+    "https://www.kodansha.co.jp/titles/1000034365",
+    "https://mangabaka.org/2320"
+  ]
+}

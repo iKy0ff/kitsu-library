@@ -1,7 +1,7 @@
 {
   "kitsuId": "58485",
   "title": "SSS-Class Revival Hunter",
-  "updatedAt": "2026-07-23T22:18:19.874Z",
+  "updatedAt": "2026-07-24T22:19:33.713Z",
   "matchVersion": 2,
   "mangabakaId": 1451,
   "mangabakaUrl": "https://mangabaka.org/1451",
@@ -46,12 +46,12 @@
     {
       "name": "Ojou-sama",
       "group": "Character Archetype",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Villainess",
       "group": "Character Archetype",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Adult Male Lead",
@@ -276,7 +276,7 @@
     {
       "name": "Zombies",
       "group": "Species & Creatures",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Goblin",

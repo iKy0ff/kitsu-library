@@ -1,7 +1,7 @@
 {
   "kitsuId": "67137",
   "title": "Sihanbu Cheonjae Amheukgisa",
-  "updatedAt": "2026-07-23T22:28:05.900Z",
+  "updatedAt": "2026-07-24T22:29:53.888Z",
   "matchVersion": 2,
   "mangabakaId": 7044,
   "mangabakaUrl": "https://mangabaka.org/7044",
@@ -15,7 +15,7 @@
   "synopsis": "When there is no way out, the way is in. Doomed to die next month, our terminally ill protagonist Chan is too frail and defeated to try anything at all. No wonder he chooses to plunge himself into an RPG world he is only too familiar with. Why should this run be any different? Well, other than the fact that he will wake up inside the game and get struck with an existential epiphany that will make him fight tooth and nail to give Nox, his equally ill-fated RPG persona, a better chance? Maybe, it’s not over until it’s over. \n\n(Source: WEBTOON)",
   "status": "Releasing",
   "rating": 7.2,
-  "total": 157,
+  "total": 158,
   "type": "manhwa",
   "genres": [
     "action",
@@ -158,7 +158,7 @@
     {
       "name": "Female Harem",
       "group": "Relationship",
-      "weight": "unweighted"
+      "weight": "recurrent"
     },
     {
       "name": "Master-Servant Relationship",
@@ -203,7 +203,7 @@
     {
       "name": "Angels",
       "group": "Species & Creatures",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Monsters",
@@ -243,7 +243,7 @@
     {
       "name": "Arranged Marriage",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "defining"
     },
     {
       "name": "Military",
@@ -258,7 +258,7 @@
     {
       "name": "Unrequited Love",
       "group": "Themes",
-      "weight": "unweighted"
+      "weight": "incidental"
     },
     {
       "name": "Romantic Subplot",
