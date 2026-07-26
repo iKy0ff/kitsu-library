@@ -1,7 +1,7 @@
 {
   "kitsuId": "58485",
   "title": "SSS-Class Revival Hunter",
-  "updatedAt": "2026-07-25T22:20:48.790Z",
+  "updatedAt": "2026-07-26T22:21:43.880Z",
   "matchVersion": 2,
   "mangabakaId": 1451,
   "mangabakaUrl": "https://mangabaka.org/1451",
@@ -41,7 +41,7 @@
     {
       "name": "Anti-Hero",
       "group": "Character Archetype",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Ojou-sama",
@@ -71,7 +71,7 @@
     {
       "name": "Emotionally Strong Protagonist",
       "group": "Character Traits",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Low Self-Esteem",
@@ -196,7 +196,7 @@
     {
       "name": "Coach",
       "group": "Occupations",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Martial Artist",
@@ -206,7 +206,7 @@
     {
       "name": "Teachers",
       "group": "Occupations",
-      "weight": "core"
+      "weight": "defining"
     },
     {
       "name": "Master-Disciple Relationship",
@@ -351,7 +351,7 @@
     {
       "name": "Orphans",
       "group": "Themes",
-      "weight": "recurrent"
+      "weight": "defining"
     },
     {
       "name": "Philosophy",

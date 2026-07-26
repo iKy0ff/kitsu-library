@@ -1,7 +1,7 @@
 {
   "kitsuId": "78549",
   "title": "Dominant",
-  "updatedAt": "2026-07-25T22:06:50.801Z",
+  "updatedAt": "2026-07-26T22:07:04.360Z",
   "matchVersion": 2,
   "mangabakaId": 57929,
   "mangabakaUrl": "https://mangabaka.org/57929",
@@ -39,7 +39,7 @@
     {
       "name": "Long-Haired Male Lead",
       "group": "Character Traits",
-      "weight": "unweighted"
+      "weight": "core"
     },
     {
       "name": "Female Lead",
@@ -54,7 +54,7 @@
     {
       "name": "Mansion",
       "group": "Locations",
-      "weight": "unweighted"
+      "weight": "core"
     },
     {
       "name": "School",
@@ -69,7 +69,7 @@
     {
       "name": "Older Male Younger Female",
       "group": "Relationship",
-      "weight": "unweighted"
+      "weight": "core"
     },
     {
       "name": "Heterosexual",

@@ -1,7 +1,7 @@
 {
   "kitsuId": "77984",
   "title": "Tensei Shitara Seikaiju Datta Ken",
-  "updatedAt": "2026-07-25T22:35:47.989Z",
+  "updatedAt": "2026-07-26T22:37:28.064Z",
   "matchVersion": 2,
   "mangabakaId": 82575,
   "mangabakaUrl": "https://mangabaka.org/82575",
@@ -38,7 +38,7 @@
     {
       "name": "Dark/Tan Skin",
       "group": "Character Traits",
-      "weight": "core"
+      "weight": "unweighted"
     },
     {
       "name": "Non-Human Protagonist",

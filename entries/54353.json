@@ -1,7 +1,7 @@
 {
   "kitsuId": "54353",
   "title": "Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru",
-  "updatedAt": "2026-07-25T22:23:55.402Z",
+  "updatedAt": "2026-07-26T22:24:58.577Z",
   "matchVersion": 2,
   "mangabakaId": 534,
   "mangabakaUrl": "https://mangabaka.org/534",
@@ -24,7 +24,6 @@
     "adult",
     "adventure",
     "comedy",
-    "ecchi",
     "mature",
     "seinen",
     "tragedy"
@@ -213,7 +212,7 @@
     {
       "name": "Ecchi",
       "group": "Sexual Content",
-      "weight": "defining"
+      "weight": "unweighted"
     },
     {
       "name": "Mature",
