@@ -2166,6 +2166,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "76862": {
+      "title": "Hildegart Reincarnate",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "76870": {
       "title": "Daegongnimui Sinbuneun Jiogui Jeonsa",
       "pub": "",
@@ -2425,5 +2431,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-07-27T22:01:27.214Z"
+  "updatedAt": "2026-07-28T22:01:33.195Z"
 }
