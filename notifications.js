@@ -8,7 +8,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-25T22:38:47.036Z",
-    "time": "3d ago"
+    "time": "4d ago"
   },
   {
     "id": "nms0yatbv39bfv",
@@ -18,7 +18,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-25T22:38:47.035Z",
-    "time": "3d ago"
+    "time": "4d ago"
   },
   {
     "id": "nmrzis5rmguqjg",
@@ -28,7 +28,7 @@ window.notificationsData = [
     "text": "46 new news posts.",
     "unread": true,
     "at": "2026-07-24T22:36:36.274Z",
-    "time": "4d ago"
+    "time": "5d ago"
   },
   {
     "id": "nmrtsrr93atoo5",
