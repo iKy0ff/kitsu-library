@@ -8,7 +8,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-25T22:38:47.036Z",
-    "time": "4d ago"
+    "time": "5d ago"
   },
   {
     "id": "nms0yatbv39bfv",
@@ -18,7 +18,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-25T22:38:47.035Z",
-    "time": "4d ago"
+    "time": "5d ago"
   },
   {
     "id": "nmrzis5rmguqjg",
@@ -28,7 +28,7 @@ window.notificationsData = [
     "text": "46 new news posts.",
     "unread": true,
     "at": "2026-07-24T22:36:36.274Z",
-    "time": "5d ago"
+    "time": "6d ago"
   },
   {
     "id": "nmrtsrr93atoo5",
@@ -118,7 +118,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-16T22:27:34.994Z",
-    "time": "1w ago"
+    "time": "2w ago"
   },
   {
     "id": "nmro2xqs13jqi7",
@@ -128,7 +128,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-16T22:27:34.993Z",
-    "time": "1w ago"
+    "time": "2w ago"
   },
   {
     "id": "nmrid03t446erv",
