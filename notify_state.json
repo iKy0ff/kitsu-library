@@ -372,6 +372,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "54882": {
+      "title": "MookHyang - Dark Lady",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "54984": {
       "title": "Samayoeru Tensei-sha-tachi no Revival Game",
       "pub": "",
@@ -2437,5 +2443,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-08-02T22:01:20.735Z"
+  "updatedAt": "2026-08-03T22:01:22.472Z"
 }
