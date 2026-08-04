@@ -30,6 +30,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "25378": {
+      "title": "World Customize Creator",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "25426": {
       "title": "Re:Monster",
       "pub": "",
@@ -62,6 +68,12 @@
     },
     "26970": {
       "title": "The New Gate",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
+    "34473": {
+      "title": "Isekai de \"Kuro no Iyashi Te\" tte Yobareteimasu",
       "pub": "",
       "mbId": null,
       "newsCount": 0
@@ -116,6 +128,12 @@
     },
     "38881": {
       "title": "Akebi-chan no Sailor-fuku",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
+    "38895": {
+      "title": "Isekai Mahou wa Okureteru!",
       "pub": "",
       "mbId": null,
       "newsCount": 0
@@ -2443,5 +2461,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-08-03T22:01:22.472Z"
+  "updatedAt": "2026-08-04T22:01:23.429Z"
 }
