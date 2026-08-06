@@ -366,6 +366,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "54664": {
+      "title": "Hitoribocchi no Isekai Kouryaku",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "54688": {
       "title": "Eleceed",
       "pub": "",
@@ -458,6 +464,12 @@
     },
     "56077": {
       "title": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
+    "56083": {
+      "title": "Pupillary Master",
       "pub": "",
       "mbId": null,
       "newsCount": 0
@@ -1430,6 +1442,12 @@
     },
     "67764": {
       "title": "Cleric of Decay",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
+    "67792": {
+      "title": "Black Madougushi Guild wo Tsuihousareta Watashi, Oukyuu Majutsushi Toshite Hirowareru: White na Kyuutei de, Shiawase na Shin Seikatsu wo Hajimemasu!",
       "pub": "",
       "mbId": null,
       "newsCount": 0
@@ -2461,5 +2479,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-08-05T22:01:33.489Z"
+  "updatedAt": "2026-08-06T22:01:28.625Z"
 }
