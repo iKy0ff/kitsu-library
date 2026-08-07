@@ -118,7 +118,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-16T22:27:34.994Z",
-    "time": "2w ago"
+    "time": "3w ago"
   },
   {
     "id": "nmro2xqs13jqi7",
@@ -128,7 +128,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-16T22:27:34.993Z",
-    "time": "2w ago"
+    "time": "3w ago"
   },
   {
     "id": "nmrid03t446erv",
