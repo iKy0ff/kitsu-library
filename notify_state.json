@@ -72,6 +72,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "27533": {
+      "title": "Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "34473": {
       "title": "Isekai de \"Kuro no Iyashi Te\" tte Yobareteimasu",
       "pub": "",
@@ -2304,6 +2310,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "77700": {
+      "title": "Himsumjjin Eoriniga Appareul Chatseumnida",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "77799": {
       "title": "Yuusha Party wo Kubi ni Natta node Kokyou ni Kaettara, Member Zenin ga Tsuite Kitan da ga",
       "pub": "",
@@ -2479,5 +2491,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-08-10T22:01:24.052Z"
+  "updatedAt": "2026-08-11T22:01:27.097Z"
 }

@@ -38,7 +38,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-20T22:29:36.567Z",
-    "time": "2w ago"
+    "time": "3w ago"
   },
   {
     "id": "nmrtsrr93dhzpj",
@@ -48,7 +48,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-20T22:29:36.567Z",
-    "time": "2w ago"
+    "time": "3w ago"
   },
   {
     "id": "nmrsd8grs9bhgb",
@@ -129,15 +129,5 @@ window.notificationsData = [
     "unread": true,
     "at": "2026-07-16T22:27:34.993Z",
     "time": "3w ago"
-  },
-  {
-    "id": "nmrid03t446erv",
-    "kind": "resumed",
-    "title": "Iltagangsa Baeksabu",
-    "kitsuId": "62310",
-    "text": "Resumed — back to Releasing.",
-    "unread": true,
-    "at": "2026-07-12T22:22:44.296Z",
-    "time": "4w ago"
   }
 ];
