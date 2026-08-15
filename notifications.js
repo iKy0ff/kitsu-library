@@ -28,7 +28,7 @@ window.notificationsData = [
     "text": "46 new news posts.",
     "unread": true,
     "at": "2026-07-24T22:36:36.274Z",
-    "time": "2w ago"
+    "time": "3w ago"
   },
   {
     "id": "nmrtsrr93atoo5",
@@ -109,25 +109,5 @@ window.notificationsData = [
     "unread": true,
     "at": "2026-07-18T22:27:16.562Z",
     "time": "3w ago"
-  },
-  {
-    "id": "nmro2xqs2gi1vb",
-    "kind": "news",
-    "title": "Buchikire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
-    "kitsuId": "68690",
-    "text": "1 new news post.",
-    "unread": true,
-    "at": "2026-07-16T22:27:34.994Z",
-    "time": "4w ago"
-  },
-  {
-    "id": "nmro2xqs13jqi7",
-    "kind": "news",
-    "title": "Jujutsu Kaisen",
-    "kitsuId": "40815",
-    "text": "1 new news post.",
-    "unread": true,
-    "at": "2026-07-16T22:27:34.993Z",
-    "time": "4w ago"
   }
 ];
