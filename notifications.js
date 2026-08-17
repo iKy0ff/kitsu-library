@@ -58,7 +58,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-19T22:26:56.105Z",
-    "time": "3w ago"
+    "time": "4w ago"
   },
   {
     "id": "nmrsd8grt1l5kl",
@@ -68,7 +68,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-19T22:26:56.105Z",
-    "time": "3w ago"
+    "time": "4w ago"
   },
   {
     "id": "nmrsd8grteqopj",
@@ -78,7 +78,7 @@ window.notificationsData = [
     "text": "2 new news posts.",
     "unread": true,
     "at": "2026-07-19T22:26:56.105Z",
-    "time": "3w ago"
+    "time": "4w ago"
   },
   {
     "id": "nmrsd8grt2nbmm",
@@ -88,26 +88,6 @@ window.notificationsData = [
     "text": "2 new news posts.",
     "unread": true,
     "at": "2026-07-19T22:26:56.105Z",
-    "time": "3w ago"
-  },
-  {
-    "id": "nmrqxt1w25pj8h",
-    "kind": "news",
-    "title": "Potion-danomi de Ikinobimasu! Zoku",
-    "kitsuId": "71743",
-    "text": "1 new news post.",
-    "unread": true,
-    "at": "2026-07-18T22:27:16.562Z",
-    "time": "4w ago"
-  },
-  {
-    "id": "nmrqxt1w2t320b",
-    "kind": "news",
-    "title": "Potion-danomi de Ikinobimasu!",
-    "kitsuId": "40794",
-    "text": "1 new news post.",
-    "unread": true,
-    "at": "2026-07-18T22:27:16.562Z",
     "time": "4w ago"
   }
 ];
