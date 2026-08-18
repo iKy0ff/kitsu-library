@@ -38,7 +38,7 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-20T22:29:36.567Z",
-    "time": "3w ago"
+    "time": "4w ago"
   },
   {
     "id": "nmrtsrr93dhzpj",
@@ -48,46 +48,6 @@ window.notificationsData = [
     "text": "1 new news post.",
     "unread": true,
     "at": "2026-07-20T22:29:36.567Z",
-    "time": "3w ago"
-  },
-  {
-    "id": "nmrsd8grs9bhgb",
-    "kind": "news",
-    "title": "Kininatteru Hito ga Otoko ja Nakatta",
-    "kitsuId": "63232",
-    "text": "1 new news post.",
-    "unread": true,
-    "at": "2026-07-19T22:26:56.105Z",
-    "time": "4w ago"
-  },
-  {
-    "id": "nmrsd8grt1l5kl",
-    "kind": "news",
-    "title": "One Punch-Man",
-    "kitsuId": "24147",
-    "text": "1 new news post.",
-    "unread": true,
-    "at": "2026-07-19T22:26:56.105Z",
-    "time": "4w ago"
-  },
-  {
-    "id": "nmrsd8grteqopj",
-    "kind": "news",
-    "title": "Omniscient Reader's Point of View",
-    "kitsuId": "56452",
-    "text": "2 new news posts.",
-    "unread": true,
-    "at": "2026-07-19T22:26:56.105Z",
-    "time": "4w ago"
-  },
-  {
-    "id": "nmrsd8grt2nbmm",
-    "kind": "news",
-    "title": "Solo Leveling",
-    "kitsuId": "54114",
-    "text": "2 new news posts.",
-    "unread": true,
-    "at": "2026-07-19T22:26:56.105Z",
     "time": "4w ago"
   }
 ];
