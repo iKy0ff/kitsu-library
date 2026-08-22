@@ -28,6 +28,6 @@ window.notificationsData = [
     "text": "46 new news posts.",
     "unread": true,
     "at": "2026-07-24T22:36:36.274Z",
-    "time": "3w ago"
+    "time": "4w ago"
   }
 ];
