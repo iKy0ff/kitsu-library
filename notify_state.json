@@ -2220,6 +2220,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "76493": {
+      "title": "Hero-ga Jipchakaneun Akdangi Doeeotda",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "76818": {
       "title": "Santa Industry",
       "pub": "",
@@ -2527,5 +2533,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-09-18T22:01:23.949Z"
+  "updatedAt": "2026-09-19T22:01:26.043Z"
 }
