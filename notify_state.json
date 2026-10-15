@@ -588,6 +588,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "57256": {
+      "title": "Shoukan Sareta Kenja wa Isekai o Iku ~ Saikyouna no wa Fuyou Zaiko no Aitemudeshita ~",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "57257": {
       "title": "Negai wo Kanaete Moraou to Akuma wo Shoukan Shita Kedo, Kawaikatta Node Kekkon Shimashita: Akuma no Niizuma",
       "pub": "",
@@ -2593,5 +2599,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-10-14T22:01:26.507Z"
+  "updatedAt": "2026-10-15T22:01:23.588Z"
 }
