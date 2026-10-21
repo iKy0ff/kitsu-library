@@ -948,6 +948,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "61377": {
+      "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "61403": {
       "title": "Tensei Shite High Elf ni Narimashita ga, Slow Life wa 120-nen de Akimashita",
       "pub": "",
@@ -2611,5 +2617,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-10-20T22:01:25.730Z"
+  "updatedAt": "2026-10-21T22:01:35.764Z"
 }
