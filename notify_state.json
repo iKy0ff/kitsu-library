@@ -744,6 +744,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "58911": {
+      "title": "Return of the Frozen Player",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "58920": {
       "title": "Master Villainess the Invincible!",
       "pub": "",
@@ -1424,6 +1430,12 @@
     },
     "66505": {
       "title": "Chao Shen Chong Shou Dian",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
+    "66521": {
+      "title": "Blade Skill Online: Gomi Shokugyou de Saijaku Bukide Kuso Status no Ore, Itsunomanika \"Last Boss\" ni Nariagarimasu!",
       "pub": "",
       "mbId": null,
       "newsCount": 0
@@ -2388,6 +2400,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "77402": {
+      "title": "Zense wa Reikoku Koutei, Konse wa Youjo",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "77448": {
       "title": "Agiyongi Gongjakgareul Sallim",
       "pub": "",
@@ -2635,5 +2653,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-10-26T23:01:32.537Z"
+  "updatedAt": "2026-10-27T23:01:34.586Z"
 }
