@@ -30,6 +30,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "24211": {
+      "title": "Houseki no Kuni",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "25378": {
       "title": "World Customize Creator",
       "pub": "",
@@ -2653,5 +2659,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-10-28T23:01:33.256Z"
+  "updatedAt": "2026-10-29T23:01:37.339Z"
 }
