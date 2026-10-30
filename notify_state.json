@@ -1872,6 +1872,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "72139": {
+      "title": "Maigo ni Natte Ita Youjou wo Tasuketara, Otonari ni Sumu Bishoujou Ryuugakusei ga Ie ni Asobi ni Kuru You ni Natta Ken ni Tsuite",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "72166": {
       "title": "Quick Teleporting Genius from Magic School",
       "pub": "",
@@ -2659,5 +2665,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-10-29T23:01:37.339Z"
+  "updatedAt": "2026-10-30T23:01:34.913Z"
 }
