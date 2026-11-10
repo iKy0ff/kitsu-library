@@ -96,6 +96,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "36603": {
+      "title": "Hachi-nan tte, Sore wa Nai deshou!",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "37173": {
       "title": "Kumo desu ga, Nani ka?",
       "pub": "",
@@ -194,6 +200,12 @@
     },
     "39879": {
       "title": "Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
+    "39881": {
+      "title": "Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin",
       "pub": "",
       "mbId": null,
       "newsCount": 0
@@ -2701,5 +2713,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-11-09T23:01:43.660Z"
+  "updatedAt": "2026-11-10T23:01:41.628Z"
 }
