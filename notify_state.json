@@ -348,6 +348,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "54236": {
+      "title": "Her Summon",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "54238": {
       "title": "Kage no Jitsuryokusha ni Naritakute",
       "pub": "",
@@ -2713,5 +2719,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-11-10T23:01:41.628Z"
+  "updatedAt": "2026-11-11T23:01:39.638Z"
 }
