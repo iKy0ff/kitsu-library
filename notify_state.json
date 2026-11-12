@@ -240,6 +240,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "40439": {
+      "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "40521": {
       "title": "Kuro no Shoukanshi",
       "pub": "",
@@ -1920,6 +1926,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "72349": {
+      "title": "Kiraware Majou to Karada ga Irekawatta keredo, Watashi wa Kyou mo Genki ni Kurashiteimasu !",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "72413": {
       "title": "Yeongung, Gongjakga Jangnam Doeda",
       "pub": "",
@@ -2719,5 +2731,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-11-11T23:01:39.638Z"
+  "updatedAt": "2026-11-12T23:01:36.699Z"
 }
