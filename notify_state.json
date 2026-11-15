@@ -594,6 +594,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "56504": {
+      "title": "Umarekawatta \"Kensei\" Wa Raku wo Shitai",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "56632": {
       "title": "The Legend of the Northern Blade",
       "pub": "",
@@ -2737,5 +2743,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-11-14T23:01:53.568Z"
+  "updatedAt": "2026-11-15T23:01:44.173Z"
 }
