@@ -330,6 +330,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "54067": {
+      "title": "Jimi na Kensei wa Sore Demo Saikyu desu",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "54085": {
       "title": "Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou",
       "pub": "",
@@ -494,6 +500,12 @@
     },
     "55550": {
       "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
+    "55554": {
+      "title": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru ~ Kensei to Matei, 2 Tsu no Zense o motta Otoko no Eiyuutan",
       "pub": "",
       "mbId": null,
       "newsCount": 0
@@ -2743,5 +2755,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-11-15T23:01:44.173Z"
+  "updatedAt": "2026-11-16T23:01:45.502Z"
 }
