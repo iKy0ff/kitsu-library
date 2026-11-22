@@ -192,6 +192,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "39257": {
+      "title": "Botsuraku Yotei nano de, Kaji Shokunin wo Mezasu",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "39537": {
       "title": "I Love Yoo",
       "pub": "",
@@ -1734,6 +1740,12 @@
       "mbId": null,
       "newsCount": 0
     },
+    "70145": {
+      "title": "Suterare Shiro Mahoutsukai no Koucha Seikatsu",
+      "pub": "",
+      "mbId": null,
+      "newsCount": 0
+    },
     "70244": {
       "title": "Wangui Himeuro Hoegwihanda",
       "pub": "",
@@ -2761,5 +2773,5 @@
       "newsCount": 0
     }
   },
-  "updatedAt": "2026-11-21T23:01:49.944Z"
+  "updatedAt": "2026-11-22T23:01:32.564Z"
 }
